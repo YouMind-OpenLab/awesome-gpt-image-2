@@ -184,7 +184,7 @@ function generateGalleryCTA(categories: FilterCategory[], locale: string): strin
 
 <div align="center">
 
-![Cover](${coverImage})
+[![Cover](${coverImage})](${buildPromptsUrl(locale)})
 
 </div>
 
