@@ -145,6 +145,24 @@ The repo currently has no test runner. Use Node's built-in `node:test` run via
 4. `pnpm run image --id <id>` on a text-to-image prompt — writes a PNG to `output/`.
 5. `pnpm run image --id <id>` on a `needReferenceImages` prompt — warns and exits.
 
+## Amendment (2026-07-16): CMS-optional paths
+
+During end-to-end verification, `.env` was found to contain only a real
+`OPENAI_API_KEY`; `CMS_HOST`/`CMS_API_KEY` were still the `.env.example`
+placeholders, so the CMS-backed `--id`/`--list` paths could not reach a CMS.
+Per user decision, two CMS-free paths were added so the tool is usable with just
+`OPENAI_API_KEY`, while the CMS paths remain for when real credentials are set:
+
+- `--prompt "<text>"` — generate from arbitrary free text (no CMS, no README).
+- `--no <number>` — generate from a prompt parsed out of the local README by its
+  "No." heading (no CMS). Added `scripts/utils/readme-parser.ts`
+  (`parseReadmePrompts`, `getReadmePromptByNo`) with unit tests.
+- `--readme-list` — list prompts parsed from the README.
+
+Routing precedence in the CLI: `--prompt` → `--no` → `--readme-list` →
+`--list` → `--id` → usage. The `gpt-image-2` model, output handling, and
+`needReferenceImages` behavior are unchanged.
+
 ## Open questions
 
 None. All brainstorming decisions resolved.
