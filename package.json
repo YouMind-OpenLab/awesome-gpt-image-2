@@ -6,6 +6,7 @@
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",
     "sync": "tsx scripts/sync-approved-to-cms.ts",
+    "image": "tsx scripts/generate-image.ts",
     "test": "tsx --test scripts/utils/*.test.ts"
   },
   "devDependencies": {
