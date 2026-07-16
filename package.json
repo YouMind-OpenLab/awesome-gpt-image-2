@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
+    "openai": "^6.47.0",
     "qs-esm": "^7.0.2"
   },
   "packageManager": "pnpm@9.15.9"
