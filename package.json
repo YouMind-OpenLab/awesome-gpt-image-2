@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",
-    "sync": "tsx scripts/sync-approved-to-cms.ts"
+    "sync": "tsx scripts/sync-approved-to-cms.ts",
+    "test": "tsx --test scripts/utils/*.test.ts"
   },
   "devDependencies": {
     "@octokit/rest": "^20.0.2",
