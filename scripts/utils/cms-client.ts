@@ -342,6 +342,38 @@ export async function findPromptByGitHubIssue(
 }
 
 /**
+ * Fetch a single prompt by its CMS id.
+ * Returns null when the prompt does not exist (HTTP 404).
+ */
+export async function fetchPromptById(
+  id: number | string,
+  locale: string = "en"
+): Promise<Prompt | null> {
+  const query = { depth: 2, locale };
+  const stringifiedQuery = stringify(query, { addQueryPrefix: true });
+  const url = `${CMS_HOST}/api/prompts/${id}${stringifiedQuery}`;
+
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
+    },
+  });
+
+  if (response.status === 404) {
+    return null;
+  }
+  if (!response.ok) {
+    throw new Error(
+      `CMS API error (${response.status}) fetching prompt ${id}: ${response.statusText}`
+    );
+  }
+
+  const data = (await response.json()) as Prompt;
+  return processPromptImages(data);
+}
+
+/**
  * 创建新 prompt（直接发布，无草稿）
  */
 export async function createPrompt(
