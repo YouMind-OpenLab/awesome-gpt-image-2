@@ -5808,6 +5808,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [Payload CMS](https://payloadcms.com/)
 - [youmind.com](https://youmind.com)
+- [Chinese GPT Image 2 + Nano Banana Pro prompts](https://github.com/tinchak0207/awesome-gpt-image-2-nano-banana-pro-zh-prompts) - 32 task-focused, source-attributed templates for Chinese creators, with an [online playground](https://image.tinchak0207.xyz) that needs no personal API key configuration.
 
 ---
 
