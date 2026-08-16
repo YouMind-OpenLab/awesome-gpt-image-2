@@ -27,9 +27,12 @@ cp .env.example .env
 Edit `.env` and add your CMS credentials:
 
 ```env
-# Required for all scripts
+# Required for README generation / CMS-backed image generation
 CMS_HOST=https://your-cms-host.com
 CMS_API_KEY=your-api-key-here
+
+# Required for image generation (pnpm run image)
+OPENAI_API_KEY=sk-...
 ```
 
 ### 3. Test README Generation
@@ -88,6 +91,40 @@ npm run sync
 |--------|---------|-------------|
 | Generate README | `pnpm run generate` | Fetch prompts and generate README.md |
 | Sync Issue to CMS | `pnpm run sync` | Parse issue and sync to CMS (local testing) |
+| Generate Image | `pnpm run image ...` | Generate an image with `gpt-image-2` (see below) |
+| Run Tests | `pnpm test` | Run unit tests for the utility helpers |
+
+## 🎨 Image Generation
+
+Generate images from prompts with OpenAI `gpt-image-2`. Only `OPENAI_API_KEY`
+is required for the CMS-free paths (`--prompt`, `--no`); `--id`/`--list` also
+need `CMS_HOST`/`CMS_API_KEY`.
+
+```bash
+# Free text — no CMS needed
+pnpm run image --prompt "a cat astronaut, watercolor"
+
+# From a README prompt by its "No." — no CMS needed
+pnpm run image --no 5
+pnpm run image --readme-list           # discover available No. values
+
+# From a CMS prompt by id — needs CMS_HOST / CMS_API_KEY
+pnpm run image --id 42
+pnpm run image --list
+
+# Options
+#   --lang <locale>   use a localized README / CMS locale (default: en)
+#   --size <s>        default 1024x1024
+#   --quality <q>     low | medium | high | auto (default auto)
+#   --n <count>       number of images (default 1)
+#   --out <dir>       output directory (default output/)
+#   --format <fmt>    png | webp | jpeg (default png)
+#   --arg <text>      fill {argument...} placeholders in the prompt
+```
+
+Images are written to `output/` (git-ignored). Prompts flagged
+`needReferenceImages` (image-editing prompts) are not supported and are skipped
+with a warning.
 
 ## 🔧 How dotenv Works
 

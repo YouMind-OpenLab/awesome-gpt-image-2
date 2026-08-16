@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",
-    "sync": "tsx scripts/sync-approved-to-cms.ts"
+    "sync": "tsx scripts/sync-approved-to-cms.ts",
+    "image": "tsx scripts/generate-image.ts",
+    "test": "tsx --test scripts/utils/*.test.ts"
   },
   "devDependencies": {
     "@octokit/rest": "^20.0.2",
@@ -16,6 +18,7 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
+    "openai": "^6.47.0",
     "qs-esm": "^7.0.2"
   },
   "packageManager": "pnpm@9.15.9"
