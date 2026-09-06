@@ -141,7 +141,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **16931** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **samedi 5 septembre 2026 à 14:10:17 UTC** |
+| 🔄 Dernière mise à jour | **dimanche 6 septembre 2026 à 01:46:44 UTC** |
 
 </div>
 
@@ -5727,6 +5727,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-05T14:10:17.598Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-06T01:46:44.672Z</sub>
 
 </div>
