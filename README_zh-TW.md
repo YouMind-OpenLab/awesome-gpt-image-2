@@ -5938,7 +5938,7 @@ The gallery features:
 
 ## ⭐ Star 歷史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-gpt-image-2&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-gpt-image-2&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YouMind-OpenLab/awesome-gpt-image-2&type=Date)](https://star-history.dera.page/#YouMind-OpenLab/awesome-gpt-image-2&Date)
 
 ---
 
