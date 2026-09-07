@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/youmind-openlab-awesome-gpt-image-2-badge.png)](https://mseep.ai/app/youmind-openlab-awesome-gpt-image-2)
+
 
 <a href="https://youmind.com/gpt-image-2-prompts">
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
