@@ -139,9 +139,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **17820** |
+| 📝 Totale prompt | **17837** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **sabato 10 ottobre 2026 alle ore 03:12:45 UTC** |
+| 🔄 Ultimo aggiornamento | **sabato 10 ottobre 2026 alle ore 16:33:18 UTC** |
 
 </div>
 
@@ -525,7 +525,53 @@ Trasforma una linea temporale evolutiva piatta in un'infografica 3D realistica a
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### No. 1: Profilo / Avatar - Ritratto con Trecce Gialle e Corna
+### No. 1: Profilo / Avatar - Selfie con telefono Nokia e cosplay di gatto Ragdoll
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descrizione
+
+Prompt per generare un selfie a bassa risoluzione in stile telefono Nokia dei primi anni 2000, che ritrae una donna in cosplay da gatto Ragdoll, con dettagli specifici su rumore, illuminazione e sfondo.
+
+#### 📝 Prompt
+
+```
+Basandosi sull'immagine di riferimento di una cosplayer adulta, mantenere il volto della protagonista, il costume a tema gatto Ragdoll, i capelli lunghi neri, l'outfit peluche marrone-bianco e gli accessori con zampe di gatto.
+
+Personaggio che scatta un selfie ravvicinato, leggermente inclinata in avanti, testa piegata, labbra leggermente imbronciate, con un'espressione confusa, sprezzante ma carina, guardando direttamente nella fotocamera.
+
+Colori del pelo e dettagli dello styling del gatto Ragdoll come nel materiale originale.
+
+Accanto alla persona c'è un gatto Ragdoll; in primo piano c'è un cestino di rattan contenente un pulcino giallo soffice e un grappolo di uva viola scuro.
+La persona, il gatto, il pulcino e l'uva si stringono naturalmente nella stessa inquadratura, formando una foto privata assurda ma quotidiana.
+
+Scattato con un vecchio telefono Nokia dei primi anni 2000, fotografia digitale a colori a basso pixel, bassa risoluzione, leggero fuori fuoco, rumore digitale ruvido, artefatti di compressione JPEG, leggera alterazione del tono della pelle, bilanciamento del bianco non uniforme, gamma dinamica limitata, bordi morbidi, evidente rumore sporco nelle ombre.
+
+Piccola camera da letto ordinaria, letto vecchio, mobili in legno, vecchia TV CRT che entra naturalmente nello sfondo. Luce ambientale interna fioca combinata con flash diretto del telefono, viso leggermente sovraesposto, sfondo che decade rapidamente nell'oscurità. Prospettiva selfie grandangolare a distanza ravvicinata, braccio esteso verso l'obiettivo che crea un ovvio effetto di prossimità (grande) e lontananza (piccolo), composizione casuale, leggermente inclinata, come una foto privata scattata da un amico con un telefono vecchio.
+
+Qualità complessiva reale, economica, ruvida, istantanea, senza texture fotografica moderna ad alta definizione. Mantenere solo una piccolissima firma fanfan.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618678366_063z0n_HUMOm_iaEAA_UlQ.jpg" width="600" alt="Profilo / Avatar - Selfie con telefono Nokia e cosplay di gatto Ragdoll - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [花椰菜](https://x.com/indesjyo)
+- **Fonte:** [Twitter Post](https://x.com/indesjyo/status/2108545119968477317)
+- **Pubblicato:** 9 ottobre 2026
+- **Lingue:** zh
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36219)**
+
+---
+
+### No. 2: Profilo / Avatar - Ritratto con Trecce Gialle e Corna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -558,7 +604,7 @@ Un ritratto verticale in mezzo primo piano, scattato da una bassa angolazione, d
 
 ---
 
-### No. 2: Profilo / Avatar - Illustrazione Cartoon Geometrica dell'Interazione tra Due Personaggi
+### No. 3: Profilo / Avatar - Illustrazione Cartoon Geometrica dell'Interazione tra Due Personaggi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -620,7 +666,7 @@ Formato verticale, piccola firma voxcat nell'angolo in basso a destra.
 
 ---
 
-### No. 3: Profilo / Avatar - Prompt per Ritratto Realistico in Caffè per GPT Image 2
+### No. 4: Profilo / Avatar - Prompt per Ritratto Realistico in Caffè per GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -673,7 +719,7 @@ Giorno nuvoloso senza luce solare diretta. Velocità dell'otturatore leggermente
 
 ---
 
-### No. 4: Profilo / Avatar - Prompt per Composizione Minimalista di Doodle
+### No. 5: Profilo / Avatar - Prompt per Composizione Minimalista di Doodle
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -737,7 +783,7 @@ Complessivamente rilassato, assurdo, carino, simile a adesivi di animazione, ill
 
 ---
 
-### No. 5: Profilo / Avatar - Prompt per Ritratto Fantasy Cinematografico
+### No. 6: Profilo / Avatar - Prompt per Ritratto Fantasy Cinematografico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +817,7 @@ Dietro di lei c'è uno splendido lago illuminato dalla luna con una lontana citt
 
 ---
 
-### No. 6: Profilo / Avatar - Pescatrice Vintage sul Fiume
+### No. 7: Profilo / Avatar - Pescatrice Vintage sul Fiume
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -804,7 +850,7 @@ Una fotografia in stile vintage di una giovane donna immersa fino alla vita in u
 
 ---
 
-### No. 7: Profilo / Avatar - Disegno nostalgico di una scolaretta alla lavagna
+### No. 8: Profilo / Avatar - Disegno nostalgico di una scolaretta alla lavagna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -837,7 +883,7 @@ Una fotografia verticale a mezzo busto con estetica cinematografica nostalgica c
 
 ---
 
-### No. 8: Profilo / Avatar - Foto d'epoca di una donna nel Giappone tradizionale
+### No. 9: Profilo / Avatar - Foto d'epoca di una donna nel Giappone tradizionale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -870,7 +916,7 @@ Una fotografia in stile vintage di una giovane donna in piedi su una strada stre
 
 ---
 
-### No. 9: Profilo / Avatar - Prompt per Ritratto di Moda con Capelli Viola - GPT Image 2
+### No. 10: Profilo / Avatar - Prompt per Ritratto di Moda con Capelli Viola - GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -907,7 +953,7 @@ Usa luce naturale soffusa con toni autunnali caldi e terrosi. Mantieni la compos
 
 ---
 
-### No. 10: Profilo / Avatar - Prompt per Ritratto di Personaggio Anime
+### No. 11: Profilo / Avatar - Prompt per Ritratto di Personaggio Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -958,7 +1004,7 @@ Genera ora il ritratto.
 
 ---
 
-### No. 11: Profilo / Avatar - Prompt per GPT Image 2: Selfie con Maglione a Maglia e Orecchie da Gatto
+### No. 12: Profilo / Avatar - Prompt per GPT Image 2: Selfie con Maglione a Maglia e Orecchie da Gatto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1013,7 +1059,7 @@ Cambiamento delle orecchie/coda da gatto e della postura chinata; omissione dei 
 
 ---
 
-### No. 12: Profilo / Avatar - Ritratto Elegante di una Donna dell'Asia Meridionale con Hijab
+### No. 13: Profilo / Avatar - Ritratto Elegante di una Donna dell'Asia Meridionale con Hijab
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1046,7 +1092,7 @@ Ritratto elegante fotorealistico di una giovane donna dell'Asia Meridionale che 
 
 ---
 
-### No. 13: Profilo / Avatar - Ritratto Neon GPT Image 2
+### No. 14: Profilo / Avatar - Ritratto Neon GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1101,7 +1147,7 @@ Omettere il neon rosso; cambiare il corsetto nero lucido
 
 ---
 
-### No. 14: Profilo / Avatar - Ritratto Vintage in Bianco e Nero
+### No. 15: Profilo / Avatar - Ritratto Vintage in Bianco e Nero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1180,7 @@ Un ritratto in bianco e nero di una giovane donna con i capelli scuri raccolti l
 
 ---
 
-### No. 15: Profilo / Avatar - Prompt per GPT Image 2: Selfie allo Specchio in Abito di Tulle Bianco
+### No. 16: Profilo / Avatar - Prompt per GPT Image 2: Selfie allo Specchio in Abito di Tulle Bianco
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1189,7 +1235,7 @@ Cambiamento dell'inquadratura dello specchio e della posizione delle ginocchia; 
 
 ---
 
-### No. 16: Profilo / Avatar - Prompt per GPT Image 2: Selfie mattutina con tre gatti
+### No. 17: Profilo / Avatar - Prompt per GPT Image 2: Selfie mattutina con tre gatti
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1244,7 +1290,7 @@ Cambiamento nella disposizione dei tre gatti; omissione della bocca aperta e del
 
 ---
 
-### No. 17: Profilo / Avatar - Prompt per Pratica Mattutina di Balletto
+### No. 18: Profilo / Avatar - Prompt per Pratica Mattutina di Balletto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1299,7 +1345,7 @@ Modificare il sollevamento verticale della gamba; omettere la sedia e le scarpe 
 
 ---
 
-### No. 18: Profilo / Avatar - GPT Image: Mano Tesa su Pavimento Rosso
+### No. 19: Profilo / Avatar - GPT Image: Mano Tesa su Pavimento Rosso
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1354,7 +1400,7 @@ Cambiare la grande mano in primo piano e la vista dall'alto; omettere il pavimen
 
 ---
 
-### No. 19: Profilo / Avatar - Ritratto in Abito di Raso Nero Generato con GPT Image
+### No. 20: Profilo / Avatar - Ritratto in Abito di Raso Nero Generato con GPT Image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1409,18 +1455,31 @@ Cambiare l'acconciatura intrecciata e la direzione del viso; omettere l'abito in
 
 ---
 
-### No. 20: Profilo / Avatar - Donna dell'Asia meridionale in shalwar kameez ricamato
+### No. 21: Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Genera un ritratto fotorealistico ed elegante di una donna dell'Asia meridionale seduta su un divano, indossando un abito tradizionale rosa corallo ricamato con gioielli intricati, catturato con illuminazione ambientale calda e un'estetica interna lussuosa.
+Un prompt per generare immagini che combinano l'estetica della fotografia dei vecchi telefoni Nokia con scarabocchi di diari scritti a mano ed elementi di scrapbooking, caratterizzando un personaggio specifico in una scena quotidiana.
 
 #### 📝 Prompt
 
 ```
-Ritratto fotorealistico ed elegante di una giovane donna dell'Asia meridionale seduta con grazia su un moderno divano beige in un ambiente interno caldo e lussuoso. Indossa un bellissimo shalwar kameez pakistano ricamato rosa corallo con intricati ricami floreali in argento e oro, pantaloni coordinati e un delicato dupatta in organza trasparente drappeggiato naturalmente sulle spalle e sulle braccia. Ha capelli corti, scuri e acconciati con morbidezza, eleganti orecchini jhumka tradizionali, trucco discreto, labbra rosa tenue, occhi definiti e un sorriso naturale e gentile. Una mano tocca leggermente i capelli vicino all'orecchio mentre l'altra riposa naturalmente sul grembo. Posizione seduta aggraziata con gambe incrociate ed eleganti tacchi alti. Illuminazione ambientale calda, sfondo sfocato accogliente, luce soffusa della lampada, profondità di campo ridotta, bokeh cremoso, fotografia di moda di lusso, texture cutanea realistica, dettagli facciali naturali, ricami e texture del tessuto dettagliati, composizione cinematografica, obiettivo da ritratto 85mm, toni caldi e morbidi, ultra-realistico, alta definizione, niente pelle artificiale/plastica, nessun testo, nessuna filigrana.
+{argument name="character" default="Anime Character"}, adattamento live-action chiaramente adulto, preservare la struttura del viso, l'acconciatura, il colore dei capelli, gli occhi, il colore principale del personaggio, la silhouette iconica dell'abbigliamento e gli accessori identificativi.
+
+Fotografia con vecchio telefono Nokia degli anni 2000 × diario privato scritto a mano × scrapbook analogico × fotografia di moda sperimentale.
+
+Il personaggio è collocato in uno spazio quotidiano reale, mentre compie un'azione con un senso di vita o un significato leggermente non convenzionale. L'azione, l'espressione, la posizione della fotocamera, l'inquadratura, i dettagli dell'abbigliamento e lo spazio sono progettati autonomamente dal modello in base all'identità del personaggio.
+
+Scatto ravvicinato con flash diretto del telefono, leggera distorsione grandangolare, bassa risoluzione, compressione JPEG, sfocatura parziale, riflessi del flash diretto e colori digitali grezzi. Il personaggio mantiene la vera struttura facciale e la texture naturale della pelle, presentando il momento accidentale dell'azione in corso.
+
+Scarabocchi scritti a mano colorati, semplici simboli, codici data e note private sovrapposti direttamente sulla superficie della foto. Alcune linee si estendono lungo il contorno del corpo del personaggio, alcuni segni enfatizzano lo sguardo, i gesti e la direzione dell'azione; alcuni frammenti di foto e bordi di carta formano strati di scrapbook. Il contenuto scritto a mano deriva naturalmente dall'identità del personaggio e dalla situazione attuale.
+
+Il soggetto fotografico è chiaro, le marcature manuali e lo spazio reale si intersecano. I colori sono organizzati autonomamente in base al colore principale del personaggio e all'illuminazione della scena, presentando nel complesso un'atmosfera sperimentale di immagini private colorate fuse con registrazioni scritte a mano.
+
+Ritratto 3:4, firma verticale minuscola "voxcat" sul bordo destro.
 ```
 
 #### 🖼️ Immagini generate
@@ -1428,21 +1487,142 @@ Ritratto fotorealistico ed elegante di una giovane donna dell'Asia meridionale s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791107312200_9rw83k_HTrntMmaAAIlH03.jpg" width="600" alt="Profilo / Avatar - Donna dell'Asia meridionale in shalwar kameez ricamato - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791618679697_a8ptne_HUPu-D9awAANKST.jpg" width="600" alt="Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618679858_mqs40r_HUPu-D4a0AAIlSh.jpg" width="600" alt="Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618679731_i68hnu_HUPu-G3aQAAHIAC.jpg" width="600" alt="Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618680527_4wg2vx_HUPu-G3bgAA9f63.jpg" width="600" alt="Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano - Image 4">
 </div>
 
 #### 📌 Dettagli
 
-- **Autore:** [Zarnish](https://x.com/ZarnishNael)
-- **Fonte:** [Twitter Post](https://x.com/ZarnishNael/status/2106250548844634161)
-- **Pubblicato:** 3 ottobre 2026
-- **Lingue:** en
+- **Autore:** [VoxCat](https://x.com/VoxcatAI)
+- **Fonte:** [Twitter Post](https://x.com/VoxcatAI/status/2108791827314749815)
+- **Pubblicato:** 10 ottobre 2026
+- **Lingue:** zh
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35849)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36222)**
 
 ---
 
-### No. 21: Post sui social media - Modello di Scrapbook Editoriale Nostalgico
+### No. 22: Post sui social media - Ragazze Chibi che Preparano Pancake
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Una tenera illustrazione in stile anime di tre ragazze chibi in costumi da animale che cucinano pancake insieme in una cucina colorata.
+
+#### 📝 Prompt
+
+```
+Utilizzando l'immagine di riferimento fornita, trasforma la scena in un'accogliente ambientazione di cucina dove tre ragazze chibi stanno preparando dei pancake. Mantieni i design dei personaggi (il costume da pulcino giallo e la felpa con cappuccio da squalo blu) coerenti con lo stile del riferimento, ma aggiungi un terzo personaggio con un costume da pecora bianca. Cambia lo sfondo da un negozio di caramelle a una cucina calda dai colori pastello, con mensole di piatti e utensili appesi.
+
+Dettagli delle azioni: La ragazza nel costume da pulcino giallo sta mescolando la pastella in una ciotola rosa. La ragazza nel costume da squalo blu sta versando la pastella su una piastra elettrica rosa usando un mestolo. La nuova ragazza nel costume da pecora bianca tiene una ciotola di farina/mix. Tutti e tre i personaggi devono avere una piccola macchia di pastella per pancake sul naso.
+
+Oggetti di scena e testo: Includi una busta etichettata "Fluffy Pancake Mix", un barattolo etichettato "HONEY", una bottiglia etichettata "MILK" e un barattolo etichettato "SUGAR". Aggiungi una pila di pancake finiti guarniti con fragole e crema in primo piano. Nell'angolo in alto a destra, includi un cartello lavagna che recita "Purin-chan & Same-chan & Koharu-chan Pancake Party".
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618684967_se3h3n_HUPGU3sbUAAdm44.jpg" width="600" alt="Post sui social media - Ragazze Chibi che Preparano Pancake - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Period](https://x.com/takuma0083)
+- **Fonte:** [Twitter Post](https://x.com/takuma0083/status/2108747116906692959#reversed-0)
+- **Pubblicato:** 10 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36231)**
+
+---
+
+### No. 23: Post sui social media - Menu Autunnale di Harbor Street Coffee
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Vista dall'alto fotorealistica del menu stagionale autunnale di una caffetteria, appoggiato su un tavolo in legno illuminato dal sole accanto a un latte.
+
+#### 📝 Prompt
+
+```
+Scatto fotorealistico ad alta angolazione di un tavolo rustico in legno immerso nella calda luce solare screziata. Sul lato sinistro dell'inquadratura è posizionato un menu verticale stampato su carta color crema con un sottile bordo doppio verde scuro. Il testo sulla scheda è disposto come segue: in alto, 'HARBOR STREET COFFEE' in piccole lettere maiuscole serif; sotto, 'Fall Menu' in un grande ed elegante carattere serif verde scuro; seguito da una linea orizzontale decorativa con un motivo a foglia al centro. Le voci del menu sono elencate in testo serif verde scuro: 'Maple Oat Latte $5.50', 'Pumpkin Cold Brew $5.00' e 'Cardamom Bun $4.25'. In fondo alla scheda si trova un altro motivo a foglia e il testo 'Open daily 7am - 3pm'. A destra del menu c'è una tazza di ceramica riempita con un latte che presenta un'elaborata arte latte rosetta bianca. Nell'angolo superiore sinistro, le foglie di una pianta in vaso sono parzialmente visibili e proiettano ombre morbide sulla scena.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618681863_1szvfk_HUNRNATW8AAd050.png" width="600" alt="Post sui social media - Menu Autunnale di Harbor Street Coffee - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [lookmybio.com](https://x.com/lookmybio_app)
+- **Fonte:** [Twitter Post](https://x.com/lookmybio_app/status/2108618376637562963#reversed-0)
+- **Pubblicato:** 9 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36225)**
+
+---
+
+### No. 24: Post sui social media - Ritratto Vintage in un Grande Magazzino
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Questo prompt genera un'immagine che cattura una scena nostalgica di una giovane donna in posa all'interno di un classico grande magazzino giapponese, ideale per creare visual a tema retrò.
+
+#### 📝 Prompt
+
+```
+Una fotografia in stile vintage di una giovane donna in piedi in un grande magazzino giapponese. Ha i capelli corti scuri tagliati a bob con frangia e guarda direttamente l'obiettivo con un'espressione dolce. Indossa una camicetta color crema a maniche lunghe con colletto Peter Pan, infilata in una gonna plissettata a quadri marroni che arriva appena sopra le ginocchia. Una piccola borsa a tracolla in pelle marrone pende dalla sua spalla e tiene in mano un libro o un opuscolo. Il suo outfit è completato da calzini bianchi alla caviglia e mocassini marrone scuro. Lo sfondo mostra vetrine in vetro piene di profumi e cosmetici sulla sinistra, con un cartello che recita '化粧品' (cosmetici). Sulla destra ci sono grucce per vestiti e un altro cartello che recita '婦人服' (abbigliamento femminile). Il pavimento è in piastrelle lucide che riflettono la calda illuminazione dall'alto. L'atmosfera generale evoca nostalgia, ricordando il Giappone della fine del XX secolo.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618683474_5drfae_HULpyu_bcAAV0WV.jpg" width="600" alt="Post sui social media - Ritratto Vintage in un Grande Magazzino - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [拓斗](https://x.com/Kmsbdd0GXBOcrXQ)
+- **Fonte:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2108504637498421309#reversed-0)
+- **Pubblicato:** 9 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36228)**
+
+---
+
+### No. 25: Post sui social media - Modello di Scrapbook Editoriale Nostalgico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1476,19 +1656,19 @@ Importante: preservare la fotografia realistica nella sezione superiore; non tra
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532573479_8fpyta_HUKHNs9bsAA5mtE.jpg" width="600" alt="Post sui social media - Modello di Scrapbook Editoriale Nostalgico - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791618679712_zplsbc_HUKHNs9bsAA5mtE.jpg" width="600" alt="Post sui social media - Modello di Scrapbook Editoriale Nostalgico - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532573526_fvf747_HUKHNs4bAAEAZvu.jpg" width="600" alt="Post sui social media - Modello di Scrapbook Editoriale Nostalgico - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791618679745_h7qmzo_HUKHNs4bAAEAZvu.jpg" width="600" alt="Post sui social media - Modello di Scrapbook Editoriale Nostalgico - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532573448_xex9nt_HUKHNs2a8AActRf.jpg" width="600" alt="Post sui social media - Modello di Scrapbook Editoriale Nostalgico - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791618679711_ias94g_HUKHNs2a8AActRf.jpg" width="600" alt="Post sui social media - Modello di Scrapbook Editoriale Nostalgico - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -1502,7 +1682,7 @@ Importante: preservare la fotografia realistica nella sezione superiore; non tra
 
 ---
 
-### No. 22: Post sui social media - Poster del Paesaggio Mattutino di Guangzhou
+### No. 26: Post sui social media - Poster del Paesaggio Mattutino di Guangzhou
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1553,7 +1733,7 @@ Un poster verticale creativo intitolato "GOOD MORNING GUANGZHOU" (广州早安) 
 
 ---
 
-### No. 23: Post sui social media - GPT Image 2: Poster Fotografico Surreale del 'Secondo Mondo'
+### No. 27: Post sui social media - GPT Image 2: Poster Fotografico Surreale del 'Secondo Mondo'
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1602,7 +1782,7 @@ Non aggiungere creatività alla foto, ma rivelare la seconda realtà latente al 
 
 ---
 
-### No. 24: Post sui social media - Design del muro di mattoni ordinario
+### No. 28: Post sui social media - Design del muro di mattoni ordinario
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1653,7 +1833,7 @@ Una composizione a schermo diviso. La metà sinistra è una fotografia ravvicina
 
 ---
 
-### No. 25: Post sui social media - Due donne in una cucina rustica
+### No. 29: Post sui social media - Due donne in una cucina rustica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1686,7 +1866,7 @@ Una fotografia realistica ad alta risoluzione che cattura un momento spontaneo t
 
 ---
 
-### No. 26: Post sui social media - Poster Scrapbook di Viaggio Accogliente
+### No. 30: Post sui social media - Poster Scrapbook di Viaggio Accogliente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1727,7 +1907,7 @@ Stile: diario di viaggio nostalgico, fotografia su pellicola vintage, scrapbook 
 
 ---
 
-### No. 27: Post sui social media - Giovane uomo affascinante come segno zodiacale della Scimmia
+### No. 31: Post sui social media - Giovane uomo affascinante come segno zodiacale della Scimmia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1760,7 +1940,7 @@ Un ritratto cinematografico e iperrealistico di un giovane uomo affascinante che
 
 ---
 
-### No. 28: Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola
+### No. 32: Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1779,25 +1959,25 @@ Un soggiorno accogliente e scarsamente illuminato, decorato per una festa di Hal
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446366984_yojrk9_HUDt28CakAAwGKN.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791618686424_lj8f14_HUDt28CakAAwGKN.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446366986_lumfw7_HUDt3QsaAAAgHxp.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791618686504_bn31wg_HUDt3QsaAAAgHxp.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446366979_ya1clt_HUDt3ija8AAQjMe.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791618686432_3ddw3y_HUDt3ija8AAQjMe.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446367955_3sf168_HUDt306aEAAG0HJ.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791618687083_p71exx_HUDt306aEAAG0HJ.jpg" width="600" alt="Post sui social media - Soggiorno Accogliente per Halloween in Tonalità Viola - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -1811,7 +1991,7 @@ Un soggiorno accogliente e scarsamente illuminato, decorato per una festa di Hal
 
 ---
 
-### No. 29: Post sui social media - Prompt per Ritratto in Primo Piano con Flash da Telefono
+### No. 33: Post sui social media - Prompt per Ritratto in Primo Piano con Flash da Telefono
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1862,7 +2042,7 @@ Prompt dettagliato per generare scatti realistici in primo piano con flash, ango
 
 ---
 
-### No. 30: Post sui social media - Prompt per Ritratti Notturni in Stile Dreamcore con Flash
+### No. 34: Post sui social media - Prompt per Ritratti Notturni in Stile Dreamcore con Flash
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1923,7 +2103,7 @@ Formato verticale 2:3, elemento testuale è una piccola firma 'voxcat' in basso 
 
 ---
 
-### No. 31: Post sui social media - Selfie alla griglia notturna con cosplay di scimmia
+### No. 35: Post sui social media - Selfie alla griglia notturna con cosplay di scimmia
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1973,237 +2153,6 @@ Formato verticale 3:4, l'unico testo nell'immagine è una piccola firma scritta 
 - **Lingue:** zh
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36112)**
-
----
-
-### No. 32: Post sui social media - Prompt di Trasformazione Collage Scrapbook
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Prompt dettagliato per GPT Image 2 per trasformare una foto caricata in un collage scrapbook editoriale premium con effetti carta strappata e illustrazioni disegnate a mano.
-
-#### 📝 Prompt
-
-```
-Trasforma la foto caricata in un'opera d'arte collage scrapbook / carta strappata editoriale premium. Mantieni il soggetto principale della foto originale fotorealistico, nitido e chiaramente riconoscibile, con illuminazione naturale, texture realistiche e colori autentici. Posiziona la foto su uno sfondo di carta artigianale color avorio caldo, con grana sottile e una texture tattile imperfetta. Crea una transizione organica con carta strappata dove parti della fotografia originale sembrano aprirsi e continuare naturalmente nell'area inferiore come un'illustrazione / schizzo minimalista disegnato a mano con inchiostro, fondendo la fotografia reale con l'estensione illustrata.
-
-Aggiungi sottili dettagli editoriali vintage, tipografia delicata in stile scritto a mano, piccoli scarabocchi disegnati a mano, linee d'inchiostro imperfette, piccoli elementi decorativi e spazio negativo artistico. Lascia che alcuni oggetti selezionati dalla fotografia fluiscano oltre il bordo strappato e interagiscano con l'illustrazione, creando un giocoso effetto collage 3D. Usa ombre morbide sotto gli strati di carta e bordi di carta realistici per dare profondità.
-
-Palette colori: crema calda, beige, marrone attenuato, toni terrosi morbidi preservando i colori naturali della foto originale.
-Illuminazione: luce dorata dell'ora magica / sole nostalgico, riflessi morbidi e ombre delicate.
-Composizione: sofisticata, minimale, equilibrata, artistica, molto respiro, estetica editoriale da rivista premium.
-Texture: carta artigianale, grana sottile, fibre strappate, stampa e texture d'inchiostro leggermente imperfette.
-
-L'immagine finale dovrebbe sembrare una vera fotografia incollata fisicamente su carta artigianale e parzialmente trasformata in un'illustrazione delicata, piuttosto che un filtro digitale.
-
-Importante: Non alterare l'identità del soggetto principale, le proporzioni, gli oggetti o i dettagli importanti. Evita decorazioni eccessive, rendering cartoonesco, bordi digitali troppo puliti, colori neon o un aspetto generico da arte AI. Design editoriale scrapbook contemporaneo high-end, collage mixed-media fotorealistico + disegnato a mano, composizione verticale 4:5 o 3:4.
-
-[OPZIONALE] Aggiungi questo elemento specifico del concetto: {argument name="transformation_object" default="descrivi l'oggetto/scena in cui vuoi che la foto si trasformi"}
-
-[TESTO OPZIONALE]: Aggiungi una breve frase scritta a mano: "{argument name="handwritten_text" default="il tuo testo"}" in uno stile sottile con inchiostro nero/carbone.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446353851_7gilnm_HUAMfPIaMAACGGQ.jpg" width="600" alt="Post sui social media - Prompt di Trasformazione Collage Scrapbook - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446355275_98i2l7_HUAMfQIaUAAxX3g.jpg" width="600" alt="Post sui social media - Prompt di Trasformazione Collage Scrapbook - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446353837_jgy0wu_HUAMfPLbQAAONxl.jpg" width="600" alt="Post sui social media - Prompt di Trasformazione Collage Scrapbook - Image 3">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Sairah](https://x.com/Sairah_0)
-- **Fonte:** [Twitter Post](https://x.com/Sairah_0/status/2107698369770721674)
-- **Pubblicato:** 7 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36105)**
-
----
-
-### No. 33: Post sui social media - Cosplay Cane Stile Selfie Vecchio Nokia
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descrizione
-
-Prompt per generare un selfie con elementi di cosplay a tema cane, utilizzando l'estetica della fotocamera dei vecchi telefoni Nokia.
-
-#### 📝 Prompt
-
-```
-Cosplayer donna adulta, outfit a tema cane, lunghi capelli neri, orecchie flosce in peluche, collare in peluche con campanello, costume in peluche marrone e bianco con accessori a forma di zampa. Il personaggio scatta un selfie molto vicino all'obiettivo, corpo leggermente inclinato in avanti, testa reclinata, leggero broncio, espressione confusa ma carina, sguardo diretto verso la camera.
-
-Un felice Golden Retriever accanto al personaggio, cesto di rattan in primo piano contenente un pulcino giallo soffice e uva scura viola. Personaggio, cane, pulcino e uva sono naturalmente compressi nella stessa inquadratura, formando una foto di gruppo privata assurda ma quotidiana.
-
-Fotografia con vecchio telefono Nokia dei primi anni 2000, fotografia digitale a colori a bassa pixelazione, bassa risoluzione, leggero fuori fuoco, rumore digitale ruvido, artefatti di compressione JPEG, leggera alterazione del tono della pelle, bilanciamento del bianco non uniforme, gamma dinamica limitata, bordi morbidi, sporco e rumore nelle ombre.
-
-Piccola camera da letto ordinaria, vecchio letto, mobili in legno, TV CRT vintage che entra naturalmente nello sfondo. Luce ambientale interna fioca combinata con flash diretto, viso leggermente sovraesposto, sfondo che degrada rapidamente verso il buio. Prospettiva selfie grandangolare a distanza ravvicinata, braccio esteso verso l'obiettivo creando un forte effetto di prospettiva (vicino grande, lontano piccolo), composizione casuale, leggermente inclinata, come se un amico scattasse casualmente una foto privata con un vecchio telefono.
-
-Stile complessivo reale, economico, grezzo, tipo snapshot, senza texture fotografica moderna ad alta definizione. Viene mantenuto solo la piccola firma voxcat nell'immagine.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446359837_8e1qli_HT_v4v1acAAiY9e.jpg" width="600" alt="Post sui social media - Cosplay Cane Stile Selfie Vecchio Nokia - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446359872_dgufwm_HT_v4v4bEAAF3UA.jpg" width="600" alt="Post sui social media - Cosplay Cane Stile Selfie Vecchio Nokia - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446359892_3dkzps_HT_v4tLaIAAyfTW.jpg" width="600" alt="Post sui social media - Cosplay Cane Stile Selfie Vecchio Nokia - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446360810_iyfv51_HT_v4tNbEAAyryY.jpg" width="600" alt="Post sui social media - Cosplay Cane Stile Selfie Vecchio Nokia - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [VoxCat](https://x.com/VoxcatAI)
-- **Fonte:** [Twitter Post](https://x.com/VoxcatAI/status/2107681823622873094)
-- **Pubblicato:** 7 ottobre 2026
-- **Lingue:** zh
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36111)**
-
----
-
-### No. 34: Post sui social media - Ritratto Fotografico con Flash nella Foresta
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Prompt per un ritratto in una foresta verde scuro con tecniche di esposizione al flash.
-
-#### 📝 Prompt
-
-```
-{argument name="character" default="[Character]"}, fotorealismo chiaramente adulto, fotografia ad alta densità cromatica Ilfochrome / dye-transfer x foresta liminale x fotografia privata x dissolvenza da sovraesposizione parziale.
-
-Mantenere l'identità principale del personaggio: contorno dell'acconciatura, colore dei capelli, occhi, colore principale degli abiti e accessori iconici.
-
-Personaggio posizionato in una foresta umida e buia, corpo di profilo, sguardo rivolto verso la fotocamera. Tronchi d'albero e rami/foglie ravvicinati invadono dai bordi dello schermo, creando occlusioni in primo piano/sfondo, con il viso chiaramente visibile attraverso il fogliame.
-
-Un flash diretto parziale fa sì che il viso, le braccia e gli abiti di colore chiaro appaiano come volumi luminosi quasi bianchi, con alcuni dettagli del tessuto che si fondono nelle alte luci. Lo sfondo mantiene tonalità verde-nero profondo e ombre fredde ciano, con una piccola quantità di elementi rossi identificativi come ancore di colore ad alta purezza. Le foglie bagnate creano riflessi sottili, i rami/foglie in primo piano sono leggermente fuori fuoco, combinati con bokeh colorato e motion blur parziale, presentando la sensazione di un record privato di uno scatto notturno accidentale.
-
-Formato verticale 2:3, elemento testuale è una minuscola firma "voxcat" nell'angolo in basso a destra.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446364003_hfn1r4_HT_e2adaoAANPqO.jpg" width="600" alt="Post sui social media - Ritratto Fotografico con Flash nella Foresta - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446363903_8vmz92_HT_e2XaboAAflRK.jpg" width="600" alt="Post sui social media - Ritratto Fotografico con Flash nella Foresta - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446363907_za7k0k_HT_e2agaUAAPSBQ.jpg" width="600" alt="Post sui social media - Ritratto Fotografico con Flash nella Foresta - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446364851_4ckv9t_HT_e2XaaQAALJbI.jpg" width="600" alt="Post sui social media - Ritratto Fotografico con Flash nella Foresta - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [VoxCat](https://x.com/VoxcatAI)
-- **Fonte:** [Twitter Post](https://x.com/VoxcatAI/status/2107648188836639029)
-- **Pubblicato:** 7 ottobre 2026
-- **Lingue:** zh
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36116)**
-
----
-
-### No. 35: Post sui social media - Ritratto dello Zodiaco del Drago Bianco
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un ritratto generato dall'IA di una donna in abiti tradizionali bianchi accompagnata da un maestoso drago bianco, con sovrapposizioni testuali dello zodiaco cinese.
-
-#### 📝 Prompt
-
-```
-Un ritratto verticale di un'elegante giovane donna dalla carnagione chiara e dai capelli scuri raccolti in un acconciatura tradizionale ornata con delicati fermagli floreali d'argento. Indossa un abito stile Hanfu bianco riccamente ricamato e ha un piccolo marchio decorativo rosso sulla fronte. Dietro di lei incombe un enorme drago bianco etereo, con squame dettagliate e baffi fluenti, la cui testa è posizionata vicino alla sua come se la stesse proteggendo. Lo sfondo è un grigio-bianco morbido e nebbioso. Nell'angolo in alto a sinistra, c'è un grande carattere cinese dorato '龙' (Drago) scritto in stile calligrafico, accanto a un sigillo rosso verticale contenente il testo '十二生肖'. Sotto il sigillo, un piccolo testo nero recita 'CHINESE ZODIAC DRAGON'. Sul lato destro, il testo cinese verticale recita '瑞气盈门' e '祥龙纳福'. Nell'angolo in basso a sinistra, un piccolo testo recita 'CHINESE ZODIAC', seguito da '龙 / 年 / 大 / 吉' e '万 / 事 / 如 / 意', e infine 'NEW YEAR'S DAY'. Un piccolo logo arancione per 'popcraft.ai' è visibile nell'angolo in basso a destra.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446367892_gtslz8_HT_Uy-LbMAAjB4A.jpg" width="600" alt="Post sui social media - Ritratto dello Zodiaco del Drago Bianco - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446367866_8pwfsh_HT_UzUnb0AAxnZB.jpg" width="600" alt="Post sui social media - Ritratto dello Zodiaco del Drago Bianco - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446367812_simqzj_HT_UzqbaMAA9vW2.jpg" width="600" alt="Post sui social media - Ritratto dello Zodiaco del Drago Bianco - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446368813_43ll53_HT_U0LJboAAfzHs.jpg" width="600" alt="Post sui social media - Ritratto dello Zodiaco del Drago Bianco - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Popcraft AI](https://x.com/popcraftAI)
-- **Fonte:** [Twitter Post](https://x.com/popcraftAI/status/2107637147746599245#reversed-0)
-- **Pubblicato:** 7 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36121)**
 
 ---
 
@@ -2968,7 +2917,40 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 52: Miniatura di YouTube - Personaggio Minecraft in un Campo di Girasoli
+### No. 52: Miniatura di YouTube - Guerriera Anime Realistica in Battaglia Medievale
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Prompt per generare un'immagine realistica di una ragazza in uniforme scolastica modificata che combatte contro zombie in un villaggio medievale in fiamme.
+
+#### 📝 Prompt
+
+```
+Un'azione cinematografica iperrealistica di una giovane guerriera giapponese nel bel mezzo di una caotica battaglia medievale. Ha lunghi capelli neri raccolti con due fermagli dorati e indossa una divisa scolastica marinara blu scuro (seifuku) modificata, rinforzata con pesanti armature in pelle su spalle e braccia. Il suo viso è sporco di fuliggine e schizzi di sangue, con un'espressione intensa e determinata mentre si lancia in avanti. In primo piano, creature simili a zombie sfocate stanno attaccando. Lo sfondo raffigura un villaggio in fiamme con strutture in legno, fumo che sale verso il cielo e altri soldati che combattono nel caos. L'illuminazione è drammatica e cruda, sottolineando il realismo della scena.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618683445_lkci2g_HUMcJy0bYAANzb-.jpg" width="600" alt="Miniatura di YouTube - Guerriera Anime Realistica in Battaglia Medievale - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [レティシア・ノエル](https://x.com/N7S6P1)
+- **Fonte:** [Twitter Post](https://x.com/N7S6P1/status/2108560011643514935#reversed-0)
+- **Pubblicato:** 9 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36227)**
+
+---
+
+### No. 53: Miniatura di YouTube - Personaggio Minecraft in un Campo di Girasoli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3001,7 +2983,7 @@ Un primo piano iperrealistico e cinematografico di un personaggio in stile Minec
 
 ---
 
-### No. 53: Miniatura di YouTube - Prompt GPT Image 2 per una Trasformazione Magica del Lama
+### No. 54: Miniatura di YouTube - Prompt GPT Image 2 per una Trasformazione Magica del Lama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3040,7 +3022,7 @@ Un lama sottoposto a una Selvaggia Trasformazione Magica mentre viti incantate, 
 
 ---
 
-### No. 54: Miniatura di YouTube - Uomo Surreale su una Nuvola con Città Sotto
+### No. 55: Miniatura di YouTube - Uomo Surreale su una Nuvola con Città Sotto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3087,7 +3069,7 @@ Nessun aspetto da cartone animato, nessuna illustrazione, nessun look CGI, nessu
 
 ---
 
-### No. 55: Miniatura di YouTube - Prompt per Scena Fantasy Cinematografica con Molte Porte per GPT Image 2
+### No. 56: Miniatura di YouTube - Prompt per Scena Fantasy Cinematografica con Molte Porte per GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3148,7 +3130,7 @@ Intorno a lui ci sono decine di ingressi enormi e splendidamente dettagliati, og
 
 ---
 
-### No. 56: Miniatura di YouTube - Prompt Steampunk: The Last Gear
+### No. 57: Miniatura di YouTube - Prompt Steampunk: The Last Gear
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3188,7 +3170,7 @@ sicuramente, questo mondo tornerà a muoversi.
 
 ---
 
-### No. 57: Miniatura di YouTube - Robot di Polizia Gigante in un Salvataggio Notturno
+### No. 58: Miniatura di YouTube - Robot di Polizia Gigante in un Salvataggio Notturno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3221,7 +3203,7 @@ Una scena notturna cinematografica e fotorealistica che raffigura un enorme robo
 
 ---
 
-### No. 58: Miniatura di YouTube - Donna che legge in una strada innevata
+### No. 59: Miniatura di YouTube - Donna che legge in una strada innevata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3254,7 +3236,7 @@ Un ritratto verticale di una giovane donna con lunghi capelli scuri e morbidi ci
 
 ---
 
-### No. 59: Miniatura di YouTube - Gigantesco robot MPD rimuove i detriti
+### No. 60: Miniatura di YouTube - Gigantesco robot MPD rimuove i detriti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3287,7 +3269,7 @@ Un'immagine cinematografica e fotorealistica di un colossale robot bipede della 
 
 ---
 
-### No. 60: Miniatura di YouTube - Trasformazione fotorealistica dell'aereo da guerra
+### No. 61: Miniatura di YouTube - Trasformazione fotorealistica dell'aereo da guerra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3320,7 +3302,7 @@ Utilizzando l'immagine di riferimento fornita, trasforma l'illustrazione dipinta
 
 ---
 
-### No. 61: Miniatura di YouTube - Scena di Danza in un Corridoio Vintage Accogliente
+### No. 62: Miniatura di YouTube - Scena di Danza in un Corridoio Vintage Accogliente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3353,7 +3335,7 @@ Crea una scena cinematografica animata 3D commovente all'interno di un corridoio
 
 ---
 
-### No. 62: Miniatura di YouTube - Checkpoint del Robot della Polizia di Tokyo
+### No. 63: Miniatura di YouTube - Checkpoint del Robot della Polizia di Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3386,7 +3368,7 @@ Scatto grandangolare iperrealistico di un enorme robot bipede della polizia posi
 
 ---
 
-### No. 63: Miniatura di YouTube - Prompt per Ritratto Fantasy Oscuro in Cattedrale Gotica
+### No. 64: Miniatura di YouTube - Prompt per Ritratto Fantasy Oscuro in Cattedrale Gotica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3421,7 +3403,7 @@ Pavimento in pietra antica leggermente bagnato e riflettente, deboli particelle 
 
 ---
 
-### No. 64: Miniatura di YouTube - Ritratto Surreale di Scissione Temporale con GPT Image 2
+### No. 65: Miniatura di YouTube - Ritratto Surreale di Scissione Temporale con GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3464,7 +3446,7 @@ Composizione cinematografica epica, concetto di mondo diviso simmetrico, prospet
 
 ---
 
-### No. 65: Miniatura di YouTube - Vista dalla cabina di pilotaggio di un caccia in virata
+### No. 66: Miniatura di YouTube - Vista dalla cabina di pilotaggio di un caccia in virata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3497,7 +3479,7 @@ Scatto iperrealistico in prospettiva soggettiva dall'interno della cabina di pil
 
 ---
 
-### No. 66: Miniatura di YouTube - Cabina Telefonica Notturna Cinematografica
+### No. 67: Miniatura di YouTube - Cabina Telefonica Notturna Cinematografica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3531,7 +3513,7 @@ Una pioggia intensa cade all'esterno, con gocce che scorrono lungo i pannelli di
 
 ---
 
-### No. 67: Miniatura di YouTube - Scatto in Curva MotoGP in Prima Persona
+### No. 68: Miniatura di YouTube - Scatto in Curva MotoGP in Prima Persona
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3564,7 +3546,7 @@ Uno scatto ad alta velocità in prima persona (POV) da una motocicletta da corsa
 
 ---
 
-### No. 68: Miniatura di YouTube - Miniatura Realistica AI: Ragazze con Lanterne
+### No. 69: Miniatura di YouTube - Miniatura Realistica AI: Ragazze con Lanterne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3597,7 +3579,7 @@ Crea una miniatura verticale 9:16 per social media. Lo sfondo è una fotografia 
 
 ---
 
-### No. 69: Miniatura di YouTube - Schiacciata di Badminton Cinematografica GPT Image 2
+### No. 70: Miniatura di YouTube - Schiacciata di Badminton Cinematografica GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3634,7 +3616,7 @@ Composizione verticale 9:16, 8K, fotorealistico, cinematografico, campagna pubbl
 
 ---
 
-### No. 70: Miniatura di YouTube - Robot gigante della MPD in un hangar sotto la pioggia
+### No. 71: Miniatura di YouTube - Robot gigante della MPD in un hangar sotto la pioggia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3664,39 +3646,6 @@ Un'inquadratura cinematografica e fotorealistica a campo largo mostra un enorme 
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35127)**
-
----
-
-### No. 71: Miniatura di YouTube - Gigantesco Robot della Polizia Cattura un Orso
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Una scena fotorealistica che raffigura un colossale robot della polizia bianco e nero che tiene una gabbia con un orso all'interno, circondato da agenti e segnaletica all'ingresso di un sentiero in un parco nazionale.
-
-#### 📝 Prompt
-
-```
-Un'immagine fotorealistica ad alta risoluzione di un gigantesco robot della polizia bipede in piedi su uno spiazzo ghiaioso ai margini di una lussureggiante foresta verde. Il robot è massiccio, sovrasta i veicoli e le persone circostanti, con un telaio corazzato bianco e nero che presenta il testo giapponese "警視庁" (Dipartimento di Polizia Metropolitano) e il testo inglese "MPD" sulle piastre del petto e delle spalle. Ha luci rosse luminose sulle spalle e sulla testa. Le mani del robot tengono una grande gabbia metallica contenente un orso bruno vivo. Alla destra del robot c'è un piccolo camioncino pianale bianco, che enfatizza l'enorme scala del robot. Due agenti umani della polizia in uniformi blu scuro ed elmetti stanno vicino al camion, guardando verso l'alto il robot; hanno le schiene rivolte alla telecamera, mostrando "警視庁 MPD" sulle loro giacche. In primo piano a sinistra, c'è un cartello in legno con testo in giapponese e inglese: "大雪山国立公園 Daisetsuzan National Park", "登山口 Trailhead", "駐車場 Parking", e un segnale di avvertimento con un'icona dell'orso che recita "クマ出没注意 Beware of Bears". Un altro striscione verticale all'estrema destra recita "人と野生動物の共生を" (Coesistenza tra esseri umani e fauna selvatica). Lo sfondo presenta alberi fitti e una cima montuosa sotto un cielo azzurro brillante con nuvole sparse. L'illuminazione è luce naturale diurna, che proietta ombre realistiche.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789803927781_zsm693_HSf2WpjbMAA4Xsy.jpg" width="600" alt="Miniatura di YouTube - Gigantesco Robot della Polizia Cattura un Orso - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [カーブミラー](https://x.com/kabumira862571)
-- **Fonte:** [Twitter Post](https://x.com/kabumira862571/status/2100918626996154589#reversed-0)
-- **Pubblicato:** 18 settembre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35007)**
 
 ---
 
@@ -4548,7 +4497,87 @@ Crea un'illustrazione paesaggistica mitica in formato orizzontale ispirata all'u
 
 ---
 
-### No. 89: Marketing di Prodotto - Design di Abbigliamento Ispirato alla Birra Tsingtao
+### No. 89: Marketing di Prodotto - Concept Board di Moda Streetwear Budweiser
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Trasforma la foto di un prodotto, una lattina di birra, in una mood board completa per una collezione streetwear femminile, che include capi d'abbigliamento e accessori.
+
+#### 📝 Prompt
+
+```
+Utilizzando l'immagine di riferimento fornita della lattina di birra Budweiser, trasformala in un concept board di alta moda intitolato "Budweiser Women's Collection". Il design deve presentare uno sfondo bianco pulito con un'estetica streetwear. Includi due modelle: una a sinistra indossa una felpa corta rossa e pantaloni della tuta bianchi, mentre quella a destra porta un gilet di jeans e pantaloni da tuta rossi. Circondale con una selezione curata di articoli brandizzati, tra cui un top rosso a spalline sottili, una t-shirt corta bianca, shorts di jeans, un giacchetto bomber in raso, una cintura, calze al ginocchio, un cappellino, una borsa tote, occhiali da sole e sneakers. Assicurati che tutti i capi di abbigliamento e gli accessori mostrino in modo prominente il logo Budweiser e il testo 'King of Beers' estratto dall'immagine di riferimento.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618685088_d69hw2_HUQD-hOa0AAAIku.jpg" width="600" alt="Marketing di Prodotto - Concept Board di Moda Streetwear Budweiser - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Popcraft AI](https://x.com/popcraftAI)
+- **Fonte:** [Twitter Post](https://x.com/popcraftAI/status/2108814902861471808#reversed-1)
+- **Pubblicato:** 10 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36230)**
+
+---
+
+### No. 90: Marketing di Prodotto - Prompt di Design per Outfit Preppy Soft
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Prompt di design della moda per creare un outfit preppy soft con camicia a quadri gingham, gilet in maglia e pantaloni a gamba larga utilizzando ChatGPT Image 2.
+
+#### 📝 Prompt
+
+```
+OUTFIT:
+
+Una camicia oversize a quadri gingham color azzurro pallido con colletto, annodata in vita e indossata sotto un gilet corto in maglia senza maniche, abbinata a pantaloni a vita alta e gamba larga con sottili righe verticali.
+
+Completato da calzini bianchi alla caviglia e décolleté nere stile Mary Jane.
+
+Estetica fashion pulita, elegante e delicatamente preppy.
+Palette di colori: azzurro pallido, bianco, nero e tonalità neutre morbide.
+Nessun decoro aggiuntivo.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618678562_r0p74e_HUHSrGKa8AAlUbQ.jpg" width="600" alt="Marketing di Prodotto - Prompt di Design per Outfit Preppy Soft - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618678035_lbipog_HUHSrF8a4AAGa3r.jpg" width="600" alt="Marketing di Prodotto - Prompt di Design per Outfit Preppy Soft - Image 2">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Fonte:** [Twitter Post](https://x.com/ArtistaNozomu/status/2108393262117527622)
+- **Pubblicato:** 9 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36218)**
+
+---
+
+### No. 91: Marketing di Prodotto - Design di Abbigliamento Ispirato alla Birra Tsingtao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4567,7 +4596,7 @@ Ispirato a questo prodotto, progetta un set di abbigliamento femminile in stile 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532572852_d6rde7_HUJn-zJbEAA-S12.jpg" width="600" alt="Marketing di Prodotto - Design di Abbigliamento Ispirato alla Birra Tsingtao - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791618677089_eixd46_HUJn-zJbEAA-S12.jpg" width="600" alt="Marketing di Prodotto - Design di Abbigliamento Ispirato alla Birra Tsingtao - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4581,7 +4610,7 @@ Ispirato a questo prodotto, progetta un set di abbigliamento femminile in stile 
 
 ---
 
-### No. 90: Marketing di Prodotto - Esempi di poster e modifica studio con GPT Image 2
+### No. 92: Marketing di Prodotto - Esempi di poster e modifica studio con GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4616,7 +4645,118 @@ Modifica: la foto degli auricolari in studio era il riferimento, la scena del ru
 
 ---
 
-### No. 91: Marketing di Prodotto - Prompt per Foto di Prodotto con Personaggio Impassibile
+### No. 93: Marketing di Prodotto - Poster con titolo leggibile e modifica del prodotto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Genera un poster con tipografia leggibile ed esegue una modifica del prodotto spostando gli auricolari da un cubo da studio a una roccia bagnata.
+
+#### 📝 Prompt
+
+```
+Un poster il cui titolo è davvero leggibile, più una modifica del prodotto: stessi auricolari, spostati dal cubo da studio a una roccia bagnata.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618675606_i5b8f3_HUJU0hdawAAZbs3.jpg" width="600" alt="Marketing di Prodotto - Poster con titolo leggibile e modifica del prodotto - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618677011_4xfaby_HUJU0sYbkAAKKIL.jpg" width="600" alt="Marketing di Prodotto - Poster con titolo leggibile e modifica del prodotto - Image 2">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [InkRoom · AI Image Studio](https://x.com/inkroom_ai)
+- **Fonte:** [Twitter Post](https://x.com/inkroom_ai/status/2108340842889089027)
+- **Pubblicato:** 8 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36216)**
+
+---
+
+### No. 94: Marketing di Prodotto - Modello di Moda Anime Kinetic Couture
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Prompt dettagliato per generare un modello di moda anime adulto che indossa una kinetic couture ispirata alla Cina, con palette di colori specifiche ed eleganza futuristica.
+
+#### 📝 Prompt
+
+```
+modello di moda anime adulto, kinetic couture originale ispirata alla Cina, azzurro pallido come unico colore heritage conservato, combinato con grigio grafite, bianco gelo e rame lucido sobrio, key visual premium in stile anime, eleganza futuristica, forte presenza da eroina,
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618681273_alc7kq_HUI5Q1JbcAAYPpG.jpg" width="600" alt="Marketing di Prodotto - Modello di Moda Anime Kinetic Couture - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618681212_kphk25_HUI5Q1XbEAESbLI.jpg" width="600" alt="Marketing di Prodotto - Modello di Moda Anime Kinetic Couture - Image 2">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Fonte:** [Twitter Post](https://x.com/ArtistaNozomu/status/2108311090006503536)
+- **Pubblicato:** 8 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36223)**
+
+---
+
+### No. 95: Marketing di Prodotto - Design dell'Outfit Street in Denim Indaco
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Prompt dettagliato per generare un outfit street in denim indaco giapponese con elementi kimono.
+
+#### 📝 Prompt
+
+```
+Vesti la persona nell'immagine di riferimento con questo esatto outfit street in denim indaco giapponese, preservando il suo viso e la sua acconciatura. Giacca kimono corta in indaco scuro con colletto profondo sovrapposto, maniche larghe a tre quarti, cuciture sashiko, stampe floreali e pannelli patchwork. Retro: giacca in denim corta completamente coperta con cuciture strutturate, fiori bianchi ricamati e ampie maniche kimono. Ampia cintura obi ricamata con anelli in ottone e nappe pendenti. Sostituisci qualsiasi gonna con pantaloni hakama in denim a gamba estremamente larga e lunghezza piena che arrivano alle scarpe, caratterizzati da pannelli di tessuto asimmetrici stratificati, orli grezzi sfrangiati, toppe indaco sbiadite, motivi geometrici e onde bianche. Drappeggi laterali lunghi si estendono dalla vita. Top interno nero, robusti stivali platform neri, ornamenti per capelli indaco, orecchini con nappe e borsa a tracolla ricamata sulla spalla. Ritratto di moda a figura intera, non un foglio di design.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791618680027_5c1e04_HUI5WBbakAAI8j1.jpg" width="600" alt="Marketing di Prodotto - Design dell'Outfit Street in Denim Indaco - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [megumix@AIart](https://x.com/tarotaro_mgm)
+- **Fonte:** [Twitter Post](https://x.com/tarotaro_mgm/status/2108311071853592813)
+- **Pubblicato:** 8 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36221)**
+
+---
+
+### No. 96: Marketing di Prodotto - Prompt per Foto di Prodotto con Personaggio Impassibile
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4699,7 +4839,7 @@ Solo una firma "voxcat" estremamente piccola in basso a destra, nessun altro tes
 
 ---
 
-### No. 92: Marketing di Prodotto - Banner Evento Ibrido Cartoon e Foto
+### No. 97: Marketing di Prodotto - Banner Evento Ibrido Cartoon e Foto
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4776,7 +4916,7 @@ Orizzontale 16:9, piccola firma voxcat integrata naturalmente nell'angolo in bas
 
 ---
 
-### No. 93: Marketing di Prodotto - Prompt per Annuncio Prodotto con Prospettiva Fisheye
+### No. 98: Marketing di Prodotto - Prompt per Annuncio Prodotto con Prospettiva Fisheye
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4829,7 +4969,7 @@ Formato verticale 2:3, elemento testuale è una piccola firma 'voxcat' in basso 
 
 ---
 
-### No. 94: Marketing di Prodotto - Prompt per Ritratto di Viaggio Cinematografico
+### No. 99: Marketing di Prodotto - Prompt per Ritratto di Viaggio Cinematografico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4869,7 +5009,7 @@ Indossa una giacca nera minimalista sopra una T-shirt bianca pulita, conferendog
 
 ---
 
-### No. 95: Marketing di Prodotto - Prompt per Outfit con Maglione all'Uncinetto Verde Menta
+### No. 100: Marketing di Prodotto - Prompt per Outfit con Maglione all'Uncinetto Verde Menta
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4918,7 +5058,7 @@ Nessuna decorazione aggiuntiva.
 
 ---
 
-### No. 96: Marketing di Prodotto - Foto Interattiva con Murale e Caffè
+### No. 101: Marketing di Prodotto - Foto Interattiva con Murale e Caffè
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4969,7 +5109,7 @@ Non copiare la composizione esatta dell'immagine di riferimento/di esempio. Mant
 
 ---
 
-### No. 97: Marketing di Prodotto - Trasformazione Surreale da Cibo a Illustrazione di Libro per Bambini
+### No. 102: Marketing di Prodotto - Trasformazione Surreale da Cibo a Illustrazione di Libro per Bambini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5022,7 +5162,7 @@ Composizione: verticale 3:4, spazio negativo bilanciato, punto focale forte, tra
 
 ---
 
-### No. 98: Marketing di Prodotto - Insegna da marciapiede vintage per deli colazione
+### No. 103: Marketing di Prodotto - Insegna da marciapiede vintage per deli colazione
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5061,7 +5201,7 @@ Nella parte più bassa, centrato, il testo recita "Sixth Ave" in corsivo sopra "
 
 ---
 
-### No. 99: Marketing di Prodotto - Prompt per Moda Urbana Fotorealistica con GPT Image 2
+### No. 104: Marketing di Prodotto - Prompt per Moda Urbana Fotorealistica con GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5110,7 +5250,7 @@ Evita ritocchi eccessivi, pelle plastica, proporzioni corporee irrealistiche, il
 
 ---
 
-### No. 100: Marketing di Prodotto - Prompt per Ritratto Noir Cinematografico
+### No. 105: Marketing di Prodotto - Prompt per Ritratto Noir Cinematografico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5165,7 +5305,7 @@ Nessun testo, nessun filigrana, nessuna pelle dall'aspetto artificiale, nessun r
 
 ---
 
-### No. 101: Marketing di Prodotto - Robot MPD Solleva Container
+### No. 106: Marketing di Prodotto - Robot MPD Solleva Container
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5198,7 +5338,7 @@ Un'immagine cinematografica e fotorealistica di un enorme robot bipede della pol
 
 ---
 
-### No. 102: Marketing di Prodotto - Donna dell'Asia meridionale in abito smeraldo
+### No. 107: Marketing di Prodotto - Donna dell'Asia meridionale in abito smeraldo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5230,272 +5370,6 @@ Luce naturale soffusa, elegante ambiente interno, sfondo neutro chiaro con piant
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35804)**
-
----
-
-### No. 103: Marketing di Prodotto - Ritratto Cinematografico Scuro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt per generare un ritratto in primo piano ultra-realistico e cinematografico di un giovane uomo che emerge dall'oscurità con una drammatica illuminazione chiaroscuro.
-
-#### 📝 Prompt
-
-```
-Ritratto in primo piano ultra-realista, cinematografico e high-fashion di un giovane uomo di bell'aspetto nei primi anni '20, con capelli neri corvini folti e naturalmente mossi, sopracciglia maschili marcate, occhi marrone scuro profondi, una mascella scolpita e ben definita, leggera barba incolta naturale e texture della pelle realistica con pori visibili.
-
-CONCETTO E COMPOSIZIONE:
-
-Il suo volto emerge misteriosamente da un'oscurità assoluta e nera come la pece, creando un'immagine potente e accattivante. Solo i suoi intensi occhi marrone scuro, il ponte del naso e i contorni affilati della sua mascella scolpita sono illuminati da una luce direzionale estremamente sottile e morbida. Il resto del suo viso scompare gradualmente in ombre profonde e vellutate, creando un drammatico effetto chiaroscuro.
-
-ILLUMINAZIONE E ATMOSFERA:
-
-Illuminazione cinematografica a bassissima chiave (low-key) con delicati riflessi luminosi nei suoi occhi, una debole striscia di luce morbida che traccia il ponte del naso e un'illuminazione sottile che definisce la linea della mascella. Neri profondi, ombre ricche, contrasto drammatico e un'atmosfera misteriosa, intensa e sofisticata. La sua espressione è calma, sicura, seria e maschilmente disinvolta, con gli occhi che fissano direttamente l'obiettivo.
-
-FOTOGRAFIA E QUALITÀ:
-
-Ritratto estremo in primo piano, scattato con un obiettivo professionale per ritratti da 85mm, profondità di campo ridotta, texture della pelle naturale ultra-dettagliata, tratti facciali realistici, ombre cinematografiche, fotografia editoriale di moda di lusso, illuminazione da studio professionale, 8K HDR, qualità fotorealistica, estetica monocromatica nera sofisticata e dettagli degli occhi eccezionalmente nitidi.
-
-SFONDO E STILE:
-
-Sfondo completamente nero e senza cuciture, senza ambienti visibili. Composizione minimalista che enfatizza la bellezza del viso, degli occhi e della mascella. Estetica di campagna editoriale dark luxury, atmosfera cinematografica misteriosa, uso artistico dello spazio negativo, neri profondi e sottili riflessi argentati.
-
-REQUISITI STRETTI: Mantenere proporzioni facciali maschili naturali e realistiche, tratti anatomicamente accurati, texture della pelle vivida e capelli naturali. Nessun bagliore artificiale, nessuna illuminazione eccessiva, nessuno sfondo visibile, nessun oggetto extra, nessun testo, nessun logo, nessun watermark. Formato verticale 9:16.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791013849280_c8mtco_HTmV_RjbUAAKmE_.jpg" width="600" alt="Marketing di Prodotto - Ritratto Cinematografico Scuro - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
-- **Fonte:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2105879225593122831)
-- **Pubblicato:** 2 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35853)**
-
----
-
-### No. 104: Marketing di Prodotto - Prompt per Collage di Moda Minimalista
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt per generare un collage di ritratti di moda verticale ultra-realistico e premium, con una donna in total black su uno sfondo architettonico beige.
-
-#### 📝 Prompt
-
-```
-Crea un collage di ritratti di moda verticale in formato 4:5, ultra-realistico e premium, ambientato in un interno minimalista dai toni caldi.
-Una giovane donna è in piedi con sicurezza sul lato sinistro della composizione, appoggiata naturalmente a una grande parete architettonica curva e scultorea color beige. Indossa un outfit elegante e sobrio completamente nero — un top nero a maniche lunghe, pantaloni dritti o jeans neri e scarpe nere. La posa è rilassata e naturale, con una gamba leggermente incrociata sull'altra e le mani posizionate casualmente vicino alle tasche.
-
-Sul lato destro, crea tre ritratti fotografici in bianco e nero incorniciati, disposti verticalmente, che mostrano la stessa donna in pose naturali diverse:
-Indossa occhiali da sole neri alla moda e guarda verso la fotocamera.
-Guarda verso il basso con un'espressione calma.
-Indossa occhiali da sole neri e li aggiusta delicatamente con una mano.
-Mantieni tutti e tre i ritratti coerenti con la stessa identità facciale della donna.
-L'interno deve avere una sofisticata palette di colori beige, crema e sabbia calda, luce solare morbida che entra lateralmente, bellissime ombre naturali delle finestre sulla parete e sul pavimento, illuminazione cinematografica sottile, decorazioni moderne minimaliste e un piccolo vaso scultoreo in pietra con rami delicati nell'angolo in basso a sinistra.
-Fotografia fotorealistica, texture della pelle realistica, tessuti realistici, proporzioni naturali, estetica editoriale di moda premium, ombre morbide, fotografia architettonica, dettagli elevati, composizione cinematografica, 8K, stile pulito da rivista di lusso,
-
-formato verticale 4:5.
-Importante: nessun watermark, nessun testo aggiuntivo, nessun logo, nessuna mano distorta, nessuna persona duplicata, nessun volto dall'aspetto artificiale,
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791013847455_vvzy49_HTmPDoaakAAIYDh.jpg" width="600" alt="Marketing di Prodotto - Prompt per Collage di Moda Minimalista - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Laraib Fatima‎](https://x.com/AiwithLariab)
-- **Fonte:** [Twitter Post](https://x.com/AiwithLariab/status/2105871614512607509)
-- **Pubblicato:** 2 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35808)**
-
----
-
-### No. 105: Marketing di Prodotto - Prompt GPT Image 2: Cambio Abito a Pois Retrò
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt per l'editing di immagini con GPT Image 2 che trasforma l'abito di un personaggio in un vestito retrò a pois rossi, neri e bianchi, preservando identità e posa.
-
-#### 📝 Prompt
-
-```
-【SOLO CAMBIO ABITO】
-
-Usa l'immagine del personaggio allegata come riferimento prioritario.
-
-Crea l'immagine finale in una composizione verticale 4:5.
-
-Preserva l'identità originale del personaggio e lo stile dell'illustrazione.
-Mantieni il viso, gli occhi, l'acconciatura, il colore dei capelli, l'espressione e l'impressione generale della posa originali.
-
-Modifica solo l'abbigliamento e gli accessori abbinati.
-
-Ricompone naturalmente l'immagine in un formato verticale 4:5, preservando il più possibile il personaggio originale, l'espressione, l'impressione della posa e la sensazione complessiva della scena.
-
-Assicurati che il viso del personaggio e il gesto delle mani a cuore siano chiaramente visibili nella composizione 4:5.
-
-Non riprogettare la scena.
-Non creare una posa completamente nuova.
-Non eseguire uno zoom out non necessario.
-Non rivelare parti aggiuntive del corpo solo per mostrare i dettagli dell'abbigliamento.
-Se le gambe o i piedi non sono visibili nell'immagine originale, non aggiungerli.
-
-ABBIGLIAMENTO:
-
-Un grazioso vestito ispirato al retrò in rosso, nero e bianco con un design pulito a pois.
-
-Corpetto nero aderente con un grande colletto Peter Pan bianco arrotondato.
-
-Maniche corte rosse a sbuffo con pois bianchi distribuiti uniformemente e polsini leggermente arricciati.
-
-Gonna rossa a vita alta con pois bianchi e silhouette a linea A leggermente svasata.
-
-Grande fiocco in tessuto bianco in vita.
-
-Accessorio per capelli opzionale a nastro coordinato rosso e bianco a pois.
-
-Se le calzature sono visibili, usa semplici scarpe rosse coordinate.
-
-Design del costume pulito e coordinato.
-Motivo a pois coerente.
-Nessuna decorazione extra.
-
-Adatta l'abbigliamento naturalmente all'area visibile esistente del personaggio.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791013855404_pgw0qi_HTi-3iLasAAI-sU.jpg" width="600" alt="Marketing di Prodotto - Prompt GPT Image 2: Cambio Abito a Pois Retrò - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791013855673_eswi45_HTi-3iPb0AA7IhQ.jpg" width="600" alt="Marketing di Prodotto - Prompt GPT Image 2: Cambio Abito a Pois Retrò - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
-- **Fonte:** [Twitter Post](https://x.com/ArtistaNozomu/status/2105857805496488221)
-- **Pubblicato:** 2 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35815)**
-
----
-
-### No. 106: Marketing di Prodotto - Foto di Moda Lungofiume con Blocco Identità
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Prompt dettagliato per creare una fotografia di moda lifestyle ultra-realistica di una donna che cammina lungo una strada lungofiume soleggiata, preservando rigorosamente l'identità facciale da un'immagine di riferimento.
-
-#### 📝 Prompt
-
-```
-Utilizza l'immagine di riferimento femminile caricata come UNICA fonte di identità.
-
-Crea una fotografia di moda lifestyle cinematografica e ultra-realistica della stessa donna. Preserva la sua esatta identità facciale, struttura del viso, occhi, sopracciglia, naso, labbra, tono della pelle, texture naturale della pelle, acconciatura e aspetto generale. Non modificare né ridisegnare il suo volto.
-
-Cammina lungo una splendida strada pedonale lungofiume soleggiata in un'affascinante città tropicale asiatica. Si gira naturalmente verso la telecamera oltre la spalla con un sorriso gentile e sicuro.
-
-ABBIGLIAMENTO: mini abito a strati senza maniche color magenta-rosa vivace, con sottili spalline, vita arricciata aderente, tessuto morbido raccolto e gonna multistrato fluida. Porta una borsa a tracolla in paglia intrecciata naturale. Indossa sneakers casual bianche pulite e orecchini a cerchio minimalisti in oro.
-
-CAPELLI: capelli scuri naturalmente mossi raccolti in una coda alta con ciocche libere che incorniciano il viso.
-
-AMBIENTE: fiori rigogliosi di buganvillea che traboccano attorno al sentiero, alberi verdi, edifici colorati sul lungofiume, lanterne tradizionali di bambù appese, piccole barche sul fiume, cielo azzurro brillante e atmosfera pacifica da vacanza.
-
-ILLUMINAZIONE: luce solare naturale intensa di mezzogiorno, ombre realistiche morbide, riflessi caldi sottili, tonalità naturali della pelle.
-
-MACCHINA FOTOGRAFICA: fotografia di moda lifestyle a figura intera, prospettiva all'altezza degli occhi leggermente dietro il soggetto, obiettivo da 50mm, profondità di campo realistica, soggetto nitido con sfondo naturalmente ammorbidito.
-
-STILE: fotografia editoriale di viaggio di lusso, fotorealistica, pori della pelle realistici, texture autentica dei tessuti, proporzioni corporee naturali, grading cromatico cinematografico, alta gamma dinamica, dettaglio 4K/8K.
-
-BLOCCO IDENTITÀ RIGOROSO — preserva l'esatto volto della donna dall'immagine di riferimento caricata.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790841301623_njhgm4_HThzaqCaQAArNnn.jpg" width="600" alt="Marketing di Prodotto - Foto di Moda Lungofiume con Blocco Identità - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Dania](https://x.com/DaniaSafvi)
-- **Fonte:** [Twitter Post](https://x.com/DaniaSafvi/status/2105559740197810552)
-- **Pubblicato:** 1 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35752)**
-
----
-
-### No. 107: Marketing di Prodotto - Prompt Sogno al Neon di Tokyo Notturna
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt conciso per generare una scena notturna onirica e illuminata al neon a Tokyo, con effetti specifici di colore e lente utilizzando GPT Image 2.
-
-#### 📝 Prompt
-
-```
-Tokyo dopo il tramonto, attraverso l'obiettivo di un sogno. Una giacca blazer pastello. Capelli mossi dal vento. Neon rosa, ciano e lavanda che si dissolvono in bokeh. Un'inquadratura a bassa angolazione con la calda tonalità Kodak Gold e un morbido lens flare.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790841304858_1akvlu_HTgl-CaagAAjES-.jpg" width="600" alt="Marketing di Prodotto - Prompt Sogno al Neon di Tokyo Notturna - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790841304846_twawgt_HTgmGhUaMAAWXp4.jpg" width="600" alt="Marketing di Prodotto - Prompt Sogno al Neon di Tokyo Notturna - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Astraia AI](https://x.com/BenjarminX)
-- **Fonte:** [Twitter Post](https://x.com/BenjarminX/status/2105474772222292307)
-- **Pubblicato:** 1 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=35756)**
 
 ---
 
@@ -6092,7 +5966,7 @@ Crea una fotografia di prodotto iper-realistica in stile museale di un singolo {
 
 <div align="center">
 
-### 🎯 17700 altri prompt non mostrati qui
+### 🎯 17717 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6155,6 +6029,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-10T03:12:45.595Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-10T16:33:18.092Z</sub>
 
 </div>
