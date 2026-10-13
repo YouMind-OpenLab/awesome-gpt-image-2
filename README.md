@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **17861** |
+| 📝 Total Prompts | **17868** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Tuesday, October 13, 2026 at 4:22:49 AM UTC** |
+| 🔄 Last Updated | **Tuesday, October 13, 2026 at 6:37:23 PM UTC** |
 
 </div>
 
@@ -1455,7 +1455,46 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 21: Social Media Post - Girl in Swimsuit on Orange Stairs
+### No. 21: Social Media Post - Autumn Street Style Outfit Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt for generating a cute girl in brown gingham shorts, oversized gray hoodie, and ear muff cap in a relaxed autumn street style pose.
+
+#### 📝 Prompt
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="Social Media Post - Autumn Street Style Outfit Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="Social Media Post - Autumn Street Style Outfit Prompt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Source:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **Published:** October 13, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: Social Media Post - Girl in Swimsuit on Orange Stairs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1488,7 +1527,7 @@ A high-angle, full-body portrait of a young East Asian woman sitting on a set of
 
 ---
 
-### No. 22: Social Media Post - Halloween Pastry Repair Girl Prompt
+### No. 23: Social Media Post - Halloween Pastry Repair Girl Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1537,7 +1576,7 @@ Full body visible, hands visible. A slightly proud smile.
 
 ---
 
-### No. 23: Social Media Post - Warhammer 40k Fall of Cadia Scene
+### No. 24: Social Media Post - Warhammer 40k Fall of Cadia Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1570,7 +1609,7 @@ The Fall of Cadia during the 13th Black Crusade. The blackstone pylons crack as 
 
 ---
 
-### No. 24: Social Media Post - Craftworld Iyanden Tyranid Battle
+### No. 25: Social Media Post - Craftworld Iyanden Tyranid Battle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1603,7 +1642,7 @@ Craftworld Iyanden burns under the Tyranid swarm. Ghost Warriors stand in the cr
 
 ---
 
-### No. 25: Social Media Post - Saint Celestine Warhammer Scene
+### No. 26: Social Media Post - Saint Celestine Warhammer Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1636,7 +1675,7 @@ Saint Celestine rises above the Chaos Space Marines. Golden armor, white wings, 
 
 ---
 
-### No. 26: Social Media Post - Stylized Western Character Illustration
+### No. 27: Social Media Post - Stylized Western Character Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1669,7 +1708,7 @@ A stylized, caricature-style illustration of two Western characters standing in 
 
 ---
 
-### No. 27: Social Media Post - Shibuya Street Style Portrait
+### No. 28: Social Media Post - Shibuya Street Style Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1702,7 +1741,7 @@ A vertical portrait of a young woman squatting on a sunlit street in Shibuya, To
 
 ---
 
-### No. 28: Social Media Post - Mummified Anime Girl Costume Prompt
+### No. 29: Social Media Post - Mummified Anime Girl Costume Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1754,7 +1793,7 @@ Full body, slightly troubled cute face.
 
 ---
 
-### No. 29: Social Media Post - Shanghai Good Morning Food Poster
+### No. 30: Social Media Post - Shanghai Good Morning Food Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1805,7 +1844,7 @@ A high-resolution, appetizing food photography poster featuring a close-up of fr
 
 ---
 
-### No. 30: Social Media Post - Cinematic Monochrome Double Exposure Fashion Portrait Prompt
+### No. 31: Social Media Post - Cinematic Monochrome Double Exposure Fashion Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1912,7 +1951,7 @@ A structured JSON prompt for GPT Image 2 generating a cinematic monochrome doubl
 
 ---
 
-### No. 31: Social Media Post - Nokia Phone Diary Aesthetic Prompt
+### No. 32: Social Media Post - Nokia Phone Diary Aesthetic Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1976,7 +2015,7 @@ The photographic subject is clear, with manual markings interwoven with the real
 
 ---
 
-### No. 32: Social Media Post - Chibi Girls Making Pancakes
+### No. 33: Social Media Post - Chibi Girls Making Pancakes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2013,7 +2052,7 @@ Props & Text: Include a bag labeled "Fluffy Pancake Mix", a jar labeled "HONEY",
 
 ---
 
-### No. 33: Social Media Post - Line Art Typography Poster
+### No. 34: Social Media Post - Line Art Typography Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2060,7 +2099,7 @@ Visual Style: Minimalist, typographic, geometric, flat design, high contrast bet
 
 ---
 
-### No. 34: Social Media Post - Harbor Street Coffee Fall Menu
+### No. 35: Social Media Post - Harbor Street Coffee Fall Menu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2093,7 +2132,7 @@ A high-angle, photorealistic shot of a rustic wooden table bathed in warm, dappl
 
 ---
 
-### No. 35: Social Media Post - Vintage Department Store Portrait
+### No. 36: Social Media Post - Vintage Department Store Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2126,7 +2165,7 @@ A vintage-style photograph of a young woman standing in a Japanese department st
 
 ---
 
-### No. 36: Social Media Post - Nostalgic Scrapbook Photo Prompt
+### No. 37: Social Media Post - Nostalgic Scrapbook Photo Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2186,7 +2225,7 @@ Important: preserve realistic photography in the top section; do not turn the ph
 
 ---
 
-### No. 37: Social Media Post - Guangzhou Morning Food Landscape Poster
+### No. 38: Social Media Post - Guangzhou Morning Food Landscape Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2237,28 +2276,28 @@ A creative vertical poster titled "GOOD MORNING GUANGZHOU" (广州早安) in the
 
 ---
 
-### No. 38: Social Media Post - GPT Image 2 Second World Surreal Photo Poster
+### No. 39: Infographic / Edu Visual - Chainsaw Man Makima Character Design Sheet
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A detailed prompt for generating surreal photo posters where the top half is a real photo and the bottom half expands into a conceptual 'second world' with mixed media elements.
+A comprehensive character design sheet for Makima from Chainsaw Man, featuring a central full-body pose surrounded by detailed breakdowns of her costume, physical traits, weapons, and profile information.
 
 #### 📝 Prompt
 
 ```
-Based on each uploaded photograph, create an independent 3:4 vertical 'Second World' conceptual surrealist photo illustration poster. Output each separately, no collages. Strictly 1:1 split vertically. The top half is the original realistic photo; the bottom half is another layer of space growing from within the photo. They are not stitched together but exist as continuous presences in different narrative layers of the same moment.
-The top half should faithfully preserve the original photo as much as possible, without changing the subject, action, spatial relationships, lighting, color, or texture. Only perform necessary proportional cropping and slight high-end tonal adjustments to give it a clean, restrained, publication-quality photographic feel.
-The creative focus is not on the 'subject matter' but on re-understanding the visual structure. First, observe the most decisive structural clues in this photo (e.g., boundaries, slopes, water surfaces, reflections, shadows, cracks, roads, branches, clouds, contours, gaps, flow, repetitive rhythms, spatial turns, or poses). Find the part best suited to 'cross the boundary'. Then let it break through the photo's edge into the bottom half, undergoing a translation of purpose, scale, semantics, or narrative role upon entry. It's not simple extension, but transforming something real into another existence that can be used, entered, measured, salvaged, repaired, organized, borrowed, unfolded, or collected in the second layer of space.
-The bottom half is a warm, quiet, off-white space with subtle paper texture and ample whitespace. It is not an illustration background or decoration area, but a place to receive the 'new logic after crossing the boundary'. The relationship follows: Reality → Crossing → Translation. The charm comes from a smart and accurate cross-layer narrative, not cute decorations.
-You may add minimal black hand-drawn line art figures (0-3), few but precise. Figures are users of the second world, interacting authentically with the translated structures. Lines should be light, simple, natural, slightly handmade, not cutesy, complex, or distracting. Actions should be specific, restrained, and smart, like seriously handling a small thing inherent to this world.
-You may add a short English handwritten caption, generated based on the actual 'Second World event' happening in the image. Tone should be like a casual discovery or soft narration, with a hint of humor and lingering interest. Do not write inspirational quotes, explain allegories, or use templates.
-The overall style should present a synthesis of Mixed-Media Photo Illustration, Surreal Photomontage, Frame-Breaking Illusion, Trompe-l'œil, Visual Metaphor, and Conceptual Editorial Illustration. Formally cross-media collage, mechanically frame-breaking, core visual metaphor, emotional tone gentle, slight, and smart micro-surrealism.
-Do not make it a template of 'photo + small people + sentence'; do not have extension without translation; do not have form without metaphor; do not force sentimentality; avoid commercial ad feel, complex illustration feel, repetitive actions, baseless decoration, mechanical collage, hard connections, or cheap healing vibes.
-Final Goal:
-Let viewers first see a valid real photo, then suddenly discover an element crossing into another layer of space, gaining an unexpected yet extremely natural new meaning there.
-Not adding creativity to the photo, but revealing the second reality latent within it.
+Goal: Create a detailed anime character design sheet for Makima from Chainsaw Man.
+Canvas: Vertical layout, clean white background with black text and line art.
+Layout: Central full-body illustration of the character. Surrounding panels detail specific costume elements, physical traits, and profile information.
+Subject details: Makima stands in the center wearing a long-sleeved white button-down shirt tucked into high-waisted black trousers, a black necktie, and a long black coat draped over her shoulders like a cape. She has red hair braided at the back with bangs framing her face, golden eyes with distinct rings, and black leather shoes. Her expression is calm and composed.
+Sections:
+- Top Left: Title "Makima" (真纪真) and subtitle "Character Setting / Costume Breakdown".
+- Top Right: Profile box listing Affiliation (Public Safety Devil Extermination Bureau), Identity (Divine of Control), and Ability (Control).
+- Left Column (Costume Breakdown): Panels for Shirt, Necktie, Suit Jacket, Suit Pants, Leather Shoes, and Historical Reference (showing photos of women in suits).
+- Right Column (Physical & Props): Panels for Hairstyle (front/side/back views), Eye Color (close-up of golden eye), Weapon/Chain (illustration of chains), Historical Reference (chains/handcuffs), Accessory (earring/hand gesture), Prop (contract document and stamp), Color Palette (swatches of red, beige, black, gold), and Keywords (Control, Rationality, Calm, Mystery, Danger).
+Visual style: High-quality anime illustration mixed with technical fashion sketching. Clean lines, precise shading on clothing folds, and elegant typography.
+Text content: Include bilingual labels (English/Japanese) for each section header as seen in the reference image.
 ```
 
 #### 🖼️ Generated Images
@@ -2266,27 +2305,39 @@ Not adding creativity to the photo, but revealing the second reality latent with
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="Social Media Post - GPT Image 2 Second World Surreal Photo Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="Infographic / Edu Visual - Chainsaw Man Makima Character Design Sheet - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="Social Media Post - GPT Image 2 Second World Surreal Photo Poster - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="Infographic / Edu Visual - Chainsaw Man Makima Character Design Sheet - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="Infographic / Edu Visual - Chainsaw Man Makima Character Design Sheet - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="Infographic / Edu Visual - Chainsaw Man Makima Character Design Sheet - Image 4">
 </div>
 
 #### 📌 Details
 
-- **Author:** [小小东](https://x.com/xiaoxiaodong)
-- **Source:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **Published:** October 8, 2026
-- **Languages:** zh
+- **Author:** [Popcraft AI](https://x.com/popcraftAI)
+- **Source:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **Published:** October 12, 2026
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=36163)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: Infographic / Edu Visual - Point Nemo Infographic
+### No. 40: Infographic / Edu Visual - Point Nemo Infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2335,7 +2386,7 @@ Visual Style: Professional infographic design. Use clear sans-serif fonts for bo
 
 ---
 
-### No. 40: Infographic / Edu Visual - Thermal Imaging Photo of Person
+### No. 41: Infographic / Edu Visual - Thermal Imaging Photo of Person
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2368,7 +2419,7 @@ A realistic thermal imaging photograph of a person standing in an indoor environ
 
 ---
 
-### No. 41: Infographic / Edu Visual - Tsing Hua Arts Festival Poster Design
+### No. 42: Infographic / Edu Visual - Tsing Hua Arts Festival Poster Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2401,7 +2452,7 @@ Create a split-screen graphic design poster for the '2025 Spring x Tsing Hua Art
 
 ---
 
-### No. 42: Infographic / Edu Visual - Japanese Game Dev Banner
+### No. 43: Infographic / Edu Visual - Japanese Game Dev Banner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2434,7 +2485,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 43: Infographic / Edu Visual - Cute Focus Desk Flat Lay and Kawaii Illustration
+### No. 44: Infographic / Edu Visual - Cute Focus Desk Flat Lay and Kawaii Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2475,7 +2526,7 @@ Visual Style: The top is crisp, bright, and airy photography. The bottom is soft
 
 ---
 
-### No. 44: Infographic / Edu Visual - Manga Infographic: AI Prompt Engineering
+### No. 45: Infographic / Edu Visual - Manga Infographic: AI Prompt Engineering
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2527,7 +2578,7 @@ Bottom Section:
 
 ---
 
-### No. 45: Infographic / Edu Visual - Dark Fantasy Hell Hound Character Sheet
+### No. 46: Infographic / Edu Visual - Dark Fantasy Hell Hound Character Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2575,7 +2626,7 @@ Visual style: High-fantasy concept art, dark academia aesthetic, detailed textur
 
 ---
 
-### No. 46: Infographic / Edu Visual - Anime Character Design Sheet: Traditional Hanfu Couple
+### No. 47: Infographic / Edu Visual - Anime Character Design Sheet: Traditional Hanfu Couple
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2618,7 +2669,7 @@ Right Character (Female):
 
 ---
 
-### No. 47: Infographic / Edu Visual - Anime Character Design Sheet: Sword Queen
+### No. 48: Infographic / Edu Visual - Anime Character Design Sheet: Sword Queen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2666,7 +2717,7 @@ Create a highly detailed, professional character design sheet for an anime-style
 
 ---
 
-### No. 48: Infographic / Edu Visual - Folk Art Cafe Study Illustration Prompt
+### No. 49: Infographic / Edu Visual - Folk Art Cafe Study Illustration Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2738,7 +2789,7 @@ Scatter only a few tiny floating elements through the empty space: four or five 
 
 ---
 
-### No. 49: Infographic / Edu Visual - Mid-Autumn Festival Typography Poster Prompt
+### No. 50: Infographic / Edu Visual - Mid-Autumn Festival Typography Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2796,7 +2847,7 @@ Font Color: {argument name="font_color_en" default="Gucci Ancora Red"}
 
 ---
 
-### No. 50: Infographic / Edu Visual - Wastewater Treatment Plant Infographic
+### No. 51: Infographic / Edu Visual - Wastewater Treatment Plant Infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2848,7 +2899,7 @@ Create a horizontal infographic poster explaining the working principles of a wa
 
 ---
 
-### No. 51: Infographic / Edu Visual - Minimalist Ceremony Poster Prompt for GPT Image 2
+### No. 52: Infographic / Edu Visual - Minimalist Ceremony Poster Prompt for GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2901,7 +2952,7 @@ Set the theme to "City Public Library Open Day" for a public cultural institutio
 
 ---
 
-### No. 52: Infographic / Edu Visual - UGC Style Marketing Panel Grid
+### No. 53: Infographic / Edu Visual - UGC Style Marketing Panel Grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2941,7 +2992,7 @@ Create a full-sheet 3x3 grid of realistic UGC-style panels featuring this {argum
 
 ---
 
-### No. 53: Infographic / Edu Visual - Golden Deer Morning Felt Transformation
+### No. 54: Infographic / Edu Visual - Golden Deer Morning Felt Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3000,46 +3051,6 @@ Constraints: Keep the split-screen layout, exactly 5 deer on each side, no extra
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: Infographic / Edu Visual - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 Prompt
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="Infographic / Edu Visual - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="Infographic / Edu Visual - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Al-Shamus](https://x.com/im_shahid7)
-- **Source:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **Published:** September 10, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -5987,7 +5998,7 @@ Using REFERENCE_0 as the base image, perform an extremely subtle product-style e
 
 <div align="center">
 
-### 🎯 17741 more prompts not shown here
+### 🎯 17748 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6050,6 +6061,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T04:22:49.384Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T18:37:23.794Z</sub>
 
 </div>

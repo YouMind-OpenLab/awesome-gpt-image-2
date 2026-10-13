@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **17861** |
+| 📝 कुल प्रॉम्पट्स | **17868** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **मंगलवार, 13 अक्टूबर 2026 को 4:23:25 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **मंगलवार, 13 अक्टूबर 2026 को 6:38:06 pm UTC बजे** |
 
 </div>
 
@@ -1456,7 +1456,46 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - नारंगी सीढ़ियों पर स्विमसूट पहने लड़की
+### No. 21: सोशल मीडिया पोस्ट - पतझड़ की स्ट्रीट स्टाइल आउटफिट प्रॉम्प्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+एक क्यूट लड़की को भूरे रंग के जिंघम शॉर्ट्स, ओवरसाइज़्ड ग्रे हुडी और ईयर मफ कैप में आरामदायक पतझड़ की स्ट्रीट स्टाइल पोस में जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="सोशल मीडिया पोस्ट - पतझड़ की स्ट्रीट स्टाइल आउटफिट प्रॉम्प्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="सोशल मीडिया पोस्ट - पतझड़ की स्ट्रीट स्टाइल आउटफिट प्रॉम्प्ट - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **स्रोत:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **प्रकाशित:** 13 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - नारंगी सीढ़ियों पर स्विमसूट पहने लड़की
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1489,7 +1528,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - हैलोवीन पेस्ट्री रिपेयर गर्ल प्रॉम्प्ट
+### No. 23: सोशल मीडिया पोस्ट - हैलोवीन पेस्ट्री रिपेयर गर्ल प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1538,7 +1577,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - वारहैमर 40k: कैडिया के पतन का दृश्य
+### No. 24: सोशल मीडिया पोस्ट - वारहैमर 40k: कैडिया के पतन का दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1571,7 +1610,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - क्राफ्टवर्ल्ड इयान्डेन टायरानिड युद्ध
+### No. 25: सोशल मीडिया पोस्ट - क्राफ्टवर्ल्ड इयान्डेन टायरानिड युद्ध
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1604,7 +1643,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - सेंट सेलेस्टीन वारहैमर दृश्य
+### No. 26: सोशल मीडिया पोस्ट - सेंट सेलेस्टीन वारहैमर दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1637,7 +1676,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - स्टाइलाइज़्ड वेस्टर्न कैरेक्टर इलस्ट्रेशन
+### No. 27: सोशल मीडिया पोस्ट - स्टाइलाइज़्ड वेस्टर्न कैरेक्टर इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1670,7 +1709,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - शिबुया स्ट्रीट स्टाइल पोर्ट्रेट
+### No. 28: सोशल मीडिया पोस्ट - शिबुया स्ट्रीट स्टाइल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1703,7 +1742,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - पेस्टल एनीमे स्टाइल में हैलोवीन मम्मी गर्ल
+### No. 29: सोशल मीडिया पोस्ट - पेस्टल एनीमे स्टाइल में हैलोवीन मम्मी गर्ल
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1755,7 +1794,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - शंघाई गुड मॉर्निंग फूड पोस्टर
+### No. 30: सोशल मीडिया पोस्ट - शंघाई गुड मॉर्निंग फूड पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1806,7 +1845,7 @@ Change braided hair and face direction; omit black satin dress
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - सिनेमैटिक मोनोक्रोम डबल एक्सपोजर फैशन पोर्ट्रेट प्रॉम्प्ट
+### No. 31: सोशल मीडिया पोस्ट - सिनेमैटिक मोनोक्रोम डबल एक्सपोजर फैशन पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1913,7 +1952,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 31: सोशल मीडिया पोस्ट - नोकिया फोटो और हस्तलिखित डायरी डूडल
+### No. 32: सोशल मीडिया पोस्ट - नोकिया फोटो और हस्तलिखित डायरी डूडल
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1977,7 +2016,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 32: सोशल मीडिया पोस्ट - चिबी लड़कियाँ पैनकेक बना रही हैं
+### No. 33: सोशल मीडिया पोस्ट - चिबी लड़कियाँ पैनकेक बना रही हैं
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,7 +2053,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 33: सोशल मीडिया पोस्ट - लाइन आर्ट टाइपोग्राफी पोस्टर
+### No. 34: सोशल मीडिया पोस्ट - लाइन आर्ट टाइपोग्राफी पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2061,7 +2100,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 34: सोशल मीडिया पोस्ट - हार्बर स्ट्रीट कॉफी फॉल मेन्यू
+### No. 35: सोशल मीडिया पोस्ट - हार्बर स्ट्रीट कॉफी फॉल मेन्यू
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2094,7 +2133,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 35: सोशल मीडिया पोस्ट - विंटेज डिपार्टमेंट स्टोर पोर्ट्रेट
+### No. 36: सोशल मीडिया पोस्ट - विंटेज डिपार्टमेंट स्टोर पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2127,7 +2166,7 @@ GPT Image 2 के लिए एक संरचित JSON प्रॉम्�
 
 ---
 
-### No. 36: सोशल मीडिया पोस्ट - नॉस्टैल्जिक एडिटोरियल स्क्रैपबुक टेम्पलेट
+### No. 37: सोशल मीडिया पोस्ट - नॉस्टैल्जिक एडिटोरियल स्क्रैपबुक टेम्पलेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2187,7 +2226,7 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 37: सोशल मीडिया पोस्ट - गुआंगझोउ सुबह का भोजन परिदृश्य पोस्टर
+### No. 38: सोशल मीडिया पोस्ट - गुआंगझोउ सुबह का भोजन परिदृश्य पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2238,36 +2277,30 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 
 ---
 
-### No. 38: सोशल मीडिया पोस्ट - GPT Image 2 सेकंड वर्ल्ड सरेल फोटो पोस्टर
+### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट प्रॉम्प्ट
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक विस्तृत प्रॉम्प्ट जो सरेल फोटो पोस्टर जनरेट करने के लिए है, जहाँ ऊपर का आधा हिस्सा एक वास्तविक फोटो है और नीचे का आधा हिस्सा मिश्रित मीडिया तत्वों के साथ एक अवधारणात्मक 'दूसरी दुनिया' में फैलता है।
+भूमिका-निभाई खेलों या फैन आर्ट संदर्भ के लिए उपयुक्त, पोशाक विवरण के साथ एक व्यापक किरदार डिज़ाइन शीट तैयार करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-प्रत्येक अपलोड की गई तस्वीर के आधार पर, एक स्वतंत्र 3:4 वर्टिकल 'Second World' अवधारणात्मक सरेलिस्ट फोटो इलस्ट्रेशन पोस्टर बनाएं। प्रत्येक को अलग-अलग आउटपुट करें, कोई कोलाज नहीं। कड़ाई से 1:1 वर्टिकल स्प्लिट। ऊपर का आधा हिस्सा मूल यथार्थवादी फोटो है; नीचे का आधा हिस्सा फोटो के भीतर से उभरने वाला एक अन्य स्थान की परत है। ये सिले हुए नहीं हैं, बल्कि एक ही क्षण की अलग-अलग नैरेटिव लेयर्स में निरंतर उपस्थिति के रूप में मौजूद हैं।
-
-ऊपर के आधे हिस्से में मूल फोटो को जितना संभव हो उतना ईमानदारी से सुरक्षित रखें, बिना विषय, क्रिया, स्थानिक संबंधों, प्रकाश व्यवस्था, रंग या बनावट को बदले। केवल आवश्यक अनुपात क्रॉपिंग और हल्के हाई-एंड टोनल समायोजन करें ताकि इसे साफ, संयमित, प्रकाशन-गुणवत्ता वाली फोटोग्राफिक भावना मिल सके।
-
-रचनात्मक ध्यान 'विषय वस्तु' पर नहीं, बल्कि दृश्य संरचना को फिर से समझने पर है। सबसे पहले, इस फोटो में सबसे निर्णायक संरचनात्मक सुरागों (जैसे, सीमाएं, ढलान, जल सतहें, प्रतिबिंब, छायाएं, दरारें, सड़कें, शाखाएं, बादल, रूपरेखा, अंतराल, प्रवाह, दोहराव वाले लय, स्थानिक मोड़, या मुद्राएं) का अवलोकन करें। 'सीमा पार करने' के लिए सबसे उपयुक्त हिस्सा खोजें। फिर उसे फोटो की किनारे से नीचे के आधे हिस्से में तोड़ते हुए जाने दें, जहां प्रवेश करते समय उद्देश्य, पैमाना, अर्थशास्त्र, या नैरेटिव भूमिका का अनुवाद हो। यह सरल विस्तार नहीं है, बल्कि किसी वास्तविक चीज़ को दूसरी अस्तित्व में बदलना है जिसे दूसरी परत के स्थान में उपयोग किया जा सकता है, प्रवेश किया जा सकता है, मापा जा सकता है, बचाया जा सकता है, मरम्मत की जा सकती है, संगठित किया जा सकता है, उधार लिया जा सकता है, खोला जा सकता है, या एकत्रित किया जा सकता है।
-
-नीचे का आधा हिस्सा एक गर्म, शांत, ऑफ-व्हाइट स्थान है जिसमें सूक्ष्म पेपर टेक्सचर और पर्याप्त व्हाइटस्पेस है। यह एक इलस्ट्रेशन बैकग्राउंड या सजावटी क्षेत्र नहीं है, बल्कि 'सीमा पार करने के बाद की नई तर्क' को प्राप्त करने की जगह है। संबंध इस प्रकार है: यथार्थ → पार करना → अनुवाद। आकर्षण स्मार्ट और सटीक क्रॉस-लेयर नैरेटिव से आता है, प्यारी सजावट से नहीं।
-
-आप न्यूनतम काले हाथ से बनाए गए रेखा चित्र आंकड़े (0-3) जोड़ सकते हैं, कम लेकिन सटीक। आंकड़े दूसरी दुनिया के उपयोगकर्ता हैं, जो अनुवादित संरचनाओं के साथ प्रामाणिक रूप से इंटरैक्ट कर रहे हैं। रेखाएं हल्की, सरल, प्राकृतिक, थोड़ी हस्तनिर्मित होनी चाहिए, नाटकपूर्ण, जटिल या ध्यान भटकाने वाली नहीं। क्रियाएं विशिष्ट, संयमित और स्मार्ट होनी चाहिए, जैसे इस दुनिया के लिए निहित किसी छोटी चीज़ को गंभीरता से संभालना।
-
-आप एक छोटा अंग्रेजी हस्तलिखित कैप्शन जोड़ सकते हैं, जो छवि में वास्तव में घटित हो रही 'Second World घटना' के आधार पर उत्पन्न होता है। टोन एक अनौपचारिक खोज या नरम नैरेशन जैसा होना चाहिए, जिसमें थोड़ा हास्य और रुचि का अवशेष हो। प्रेरणादायक उद्धरण न लिखें, रूपकों की व्याख्या न करें, या टेम्पलेट्स का उपयोग न करें।
-
-समग्र शैली मिक्स्ड-मीडिया फोटो इलस्ट्रेशन, सरेल फोटोमोंटाज, फ्रेम-ब्रेकिंग इल्यूजन, ट्रॉम्प-लॉइल, दृश्य रूपक, और अवधारणात्मक एडिटोरियल इलस्ट्रेशन के संश्लेषण को प्रस्तुत करनी चाहिए। औपचारिक रूप से क्रॉस-मीडिया कोलाज, यांत्रिक रूप से फ्रेम-ब्रेकिंग, कोर दृश्य रूपक, भावनात्मक टोन कोमल, हल्का, और स्मार्ट माइक्रो-सरेलिज्म।
-
-इसे 'फोटो + छोटे लोग + वाक्य' के टेम्पलेट में न बदलें; बिना अनुवाद के विस्तार न रखें; बिना रूपक के रूप न रखें; भावुकता को जबरन थोपें नहीं; व्यावसायिक विज्ञापन की भावना, जटिल इलस्ट्रेशन की भावना, दोहराई गई क्रियाएं, बेबुनियाद सजावट, यांत्रिक कोलाज, कठजोड़, या सस्ती हीलिंग वाइब्स से बचें।
-
-अंतिम लक्ष्य:
-दर्शकों को पहले एक वैध वास्तविक फोटो दिखाएं, फिर अचानक एक ऐसे तत्व की खोज कराएं जो दूसरी परत के स्थान में पार कर रहा है, वहां एक अप्रत्याशित yet अत्यंत स्वाभाविक नया अर्थ प्राप्त करता हुआ।
-फोटो में रचनात्मकता जोड़ना नहीं, बल्कि उसमें निहित दूसरी वास्तविकता को प्रकट करना।
+लक्ष्य: चेनसॉ मैन से {argument name="किरदार का नाम" default="मकिमा"} के लिए एक विस्तृत एनिमे किरदार डिज़ाइन शीट और पोशाक विवरण बनाएं।
+कैनवास: ऊर्ध्वाधर पोर्ट्रेट लेआउट जिसमें ऑफ-व्हाइट, थोड़ा टेक्सचर्ड पेपर बैकग्राउंड हो। स्टाइल साफ़, पेशेवर है और अवधारणा कला संदर्भ पृष्ठ जैसा दिखता है।
+लेआउट: किरदार का पूर्ण-शरीर चित्र केंद्र में खड़ा है। उसके चारों ओर चीनी और अंग्रेजी दोनों में लेबल वाले अनुभाग हैं जिनमें लाइन-आर्ट स्कैच और वर्णनात्मक पाठ हैं। पतली लाल रेखाएँ उसकी पोशाक के विशिष्ट हिस्सों को उनके संबंधित विवरण बॉक्स से जोड़ती हैं।
+विषय विवरण: मकिमा आत्मविश्वास से खड़ी है, उसने एक क्रिस्प सफेद बटन-डाउन शर्ट पर एक काला लंबी-पूंछ वाला कोट, एक पतली काली टाई, हाई-वेस्टेड काली पैंट और पॉलिश किए हुए काले चमड़े के जूते पहने हैं। उसके कंधे तक लंबे लाल-भूरे बाल हैं जिनमें सीधी बिंदियां (bangs) हैं और चेहरे को घेरते हुए दो चोटियां हैं। उसकी आँखें सुनहरी-पीली हैं जिनमें स्पष्ट सांद्र वलय (concentric rings) हैं।
+अनुभाग:
+- ऊपरी बायां: शीर्षक "真纪真 MAKIMA" और उपशीर्षक "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN"। नीचे एक उद्धरण है: "मानव... निराशा ही अंतिम स्वाद है।"
+- बाईं कॉलम (ऊपर से नीचे): कपड़ों की वस्तुओं का विवरण देने वाले पांच आयताकार पैनल: शर्ट (सफेद लंबी आस्तीन), नेकटाई (काली संकरी), सूट जैकेट (काला लंबी-पूंछ वाला), सूट पैंट (हाई-वेस्टेड), चमड़े के जूते (काले)। प्रत्येक पैनल में वस्तु का एक स्कैच और द्विभाषी विवरण होता है।
+- दाईं कॉलम (ऊपर से नीचे): विशेषताओं का विवरण देने वाले छह पैनल: प्रोफाइल (संलग्नता: सार्वजनिक सुरक्षा डेवल उन्मूलन ब्यूरो, पहचान: नियंत्रण डेवल, क्षमता: नियंत्रण); हेयरस्टाइल (लाल बाल, पीठ पर एक चोटी में बुने हुए); आंखों का रंग (गहराई वाली सुनहरी आँखें); हथियार/चेन (नियंत्रण शक्ति से प्रकट हुई एक चेन); ऐतिहासिक संदर्भ (मध्यकालीन चेनों और हथकड़ियों से प्रेरित); एक्सेसरी (मिनिमलिस्ट स्टाइल)।
+- निचला बायां: "ऐतिहासिक संदर्भ" शीर्षक वाला एक अनुभाग जिसमें बिजनेस सूट पहने महिलाओं की तीन छोटी तस्वीरें हैं, जो शोवा युग की सौंदर्यशास्त्र को संदर्भित करती हैं।
+- निचला केंद्र: लोगो "チェンソーマン CHAINSAW MAN"।
+- निचला दायां: दो अंतिम पैनल: प्रॉप (मुहर के साथ अनुबंध दस्तावेज) और कलर पैलेट (लाल, बेज, सफेद, काला, सुनहरा रंगों के स्वैच)। नीचे एक कीवर्ड्स अनुभाग है जिसमें सूचीबद्ध हैं: नियंत्रण, तर्कशीलता, शांति, रहस्य, खतरा।
+दृश्य शैली: उच्च गुणवत्ता वाली डिजिटल इलस्ट्रेशन जिसमें तकनीकी डायग्राम की सौंदर्यशास्त्र मिश्रित है। अंग्रेजी पाठ के लिए सेरिफ़ फ़ॉन्ट और चीनी लेबल के लिए मानक सैंस-सेरिफ़ का उपयोग करें।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -2275,27 +2308,39 @@ GPT Image 2 के लिए एक विस्तृत प्रॉम्प�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="सोशल मीडिया पोस्ट - GPT Image 2 सेकंड वर्ल्ड सरेल फोटो पोस्टर - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट प्रॉम्प्ट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="सोशल मीडिया पोस्ट - GPT Image 2 सेकंड वर्ल्ड सरेल फोटो पोस्टर - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट प्रॉम्प्ट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट प्रॉम्प्ट - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट प्रॉम्प्ट - Image 4">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [小小东](https://x.com/xiaoxiaodong)
-- **स्रोत:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **प्रकाशित:** 8 अक्टूबर 2026
-- **भाषाएं:** zh
+- **लेखक:** [Popcraft AI](https://x.com/popcraftAI)
+- **स्रोत:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **प्रकाशित:** 12 अक्टूबर 2026
+- **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=36163)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - Point Nemo इन्फोग्राफिक
+### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - Point Nemo इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2344,7 +2389,7 @@ Point Nemo के बारे में एक शैक्षिक इन्�
 
 ---
 
-### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - व्यक्ति की थर्मल इमेजिंग फोटो
+### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - व्यक्ति की थर्मल इमेजिंग फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2377,7 +2422,7 @@ Point Nemo के बारे में एक शैक्षिक इन्�
 
 ---
 
-### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - त्सिंग हुआ कला महोत्सव पोस्टर डिज़ाइन
+### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - त्सिंग हुआ कला महोत्सव पोस्टर डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2410,7 +2455,7 @@ Point Nemo के बारे में एक शैक्षिक इन्�
 
 ---
 
-### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी गेम डेवलपमेंट बैनर
+### No. 43: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी गेम डेवलपमेंट बैनर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2443,7 +2488,7 @@ Point Nemo के बारे में एक शैक्षिक इन्�
 
 ---
 
-### No. 43: इन्फोग्राफिक / शैक्षिक विज़ुअल - क्यूट फोकस डेस्क फ्लैट ले और कावाई इलस्ट्रेशन
+### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - क्यूट फोकस डेस्क फ्लैट ले और कावाई इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2484,7 +2529,7 @@ Point Nemo के बारे में एक शैक्षिक इन्�
 
 ---
 
-### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - मंगा इन्फोग्राफिक: एआई प्रॉम्प्ट इंजीनियरिंग
+### No. 45: इन्फोग्राफिक / शैक्षिक विज़ुअल - मंगा इन्फोग्राफिक: एआई प्रॉम्प्ट इंजीनियरिंग
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2536,7 +2581,7 @@ Point Nemo के बारे में एक शैक्षिक इन्�
 
 ---
 
-### No. 45: इन्फोग्राफिक / शैक्षिक विज़ुअल - हेल हाउंड कैरेक्टर शीट इन्फोग्राफिक
+### No. 46: इन्फोग्राफिक / शैक्षिक विज़ुअल - हेल हाउंड कैरेक्टर शीट इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2612,7 +2657,7 @@ I am her forever."
 
 ---
 
-### No. 46: इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे कैरेक्टर डिज़ाइन शीट: पारंपरिक हानफू युगल
+### No. 47: इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे कैरेक्टर डिज़ाइन शीट: पारंपरिक हानफू युगल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2655,7 +2700,7 @@ I am her forever."
 
 ---
 
-### No. 47: इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट: तलवार रानी
+### No. 48: इन्फोग्राफिक / शैक्षिक विज़ुअल - एनिमे किरदार डिज़ाइन शीट: तलवार रानी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2703,7 +2748,7 @@ I am her forever."
 
 ---
 
-### No. 48: इन्फोग्राफिक / शैक्षिक विज़ुअल - लोक कला कैफे अध्ययन चित्रण
+### No. 49: इन्फोग्राफिक / शैक्षिक विज़ुअल - लोक कला कैफे अध्ययन चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2764,7 +2809,7 @@ I am her forever."
 
 ---
 
-### No. 49: इन्फोग्राफिक / शैक्षिक विज़ुअल - मिड-ऑटम फेस्टिवल टाइपोग्राफी पोस्टर प्रॉम्प्ट
+### No. 50: इन्फोग्राफिक / शैक्षिक विज़ुअल - मिड-ऑटम फेस्टिवल टाइपोग्राफी पोस्टर प्रॉम्प्ट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2822,7 +2867,7 @@ I am her forever."
 
 ---
 
-### No. 50: इन्फोग्राफिक / शैक्षिक विज़ुअल - मलजल उपचार संयंत्र इन्फोग्राफिक
+### No. 51: इन्फोग्राफिक / शैक्षिक विज़ुअल - मलजल उपचार संयंत्र इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2874,7 +2919,7 @@ I am her forever."
 
 ---
 
-### No. 51: इन्फोग्राफिक / शैक्षिक विज़ुअल - GPT Image 2 के लिए न्यूनतमवादी समारोह पोस्टर प्रॉम्प्ट
+### No. 52: इन्फोग्राफिक / शैक्षिक विज़ुअल - GPT Image 2 के लिए न्यूनतमवादी समारोह पोस्टर प्रॉम्प्ट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2927,7 +2972,7 @@ GPT Image 2 का उपयोग करके समारोह और तर
 
 ---
 
-### No. 52: इन्फोग्राफिक / शैक्षिक विज़ुअल - UGC स्टाइल मार्केटिंग पैनल ग्रिड
+### No. 53: इन्फोग्राफिक / शैक्षिक विज़ुअल - UGC स्टाइल मार्केटिंग पैनल ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2967,7 +3012,7 @@ GPT Image 2 का उपयोग करके इस {argument name="category"
 
 ---
 
-### No. 53: इन्फोग्राफिक / शैक्षिक विज़ुअल - Golden Deer Morning Felt Transformation
+### No. 54: इन्फोग्राफिक / शैक्षिक विज़ुअल - Golden Deer Morning Felt Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3026,46 +3071,6 @@ GPT Image 2 का उपयोग करके इस {argument name="category"
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: इन्फोग्राफिक / शैक्षिक विज़ुअल - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 प्रॉम्पट
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Al-Shamus](https://x.com/im_shahid7)
-- **स्रोत:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **प्रकाशित:** 10 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -6025,7 +6030,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 <div align="center">
 
-### 🎯 17741 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 17748 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6088,6 +6093,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-13T04:23:25.806Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-13T18:38:06.031Z</sub>
 
 </div>

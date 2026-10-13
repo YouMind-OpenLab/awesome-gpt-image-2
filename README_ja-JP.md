@@ -139,9 +139,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **17861** |
+| 📝 プロンプト総数 | **17868** |
 | ⭐ おすすめ | **6** |
-| 🔄 最終更新 | **2026年10月13日火曜日 4:23:02 UTC** |
+| 🔄 最終更新 | **2026年10月13日火曜日 18:37:42 UTC** |
 
 </div>
 
@@ -1463,7 +1463,46 @@ Negative:
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - オレンジの階段に座る水着の少女
+### No. 21: ソーシャルメディア投稿 - 秋のストリートスタイル・ファッションプロンプト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+茶色のギンガムチェックショートパンツ、オーバーサイズのグレーパーカー、イヤーマフ付き帽子を着用し、リラックスした秋のストリートスタイルポーズで描かれたかわいい女の子を生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="ソーシャルメディア投稿 - 秋のストリートスタイル・ファッションプロンプト - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="ソーシャルメディア投稿 - 秋のストリートスタイル・ファッションプロンプト - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **ソース:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **公開日:** 2026年10月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: ソーシャルメディア投稿 - オレンジの階段に座る水着の少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1496,7 +1535,7 @@ Negative:
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - ハロウィンお菓子修理ガール プロンプト
+### No. 23: ソーシャルメディア投稿 - ハロウィンお菓子修理ガール プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1545,7 +1584,7 @@ Negative:
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - Warhammer 40k カディア陥落のシーン
+### No. 24: ソーシャルメディア投稿 - Warhammer 40k カディア陥落のシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1578,7 +1617,7 @@ Negative:
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - Craftworld Iyanden の Tyranid 戦役
+### No. 25: ソーシャルメディア投稿 - Craftworld Iyanden の Tyranid 戦役
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,7 +1650,7 @@ Tyranids の群れにより、Craftworld Iyanden は炎に包まれています�
 
 ---
 
-### No. 25: ソーシャルメディア投稿 - 聖セレスティーン ワーハンマー シーン
+### No. 26: ソーシャルメディア投稿 - 聖セレスティーン ワーハンマー シーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1644,7 +1683,7 @@ Tyranids の群れにより、Craftworld Iyanden は炎に包まれています�
 
 ---
 
-### No. 26: ソーシャルメディア投稿 - スタイライズされた西部劇キャラクターイラスト
+### No. 27: ソーシャルメディア投稿 - スタイライズされた西部劇キャラクターイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1677,7 +1716,7 @@ Tyranids の群れにより、Craftworld Iyanden は炎に包まれています�
 
 ---
 
-### No. 27: ソーシャルメディア投稿 - 渋谷ストリートスタイルポートレート
+### No. 28: ソーシャルメディア投稿 - 渋谷ストリートスタイルポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1710,7 +1749,7 @@ Tyranids の群れにより、Craftworld Iyanden は炎に包まれています�
 
 ---
 
-### No. 28: ソーシャルメディア投稿 - パステルアニメ風ハロウィン・ミイラ少女
+### No. 29: ソーシャルメディア投稿 - パステルアニメ風ハロウィン・ミイラ少女
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1762,7 +1801,7 @@ Tyranids の群れにより、Craftworld Iyanden は炎に包まれています�
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - 上海早安美食海报
+### No. 30: ソーシャルメディア投稿 - 上海早安美食海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1813,7 +1852,7 @@ Tyranids の群れにより、Craftworld Iyanden は炎に包まれています�
 
 ---
 
-### No. 30: ソーシャルメディア投稿 - シネマティック モノクロ ダブルエクスポージャー ファッションポートレート プロンプト
+### No. 31: ソーシャルメディア投稿 - シネマティック モノクロ ダブルエクスポージャー ファッションポートレート プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1920,7 +1959,7 @@ GPT Image 2 でシネマティックなモノクロのダブルエクスポー�
 
 ---
 
-### No. 31: ソーシャルメディア投稿 - Nokia Photo with Handwritten Diary Doodles
+### No. 32: ソーシャルメディア投稿 - Nokia Photo with Handwritten Diary Doodles
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1984,7 +2023,7 @@ Photographic subject is clear, manual markings and real space interpenetrate. Co
 
 ---
 
-### No. 32: ソーシャルメディア投稿 - ちびっ子ガールズのパンケーキ作り
+### No. 33: ソーシャルメディア投稿 - ちびっ子ガールズのパンケーキ作り
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2021,7 +2060,7 @@ Photographic subject is clear, manual markings and real space interpenetrate. Co
 
 ---
 
-### No. 33: ソーシャルメディア投稿 - ラインアート タイポグラフィ ポスター
+### No. 34: ソーシャルメディア投稿 - ラインアート タイポグラフィ ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2068,7 +2107,7 @@ Photographic subject is clear, manual markings and real space interpenetrate. Co
 
 ---
 
-### No. 34: ソーシャルメディア投稿 - Harbor Street Coffee 秋メニュー
+### No. 35: ソーシャルメディア投稿 - Harbor Street Coffee 秋メニュー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2101,7 +2140,7 @@ Photographic subject is clear, manual markings and real space interpenetrate. Co
 
 ---
 
-### No. 35: ソーシャルメディア投稿 - ヴィンテージ百貨店のポートレート
+### No. 36: ソーシャルメディア投稿 - ヴィンテージ百貨店のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2134,7 +2173,7 @@ Photographic subject is clear, manual markings and real space interpenetrate. Co
 
 ---
 
-### No. 36: ソーシャルメディア投稿 - ノスタルジックなエディトリアル・スクラップブックテンプレート
+### No. 37: ソーシャルメディア投稿 - ノスタルジックなエディトリアル・スクラップブックテンプレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2194,7 +2233,7 @@ GPT Image 2 向けに、写実的な上部セクションと手描きスクラ�
 
 ---
 
-### No. 37: ソーシャルメディア投稿 - 広州朝ごはん風景ポスター
+### No. 38: ソーシャルメディア投稿 - 広州朝ごはん風景ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2245,36 +2284,30 @@ GPT Image 2 向けに、写実的な上部セクションと手描きスクラ�
 
 ---
 
-### No. 38: ソーシャルメディア投稿 - GPT Image 2 セカンドワールド シュールレアリスティック フォトポスター
+### No. 39: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-上半分はリアルな写真、下半分は複合メディア要素で構成された概念的な「セカンドワールド」へと拡張される、シュールレアリスティックなフォトポスター生成のための詳細プロンプト。
+ロールプレイングゲームやファンアートの参考資料として適した、衣装の詳細な分解図を含む包括的なキャラクターデザインシートを生成します。
 
 #### 📝 プロンプト
 
 ```
-アップロードされた各写真を基に、独立した縦長（3:4）の「セカンドワールド」コンセプト・シュールレアリスティック写真イラストポスターを作成してください。コラージュではなく、それぞれ個別に出力します。厳密に上下1:1で分割します。上半分は元のリアリティある写真とし、下半分は写真の内側から成長するもう一つの空間層とします。これらは継ぎ接ぎされたものではなく、同じ瞬間における異なるナラティブ層として連続的に存在するものです。
-
-上半分では、被写体、動作、空間関係、ライティング、色彩、テクスチャを変更することなく、元の写真の忠実性を可能な限り保ってください。必要最小限のプロポーショナルなトリミングと、洗練され抑制の効いた出版品質の写真の質感を与えるための微妙なハイエンドなトーン調整のみを行ってください。
-
-創造的な焦点は「被写体」そのものではなく、視覚的構造の再解釈にあります。まず、この写真の中で最も決定的な構造的手がかり（例：境界線、傾斜、水面、反射、影、亀裂、道路、枝、雲、輪郭、隙間、流れ、反復のリズム、空間の転換、ポーズなど）を観察してください。次に、「境界を越える」ために最適な部分を見つけてください。その後、それが写真の縁を突き破って下半分に侵入し、入場時に目的、スケール、意味論、または物語上の役割の変換（翻訳）を経るようにします。単純な延長ではなく、現実的なものを、第二の空間層において使用可能、進入可能、測定可能、救済可能、修復可能、整理可能、借用可能、展開可能、収集可能な別の存在へと変容させるのです。
-
-下半分は、微細な紙の質感と十分な余白を持つ、温かく静かなオフホワイトの空間です。これはイラスト背景や装飾エリアではなく、「境界を越えた後の新しいロジック」を受け入れる場所です。関係性は以下の通りです：現実 → 越境 → 変換。魅力は、賢明かつ正確なクロスレイヤーのナラティブから生まれるものであり、かわいい装飾からは生まれません。
-
-最小限の黒い手描きラインアート人物（0〜3人）を追加しても構いませんが、数は少なく、正確に配置してください。人物はセカンドワールドのユーザーであり、変換された構造とauthentically（本物らしく）相互作用します。線は軽く、シンプルで自然、わずかにハンドメイド感があり、かわいすぎず、複雑でもなく、注意を散漫にするようなものではありません。動作は具体的で、抑制的で、知的であるべきで、この世界に固有の小さな物を真剣に扱っているような様子を描いてください。
-
-画像内で実際に起きている「セカンドワールド イベント」に基づいて生成された、短い英語の手書きキャプションを追加しても構いません。トーンは、カジュアルな発見やソフトな語りかけのようなもので、ユーモアと余韻のある興味深さを漂わせてください。インスピレーションを与える引用句、寓話の説明、テンプレート化された表現は避けてください。
-
-全体的なスタイルは、Mixed-Media Photo Illustration（複合メディア写真イラスト）、Surreal Photomontage（シュールレアリスティック・フォトモンタージュ）、Frame-Breaking Illusion（フレーム破壊の錯視）、Trompe-l'œil（トロンプルイユ）、Visual Metaphor（視覚的メタファー）、Conceptual Editorial Illustration（コンセプチュアル・エディトリアルイラスト）の融合として提示されます。形式上はクロスメディアのコラージュ、機械的にはフレームの破壊、核心的な視覚的メタファー、感情的なトーンは穏やかで、軽やか、そして知的なマイクロ・シュールレアリスム。
-
-「写真＋小人＋一文」というテンプレートにはしないでください。変換のない延長は避け、メタファーのない形式も避け、無理やりなセンチメンタリズムも避けてください。商業広告のような雰囲気、複雑なイラスト風、反復的な動作、根拠のない装飾、機械的なコラージュ、硬い接続、安っぽいヒーリング感を回避してください。
-
-最終目標：
-視聴者がまず有効なリアルな写真を見て、次に突然、別の空間層へ越境する要素を発見し、そこで予期せぬ、しかし極めて自然な新しい意味を得ること。
-写真に創造性を加えるのではなく、写真内に潜在する第二の現実を明らかにすること。
+目標: チェンソーマンの {argument name="character name" default="マキマ"} の詳細なアニメキャラクターデザインシートと衣装分解図を作成する。
+キャンバス: オフホワイトでわずかに質感のある紙背景の縦長ポートレートレイアウト。スタイルはクリーンでプロフェッショナルであり、コンセプトアートリファレンスページに似ている。
+レイアウト: キャラクターの全身イラストが中央に配置される。その周囲には、線画スケッチと中国語・英語の説明テキストが含まれるラベル付きセクションがある。細い赤い線が彼女の衣装の特定の部分を対応する詳細ボックスに接続している。
+被写体の詳細: マキマは自信を持って立っており、黒いロングテールコートをシャープな白いボタンダウンシャツの上に羽織り、細い黒ネクタイ、ハイウエストの黒いスラックス、磨き上げられた黒革靴を着用している。肩までの長さの赤茶色の髪にはストレートな前髪があり、顔を縁取る2本の三つ編みがある。目は黄金色で、明確な同心円状のリング模様がある。
+セクション:
+- 左上: タイトル「真紀真 MAKIMA」とサブタイトル「角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN」。その下には引用文「人間……究極の味は絶望だ。」
+- 左カラム (上から下へ): 衣類アイテムの詳細を示す5つの長方形パネル: シャツ (白長袖)、ネクタイ (黒細幅)、スーツジャケット (黒ロングテール)、スーツパンツ (ハイウエスト)、革靴 (黒)。各パネルにはアイテムのスケッチとバイリンガル説明が含まれる。
+- 右カラム (上から下へ): 特徴の詳細を示す6つのパネル: プロフィール (所属: 公安対悪魔専務課、正体: 支配の悪魔、能力: 支配); ヘアスタイル (赤毛、後ろで1本の三つ編みにまとめられている); 目の色 (深みのある金色の目); 武器/チェーン (支配力から具現化したチェーン); 歴史的参照 (中世の鎖と手錠に着想を得たもの); アクセサリー (ミニマルスタイル)。
+- 左下: ビジネススーツを着た女性の3枚の小写真をフィーチャーした「歴史的参照」セクション。昭和時代の美学を参照している。
+- 中央下部: ロゴ「チェンソーマン CHAINSAW MAN」。
+- 右下: 最後の2つのパネル: 小道具 (封印付き契約書) とカラーパレット (赤、ベージュ、白、黒、金のスウォッチ)。その下にはキーワードセクションがあり、以下がリストされている: 支配、合理性、冷静、神秘、危険。
+ビジュアルスタイル: 高品質なデジタルイラストレーションと技術図面の美学をミックスしたもの。英語テキストにはセリフフォントを使用し、中国語ラベルには標準的なサンセリフフォントを使用する。
 ```
 
 #### 🖼️ 生成画像
@@ -2282,27 +2315,39 @@ GPT Image 2 向けに、写実的な上部セクションと手描きスクラ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="ソーシャルメディア投稿 - GPT Image 2 セカンドワールド シュールレアリスティック フォトポスター - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="ソーシャルメディア投稿 - GPT Image 2 セカンドワールド シュールレアリスティック フォトポスター - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト - Image 4">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [小小东](https://x.com/xiaoxiaodong)
-- **ソース:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **公開日:** 2026年10月8日
-- **言語:** zh
+- **作者:** [Popcraft AI](https://x.com/popcraftAI)
+- **ソース:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **公開日:** 2026年10月12日
+- **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36163)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: インフォグラフィック / 教育ビジュアル - ポイント・ネモのインフォグラフィック
+### No. 40: インフォグラフィック / 教育ビジュアル - ポイント・ネモのインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2351,7 +2396,7 @@ GPT Image 2 向けに、写実的な上部セクションと手描きスクラ�
 
 ---
 
-### No. 40: インフォグラフィック / 教育ビジュアル - 人物のサーマルイメージ写真
+### No. 41: インフォグラフィック / 教育ビジュアル - 人物のサーマルイメージ写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2384,7 +2429,7 @@ FLIR カメラで撮影された、屋内環境に立つ人物のリアルなサ
 
 ---
 
-### No. 41: インフォグラフィック / 教育ビジュアル - 清華芸術祭ポスターデザイン
+### No. 42: インフォグラフィック / 教育ビジュアル - 清華芸術祭ポスターデザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2417,7 +2462,7 @@ FLIR カメラで撮影された、屋内環境に立つ人物のリアルなサ
 
 ---
 
-### No. 42: インフォグラフィック / 教育ビジュアル - Japanese Game Dev Banner
+### No. 43: インフォグラフィック / 教育ビジュアル - Japanese Game Dev Banner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2450,7 +2495,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 43: インフォグラフィック / 教育ビジュアル - かわいい集中デスクのフラットレイとkawaiiイラスト
+### No. 44: インフォグラフィック / 教育ビジュアル - かわいい集中デスクのフラットレイとkawaiiイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2491,7 +2536,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 44: インフォグラフィック / 教育ビジュアル - 漫画インフォグラフィック: AI プロンプトエンジニアリング
+### No. 45: インフォグラフィック / 教育ビジュアル - 漫画インフォグラフィック: AI プロンプトエンジニアリング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2543,7 +2588,7 @@ AI 画像生成におけるプロンプトエンジニアリングの概念を�
 
 ---
 
-### No. 45: インフォグラフィック / 教育ビジュアル - ヘルハウンド キャラクターシート インフォグラフィック
+### No. 46: インフォグラフィック / 教育ビジュアル - ヘルハウンド キャラクターシート インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2630,7 +2675,7 @@ I am her forever."
 
 ---
 
-### No. 46: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート：伝統的な漢服カップル
+### No. 47: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート：伝統的な漢服カップル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2673,7 +2718,7 @@ I am her forever."
 
 ---
 
-### No. 47: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート：剣の女王
+### No. 48: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート：剣の女王
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2720,7 +2765,7 @@ I am her forever."
 
 ---
 
-### No. 48: インフォグラフィック / 教育ビジュアル - フォークアート カフェ勉強 イラスト
+### No. 49: インフォグラフィック / 教育ビジュアル - フォークアート カフェ勉強 イラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2781,7 +2826,7 @@ I am her forever."
 
 ---
 
-### No. 49: インフォグラフィック / 教育ビジュアル - 中秋節タイポグラフィ ポスター プロンプト
+### No. 50: インフォグラフィック / 教育ビジュアル - 中秋節タイポグラフィ ポスター プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2839,7 +2884,7 @@ I am her forever."
 
 ---
 
-### No. 50: インフォグラフィック / 教育ビジュアル - 下水処理場 インフォグラフィック
+### No. 51: インフォグラフィック / 教育ビジュアル - 下水処理場 インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2891,7 +2936,7 @@ I am her forever."
 
 ---
 
-### No. 51: インフォグラフィック / 教育ビジュアル - GPT Image 2 用 ミニマルな儀式感ポスターのプロンプト
+### No. 52: インフォグラフィック / 教育ビジュアル - GPT Image 2 用 ミニマルな儀式感ポスターのプロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2944,7 +2989,7 @@ GPT Image 2 を使用し、儀式感と合理性を兼ね備えたミニマル�
 
 ---
 
-### No. 52: インフォグラフィック / 教育ビジュアル - UGC スタイルマーケティングパネルグリッド
+### No. 53: インフォグラフィック / 教育ビジュアル - UGC スタイルマーケティングパネルグリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2984,7 +3029,7 @@ GPT Image 2 を使用して、この {argument name="category" default="食料�
 
 ---
 
-### No. 53: インフォグラフィック / 教育ビジュアル - ゴールデン・ディアの朝：フェルトへの変身
+### No. 54: インフォグラフィック / 教育ビジュアル - ゴールデン・ディアの朝：フェルトへの変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3043,46 +3088,6 @@ GPT Image 2 を使用して、この {argument name="category" default="食料�
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: インフォグラフィック / 教育ビジュアル - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 プロンプト
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="インフォグラフィック / 教育ビジュアル - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Al-Shamus](https://x.com/im_shahid7)
-- **ソース:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **公開日:** 2026年9月10日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -6032,7 +6037,7 @@ REFERENCE_0 をベース画像として使用し、非常に繊細な製品ス�
 
 <div align="center">
 
-### 🎯 17741 さらに多くのプロンプトがあります
+### 🎯 17748 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6095,6 +6100,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-10-13T04:23:02.321Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-10-13T18:37:42.610Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **17861** |
+| 📝 提示词总数 | **17868** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年10月13日星期二 UTC 04:22:53** |
+| 🔄 最后更新 | **2026年10月13日星期二 UTC 18:37:29** |
 
 </div>
 
@@ -1456,7 +1456,46 @@ GPT Image 2 写实人像提示词：身着传统服饰的南亚女性，暖色�
 
 ---
 
-### No. 21: 社交媒体帖子 - 橙色楼梯上的泳装女孩
+### No. 21: 社交媒体帖子 - 秋季街头风格穿搭提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用于生成穿着棕色格纹短裤、宽松灰色连帽衫和耳罩帽的可爱女孩，呈现轻松秋日街头风格的提示词。
+
+#### 📝 提示词
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="社交媒体帖子 - 秋季街头风格穿搭提示词 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="社交媒体帖子 - 秋季街头风格穿搭提示词 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **来源:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **发布时间:** 2026年10月13日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: 社交媒体帖子 - 橙色楼梯上的泳装女孩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1489,7 +1528,7 @@ GPT Image 2 写实人像提示词：身着传统服饰的南亚女性，暖色�
 
 ---
 
-### No. 22: 社交媒体帖子 - 万圣节糕点修复少女提示词
+### No. 23: 社交媒体帖子 - 万圣节糕点修复少女提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1538,7 +1577,7 @@ GPT Image 2 写实人像提示词：身着传统服饰的南亚女性，暖色�
 
 ---
 
-### No. 23: 社交媒体帖子 - 战锤 40K：卡迪亚陷落场景
+### No. 24: 社交媒体帖子 - 战锤 40K：卡迪亚陷落场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1571,7 +1610,7 @@ GPT Image 2 写实人像提示词：身着传统服饰的南亚女性，暖色�
 
 ---
 
-### No. 24: 社交媒体帖子 - Craftworld Iyanden 泰伦虫族战役
+### No. 25: 社交媒体帖子 - Craftworld Iyanden 泰伦虫族战役
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1604,7 +1643,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 25: 社交媒体帖子 - 圣塞莱斯汀战锤场景
+### No. 26: 社交媒体帖子 - 圣塞莱斯汀战锤场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1637,7 +1676,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 26: 社交媒体帖子 - 风格化西部角色插画
+### No. 27: 社交媒体帖子 - 风格化西部角色插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1670,7 +1709,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 27: 社交媒体帖子 - 涩谷街头风人像
+### No. 28: 社交媒体帖子 - 涩谷街头风人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1703,7 +1742,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 28: 社交媒体帖子 - 粉彩动漫风格的万圣节木乃伊少女
+### No. 29: 社交媒体帖子 - 粉彩动漫风格的万圣节木乃伊少女
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1755,7 +1794,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 29: 社交媒体帖子 - 上海早安美食海报
+### No. 30: 社交媒体帖子 - 上海早安美食海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1806,7 +1845,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 30: 社交媒体帖子 - 电影感单色双重曝光时尚人像提示词
+### No. 31: 社交媒体帖子 - 电影感单色双重曝光时尚人像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1913,7 +1952,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 31: 社交媒体帖子 - 诺基亚照片风格与手写日记涂鸦
+### No. 32: 社交媒体帖子 - 诺基亚照片风格与手写日记涂鸦
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1977,7 +2016,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 32: 社交媒体帖子 - Q 版女孩做松饼
+### No. 33: 社交媒体帖子 - Q 版女孩做松饼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,7 +2053,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 33: 社交媒体帖子 - 线条艺术字体海报
+### No. 34: 社交媒体帖子 - 线条艺术字体海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2061,7 +2100,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 34: 社交媒体帖子 - Harbor Street Coffee 秋季菜单
+### No. 35: 社交媒体帖子 - Harbor Street Coffee 秋季菜单
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2094,7 +2133,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 35: 社交媒体帖子 - 复古百货商店人像
+### No. 36: 社交媒体帖子 - 复古百货商店人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2127,7 +2166,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 36: 社交媒体帖子 - 怀旧编辑风格剪贴簿模板
+### No. 37: 社交媒体帖子 - 怀旧编辑风格剪贴簿模板
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2187,7 +2226,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 37: 社交媒体帖子 - 广州晨食景观海报
+### No. 38: 社交媒体帖子 - 广州晨食景观海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2238,36 +2277,30 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 38: 社交媒体帖子 - GPT Image 2 “第二世界”超现实摄影海报
+### No. 39: 信息图 / 教育视觉图 - 动漫角色设计表提示词
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-生成超现实摄影海报的详细提示词：上半部分为真实照片，下半部分扩展为融合混合媒介元素的“第二世界”概念空间。
+生成包含服装分解的详细角色设计表，适用于角色扮演游戏或同人艺术参考。
 
 #### 📝 提示词
 
 ```
-基于每张上传的照片，创作独立的 3:4 竖版“第二世界”概念超现实主义摄影插画海报。请分别输出，不要制作拼贴画。严格保持垂直方向的 1:1 分割。上半部分是原始写实照片；下半部分是从照片中生长出的另一层空间。它们并非简单拼接，而是作为同一时刻不同叙事层面的连续存在。
-
-上半部分应尽可能忠实保留原始照片，不改变主体、动作、空间关系、光影、色彩或质感。仅进行必要的比例裁剪和轻微的高端色调调整，以呈现干净、克制且具备出版级品质的摄影感。
-
-创意重点不在于“题材”，而在于对视觉结构的重新理解。首先，观察照片中最具决定性的结构线索（例如边界、斜坡、水面、倒影、阴影、裂缝、道路、树枝、云层、轮廓、间隙、流动、重复节奏、空间转折或姿态）。找出最适合“跨越边界”的部分。然后让它突破照片边缘进入下半部分，在进入时经历目的、尺度、语义或叙事角色的转化。这不是简单的延伸，而是将真实事物转化为另一种存在形式，使其在第二层空间中可被使用、进入、测量、拯救、修复、组织、借用、展开或收集。
-
-下半部分是一个温暖、安静、米白色的空间，带有微妙的纸张纹理和充足的留白。它不是插画背景或装饰区域，而是接收“跨界后新逻辑”的场所。遵循以下关系：现实 → 跨界 → 转化。魅力源于聪明且精准的跨层叙事，而非可爱的装饰。
-
-你可以添加极简的黑色手绘线条人物（0-3 个），数量少但精准。人物是第二世界的用户，与转化后的结构进行真实互动。线条应轻盈、简洁、自然，略带手工感，避免可爱、复杂或分散注意力。动作应具体、克制且巧妙，像是认真处理这个世界中固有的一件小事。
-
-你可以添加简短的英文手写说明文字，根据图像中实际发生的“第二世界事件”生成。语气应像随意的发现或柔和的叙述，带有一丝幽默感和余韵悠长的趣味。不要写励志名言，不要解释寓言，也不要使用模板。
-
-整体风格应呈现混合媒介摄影插画、超现实蒙太奇、破框错觉、错视画（Trompe-l'œil）、视觉隐喻和概念编辑插画的综合效果。形式上是跨媒介拼贴，机制上是破框，核心是视觉隐喻，情感基调温和、微妙且充满智慧的微超现实主义。
-
-不要将其做成“照片 + 小人 + 句子”的模板；不要只有延伸没有转化；不要只有形式没有隐喻；不要强行煽情；避免商业广告感、复杂插画感、重复动作、无依据的装饰、机械式拼贴、生硬连接或廉价的治愈氛围。
-
-最终目标：
-让观众先看到一张有效的真实照片，然后突然发现一个元素跨越到另一层空间，在那里获得意外却极其自然的新含义。
-不是给照片添加创意，而是揭示其内部潜藏的第二重现实。
+目标：为《电锯人》中的 {argument name="character name" default="Makima"} 创建详细的动漫角色设计表和服装分解。
+画布：垂直肖像布局，背景为略带纹理的米白色纸张。风格简洁、专业，类似概念艺术参考页。
+布局：角色全身插图位于中心。周围环绕着带有线条草图和中英文描述文本的标注部分。细红线将她的服装特定部位连接到相应的细节框。
+主体细节：Makima 自信地站立，身穿黑色长尾外套，内搭挺括的白色纽扣衬衫，系着细黑领带，穿着高腰黑色长裤和擦亮的黑色皮鞋。她留着齐肩的红棕色头发，有直刘海和两缕垂在脸侧的发辫。她的眼睛是金黄色的，具有明显的同心圆环。
+部分：
+- 左上角：标题 "真纪真 MAKIMA" 和副标题 "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN"。下方有一句引言："人类……终极的滋味是绝望。"
+- 左列（从上到下）：五个矩形面板，详细说明服装单品：衬衫（白色长袖）、领带（黑色窄款）、西装外套（黑色长尾）、西装裤（高腰）、皮鞋（黑色）。每个面板包含该单品的草图和双语描述。
+- 右列（从上到下）：六个面板，详细说明特征：档案（隶属：公安对魔特异课，身份：支配恶魔，能力：支配）；发型（红发，脑后编成单股辫）；瞳色（深邃的金黄色眼睛）；武器/锁链（由支配之力具现化的锁链）；历史参考（灵感源自中世纪锁链和手铐）；配饰（极简主义风格）。
+- 左下角：一个名为 "Historical Reference" 的部分，展示三张穿职业装女性的照片小图，参考昭和时代的美学风格。
+- 底部中央：Logo "チェンソーマン CHAINSAW MAN"。
+- 右下角：最后两个面板：道具（带印章的合同文件）和配色方案（红色、米色、白色、黑色、金色的色块）。下方是一个关键词部分，列出：Control, Rationality, Calm, Mystery, Danger。
+视觉风格：高质量数字插画与技术图表美学相结合。英文文本使用衬线字体，中文标签使用标准无衬线字体。
 ```
 
 #### 🖼️ 生成图片
@@ -2275,27 +2308,39 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="社交媒体帖子 - GPT Image 2 “第二世界”超现实摄影海报 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="信息图 / 教育视觉图 - 动漫角色设计表提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="社交媒体帖子 - GPT Image 2 “第二世界”超现实摄影海报 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="信息图 / 教育视觉图 - 动漫角色设计表提示词 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="信息图 / 教育视觉图 - 动漫角色设计表提示词 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="信息图 / 教育视觉图 - 动漫角色设计表提示词 - Image 4">
 </div>
 
 #### 📌 详情
 
-- **作者:** [小小东](https://x.com/xiaoxiaodong)
-- **来源:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **发布时间:** 2026年10月8日
-- **多语言:** zh
+- **作者:** [Popcraft AI](https://x.com/popcraftAI)
+- **来源:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **发布时间:** 2026年10月12日
+- **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=36163)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: 信息图 / 教育视觉图 - 尼莫点信息图
+### No. 40: 信息图 / 教育视觉图 - 尼莫点信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2344,7 +2389,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 40: 信息图 / 教育视觉图 - 人物热成像照片
+### No. 41: 信息图 / 教育视觉图 - 人物热成像照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2377,7 +2422,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 41: 信息图 / 教育视觉图 - 清华艺术节海报设计
+### No. 42: 信息图 / 教育视觉图 - 清华艺术节海报设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2410,7 +2455,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 42: 信息图 / 教育视觉图 - 日本游戏开发横幅
+### No. 43: 信息图 / 教育视觉图 - 日本游戏开发横幅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2443,7 +2488,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 43: 信息图 / 教育视觉图 - 可爱专注桌面平铺与卡哇伊插画
+### No. 44: 信息图 / 教育视觉图 - 可爱专注桌面平铺与卡哇伊插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2484,7 +2529,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 44: 信息图 / 教育视觉图 - 漫画信息图：AI 提示词工程
+### No. 45: 信息图 / 教育视觉图 - 漫画信息图：AI 提示词工程
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2536,7 +2581,7 @@ Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破�
 
 ---
 
-### No. 45: 信息图 / 教育视觉图 - 地狱犬角色设定信息图
+### No. 46: 信息图 / 教育视觉图 - 地狱犬角色设定信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2622,7 +2667,7 @@ I am her forever."
 
 ---
 
-### No. 46: 信息图 / 教育视觉图 - 动漫角色设计图：传统汉服情侣
+### No. 47: 信息图 / 教育视觉图 - 动漫角色设计图：传统汉服情侣
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2665,7 +2710,7 @@ I am her forever."
 
 ---
 
-### No. 47: 信息图 / 教育视觉图 - 动漫角色设计表：剑之女王
+### No. 48: 信息图 / 教育视觉图 - 动漫角色设计表：剑之女王
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2713,7 +2758,7 @@ I am her forever."
 
 ---
 
-### No. 48: 信息图 / 教育视觉图 - 民间艺术咖啡馆学习插画
+### No. 49: 信息图 / 教育视觉图 - 民间艺术咖啡馆学习插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2774,7 +2819,7 @@ I am her forever."
 
 ---
 
-### No. 49: 信息图 / 教育视觉图 - 中秋节排版海报提示词
+### No. 50: 信息图 / 教育视觉图 - 中秋节排版海报提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2832,7 +2877,7 @@ I am her forever."
 
 ---
 
-### No. 50: 信息图 / 教育视觉图 - 污水处理厂信息图
+### No. 51: 信息图 / 教育视觉图 - 污水处理厂信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2884,7 +2929,7 @@ I am her forever."
 
 ---
 
-### No. 51: 信息图 / 教育视觉图 - GPT Image 2 极简主义仪式感海报提示词
+### No. 52: 信息图 / 教育视觉图 - GPT Image 2 极简主义仪式感海报提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2937,7 +2982,7 @@ I am her forever."
 
 ---
 
-### No. 52: 信息图 / 教育视觉图 - UGC 风格营销面板网格
+### No. 53: 信息图 / 教育视觉图 - UGC 风格营销面板网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2977,7 +3022,7 @@ I am her forever."
 
 ---
 
-### No. 53: 信息图 / 教育视觉图 - 金鹿晨曦羊毛毡艺术转化
+### No. 54: 信息图 / 教育视觉图 - 金鹿晨曦羊毛毡艺术转化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3036,46 +3081,6 @@ I am her forever."
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: 信息图 / 教育视觉图 - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 提示词
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="信息图 / 教育视觉图 - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="信息图 / 教育视觉图 - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Al-Shamus](https://x.com/im_shahid7)
-- **来源:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **发布时间:** 2026年9月10日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -6024,7 +6029,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17741 更多提示词未在此显示
+### 🎯 17748 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6087,6 +6092,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-13T04:22:53.405Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-13T18:37:29.194Z</sub>
 
 </div>

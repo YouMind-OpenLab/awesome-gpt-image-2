@@ -139,9 +139,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **17861** |
+| 📝 총 프롬프트 수 | **17868** |
 | ⭐ 추천 | **6** |
-| 🔄 마지막 업데이트 | **2026년 10월 13일 화요일 AM 4시 23분 8초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 10월 13일 화요일 PM 6시 37분 47초 UTC** |
 
 </div>
 
@@ -1456,7 +1456,46 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 21: 소셜 미디어 게시물 - 주황색 계단에 앉은 수영복 소녀
+### No. 21: 소셜 미디어 게시물 - 가을 스트릿 스타일 의상 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+브라운 기저귀 쇼츠, 오버사이즈 그레이 후디, 이어머프 캡을 착용한 귀여운 소녀의 편안한 가을 스트릿 스타일 포즈를 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="소셜 미디어 게시물 - 가을 스트릿 스타일 의상 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="소셜 미디어 게시물 - 가을 스트릿 스타일 의상 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **출처:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **게시일:** 2026년 10월 13일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: 소셜 미디어 게시물 - 주황색 계단에 앉은 수영복 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1489,7 +1528,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 22: 소셜 미디어 게시물 - 할로윈 과자 수리 소녀 프롬프트
+### No. 23: 소셜 미디어 게시물 - 할로윈 과자 수리 소녀 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1538,7 +1577,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 23: 소셜 미디어 게시물 - 워해머 40K 카디아의 몰락 장면
+### No. 24: 소셜 미디어 게시물 - 워해머 40K 카디아의 몰락 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1571,7 +1610,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 24: 소셜 미디어 게시물 - 크래프트월드 이얀덴 타이rani드 전투
+### No. 25: 소셜 미디어 게시물 - 크래프트월드 이얀덴 타이rani드 전투
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1604,7 +1643,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 25: 소셜 미디어 게시물 - 성 세레스틴 워해머 장면
+### No. 26: 소셜 미디어 게시물 - 성 세레스틴 워해머 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1637,7 +1676,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 26: 소셜 미디어 게시물 - 스타일화된 서부 캐릭터 일러스트레이션
+### No. 27: 소셜 미디어 게시물 - 스타일화된 서부 캐릭터 일러스트레이션
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1670,7 +1709,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 27: 소셜 미디어 게시물 - 시부야 스트릿 스타일 초상화
+### No. 28: 소셜 미디어 게시물 - 시부야 스트릿 스타일 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1703,7 +1742,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 28: 소셜 미디어 게시물 - 파스텔 애니메이션 스타일의 할로윈 미라 소녀
+### No. 29: 소셜 미디어 게시물 - 파스텔 애니메이션 스타일의 할로윈 미라 소녀
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1755,7 +1794,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 29: 소셜 미디어 게시물 - 상하이 굿모닝 푸드 포스터
+### No. 30: 소셜 미디어 게시물 - 상하이 굿모닝 푸드 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1806,7 +1845,7 @@ GPT Image 2용 사실적인 초상화 프롬프트로, 따뜻한 조명과 디�
 
 ---
 
-### No. 30: 소셜 미디어 게시물 - 시네마틱 모노크롬 이중 노출 패션 초상화 프롬프트
+### No. 31: 소셜 미디어 게시물 - 시네마틱 모노크롬 이중 노출 패션 초상화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1913,7 +1952,7 @@ GPT Image 2를 위한 구조화된 JSON 프롬프트로, 시네마틱 모노크�
 
 ---
 
-### No. 31: 소셜 미디어 게시물 - 손글씨 다이어리 낙서와 함께한 노키아(Nokia) 사진
+### No. 32: 소셜 미디어 게시물 - 손글씨 다이어리 낙서와 함께한 노키아(Nokia) 사진
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1977,7 +2016,7 @@ GPT Image 2를 위한 구조화된 JSON 프롬프트로, 시네마틱 모노크�
 
 ---
 
-### No. 32: 소셜 미디어 게시물 - 치비 소녀들의 팬케이크 만들기
+### No. 33: 소셜 미디어 게시물 - 치비 소녀들의 팬케이크 만들기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,7 +2053,7 @@ GPT Image 2를 위한 구조화된 JSON 프롬프트로, 시네마틱 모노크�
 
 ---
 
-### No. 33: 소셜 미디어 게시물 - 라인 아트 타이포그래피 포스터
+### No. 34: 소셜 미디어 게시물 - 라인 아트 타이포그래피 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2061,7 +2100,7 @@ GPT Image 2를 위한 구조화된 JSON 프롬프트로, 시네마틱 모노크�
 
 ---
 
-### No. 34: 소셜 미디어 게시물 - 하버 스트리트 커피 가을 메뉴
+### No. 35: 소셜 미디어 게시물 - 하버 스트리트 커피 가을 메뉴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2094,7 +2133,7 @@ GPT Image 2를 위한 구조화된 JSON 프롬프트로, 시네마틱 모노크�
 
 ---
 
-### No. 35: 소셜 미디어 게시물 - 빈티지 백화점 초상화
+### No. 36: 소셜 미디어 게시물 - 빈티지 백화점 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2127,7 +2166,7 @@ GPT Image 2를 위한 구조화된 JSON 프롬프트로, 시네마틱 모노크�
 
 ---
 
-### No. 36: 소셜 미디어 게시물 - 감성적인 에디토리얼 스크랩북 템플릿
+### No. 37: 소셜 미디어 게시물 - 감성적인 에디토리얼 스크랩북 템플릿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2187,7 +2226,7 @@ GPT Image 2를 위해 설계된, 사실적인 상단 이미지와 손으로 그�
 
 ---
 
-### No. 37: 소셜 미디어 게시물 - 광저우 아침 먹거리 풍경 포스터
+### No. 38: 소셜 미디어 게시물 - 광저우 아침 먹거리 풍경 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2238,35 +2277,30 @@ GPT Image 2를 위해 설계된, 사실적인 상단 이미지와 손으로 그�
 
 ---
 
-### No. 38: 소셜 미디어 게시물 - GPT Image 2 제2의 세계 초현실 사진 포스터
+### No. 39: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-상단은 실제 사진, 하단은 혼합 매체 요소를 포함한 개념적 '제2의 세계'로 확장되는 초현실 사진 포스터 생성을 위한 상세 프롬프트입니다.
+롤플레잉 게임이나 팬아트 참고용으로 적합한 의상 분해가 포함된 종합적인 캐릭터 디자인 시트를 생성합니다.
 
 #### 📝 프롬프트
 
 ```
-업로드된 각 사진을 기반으로 독립적인 3:4 세로 비율의 '제2의 세계' 개념적 초현실 사진 일러스트레이션 포스터를 제작하세요. 각각 별도로 출력하며, 콜라주는 금지합니다. 수직으로 엄격하게 1:1로 분할합니다. 상단은 원래의 사실적인 사진이며, 하단은 사진 내부에서 자라난 또 다른 공간 층입니다. 두 부분은 단순히 이어 붙인 것이 아니라, 같은 순간의 서로 다른 서사 층에 연속적으로 존재하는 형태로 표현되어야 합니다.
-
-상단부는 원본 사진을 가능한 한 충실히 보존해야 하며, 피사체, 동작, 공간 관계, 조명, 색상, 질감을 변경하지 않습니다. 다만 필요한 비율 크롭과 약간의 고급스러운 톤 조정을 통해 깔끔하고 절제된 출판 수준의 사진 느낌을 부여하세요.
-
-창작의 초점은 '주제' 자체가 아니라 시각적 구조의 재해석에 있습니다. 먼저 이 사진에서 가장 결정적인 구조적 단서(예: 경계선, 기울기, 수면, 반사, 그림자, 균열, 도로, 나뭇가지, 구름, 윤곽선, 틈새, 흐름, 반복적인 리듬, 공간적 전환, 또는 자세)를 관찰하세요. 그중 '경계를 넘어서는' 데 가장 적합한 부분을 찾습니다. 그런 다음 그것이 사진의 가장자리를 뚫고 하단부로 진입하면서 목적, 규모, 의미, 또는 서사적 역할의 변환을 거치도록 합니다. 단순한 확장이 아니라, 실재하는 것을 제2의 공간 층에서 사용하거나, 진입하거나, 측정하거나, 회수하거나, 수리하거나, 정리하거나, 빌리거나, 펼치거나, 수집할 수 있는 또 다른 존재로 변형시키는 과정입니다.
-
-하단부는 미묘한 종이 질감과 충분한 여백이 있는 따뜻하고 조용한 오프화이트 공간입니다. 이는 일러스트 배경이나 장식 영역이 아니라, '경계를 넘은 후의 새로운 논리'를 수용하는 장소입니다. 관계는 다음과 같이 진행됩니다: 현실 → 경계 넘기 → 변환. 매력은 귀여운 장식이 아닌, 영리하고 정확한 층간 서사에서 나옵니다.
-
-최소한의 검은색 손그림 선화 인물(0~3명)을 추가할 수 있으며, 적지만 정밀해야 합니다. 인물들은 제2의 세계의 사용자로서, 변환된 구조물과 진정성 있게 상호작용합니다. 선은 가볍고, 단순하며, 자연스럽고, 약간 수공예적인 느낌이어야 하며, 귀엽거나 복잡하거나 산만해서는 안 됩니다. 행동은 구체적이고, 절제되며, 영리해야 하며, 마치 이 세계에 inherent한 작은 일을 진지하게 처리하는 것과 같아야 합니다.
-
-이미지에서 실제로 일어나는 '제2의 세계 사건'에 기반하여 짧은 영어 손글씨 캡션을 추가할 수 있습니다. 톤은 가벼운 발견이나 부드러운 내레이션처럼 느껴져야 하며, 약간의 유머와 여운 있는 흥미가 담겨야 합니다. 감동적인 인용구를 쓰거나, 알레고리를 설명하거나, 템플릿을 사용하지 마세요.
-
-전체 스타일은 혼합 매체 사진 일러스트레이션, 초현실 포토몽타주, 프레임 파괴 환상, 트롱프뢰유(Trompe-l'œil), 시각적 은유, 그리고 개념적 편집 일러스트레이션의 종합체를 제시해야 합니다. 형식적으로는 크로스 미디어 콜라주, 기계적으로는 프레임 파괴, 핵심은 시각적 은유, 감정적 톤은 부드럽고, 미묘하며, 영리한 마이크로 초현실주의입니다.
-
-'사진 + 작은 사람 + 문장'이라는 템플릿이 되지 않도록 주의하세요. 변환 없는 확장은 금지하며, 은유 없는 형태도 금지합니다. 인위적인 감상주의를 강요하지 말고, 상업 광고 느낌, 복잡한 일러스트 느낌, 반복적인 행동, 근거 없는 장식, 기계적인 콜라주, 부자연스러운 연결을 피하세요.
-
-최종 목표:
-시청자가 먼저 유효한 실제 사진을 보다가, 갑자기 다른 공간 층으로 넘어가는 요소를 발견하고, 그곳에서 예상치 못한 새로운 의미를 얻게 하세요. 사진에 창의성을 더하는 것이 아니라, 사진 속에 숨겨진 제2의 현실을 드러내는 것입니다.
+목표: 체인소 맨(Chainsaw Man)의 {argument name="character name" default="마키마(Makima)"}에 대한 상세한 애니메이션 캐릭터 디자인 시트와 의상 분해를 제작합니다.
+캔버스: 오프화이트 색상의 약간 질감이 있는 종이 배경을 사용한 세로형 초상화 레이아웃. 스타일은 깔끔하고 전문적이며, 컨셉 아트 레퍼런스 페이지와 유사합니다.
+레이아웃: 캐릭터의 전신 일러스트가 중앙에 배치됩니다. 주변에는 선화 스케치와 중국어 및 영어 설명 텍스트가 포함된 라벨링된 섹션들이 있습니다. 얇은 빨간색 선이 의상의 특정 부분을 해당 디테일 박스와 연결합니다.
+주제 세부 사항: 마키마는 검은색 롱테일 코트 아래로 단정한 흰색 버튼다운 셔츠, 가느다란 검은색 넥타이, 하이웨이스트 검은색 바지, 그리고 광택이 나는 검은색 가죽 신발을 자신 있게 착용하고 서 있습니다. 어깨 길이 정도의 붉은 갈색 머리에 앞머리는 일자이며, 얼굴을 감싸는 두 개의 땋은 머리가 있습니다. 눈은 동심원 무늬가 뚜렷한 금빛 노란색입니다.
+섹션:
+- 좌측 상단: 제목 "真纪真 MAKIMA" 및 부제 "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN". 아래에는 인용문이 있습니다: "Human beings... The ultimate taste is despair." (인간... 궁극의 맛은 절망이다.)
+- 좌측 열 (위에서 아래로): 의류 항목을 상세히 묘사하는 5개의 직사각형 패널: 셔츠(흰색 긴 소매), 넥타이(검은색 좁은 폭), 수트 재킷(검은색 롱테일), 수트 바지(하이웨이스트), 가죽 신발(검은색). 각 패널에는 아이템의 스케치와 이중 언어 설명이 포함되어 있습니다.
+- 우측 열 (위에서 아래로): 특징을 상세히 묘사하는 6개의 패널: 프로필(소속: 공안 악마 퇴치국, 정체: 지배의 악마, 능력: 지배); 헤어스타일(붉은 머리, 뒤로 하나로 땋음); 눈동자 색상(깊이가 느껴지는 금빛 눈); 무기/체인(지배력에서 형성된 사슬); 역사적 참고 자료(중세 시대 사슬과 수갑에서 영감); 액세서리(미니멀리스트 스타일).
+- 좌측 하단: 쇼와(Syōwa) 시대 미학을 참조하는 비즈니스 수트를 입은 여성들의 작은 사진 3장이 포함된 "역사적 참고 자료(Historical Reference)" 섹션.
+- 중앙 하단: 로고 "チェンソーマン CHAINSAW MAN".
+- 우측 하단: 마지막 2개의 패널: 소품(봉인이 된 계약 문서) 및 컬러 팔레트(빨강, 베이지, 흰색, 검정, 금색 스와치). 아래에는 키워드 섹션이 나열되어 있습니다: 지배, 이성, 침착함, 신비로움, 위험.
+비주얼 스타일: 고품질 디지털 일러스트레이션과 기술 도면 미학의 혼합. 영어 텍스트에는 세리프 폰트를, 중국어 라벨에는 표준 산세리프 폰트를 사용하십시오.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2274,27 +2308,39 @@ GPT Image 2를 위해 설계된, 사실적인 상단 이미지와 손으로 그�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="소셜 미디어 게시물 - GPT Image 2 제2의 세계 초현실 사진 포스터 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="소셜 미디어 게시물 - GPT Image 2 제2의 세계 초현실 사진 포스터 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트 - Image 4">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [小小东](https://x.com/xiaoxiaodong)
-- **출처:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **게시일:** 2026년 10월 8일
-- **언어:** zh
+- **작성자:** [Popcraft AI](https://x.com/popcraftAI)
+- **출처:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **게시일:** 2026년 10월 12일
+- **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=36163)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: 인포그래픽 / 교육용 시각 자료 - 포인트 네모 인포그래픽
+### No. 40: 인포그래픽 / 교육용 시각 자료 - 포인트 네모 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2343,7 +2389,7 @@ GPT Image 2를 위해 설계된, 사실적인 상단 이미지와 손으로 그�
 
 ---
 
-### No. 40: 인포그래픽 / 교육용 시각 자료 - 인물의 열화상 사진
+### No. 41: 인포그래픽 / 교육용 시각 자료 - 인물의 열화상 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2376,7 +2422,7 @@ FLIR 카메라로 촬영된 실내 환경에 서 있는 사람의 사실적인 �
 
 ---
 
-### No. 41: 인포그래픽 / 교육용 시각 자료 - 칭화대 예술제 포스터 디자인
+### No. 42: 인포그래픽 / 교육용 시각 자료 - 칭화대 예술제 포스터 디자인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2409,7 +2455,7 @@ FLIR 카메라로 촬영된 실내 환경에 서 있는 사람의 사실적인 �
 
 ---
 
-### No. 42: 인포그래픽 / 교육용 시각 자료 - 일본 게임 개발 배너
+### No. 43: 인포그래픽 / 교육용 시각 자료 - 일본 게임 개발 배너
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2442,7 +2488,7 @@ FLIR 카메라로 촬영된 실내 환경에 서 있는 사람의 사실적인 �
 
 ---
 
-### No. 43: 인포그래픽 / 교육용 시각 자료 - 귀여운 집중 데스크 플랫레이와 카와이 일러스트
+### No. 44: 인포그래픽 / 교육용 시각 자료 - 귀여운 집중 데스크 플랫레이와 카와이 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2483,7 +2529,7 @@ FLIR 카메라로 촬영된 실내 환경에 서 있는 사람의 사실적인 �
 
 ---
 
-### No. 44: 인포그래픽 / 교육용 시각 자료 - 망가 인포그래픽: AI 프롬프트 엔지니어링
+### No. 45: 인포그래픽 / 교육용 시각 자료 - 망가 인포그래픽: AI 프롬프트 엔지니어링
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2535,7 +2581,7 @@ AI 이미지 생성을 위한 프롬프트 엔지니어링 개념을 시각화�
 
 ---
 
-### No. 45: 인포그래픽 / 교육용 시각 자료 - Hell Hound 캐릭터 시트 인포그래픽
+### No. 46: 인포그래픽 / 교육용 시각 자료 - Hell Hound 캐릭터 시트 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2610,7 +2656,7 @@ I am her forever."
 
 ---
 
-### No. 46: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트: 전통 한복 커플
+### No. 47: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트: 전통 한복 커플
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2653,7 +2699,7 @@ I am her forever."
 
 ---
 
-### No. 47: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트: 검의 여왕
+### No. 48: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트: 검의 여왕
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2701,7 +2747,7 @@ I am her forever."
 
 ---
 
-### No. 48: 인포그래픽 / 교육용 시각 자료 - 민속 예술 카페 공부 일러스트
+### No. 49: 인포그래픽 / 교육용 시각 자료 - 민속 예술 카페 공부 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2762,7 +2808,7 @@ I am her forever."
 
 ---
 
-### No. 49: 인포그래픽 / 교육용 시각 자료 - 추석 타이포그래피 포스터 프롬프트
+### No. 50: 인포그래픽 / 교육용 시각 자료 - 추석 타이포그래피 포스터 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2820,7 +2866,7 @@ I am her forever."
 
 ---
 
-### No. 50: 인포그래픽 / 교육용 시각 자료 - 하수 처리 공장 인포그래픽
+### No. 51: 인포그래픽 / 교육용 시각 자료 - 하수 처리 공장 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2872,7 +2918,7 @@ I am her forever."
 
 ---
 
-### No. 51: 인포그래픽 / 교육용 시각 자료 - GPT Image 2용 미니멀리스트 의식 포스터 프롬프트
+### No. 52: 인포그래픽 / 교육용 시각 자료 - GPT Image 2용 미니멀리스트 의식 포스터 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2925,7 +2971,7 @@ GPT Image 2를 사용하여 의식감과 합리성이 돋보이는 미니멀하�
 
 ---
 
-### No. 52: 인포그래픽 / 교육용 시각 자료 - UGC 스타일 마케팅 패널 그리드
+### No. 53: 인포그래픽 / 교육용 시각 자료 - UGC 스타일 마케팅 패널 그리드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2965,7 +3011,7 @@ GPT Image 2를 사용하여 {argument name="category" default="식료품점"}을
 
 ---
 
-### No. 53: 인포그래픽 / 교육용 시각 자료 - 황금빛 사슴의 아침, 펠트 예술로의 변신
+### No. 54: 인포그래픽 / 교육용 시각 자료 - 황금빛 사슴의 아침, 펠트 예술로의 변신
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3024,46 +3070,6 @@ GPT Image 2를 사용하여 {argument name="category" default="식료품점"}을
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: 인포그래픽 / 교육용 시각 자료 - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 프롬프트
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Al-Shamus](https://x.com/im_shahid7)
-- **출처:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **게시일:** 2026년 9월 10일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -6011,7 +6017,7 @@ REFERENCE_0 을 베이스 이미지로 사용하여 매우 섬세한 제품 스�
 
 <div align="center">
 
-### 🎯 17741 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 17748 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6074,6 +6080,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-13T04:23:08.544Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-13T18:37:47.851Z</sub>
 
 </div>

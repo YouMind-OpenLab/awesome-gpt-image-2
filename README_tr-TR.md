@@ -139,9 +139,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **17861** |
+| 📝 Toplam İstem | **17868** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **13 Ekim 2026 Salı 04:24:02 UTC** |
+| 🔄 Son Güncelleme | **13 Ekim 2026 Salı 18:38:48 UTC** |
 
 </div>
 
@@ -1456,7 +1456,46 @@ Negatif Prompt:
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - Turuncu Merdivenlerde Mayolu Kız
+### No. 21: Sosyal Medya Gönderisi - Sonbahar Sokak Modası Kıyafet İstemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Kahverengi kareli şort, bol gri kapüşonlu sweatshirt ve kulaklıklı bere giyen sevimli bir kızın rahat sonbahar sokak stili pozunda oluşturulması için bir istem.
+
+#### 📝 İstem
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="Sosyal Medya Gönderisi - Sonbahar Sokak Modası Kıyafet İstemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="Sosyal Medya Gönderisi - Sonbahar Sokak Modası Kıyafet İstemi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Kaynak:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **Yayınlandı:** 13 Ekim 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: Sosyal Medya Gönderisi - Turuncu Merdivenlerde Mayolu Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1489,7 +1528,7 @@ Dış mekan beton merdivenlerinde oturan genç bir Doğu Asyalı kadının yüks
 
 ---
 
-### No. 22: Sosyal Medya Gönderisi - Cadılar Bayramı Tatlı Tamircisi Kız Promptu
+### No. 23: Sosyal Medya Gönderisi - Cadılar Bayramı Tatlı Tamircisi Kız Promptu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1537,7 +1576,7 @@ Tüm vücut görünür, eller görünür. Hafif gururlu bir gülümseme.
 
 ---
 
-### No. 23: Sosyal Medya Gönderisi - Warhammer 40k Cadia'nın Düşüşü Sahnesi
+### No. 24: Sosyal Medya Gönderisi - Warhammer 40k Cadia'nın Düşüşü Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1570,7 +1609,7 @@ Tüm vücut görünür, eller görünür. Hafif gururlu bir gülümseme.
 
 ---
 
-### No. 24: Sosyal Medya Gönderisi - Craftworld Iyanden Tyranid Savaşı
+### No. 25: Sosyal Medya Gönderisi - Craftworld Iyanden Tyranid Savaşı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1603,7 +1642,7 @@ Craftworld Iyanden, Tyranid sürüsü altında yanıyor. Ghost Warriors, çatlak
 
 ---
 
-### No. 25: Sosyal Medya Gönderisi - Saint Celestine Warhammer Sahnesi
+### No. 26: Sosyal Medya Gönderisi - Saint Celestine Warhammer Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1636,7 +1675,7 @@ Saint Celestine, Chaos Uzay Denizcilerinin üzerinde yükseliyor. Altın zırhı
 
 ---
 
-### No. 26: Sosyal Medya Gönderisi - Stilize Batı Karakter İllüstrasyonu
+### No. 27: Sosyal Medya Gönderisi - Stilize Batı Karakter İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1669,7 +1708,7 @@ Saint Celestine, Chaos Uzay Denizcilerinin üzerinde yükseliyor. Altın zırhı
 
 ---
 
-### No. 27: Sosyal Medya Gönderisi - Shibuya Sokak Stili Portresi
+### No. 28: Sosyal Medya Gönderisi - Shibuya Sokak Stili Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1702,7 +1741,7 @@ Tokyo'nun Shibuya bölgesinde, güneşli bir sokakta çömelmiş genç bir kadı
 
 ---
 
-### No. 28: Sosyal Medya Gönderisi - Pastel Anime Tarzında Cadılar Bayramı Mumya Kızı
+### No. 29: Sosyal Medya Gönderisi - Pastel Anime Tarzında Cadılar Bayramı Mumya Kızı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1754,7 +1793,7 @@ Tam vücut çekimi, hafif endişeli ama sevimli bir yüz ifadesi.
 
 ---
 
-### No. 29: Sosyal Medya Gönderisi - Şanghay Güne Başlangıç Yemeği Afişi
+### No. 30: Sosyal Medya Gönderisi - Şanghay Güne Başlangıç Yemeği Afişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1805,7 +1844,7 @@ Taze pişmiş Şanghay tavada kızartılmış çöreklerinin (Shengjianbao) yak�
 
 ---
 
-### No. 30: Sosyal Medya Gönderisi - Sinematik Monokrom Çift Pozlama Moda Portresi İstem Promptu
+### No. 31: Sosyal Medya Gönderisi - Sinematik Monokrom Çift Pozlama Moda Portresi İstem Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1908,7 +1947,7 @@ GPT Image 2 için sinematik monokrom çift pozlama moda portresi üreten yapıla
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - El Yazısı Günlük Karalamalarıyla Nokia Fotoğrafı
+### No. 32: Sosyal Medya Gönderisi - El Yazısı Günlük Karalamalarıyla Nokia Fotoğrafı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1972,7 +2011,7 @@ Fotoğraflanan özne nettir, manuel işaretlemeler ve gerçek mekân birbirine g
 
 ---
 
-### No. 32: Sosyal Medya Gönderisi - Pancake Yapan Chibi Kızlar
+### No. 33: Sosyal Medya Gönderisi - Pancake Yapan Chibi Kızlar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2009,7 +2048,7 @@ Aksesuarlar & Metin: Üzerinde "Fluffy Pancake Mix" yazan bir poşet, "HONEY" et
 
 ---
 
-### No. 33: Sosyal Medya Gönderisi - Çizgi Sanatı Tipografi Poster
+### No. 34: Sosyal Medya Gönderisi - Çizgi Sanatı Tipografi Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2056,7 +2095,7 @@ Görsel Stil: Minimalist, tipografik, geometrik, düz tasarım; ince mavi çizgi
 
 ---
 
-### No. 34: Sosyal Medya Gönderisi - Harbor Street Coffee Sonbahar Menüsü
+### No. 35: Sosyal Medya Gönderisi - Harbor Street Coffee Sonbahar Menüsü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2089,7 +2128,7 @@ Sıcak ve benekli güneş ışığında parlayan rustik ahşap bir masanın yük
 
 ---
 
-### No. 35: Sosyal Medya Gönderisi - Vintage Mağaza Portresi
+### No. 36: Sosyal Medya Gönderisi - Vintage Mağaza Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2122,7 +2161,7 @@ Klasik bir Japon mağazasında duran genç bir kadının vintage tarzda fotoğra
 
 ---
 
-### No. 36: Sosyal Medya Gönderisi - Nostaljik Editoryal Scrapbook Şablonu
+### No. 37: Sosyal Medya Gönderisi - Nostaljik Editoryal Scrapbook Şablonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2182,7 +2221,7 @@ Kompozisyon: Dikey 4:5, fotoğraf ile illüstrasyon arasında net ayrım, dengel
 
 ---
 
-### No. 37: Sosyal Medya Gönderisi - Guangzhou Sabah Yemek Manzarası Afişi
+### No. 38: Sosyal Medya Gönderisi - Guangzhou Sabah Yemek Manzarası Afişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2233,26 +2272,30 @@ Sol üst köşede "GOOD MORNING GUANGZHOU" (广州早安) başlıklı yaratıcı
 
 ---
 
-### No. 38: Sosyal Medya Gönderisi - GPT Image 2 İkinci Dünya Sürreal Fotoğraf Afişi
+### No. 39: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Üst yarısı gerçek bir fotoğraf, alt yarısı ise karma medya unsurlarıyla kavramsal bir 'ikinci dünya'ya dönüşen sürrealist fotoğraf afişleri oluşturmak için detaylı bir istem.
+Rol yapma oyunları veya hayran sanatı referansları için uygun, kostüm detaylandırmaları içeren kapsamlı bir karakter tasarım sayfası oluşturur.
 
 #### 📝 İstem
 
 ```
-Yüklenen her fotoğraf temel alınarak, bağımsız 3:4 dikey 'İkinci Dünya' kavramsal sürrealist fotoğraf illüstrasyon afişi oluşturun. Her birini ayrı ayrı çıktı olarak verin, kolaj yapmayın. Dikey olarak kesinlikle 1:1 oranında bölünmeli. Üst yarı orijinal gerçekçi fotoğraftır; alt yarı ise fotoğrafın içinden büyüyen başka bir boyuttur. Bunlar birbirine dikilmiş değildir, aynı anın farklı anlatı katmanlarında sürekli varlıklar olarak bulunurlar.
-Üst yarı, konuyu, eylemi, mekansal ilişkileri, ışığı, rengi veya dokuyu değiştirmeden orijinal fotoğrafı mümkün olduğunca sadık bir şekilde korumalıdır. Yalnızca gerekli oransal kırpma ve hafif üst düzey ton ayarlamaları yaparak temiz, ölçülü, yayın kalitesinde bir fotoğraf hissi verilmelidir.
-Yaratıcı odak 'konu maddesi'nde değil, görsel yapıyı yeniden anlamlandırmaktadır. Öncelikle bu fotoğraftaki en belirleyici yapısal ipuçlarını gözlemleyin (örneğin sınırlar, eğimler, su yüzeyleri, yansımalar, gölgeler, çatlaklar, yollar, dallar, bulutlar, konturlar, boşluklar, akış, tekrarlayan ritimler, mekan dönüşleri veya pozlar). 'Sınırı aşmaya' en uygun kısmı bulun. Ardından bunun fotoğrafın kenarından alt yarıya geçmesine izin verin; girişte amaç, ölçek, semantik veya anlatı rolü açısından bir çeviriye uğrasın. Bu basit bir uzantı değil, gerçek olan bir şeyi ikinci boyutta kullanılabilecek, girilebilecek, ölçülebilecek, kurtarılabilecek, onarılabilecek, düzenlenebilecek, ödünç alınabilecek, açılabilecek veya toplanabilecek başka bir varoluşa dönüştürmektir.
-Alt yarı, ince kağıt dokusuna sahip, bol beyaz alan bulunan sıcak, sessiz, kırık beyaz bir alandır. İllüstrasyon arka planı veya dekorasyon alanı değil, 'sınırı aştıktan sonraki yeni mantığı' karşılayacak bir yerdir. İlişki şu sırayı takip eder: Gerçeklik → Geçiş → Çeviri. Büyü, sevimli süslemelerden değil, zeki ve doğru katmanlar arası anlatıdan gelir.
-Minimal siyah el çizimi figürler (0-3 adet) ekleyebilirsiniz; az ama hassas olmalıdırlar. Figürler ikinci dünyanın kullanıcılarıdır ve çevrilmiş yapılarla otantik etkileşim halindedirler. Çizgiler hafif, sade, doğal, biraz el yapımı görünümünde olmalı; sevimli, karmaşık veya dikkat dağıtıcı olmamalıdır. Eylemler spesifik, ölçülü ve zeki olmalı; bu dünyaya özgü küçük bir şeyle ciddi şekilde ilgilenmek gibi davranmalıdır.
-Görselde gerçekleşen gerçek 'İkinci Dünya olayına' dayanan kısa bir İngilizce el yazısı başlık ekleyebilirsiniz. Ton, rastlantısal bir keşif veya yumuşak bir anlatım gibi olmalı; hafif bir mizah ve merak uyandıran bir ilgi barındırmalıdır. İlham veren sözler yazmayın, alegorileri açıklamayın veya şablon kullanmayın.
-Genel stil; Karma Medya Fotoğraf İllüstrasyonu, Sürreal Fotomontaj, Çerçeveyi Kıran İlüzyon, Trompe-l'œil, Görsel Metafor ve Kavramsal Editoryal İllüstrasyonun sentezini sunmalıdır. Biçimsel olarak medya karışımı kolaj, mekanik olarak çerçeveyi kıran, çekirdek görsel metafor, duygusal ton nazik, hafif ve zeki mikro-sürrealizm.
-'Küçük insanlar + büyük nesne' gibi şablonlara düşmeyin. Uzantı olmadan çeviri yapmayın. Alt yarıda sadece dekoratif öğeler olmasın; işlevsel veya etkileşimli yapılar olsun. Fotoğrafın kendisiyle çelişen zorlama fantastik öğeler eklemeyin.
-Sonuç olarak, izleyici önce fotoğrafı tanımalı, sonra alt yarıdaki 'yeni fizik kurallarını' fark etmeli ve sonunda ikisinin aynı anda var olabileceğine inanmalıdır.
+Hedef: Chainsaw Man'den {argument name="character name" default="Makima"} için ayrıntılı bir anime karakter tasarım sayfası ve kostüm ayrıştırması oluşturun.
+Tuval: Dikey portre düzeni, kırık beyaz, hafif dokulu kağıt arka plan. Stil temiz, profesyonel ve bir konsept sanat referans sayfasını andırıyor.
+Düzen: Karakterin tam boy illüstrasyonu merkezde duruyor. Etrafında, hem Çince hem de İngilizce çizim taslakları ve açıklayıcı metinler bulunan etiketli bölümler var. İnce kırmızı çizgiler, kıyafetinin belirli kısımlarını ilgili detay kutularına bağlıyor.
+Özne Detayları: Makima, siyah uzun kuyruklu ceketin altında net beyaz düğmeli gömlek, ince siyah kravat, yüksek bel siyah pantolon ve cilalı siyah deri ayakkabılarla kendinden emin bir şekilde duruyor. Omuz hizasında kızıl-kahverengi saçları, düz perçemleri ve yüzünü çerçeveleyen iki örgüsü var. Gözleri belirgin konsantrik halkalara sahip altın sarısıdır.
+Bölümler:
+- Sol Üst: Başlık "真纪真 MAKIMA" ve alt başlık "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN". Altında bir alıntı var: "İnsanlar... Nihai tat çaresizliktir."
+- Sol Sütun (Yukarıdan Aşağıya): Giyim eşyalarını detaylandıran beş dikdörtgen panel: Gömlek (beyaz uzun kollu), Kravat (siyah dar), Ceket (siyah uzun kuyruklu), Pantolon (yüksek bel), Deri Ayakkabı (siyah). Her panel, eşyanın bir taslağını ve çift dilli açıklamayı içerir.
+- Sağ Sütun (Yukarıdan Aşağıya): Özellikleri detaylandıran altı panel: Profil (Bağlılık: Kamu Güvenliği Şeytan İmha Bürosu, Kimlik: Kontrol Şeytanı, Yetenek: Kontrol); Saç Modeli (Kızıl saç, arkada tek örgü); Göz Rengi (Derinlikli altın gözler); Silah/Zincir (Kontrol gücünden maddelenen zincir); Tarihsel Referans (Orta Çağ zincirlerinden ve kelepçelerden ilham alınmıştır); Aksesuar (Minimalist stil).
+- Sol Alt: Showa dönemi estetiğine atıfta bulunan, iş takımı giymiş kadınların üç küçük fotoğrafını içeren "Tarihsel Referans" başlıklı bölüm.
+- Alt Orta: "チェンソーマン CHAINSAW MAN" logosu.
+- Sağ Alt: Son iki panel: Prop (Mühürlü sözleşme belgesi) ve Renk Paleti (kırmızı, bej, beyaz, siyah, altın numune kartları). Altında Anahtar Kelimeler bölümü listeleniyor: Kontrol, Akılcılık, Sakinlik, Gizem, Tehlike.
+Görsel Stil: Teknik şema estetiğiyle harmanlanmış yüksek kaliteli dijital illüstrasyon. İngilizce metinler için serif yazı tipleri, Çince etiketler için standart sans-serif kullanın.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -2260,27 +2303,39 @@ Sonuç olarak, izleyici önce fotoğrafı tanımalı, sonra alt yarıdaki 'yeni 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="Sosyal Medya Gönderisi - GPT Image 2 İkinci Dünya Sürreal Fotoğraf Afişi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="Sosyal Medya Gönderisi - GPT Image 2 İkinci Dünya Sürreal Fotoğraf Afişi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem - Image 4">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [小小东](https://x.com/xiaoxiaodong)
-- **Kaynak:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **Yayınlandı:** 8 Ekim 2026
-- **Diller:** zh
+- **Yazar:** [Popcraft AI](https://x.com/popcraftAI)
+- **Kaynak:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **Yayınlandı:** 12 Ekim 2026
+- **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=36163)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: İnfografik / Eğitici Görsel - Point Nemo İnfografiği
+### No. 40: İnfografik / Eğitici Görsel - Point Nemo İnfografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2329,7 +2384,7 @@ Görsel Stil: Profesyonel infografik tasarımı. Gövde metni için net sans-ser
 
 ---
 
-### No. 40: İnfografik / Eğitici Görsel - Kişinin Termal Görüntüleme Fotoğrafı
+### No. 41: İnfografik / Eğitici Görsel - Kişinin Termal Görüntüleme Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2362,7 +2417,7 @@ FLIR kamerasıyla çekilmiş, kapalı bir ortamda duran bir kişinin gerçekçi 
 
 ---
 
-### No. 41: İnfografik / Eğitici Görsel - Tsing Hua Sanat Festivali Afiş Tasarımı
+### No. 42: İnfografik / Eğitici Görsel - Tsing Hua Sanat Festivali Afiş Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2395,7 +2450,7 @@ FLIR kamerasıyla çekilmiş, kapalı bir ortamda duran bir kişinin gerçekçi 
 
 ---
 
-### No. 42: İnfografik / Eğitici Görsel - Japon Oyun Geliştirme Bannerı
+### No. 43: İnfografik / Eğitici Görsel - Japon Oyun Geliştirme Bannerı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2428,7 +2483,7 @@ Açık bej renkli arka plana sahip yatay bir banner görseli. Sol tarafta mor ve
 
 ---
 
-### No. 43: İnfografik / Eğitici Görsel - Sevimli Odaklanma Masası Düz Düzen ve Kawaii İllüstrasyon
+### No. 44: İnfografik / Eğitici Görsel - Sevimli Odaklanma Masası Düz Düzen ve Kawaii İllüstrasyon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2469,7 +2524,7 @@ Görsel Stil: Üst kısım net, parlak ve havadar bir fotoğrafçılık. Alt kı
 
 ---
 
-### No. 44: İnfografik / Eğitici Görsel - Manga İnfografiği: Yapay Zeka Prompt Mühendisliği
+### No. 45: İnfografik / Eğitici Görsel - Manga İnfografiği: Yapay Zeka Prompt Mühendisliği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2521,7 +2576,7 @@ Alt Bölüm:
 
 ---
 
-### No. 45: İnfografik / Eğitici Görsel - Hell Hound Karakter Kağıdı İnfografiği
+### No. 46: İnfografik / Eğitici Görsel - Hell Hound Karakter Kağıdı İnfografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2596,7 +2651,7 @@ Alt bilgi metni: "STINKY IS PROTECTED. ALWAYS. NO HARM SHALL TOUCH HER. EVER."
 
 ---
 
-### No. 46: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası: Geleneksel Hanfu Çifti
+### No. 47: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası: Geleneksel Hanfu Çifti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2639,7 +2694,7 @@ Sağ Karakter (Kadın):
 
 ---
 
-### No. 47: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası: Kılıç Kraliçesi
+### No. 48: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası: Kılıç Kraliçesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2687,7 +2742,7 @@ Karanlık bir arka plan üzerinde altın ve beyaz metinlerle düzenlenmiş, {arg
 
 ---
 
-### No. 48: İnfografik / Eğitici Görsel - Halk Sanatı Kafe Çalışma İllüstrasyonu
+### No. 49: İnfografik / Eğitici Görsel - Halk Sanatı Kafe Çalışma İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2748,7 +2803,7 @@ Boş alana yalnızca birkaç küçük yüzen öğe dağıtın: dört veya beş n
 
 ---
 
-### No. 49: İnfografik / Eğitici Görsel - Mid-Autumn Festival Typography Poster Prompt
+### No. 50: İnfografik / Eğitici Görsel - Mid-Autumn Festival Typography Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2806,7 +2861,7 @@ Font Color: {argument name="font_color_en" default="Gucci Ancora Red"}
 
 ---
 
-### No. 50: İnfografik / Eğitici Görsel - Atık Su Arıtma Tesisi İnfografiği
+### No. 51: İnfografik / Eğitici Görsel - Atık Su Arıtma Tesisi İnfografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2858,7 +2913,7 @@ Bir atık su arıtma tesisinin çalışma prensiplerini açıklayan yatay bir in
 
 ---
 
-### No. 51: İnfografik / Eğitici Görsel - GPT Image 2 İçin Minimalist Tören Afişi İstemleri
+### No. 52: İnfografik / Eğitici Görsel - GPT Image 2 İçin Minimalist Tören Afişi İstemleri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2911,7 +2966,7 @@ Bir halk kültür kurumu etkinliği ana afişi için temayı "Şehir Halk Kütü
 
 ---
 
-### No. 52: İnfografik / Eğitici Görsel - UGC Tarzı Pazarlama Paneli Izgarası
+### No. 53: İnfografik / Eğitici Görsel - UGC Tarzı Pazarlama Paneli Izgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2951,7 +3006,7 @@ GPT Image 2 kullanarak, bu {argument name="category" default="bakkal"} ürünün
 
 ---
 
-### No. 53: İnfografik / Eğitici Görsel - Altın Geyik Sabah Keçe Dönüşümü
+### No. 54: İnfografik / Eğitici Görsel - Altın Geyik Sabah Keçe Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3010,46 +3065,6 @@ Kısıtlamalar: Bölünmüş ekran düzenini koruyun, her iki tarafta tam olarak
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: İnfografik / Eğitici Görsel - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 İstem
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="İnfografik / Eğitici Görsel - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="İnfografik / Eğitici Görsel - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Al-Shamus](https://x.com/im_shahid7)
-- **Kaynak:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **Yayınlandı:** 10 Eylül 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -6008,7 +6023,7 @@ REFERENCE_0 görselini temel alarak son derece incelikli, ürün odaklı bir dü
 
 <div align="center">
 
-### 🎯 17741 burada gösterilmeyen daha fazla istem
+### 🎯 17748 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6071,6 +6086,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-13T04:24:02.317Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-13T18:38:48.641Z</sub>
 
 </div>

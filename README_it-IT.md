@@ -139,9 +139,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **17861** |
+| 📝 Totale prompt | **17868** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **martedì 13 ottobre 2026 alle ore 04:23:48 UTC** |
+| 🔄 Ultimo aggiornamento | **martedì 13 ottobre 2026 alle ore 18:38:31 UTC** |
 
 </div>
 
@@ -1455,7 +1455,46 @@ Cambiare l'acconciatura intrecciata e la direzione del viso; omettere l'abito in
 
 ---
 
-### No. 21: Post sui social media - Ragazza in costume da bagno su scale arancioni
+### No. 21: Post sui social media - Prompt per Outfit Street Style Autunnale
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt per generare una ragazza carina con pantaloncini a quadri marroni, felpa grigia oversize e cappello paraorecchie in una posa rilassata di street style autunnale.
+
+#### 📝 Prompt
+
+```
+1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg" width="600" alt="Post sui social media - Prompt per Outfit Street Style Autunnale - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878374679_sxuakv_HUaq4DtbkAAdUD2.jpg" width="600" alt="Post sui social media - Prompt per Outfit Street Style Autunnale - Image 2">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Fonte:** [Twitter Post](https://x.com/ArtistaNozomu/status/2109904469278253162)
+- **Pubblicato:** 13 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36362)**
+
+---
+
+### No. 22: Post sui social media - Ragazza in costume da bagno su scale arancioni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1488,7 +1527,7 @@ Ritratto a figura intera, ripreso dall'alto, di una giovane donna dell'Asia orie
 
 ---
 
-### No. 22: Post sui social media - Prompt per Illustrazione di Ragazza Riparatrice di Dolci Halloween
+### No. 23: Post sui social media - Prompt per Illustrazione di Ragazza Riparatrice di Dolci Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1537,7 +1576,7 @@ Corpo intero visibile, mani visibili. Un sorriso leggermente orgoglioso.
 
 ---
 
-### No. 23: Post sui social media - Scena della Caduta di Cadia in Warhammer 40k
+### No. 24: Post sui social media - Scena della Caduta di Cadia in Warhammer 40k
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1570,7 +1609,7 @@ La caduta di Cadia durante la Tredicesima Crociata Nera. I piloni di pietra nera
 
 ---
 
-### No. 24: Post sui social media - Battaglia dei Tyranidi contro Craftworld Iyanden
+### No. 25: Post sui social media - Battaglia dei Tyranidi contro Craftworld Iyanden
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1603,7 +1642,7 @@ Il Craftworld Iyanden brucia sotto l'assalto dello sciame Tyranid. I Ghost Warri
 
 ---
 
-### No. 25: Post sui social media - Scena di Warhammer con Santa Celestine
+### No. 26: Post sui social media - Scena di Warhammer con Santa Celestine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1636,7 +1675,7 @@ Santa Celestine si erge al di sopra dei Marines del Caos. L'armatura dorata, le 
 
 ---
 
-### No. 26: Post sui social media - Illustrazione stilizzata di personaggi western
+### No. 27: Post sui social media - Illustrazione stilizzata di personaggi western
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1669,7 +1708,7 @@ Un'illustrazione stilizzata in stile caricatura di due personaggi western in pie
 
 ---
 
-### No. 27: Post sui social media - Ritratto Street Style a Shibuya
+### No. 28: Post sui social media - Ritratto Street Style a Shibuya
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1702,7 +1741,7 @@ Un ritratto verticale di una giovane donna accovacciata su una strada illuminata
 
 ---
 
-### No. 28: Post sui social media - Ragazza Mummia di Halloween in Stile Anime Pastello
+### No. 29: Post sui social media - Ragazza Mummia di Halloween in Stile Anime Pastello
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1754,7 +1793,7 @@ Corpo intero, viso leggermente preoccupato ma carino.
 
 ---
 
-### No. 29: Post sui social media - Poster di Colazione Tipica di Shanghai
+### No. 30: Post sui social media - Poster di Colazione Tipica di Shanghai
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1805,7 +1844,7 @@ Un poster fotografico culinario ad alta risoluzione e appetitoso, che presenta u
 
 ---
 
-### No. 30: Post sui social media - Prompt per Ritratto di Moda Monocromatico Cinematografico a Doppia Esposizione
+### No. 31: Post sui social media - Prompt per Ritratto di Moda Monocromatico Cinematografico a Doppia Esposizione
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1912,7 +1951,7 @@ Prompt JSON strutturato per GPT Image 2 che genera un ritratto di moda monocroma
 
 ---
 
-### No. 31: Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano
+### No. 32: Post sui social media - Foto Nokia con Scarabocchi di Diario Scritti a Mano
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1976,7 +2015,7 @@ Ritratto 3:4, firma verticale minuscola "voxcat" sul bordo destro.
 
 ---
 
-### No. 32: Post sui social media - Ragazze Chibi che Preparano Pancake
+### No. 33: Post sui social media - Ragazze Chibi che Preparano Pancake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2013,7 +2052,7 @@ Oggetti di scena e testo: Includi una busta etichettata "Fluffy Pancake Mix", un
 
 ---
 
-### No. 33: Post sui social media - Poster Tipografico a Linee
+### No. 34: Post sui social media - Poster Tipografico a Linee
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2060,7 +2099,7 @@ Stile visivo: Minimalista, tipografico, geometrico, design piatto, alto contrast
 
 ---
 
-### No. 34: Post sui social media - Menu Autunnale di Harbor Street Coffee
+### No. 35: Post sui social media - Menu Autunnale di Harbor Street Coffee
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2093,7 +2132,7 @@ Scatto fotorealistico ad alta angolazione di un tavolo rustico in legno immerso 
 
 ---
 
-### No. 35: Post sui social media - Ritratto Vintage in un Grande Magazzino
+### No. 36: Post sui social media - Ritratto Vintage in un Grande Magazzino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2126,7 +2165,7 @@ Una fotografia in stile vintage di una giovane donna in piedi in un grande magaz
 
 ---
 
-### No. 36: Post sui social media - Modello di Scrapbook Editoriale Nostalgico
+### No. 37: Post sui social media - Modello di Scrapbook Editoriale Nostalgico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2186,7 +2225,7 @@ Importante: preservare la fotografia realistica nella sezione superiore; non tra
 
 ---
 
-### No. 37: Post sui social media - Poster del Paesaggio Mattutino di Guangzhou
+### No. 38: Post sui social media - Poster del Paesaggio Mattutino di Guangzhou
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2237,28 +2276,30 @@ Un poster verticale creativo intitolato "GOOD MORNING GUANGZHOU" (广州早安) 
 
 ---
 
-### No. 38: Post sui social media - GPT Image 2: Poster Fotografico Surreale del 'Secondo Mondo'
+### No. 39: Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Prompt dettagliato per generare poster fotografici surreali in cui la metà superiore è una foto reale e quella inferiore si espande in un 'secondo mondo' concettuale con elementi di media misti.
+Genera un foglio di design del personaggio completo con dettagli sui costumi, ideale per giochi di ruolo o riferimenti per fan art.
 
 #### 📝 Prompt
 
 ```
-Basandosi su ogni fotografia caricata, crea un poster illustrativo fotografico surrealista concettuale 'Secondo Mondo' verticale indipendente con rapporto 3:4. Genera ogni output separatamente, senza collage combinati. Divisione verticale rigorosamente 1:1. La metà superiore è la foto originale realistica; la metà inferiore è un altro strato di spazio che cresce dall'interno della foto. Non sono cuciti insieme, ma esistono come presenze continue in diversi livelli narrativi dello stesso momento.
-La metà superiore dovrebbe preservare fedelmente la foto originale il più possibile, senza alterare il soggetto, l'azione, le relazioni spaziali, l'illuminazione, il colore o la texture. Eseguire solo il necessario ritaglio proporzionale e leggeri aggiustamenti tonali di alta gamma per conferirle un aspetto fotografico pulito, sobrio e di qualità editoriale.
-Il focus creativo non è sul 'soggetto', ma sulla ri-comprensione della struttura visiva. Prima, osserva gli indizi strutturali più decisivi in questa foto (ad es., confini, pendenze, superfici d'acqua, riflessi, ombre, crepe, strade, rami, nuvole, contorni, spazi vuoti, flussi, ritmi ripetitivi, svolte spaziali o pose). Trova la parte più adatta a 'attraversare il confine'. Poi lasciala rompere il bordo della foto verso la metà inferiore, subendo una traduzione di scopo, scala, semantica o ruolo narrativo all'ingresso. Non è una semplice estensione, ma trasformare qualcosa di reale in un'altra esistenza che può essere usata, attraversata, misurata, recuperata, riparata, organizzata, presa in prestito, dispiegata o raccolta nel secondo strato di spazio.
-La metà inferiore è uno spazio caldo, silenzioso, bianco sporco con una sottile texture di carta e ampio spazio vuoto. Non è uno sfondo illustrativo o un'area decorativa, ma un luogo per accogliere la 'nuova logica dopo aver attraversato il confine'. La relazione segue: Realtà → Attraversamento → Traduzione. Il fascino deriva da una narrativa inter-strato intelligente e accurata, non da decorazioni carine.
-Puoi aggiungere figure minimali disegnate a mano con linee nere (0-3), poche ma precise. Le figure sono utenti del secondo mondo, che interagiscono autenticamente con le strutture tradotte. Le linee dovrebbero essere leggere, semplici, naturali, leggermente artigianali, non carine, complesse o distraenti. Le azioni dovrebbero essere specifiche, sobrie e intelligenti, come maneggiare seriamente una piccola cosa intrinseca a questo mondo.
-Puoi aggiungere una breve didascalia scritta a mano in inglese, generata in base al vero 'evento del Secondo Mondo' che accade nell'immagine. Il tono dovrebbe essere come una scoperta casuale o una narrazione morbida, con un tocco di umorismo e interesse persistente. Non scrivere citazioni ispiratrici, spiegare allegorie o usare modelli predefiniti.
-Lo stile generale dovrebbe presentare una sintesi di Illustrazione Fotografica a Media Misto, Fotomontaggio Surreale, Illusione di Rottura della Cornice, Trompe-l'œil, Metafora Visiva e Illustrazione Editoriale Concettuale. Formalmente collage cross-media, meccanicamente rottura della cornice, metafora visiva centrale, tono emotivo gentile, lieve e micro-surrealismo intelligente.
-Non renderlo un modello di 'foto + piccole persone + frase'; non avere estensione senza traduzione; non avere forma senza metafora; non forzare sentimentalismi; evitare sensazioni pubblicitarie commerciali, stili illustrativi complessi, azioni ripetitive, decorazioni infondate, collage meccanici, connessioni rigide o vibes di guarigione economiche.
-Obiettivo Finale:
-Far vedere agli spettatori prima una vera foto valida, poi scoprire improvvisamente un elemento che attraversa un altro strato di spazio, acquisendo lì un nuovo significato inaspettato ma estremamente naturale.
-Non aggiungere creatività alla foto, ma rivelare la seconda realtà latente al suo interno.
+Obiettivo: Creare un foglio di design dettagliato per un personaggio anime e una suddivisione del costume per {argument name="character name" default="Makima"} di Chainsaw Man.
+Tela: Layout verticale a figura intera su uno sfondo color bianco sporco, leggermente testurizzato. Lo stile è pulito, professionale e ricorda una pagina di riferimento per concept art.
+Layout: Un'illustrazione a figura intera del personaggio si trova al centro. Attorno sono presenti sezioni etichettate con schizzi in line-art e testo descrittivo sia in cinese che in inglese. Sottili linee rosse collegano parti specifiche dell'abbigliamento alle relative caselle di dettaglio.
+Dettagli del soggetto: Makima sta in piedi con sicurezza, indossando un cappotto nero a coda lunga sopra una camicia bianca abbottonata, una cravatta nera sottile, pantaloni neri a vita alta e scarpe lucide in pelle nera. Ha capelli castano-rossicci lunghi fino alle spalle con frangia dritta e due trecce che incorniciano il viso. I suoi occhi sono giallo-dorati con anelli concentrici distintivi.
+Sezioni:
+- In alto a sinistra: Titolo "真纪真 MAKIMA" e sottotitolo "角色设定 · 服饰解析 / CHARACTER SETTING · COSTUME BREAKDOWN". Sotto è presente una citazione: "Human beings... The ultimate taste is despair."
+- Colonna sinistra (dall'alto verso il basso): Cinque pannelli rettangolari che dettagliano gli indumenti: Camicia (manica lunga bianca), Cravatta (nera stretta), Giacca (nera a coda lunga), Pantaloni (a vita alta), Scarpe (in pelle nera). Ogni pannello contiene uno schizzo dell'oggetto e una descrizione bilingue.
+- Colonna destra (dall'alto verso il basso): Sei pannelli che dettagliano le caratteristiche: Profilo (Affiliazione: Ufficio di Pubblica Sicurezza per lo Sterminio dei Demoni, Identità: Demonio del Controllo, Abilità: Controllo); Acconciatura (Capelli rossi, intrecciati in una singola treccia sulla schiena); Colore degli Occhi (Occhi dorati con profondità); Arma/Catena (Una catena materializzata dal potere del controllo); Riferimento Storico (Ispirato a catene e manette medievali); Accessori (Stile minimalista).
+- In basso a sinistra: Una sezione intitolata "Riferimento Storico" che presenta tre piccole foto di donne in tailleur da lavoro, facendo riferimento all'estetica dell'era Shōwa.
+- Centro in basso: Il logo "チェンソーマン CHAINSAW MAN".
+- In basso a destra: Due pannelli finali: Prop (Documento contrattuale con sigillo) e Tavolozza dei Colori (campiture di rosso, beige, bianco, nero, oro). Sotto è presente una sezione Parole Chiave che elenca: Controllo, Razionalità, Calma, Mistero, Pericolo.
+Stile visivo: Illustrazione digitale di alta qualità mista a estetiche di diagrammi tecnici. Utilizzare font serif per il testo in inglese e sans-serif standard per le etichette in cinese.
 ```
 
 #### 🖼️ Immagini generate
@@ -2266,27 +2307,39 @@ Non aggiungere creatività alla foto, ma rivelare la seconda realtà latente al 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577023_3mw615_HUHuCs9aoAEXMkO.jpg" width="600" alt="Post sui social media - GPT Image 2: Poster Fotografico Surreale del 'Secondo Mondo' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791878376866_kg6uzv_HUZEvD6bUAAfJHE.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532577045_n93hr4_HUHuCs-aQAAVBPM.jpg" width="600" alt="Post sui social media - GPT Image 2: Poster Fotografico Surreale del 'Secondo Mondo' - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791878376921_okhtne_HUZEvXea0AAsYPw.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878376892_4jb3qg_HUZEvt_bkAAhUCD.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791878377594_h77rmu_HUZEwCea0AArl4k.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime - Image 4">
 </div>
 
 #### 📌 Dettagli
 
-- **Autore:** [小小东](https://x.com/xiaoxiaodong)
-- **Fonte:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108227862390280585)
-- **Pubblicato:** 8 ottobre 2026
-- **Lingue:** zh
+- **Autore:** [Popcraft AI](https://x.com/popcraftAI)
+- **Fonte:** [Twitter Post](https://x.com/popcraftAI/status/2109449072436498806#reversed-0)
+- **Pubblicato:** 12 ottobre 2026
+- **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36163)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36328)**
 
 ---
 
-### No. 39: Infografica / Contenuto Visual Educativo - Infografica di Point Nemo
+### No. 40: Infografica / Contenuto Visual Educativo - Infografica di Point Nemo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2335,7 +2388,7 @@ Stile Visivo: Design professionale per infografiche. Utilizzare font sans-serif 
 
 ---
 
-### No. 40: Infografica / Contenuto Visual Educativo - Immagine Termica di una Persona
+### No. 41: Infografica / Contenuto Visual Educativo - Immagine Termica di una Persona
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2368,7 +2421,7 @@ Una fotografia termica realistica di una persona in piedi in un ambiente interno
 
 ---
 
-### No. 41: Infografica / Contenuto Visual Educativo - Progettazione del poster per il Festival delle Arti di Tsing Hua
+### No. 42: Infografica / Contenuto Visual Educativo - Progettazione del poster per il Festival delle Arti di Tsing Hua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2401,7 +2454,7 @@ Crea un poster di graphic design a schermo diviso per il '2025 Spring x Tsing Hu
 
 ---
 
-### No. 42: Infografica / Contenuto Visual Educativo - Banner per lo sviluppo di giochi in giapponese
+### No. 43: Infografica / Contenuto Visual Educativo - Banner per lo sviluppo di giochi in giapponese
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2434,7 +2487,7 @@ Un'immagine orizzontale del banner con uno sfondo beige chiaro. Sul lato sinistr
 
 ---
 
-### No. 43: Infografica / Contenuto Visual Educativo - Deliziosa foto dall'alto di una scrivania per la concentrazione e illustrazione kawaii
+### No. 44: Infografica / Contenuto Visual Educativo - Deliziosa foto dall'alto di una scrivania per la concentrazione e illustrazione kawaii
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2475,7 +2528,7 @@ Stile Visivo: La parte superiore è una fotografia nitida, luminosa e ariosa. La
 
 ---
 
-### No. 44: Infografica / Contenuto Visual Educativo - Infografica Manga: Ingegneria dei Prompt AI
+### No. 45: Infografica / Contenuto Visual Educativo - Infografica Manga: Ingegneria dei Prompt AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2527,7 +2580,7 @@ Sezione Inferiore:
 
 ---
 
-### No. 45: Infografica / Contenuto Visual Educativo - Scheda Personaggio Infografica: Cane Infernale
+### No. 46: Infografica / Contenuto Visual Educativo - Scheda Personaggio Infografica: Cane Infernale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2602,7 +2655,7 @@ Testo del footer: "STINKY È PROTETTA. SEMPRE. NESSUN MALE LA TOCCHERÀ. MAI."
 
 ---
 
-### No. 46: Infografica / Contenuto Visual Educativo - Scheda di Design Personaggio Anime: Coppia in Hanfu Tradizionale
+### No. 47: Infografica / Contenuto Visual Educativo - Scheda di Design Personaggio Anime: Coppia in Hanfu Tradizionale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2645,7 +2698,7 @@ Personaggio Destro (Femminile):
 
 ---
 
-### No. 47: Infografica / Contenuto Visual Educativo - Scheda di Design del Personaggio Anime: Regina della Spada
+### No. 48: Infografica / Contenuto Visual Educativo - Scheda di Design del Personaggio Anime: Regina della Spada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2693,7 +2746,7 @@ Crea una scheda di design del personaggio altamente dettagliata e professionale 
 
 ---
 
-### No. 48: Infografica / Contenuto Visual Educativo - Illustrazione di Studio in un Caffè Folk Art
+### No. 49: Infografica / Contenuto Visual Educativo - Illustrazione di Studio in un Caffè Folk Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2754,7 +2807,7 @@ Spargi solo pochi minuscoli elementi fluttuanti nello spazio vuoto: quattro o ci
 
 ---
 
-### No. 49: Infografica / Contenuto Visual Educativo - Prompt per Poster Tipografico del Festival di Metà Autunno
+### No. 50: Infografica / Contenuto Visual Educativo - Prompt per Poster Tipografico del Festival di Metà Autunno
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2812,7 +2865,7 @@ Colore del font: {argument name="font_color_en" default="Gucci Ancora Red"}
 
 ---
 
-### No. 50: Infografica / Contenuto Visual Educativo - Infografica dell'impianto di trattamento delle acque reflue
+### No. 51: Infografica / Contenuto Visual Educativo - Infografica dell'impianto di trattamento delle acque reflue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2864,7 +2917,7 @@ Crea un poster infografico orizzontale che spieghi i principi di funzionamento d
 
 ---
 
-### No. 51: Infografica / Contenuto Visual Educativo - Prompt per Poster Cerimoniale Minimalista per GPT Image 2
+### No. 52: Infografica / Contenuto Visual Educativo - Prompt per Poster Cerimoniale Minimalista per GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2917,7 +2970,7 @@ Imposta il tema su "Open Day della Biblioteca Pubblica Cittadina" per il poster 
 
 ---
 
-### No. 52: Infografica / Contenuto Visual Educativo - Griglia per pannelli di marketing in stile UGC
+### No. 53: Infografica / Contenuto Visual Educativo - Griglia per pannelli di marketing in stile UGC
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2957,7 +3010,7 @@ Crea una griglia 3x3 a pagina intera di pannelli realistici in stile UGC che mos
 
 ---
 
-### No. 53: Infografica / Contenuto Visual Educativo - Trasformazione del cervo dorato al mattino in feltro
+### No. 54: Infografica / Contenuto Visual Educativo - Trasformazione del cervo dorato al mattino in feltro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3016,46 +3069,6 @@ Vincoli: Mantieni il layout a schermo diviso, esattamente 5 cervi su ogni lato, 
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=34333)**
-
----
-
-### No. 54: Infografica / Contenuto Visual Educativo - Technical Product Infographic Overlay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
-
-#### 📝 Prompt
-
-```
-Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Technical Product Infographic Overlay - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Technical Product Infographic Overlay - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Al-Shamus](https://x.com/im_shahid7)
-- **Fonte:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
-- **Pubblicato:** 10 settembre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=34210)**
 
 ---
 
@@ -6004,7 +6017,7 @@ Utilizzando REFERENCE_0 come immagine di base, esegui una modifica in stile prod
 
 <div align="center">
 
-### 🎯 17741 altri prompt non mostrati qui
+### 🎯 17748 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6067,6 +6080,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-13T04:23:48.649Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-13T18:38:31.311Z</sub>
 
 </div>
