@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **17928** |
+| 📝 Gesamtanzahl Prompts | **17948** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Montag, 19. Oktober 2026 um 02:16:34 UTC** |
+| 🔄 Zuletzt aktualisiert | **Montag, 19. Oktober 2026 um 17:55:02 UTC** |
 
 </div>
 
@@ -1526,9 +1526,245 @@ Ein Vintage-Stil-Foto einer jungen Frau, die auf einer schmalen Straße in einer
 
 ---
 
-### No. 21: Social-Media-Beitrag - GPT Image 2 Streetwear Tartan Outfit Prompt
+### No. 21: Social-Media-Beitrag - Studentin in braunem Plisseerock im Gehen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Seitenprofil-Foto eines Mädchens mit langen schwarzen Haaren, das ein weißes Oberteil und einen braunen Plisseerock trägt und draußen mit einem Rucksack geht.
+
+#### 📝 Prompt
+
+```
+Ein fotorealistisches Ganzkörper-Seitenprofil einer jungen Frau, die zügig von links nach rechts über eine sonnige gepflasterte Plaza geht. Sie hat sehr langes, glattes schwarzes Haar mit geradem Pony, das ihr über den Rücken fällt. Ihr Outfit besteht aus einem eng anliegenden weißen Langarm-Oberteil, das in einen hochgeschnittenen, dunkelbraunen Plisseerock gesteckt ist, der hinter ihr her weht, während sie geht. Sie trägt schwarze Ledermokassins mit weißen Knöchelsocken. Ein cremefarbener Canvas-Rucksack hängt über ihrer Schulter, an dessen Reißverschluss ein kleiner violetter Oktopus-Plüsch-Anhänger baumelt. In ihren Händen hält sie ein Smartphone und einen dünnen Riemen. Der Hintergrund ist leicht unscharf (Bokeh-Effekt) und zeigt grüne Bäume sowie andere Studenten, die in dieselbe Richtung gehen; einer davon trägt ein ähnliches weißes Oberteil und einen schwarzen Rock mit schwarzem Rucksack. Die Beleuchtung ist hell und natürlich und wirft weiche Schatten auf den Boden.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397039916_460bqd_HU6g00QaIAENuRM.jpg" width="600" alt="Social-Media-Beitrag - Studentin in braunem Plisseerock im Gehen - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [hair_hair55](https://x.com/Hair_Hair55)
+- **Quelle:** [Twitter Post](https://x.com/Hair_Hair55/status/2111804498847166790#reversed-0)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36651)**
+
+---
+
+### No. 22: Social-Media-Beitrag - Riesige Polizei-Roboter auf der Tokyo Robot Expo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Eine fotorealistische Darstellung von riesigen humanoiden Polizei-Robotern, die eine Outdoor-Tech-Messe in Tokio bewachen, umgeben von Menschenmengen und kleineren Robotereinheiten.
+
+#### 📝 Prompt
+
+```
+Ein fotorealistisches Bild in hoher Auflösung einer belebten Outdoor-Technologie-Messe in Tokio. Die Szene wird von drei massiven humanoiden Robotern dominiert, die auf einem gepflasterten Platz stehen. Der zentrale Roboter ist der größte und verfügt über ein komplexes schwarz-weißes gepanzertes Exoskelett mit roten Blinklichtern an den Schultern sowie einem Mehrfach-Linsen-Sensorarray als Kopf. Auf seinen Brustplatten steht in weißer Schrift "警視庁 MPD" (Metropolitan Police Department). Links davon steht ein ähnlicher, aber etwas kleinerer blau-weißer Roboter, rechts ein rot-schwarzer Roboter. Im Vordergrund gehen mehrere Polizisten in dunklen Uniformen mit dem Aufdruck "警視庁 MPD" auf dem Rücken durch die Menge der Zivilisten, die Fotos mit Smartphones machen. Kleinere vierbeinige Roboter und Service-Bots sind am unteren Rand verteilt. Blaue Banner mit der Aufschrift "ROBOT EXPO TOKYO" hängen an Metallgerüsten. Der Hintergrund zeigt einen hellblauen Himmel, ein Gewässer und die Skyline moderner Wolkenkratzer.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397041123_dukaik_HU6hu65bUAAx3_T.jpg" width="600" alt="Social-Media-Beitrag - Riesige Polizei-Roboter auf der Tokyo Robot Expo - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [カーブミラー](https://x.com/kabumira862571)
+- **Quelle:** [Twitter Post](https://x.com/kabumira862571/status/2111803112700989809#reversed-0)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36652)**
+
+---
+
+### No. 23: Social-Media-Beitrag - Showa-Retro-Bus-Schlaf-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Erzeugt ein nostalgisches Porträt einer jungen Frau, die in einem Vintage-Bus mit retro-filmischer Ästhetik schläft.
+
+#### 📝 Prompt
+
+```
+Ein vertikales Porträt einer jungen ostasiatischen Frau, die in einem Vintage-Bus schläft, gestaltet im nostalgischen Retro-Stil der Showa-Ära. Sie hat dunkelbraunes Haar, das zu einem niedrigen Pferdeschwanz gebunden ist, mit losen Strähnen, die ihr Gesicht umrahmen, und sichtbaren Sommersprossen auf Nase und Wangen. Ihre Augen sind friedlich geschlossen, während sie ihren Kopf gegen den Metallfensterrahmen lehnt. Sie trägt eine strukturierte cremefarbene Strickjacke über einem passenden Oberteil und einen karierten Rock in gedämpften Rot- und Blautönen. Eine braune Ledertasche liegt auf ihrem Schoß. Der Hintergrund ist leicht unscharf und zeigt andere Passagiere hinter ihr sowie einen Blick auf eine Straßenszene durch das Fenster mit japanischen Schildern und einem alten Auto. Die Beleuchtung ist warm und natürlich und erzeugt den Look einer Filmfotografie mit weichem Korn.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397041256_tm7z9f_HU6NSc0boAE0tXH.jpg" width="600" alt="Social-Media-Beitrag - Showa-Retro-Bus-Schlaf-Porträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [拓斗](https://x.com/Kmsbdd0GXBOcrXQ)
+- **Quelle:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2111780627863462041#reversed-0)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36654)**
+
+---
+
+### No. 24: Social-Media-Beitrag - Echte Frau neben riesigem Chibi-Graffiti-Wandbild
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein umfassender Prompt zur Erstellung eines ultra-realistischen Fotos, auf dem eine echte Frau mit einem riesigen, niedlichen Chibi-Graffiti-Wandbild von sich selbst an einer bunten Wand interagiert.
+
+#### 📝 Prompt
+
+```
+Ultra-realistische Fotografie + Illusion eines riesigen, niedlichen Chibi-Graffiti-Wandbilds
+Erstellen Sie ein ultra-realistisches vertikales Foto im Seitenverhältnis 3:4, das realistische Fotografie mit der Illusion eines riesigen, entzückenden Chibi-Graffiti-Wandbilds kombiniert. Verwenden Sie das hochgeladene Referenzfoto als primäre Identitätsreferenz. Bewahren Sie die exakte Gesichtsidentität der realen Person bei, einschließlich Gesichtsform, Augen, Nase, Lippen, Hautton, Gesichtproportionen und einzigartiger Merkmale. Das Gesicht darf nicht verändert, ersetzt oder neu gestaltet werden.
+
+1. Hauptmotiv — Echte Frau
+
+Auf der rechten Seite der bunten Graffiti-Wand ist eine erwachsene asiatische Frau zu sehen, die natürlich für ein Foto posiert. Sie trägt ein schlichtes weißes T-Shirt, weite hellblaue Jeans, weiße Sneaker, eine schwarze Umhängetasche und eine Armbanduhr.
+
+Sie steht mit natürlich übereinandergeschlagenen Beinen. Eine Hand berührt sanft ihr Kinn, während die andere Richtung des Cartoon-Wandbilds greift, als würde sie damit interagieren. Sie hat ein süßes, freundliches Lächeln und blickt direkt in die Kamera.
+
+Bewahren Sie ihre ursprüngliche Gesichtsidentität, realistische Hauttextur, natürliche Körperproportionen und authentisches Aussehen bei.
+
+2. Riesiges Chibi-Cartoon-Wandbild
+
+Auf der linken Seite der Frau wird eine riesige, entzückende Chibi-Illustration erstellt, die eine niedliche Cartoon-Version derselben Person darstellt.
+
+Die Cartoon-Figur weist folgende Merkmale auf:
+
+Einen überdimensionalen Kopf und große, funkelnde Augen.
+
+Rosige Wangen und lange, dunkelbraune Haare.
+
+Ein weißes T-Shirt, weite hellblaue Jeans und weiße Sneaker.
+
+Eine Sonnenbrille, die oben auf ihrem Kopf sitzt.
+
+Eine schwarze Umhängetasche.
+
+Fette schwarze Konturen, saubere Cartoon-Details und schöne handgezeichnete Schattierungen.
+
+Die Cartoon-Figur macht mit einer Hand eine Mini-Herzgeste, während sie die andere Hand zur echten Frau ausstreckt, um eine weitere kleine Herzgeste zu formen. Positionieren Sie die Hände sorgfältig, um die Illusion zu erzeugen, dass die reale Frau und ihr Cartoon-Pendant spielerisch miteinander interagieren und gemeinsam posieren.
+
+3. Bunter Graffiti-Hintergrund
+
+Verwenden Sie eine gealterte Betonwand, die mit lebendiger Street Art bedeckt ist, featuring Pink-, Blau-, Türkis-, Gelb-, Orange-, Grün- und Purpurtöne.
+
+Inkludieren Sie dekorative Elemente wie:
+
+Regenbögen und bunte Herzen.
+
+Sterne, Blumen und lächelnde Gesichter.
+
+Eine niedliche Katzenillustration.
+
+Farbspritzer, künstlerische Kritzeleien und texturierte Graffiti-Details.
+
+Fette englische Street-Art-Buchstaben mit dicken schwarzen Konturen.
+
+Inkludieren Sie die Phrasen:
+
+“GOOD VIBES”
+
+“SAME ENERGY”
+
+“YOU GOT THIS”
+
+“BETTER TOGETHER”
+
+Gestalten Sie die Schriftzüge farbenfroh, verspielt und energetisch, während die authentische Textur der Betonwand erhalten bleibt.
+
+4. Beleuchtung und Fotografie-Qualität
+
+Ultra-fotorealistische Fotografie, professionelle DSLR-Kameraqualität, natürliches Tageslicht, weiche Schatten, realistische Hauttextur, authentische Stoffdetails, akkurate Körperproportionen, detaillierte Denim-Textur, scharfer Fokus, lebendige Farben, hohe Auflösung, realistische Betontextur und professionelle Street Photography.
+
+Erstellen Sie eine spielerische visuelle Geschichte mit nahtloser Interaktion zwischen der echten Frau und dem riesigen Cartoon-Wandbild.
+
+5. Komposition
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397028647_z0t88x_HU6Lxx8bwAAH4eD.jpg" width="600" alt="Social-Media-Beitrag - Echte Frau neben riesigem Chibi-Graffiti-Wandbild - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aiza](https://x.com/AizaAi12)
+- **Quelle:** [Twitter Post](https://x.com/AizaAi12/status/2111778982458974641)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36638)**
+
+---
+
+### No. 25: Social-Media-Beitrag - Küstenstraße Aquarell-Pop-Up-Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Verwandelt ein Referenzbild einer Küstenstraße in eine 3D-Pop-Up-Szene, die aus einem Vintage-Skizzenbuch hervorgeht, mit Aquarelltexturen und Papierschulptur-Effekten. Erfordert ein Referenzbild für die Komposition.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie eine atemberaubende fotorealistische bis aquarellartige Transformation einer friedlichen Küstenstraße unter Verwendung des Referenzbildes für die Komposition. Zeigen Sie eine sich windende Küstenstraße, die zu einem leuchtend blauen Ozean führt, mit traditionellen Küstengebäuden, üppig grünen Bäumen, Straßenlaternen, Fahrbahnmarkierungen, fernen Bergen, kleinen Booten und einem klaren Sommerhimmel. Verwandeln Sie die Landschaft in eine schöne dreidimensionale Pop-Up-Szene, die aus einem offenen Vintage-Skizzenbuch hervorgeht, mit gebogenen Papierkanten, geschichteten cremefarbenen Seiten, realistischen Papierzuständen, zarter Aquarellmalerei, feinen Tintenumrissen und detaillierten Miniatur-Architekturmerkmalen. Die Küstenstraße und der Ozean sollten natürlich aus den Buchseiten aufragen und eine elegante Illusion einer Papierschulptur erzeugen. Warmes natürliches Sonnenlicht, weiche Schatten, Pastelltöne, intricate Details, ästhetischer Stil eines künstlerischen Reisetagebuchs, realistische Tiefe, cineastische Komposition, hochwertige Editorial-Fotografie, ultra-detailliert, 4K-Qualität, vertikales 9:16-Seitenverhältnis. Bewahren Sie die ursprüngliche Landschaftskomposition bei und lassen Sie die 3D-Papiertransformation glaubwürdig und magisch wirken.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397027587_ltarxc_HU5oZStaQAErZO9.jpg" width="600" alt="Social-Media-Beitrag - Küstenstraße Aquarell-Pop-Up-Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397027615_1bfzr4_HU5oZSobYAArl-U.jpg" width="600" alt="Social-Media-Beitrag - Küstenstraße Aquarell-Pop-Up-Prompt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Taaruk](https://x.com/Taaruk_)
+- **Quelle:** [Twitter Post](https://x.com/Taaruk_/status/2111740070046879798)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36636)**
+
+---
+
+### No. 26: Social-Media-Beitrag - GPT Image 2 Streetwear Tartan Outfit Prompt
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Beschreibung
 
@@ -1553,13 +1789,13 @@ Keine zusätzlichen Dekorationen.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309457586_98658b_HU0npbVbMAAMBuR.jpg" width="600" alt="Social-Media-Beitrag - GPT Image 2 Streetwear Tartan Outfit Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792397029050_oqahuw_HU0npbVbMAAMBuR.jpg" width="600" alt="Social-Media-Beitrag - GPT Image 2 Streetwear Tartan Outfit Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309457447_vr7uu2_HU0npbbbAAAedML.jpg" width="600" alt="Social-Media-Beitrag - GPT Image 2 Streetwear Tartan Outfit Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792397029108_uuddht_HU0npbbbAAAedML.jpg" width="600" alt="Social-Media-Beitrag - GPT Image 2 Streetwear Tartan Outfit Prompt - Image 2">
 </div>
 
 #### 📌 Details
@@ -1567,13 +1803,13 @@ Keine zusätzlichen Dekorationen.
 - **Autor:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
 - **Quelle:** [Twitter Post](https://x.com/ArtistaNozomu/status/2111715150533431680)
 - **Veröffentlicht:** 18. Oktober 2026
-- **Sprachen:** en
+- **Sprachen:** ja
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36588)**
 
 ---
 
-### No. 22: Social-Media-Beitrag - Retro-Film-Porträt eines Mädchens in Matrosenuniform
+### No. 27: Social-Media-Beitrag - Retro-Film-Porträt eines Mädchens in Matrosenuniform
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1606,7 +1842,7 @@ Ein vertikales Medium-Vollporträt einer jungen asiatischen Frau, die auf einem 
 
 ---
 
-### No. 23: Social-Media-Beitrag - Handgezeichnete 2D-Cartoon-Illustration
+### No. 28: Social-Media-Beitrag - Handgezeichnete 2D-Cartoon-Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1661,7 +1897,7 @@ Pro-Tipp: Lade jeweils nur ein Foto hoch und verwende denselben Prompt, um versc
 
 ---
 
-### No. 24: Social-Media-Beitrag - GPT-Image-2 Wildlife Photography Prompt
+### No. 29: Social-Media-Beitrag - GPT-Image-2 Wildlife Photography Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1716,7 +1952,7 @@ Die Komposition betont die Handlungsverbindung, das hervorstechende Subjekt, ein
 
 ---
 
-### No. 25: Social-Media-Beitrag - Vintage-Strandporträt
+### No. 30: Social-Media-Beitrag - Vintage-Strandporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1749,7 +1985,7 @@ Ein Vintage-Foto einer jungen Frau am Strand, aufgenommen auf Film mit sichtbare
 
 ---
 
-### No. 26: Social-Media-Beitrag - Jungfrau-Zodiac-Porträt mit goldenen kosmischen Energien
+### No. 31: Social-Media-Beitrag - Jungfrau-Zodiac-Porträt mit goldenen kosmischen Energien
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1783,7 +2019,7 @@ Eine realistische Illustration des Modells im angehängten Bild, wobei ihr Gesic
 
 ---
 
-### No. 27: Social-Media-Beitrag - Vintage-Foto von zwei Frauen mit Blumen
+### No. 32: Social-Media-Beitrag - Vintage-Foto von zwei Frauen mit Blumen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1816,7 +2052,7 @@ Ein Vintage-Foto von zwei jungen ostasiatischen Frauen, die dicht beieinander vo
 
 ---
 
-### No. 28: Social-Media-Beitrag - Vintage Reisejournal-Fotocollage
+### No. 33: Social-Media-Beitrag - Vintage Reisejournal-Fotocollage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1908,7 +2144,7 @@ Seitenverhältnis: 3:4 vertikal.
 
 ---
 
-### No. 29: Social-Media-Beitrag - Showa-Retro-Turnmädchen
+### No. 34: Social-Media-Beitrag - Showa-Retro-Turnmädchen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1941,7 +2177,7 @@ Ein nostalgisches Filmkorn-Foto eines jungen japanischen Mädchens, das auf dem 
 
 ---
 
-### No. 30: Social-Media-Beitrag - Alien Braut in Ruinierter Labor
+### No. 35: Social-Media-Beitrag - Alien Braut in Ruinierter Labor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1974,7 +2210,7 @@ Eine hyperrealistische Ganzkörperaufnahme einer weiblichen Alien mit blassgraue
 
 ---
 
-### No. 31: Social-Media-Beitrag - Werwolf auf verlassener Spielplatz
+### No. 36: Social-Media-Beitrag - Werwolf auf verlassener Spielplatz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2007,7 +2243,7 @@ Eine hyperrealistische, cineastische Horrorszene mit einem riesigen Werwolf, der
 
 ---
 
-### No. 32: Social-Media-Beitrag - Herbstliche Kreativplan-Collage
+### No. 37: Social-Media-Beitrag - Herbstliche Kreativplan-Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2040,7 +2276,7 @@ Ein vertikales digitales Collage-Poster, das eine junge Frau im Zentrum zeigt, m
 
 ---
 
-### No. 33: Social-Media-Beitrag - Haiku über einen vernachlässigten Weinkeller
+### No. 38: Social-Media-Beitrag - Haiku über einen vernachlässigten Weinkeller
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2077,123 +2313,7 @@ durchstreifen das Gemäuer
 
 ---
 
-### No. 34: Social-Media-Beitrag - 3D-Scrapbook-Komposition mit schwebenden Papier-Ausschnitten
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Erstellt eine kreative, minimalistische 3D-Scrapbook-Komposition mit realistischen Fotografien, die in dicke, schwebende Papier-Ausschnitte mit Strichmännchen-Figuren verwandelt werden.
-
-#### 📝 Prompt
-
-```
-Erstelle eine kreative, minimalistische 3D-Scrapbook-Komposition, bei der ein realistisches Foto auf einem warmen, elfenbeinfarbenen strukturierten Hintergrund in einen dicken, schwebenden Papier-Ausschnitt verwandelt wird. Zeige im ersten Szenario ein schönes, sonnenbeschienenes modernes Schlafzimmer mit einem olivgrünen Bett, Walnussholzmöbeln, großen Fenstern, üppigen Zimmerpflanzen, einem runden Spiegel und weichem natürlichem Sonnenlicht. Stelle im zweiten Szenario dramatische weiße Küstenklippen dar, die mit lebhaftem grünem Gras bewachsen sind, tiefe blaue Ozeanwellen und einen markanten rot-weißen Leuchtturm unter einem bewölkten Himmel. Das Foto soll wie ein gebogener, gefalteter Bogen aus dickem Papier wirken, mit realistischer Tiefe, sichtbaren geschichteten Rändern, weichen Schatten und einem Schwebeeffekt. Füge kleine handgezeichnete schwarze Strichmännchen hinzu, die mit dem Papier interagieren – es schieben, anheben oder an den Rändern festhalten – sowie verspielte handschriftliche Bildunterschriften wie "{argument name="caption1" default="Eine andere Version meines Zimmers"}" und "{argument name="caption2" default="Gleicher Ort, andere Ebene."} Elegante Editorial-Fotografie, realistische Texturen, subtile Unvollkommenheiten, minimalistische Art Direction, weiche Beige-Palette, kreatives visuelles Storytelling, Premium-Design-Magazin-Ästhetik, klare Details, ausgewogene Komposition, vertikales Poster-Layout.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136975883_7et53j_HUqON7mb0AAoTGs.jpg" width="600" alt="Social-Media-Beitrag - 3D-Scrapbook-Komposition mit schwebenden Papier-Ausschnitten - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136975874_8vsd61_HUqON7faIAA56vy.jpg" width="600" alt="Social-Media-Beitrag - 3D-Scrapbook-Komposition mit schwebenden Papier-Ausschnitten - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Taaruk](https://x.com/Taaruk_)
-- **Quelle:** [Twitter Post](https://x.com/Taaruk_/status/2110655754927772000)
-- **Veröffentlicht:** 15. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36501)**
-
----
-
-### No. 35: Social-Media-Beitrag - Zweite-Welt-Editorial-Fotografie-Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Erstellt ein vertikales Poster, bei dem die untere Hälfte das Hauptmotiv eines hochgeladenen Fotos in ein greifbares 3D-Fotografieobjekt auf Papier verwandelt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein vertikales 3:4 „Zweite Welt“ Editorial-Fotografie-Poster basierend auf dem hochgeladenen Foto.
-
-### KOMPOSITION
-Teile das Bild in zwei exakt gleich große horizontale Hälften.
-
-Obere Hälfte: Bewahre das Originalfoto exakt bei, erlaube nur proportionales Zuschneiden. Behalte das ursprüngliche Motiv, die Farben, die Komposition, das natürliche Licht und die realistischen Texturen bei. Keine Neuzeichnungen oder Illustrationen.
-
-Untere Hälfte: Verwende einen warmen elfenbeinweißen Papierhintergrund mit großzügigem Negativraum.
-
-### KERNKONZEPT
-Identifiziere die wiedererkennbarste visuelle Struktur des Fotos und verwandle sie in der unteren Hälfte in ein greifbares, dreidimensionales Fotografieobjekt.
-
-Das Objekt muss die originalen fotografischen Texturen beibehalten und physisch real wirken, mit sichtbarer Dicke, subtilen Falten oder Krümmungen, natürlichen Schatten, Perspektive und realistischem Kontakt zum Papier.
-
-Die Bewahrung des Motivs ist essenziell: Wenn das Foto eine erkennbare Person, ein Gebäude, ein Tier, eine Sehenswürdigkeit oder ein distinctes Objekt enthält, mache es zum Mittelpunkt der unteren Hälfte. Bewahre seine Identität, realistische Textur und den Großteil seiner vollständigen Silhouette. Ersetze niemals das Hauptmotiv durch Hintergrundelemente.
-
-Die untere Hälfte muss ein substanzielles Fotografieobjekt deutlich zeigen, nicht bloß zerrissenes Papier oder eine winzige Figur.
-
-### FIGUREN & CAPTION
-Integriere 0–2 minimalistische Schwarz-Liniengrafik-Figuren, die sinnvoll mit dem Fotografieobjekt interagieren, wie z.B. Heben, Entfalten, Schieben, Reparieren oder Betreten.
-
-Füge eine kurze, lässige, leicht humorvolle handschriftliche englische Caption hinzu. Vermeide Motivationszitate und Klischees.
-
-### VISUELLER STIL
-Realistische Fotografie + warmes Elfenbeinpapier + minimalistische schwarze Kritzeleien + subtile handgemachte Collage + Ästhetik unabhängiger Magazine.
-
-Halte das Design sauber, hell, minimal und visuell auffällig.
-
-### VERMEIDEN
-Ganzbild-Illustration, generische Zerreißpapier-Vorlagen, winzige dekorative Figuren, unzusammenhängende Ornamente, Unordnung, komplexe Illustrationen und kommerzielle Ästhetik.
-
-FINALE REGEL: Die untere Hälfte muss sich anfühlen wie ein reales, dreidimensionales Stück des Originalfotos, das in eine zweite Welt gebracht wurde. Das Hauptmotiv muss auf den ersten Blick sofort wiedererkennbar bleiben, auch wenn seine physikalischen Eigenschaften kreativ transformiert werden.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136977331_fbag1m_HUprOxmbEAEdPuQ.jpg" width="600" alt="Social-Media-Beitrag - Zweite-Welt-Editorial-Fotografie-Poster - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136977395_8sqwfk_HUprOxlaYAAHawd.jpg" width="600" alt="Social-Media-Beitrag - Zweite-Welt-Editorial-Fotografie-Poster - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136977398_41zot5_HUprOxnaUAAeKjp.jpg" width="600" alt="Social-Media-Beitrag - Zweite-Welt-Editorial-Fotografie-Poster - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Sairah](https://x.com/Sairah_0)
-- **Quelle:** [Twitter Post](https://x.com/Sairah_0/status/2110617290727374964)
-- **Veröffentlicht:** 15. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36503)**
-
----
-
-### No. 36: Infografik / Edu Visual - Vergleich: Ruhiger vs. verlassener Bahnhof
+### No. 39: Infografik / Edu Visual - Vergleich: Ruhiger vs. verlassener Bahnhof
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2226,7 +2346,7 @@ Ein Split-Screen-Vergleich zweier Bahnhofs-Szenen in der Dämmerung, getrennt du
 
 ---
 
-### No. 37: Infografik / Edu Visual - Anime-Charakterdesign-Bogen-Prompt
+### No. 40: Infografik / Edu Visual - Anime-Charakterdesign-Bogen-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2289,7 +2409,7 @@ Visueller Stil: Hochwertige digitale Illustration gemischt mit technischen Diagr
 
 ---
 
-### No. 38: Infografik / Edu Visual - Point Nemo Infografik
+### No. 41: Infografik / Edu Visual - Point Nemo Infografik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2338,7 +2458,7 @@ Visueller Stil: Professionelles Infografik-Design. Verwenden Sie klare serifenlo
 
 ---
 
-### No. 39: Infografik / Edu Visual - Thermografie-Foto einer Person
+### No. 42: Infografik / Edu Visual - Thermografie-Foto einer Person
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2371,7 +2491,7 @@ Ein realistisches Thermografie-Foto einer Person in einem Innenraum, aufgenommen
 
 ---
 
-### No. 40: Infografik / Edu Visual - Tsing Hua Arts Festival Poster Design
+### No. 43: Infografik / Edu Visual - Tsing Hua Arts Festival Poster Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2404,7 +2524,7 @@ Create a split-screen graphic design poster for the '2025 Spring x Tsing Hua Art
 
 ---
 
-### No. 41: Infografik / Edu Visual - Japanisches Game-Dev-Banner
+### No. 44: Infografik / Edu Visual - Japanisches Game-Dev-Banner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2437,7 +2557,7 @@ Ein horizontales Bannerbild mit einem hellbeigen Hintergrund. Auf der linken Sei
 
 ---
 
-### No. 42: Infografik / Edu Visual - Niedliche Fokus-Schreibtisch-Flatlay und Kawaii-Illustration
+### No. 45: Infografik / Edu Visual - Niedliche Fokus-Schreibtisch-Flatlay und Kawaii-Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2598,7 @@ Visueller Stil: Der obere Teil ist scharfe, helle und luftige Fotografie. Der un
 
 ---
 
-### No. 43: Infografik / Edu Visual - Manga-Infografik: KI-Prompt-Engineering
+### No. 46: Infografik / Edu Visual - Manga-Infografik: KI-Prompt-Engineering
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2530,7 +2650,7 @@ Unterer Bereich:
 
 ---
 
-### No. 44: Infografik / Edu Visual - Hell Hound Charakterblatt Infografik
+### No. 47: Infografik / Edu Visual - Hell Hound Charakterblatt Infografik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2725,7 @@ Fußzeilentext: "STINKY IST GESCHÜTZT. IMMER. KEIN SCHADEN DARF SIE BERÜHREN. 
 
 ---
 
-### No. 45: Infografik / Edu Visual - Anime-Charakterdesignblatt: Traditionelles Hanfu-Paar
+### No. 48: Infografik / Edu Visual - Anime-Charakterdesignblatt: Traditionelles Hanfu-Paar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2648,7 +2768,7 @@ Rechter Charakter (Weiblich):
 
 ---
 
-### No. 46: Infografik / Edu Visual - Anime-Charakterdesignbogen: Schwertkönigin
+### No. 49: Infografik / Edu Visual - Anime-Charakterdesignbogen: Schwertkönigin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2696,7 +2816,7 @@ Erstellen Sie einen hochdetaillierten, professionellen Charakterdesignbogen für
 
 ---
 
-### No. 47: Infografik / Edu Visual - Illustration: Frau studiert in einem Folk-Art-Café
+### No. 50: Infografik / Edu Visual - Illustration: Frau studiert in einem Folk-Art-Café
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2757,7 +2877,7 @@ Verteilen Sie nur wenige winzige schwebende Elemente im leeren Raum: vier bis f�
 
 ---
 
-### No. 48: Infografik / Edu Visual - Mid-Autumn Festival Typografie-Poster-Prompt
+### No. 51: Infografik / Edu Visual - Mid-Autumn Festival Typografie-Poster-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2815,7 +2935,7 @@ Schriftfarbe: {argument name="font_color_en" default="Gucci Ancora Red"}
 
 ---
 
-### No. 49: Infografik / Edu Visual - Infografik zur Kläranlage
+### No. 52: Infografik / Edu Visual - Infografik zur Kläranlage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2867,7 +2987,7 @@ Erstellen Sie ein horizontales Infografik-Poster, das die Funktionsweise einer K
 
 ---
 
-### No. 50: Infografik / Edu Visual - Minimalistisches Zeremonie-Poster-Prompt für GPT Image 2
+### No. 53: Infografik / Edu Visual - Minimalistisches Zeremonie-Poster-Prompt für GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2920,7 +3040,7 @@ Setzen Sie das Thema auf "Tag der offenen Tür der städtischen öffentlichen Bi
 
 ---
 
-### No. 51: YouTube-Miniaturbild - Schwester des aufsteigenden Kampfes
+### No. 54: YouTube-Miniaturbild - Schwester des aufsteigenden Kampfes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2953,7 +3073,7 @@ Ihr gesegneter Kettenklinge liegt zerbrochen, sie blutet, ist umzingelt und in d
 
 ---
 
-### No. 52: YouTube-Miniaturbild - Horus Heresy: Das letzte Duell
+### No. 55: YouTube-Miniaturbild - Horus Heresy: Das letzte Duell
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2986,7 +3106,7 @@ Das letzte Duell der Horus-Häresie. An Bord der Vengeful Spirit im Orbit über 
 
 ---
 
-### No. 53: YouTube-Miniaturbild - Lady Death kämpft gegen Dämonen
+### No. 56: YouTube-Miniaturbild - Lady Death kämpft gegen Dämonen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3019,7 +3139,7 @@ Brian Pulidos Lady Death (Hope), die sich durch mehrere gehörnte Dämonen und n
 
 ---
 
-### No. 54: YouTube-Miniaturbild - Silhouette auf einem Berggipfel bei kosmischem Sonnenuntergang
+### No. 57: YouTube-Miniaturbild - Silhouette auf einem Berggipfel bei kosmischem Sonnenuntergang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3070,7 +3190,7 @@ Eine majestätische, surreale Landschaft mit der einsamen Silhouette einer Perso
 
 ---
 
-### No. 55: YouTube-Miniaturbild - Realistischer Anime-Krieger in mittelalterlicher Schlacht
+### No. 58: YouTube-Miniaturbild - Realistischer Anime-Krieger in mittelalterlicher Schlacht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3103,7 +3223,7 @@ Eine hyperrealistische, kinematografische Actionaufnahme einer jungen japanische
 
 ---
 
-### No. 56: YouTube-Miniaturbild - Minecraft-Charakter im Sonnenblumenfeld
+### No. 59: YouTube-Miniaturbild - Minecraft-Charakter im Sonnenblumenfeld
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3136,7 +3256,7 @@ Eine hyperrealistische, kinematografische Nahaufnahme eines Minecraft-Stil-Chara
 
 ---
 
-### No. 57: YouTube-Miniaturbild - GPT Image 2 Prompt für magische Lama-Transformation
+### No. 60: YouTube-Miniaturbild - GPT Image 2 Prompt für magische Lama-Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3175,7 +3295,7 @@ Ein Lama, das eine Wild Magic Transformation durchläuft, mit verzauberten Ranke
 
 ---
 
-### No. 58: YouTube-Miniaturbild - Surrealer Mann auf einer Wolke mit Stadt darunter
+### No. 61: YouTube-Miniaturbild - Surrealer Mann auf einer Wolke mit Stadt darunter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3222,7 +3342,7 @@ Kein Cartoon-Look, keine Illustration, kein CGI-Look, keine Plastik-Haut, kein v
 
 ---
 
-### No. 59: YouTube-Miniaturbild - Cinematic Multi-Door Fantasy Scene Prompt for GPT Image 2
+### No. 62: YouTube-Miniaturbild - Cinematic Multi-Door Fantasy Scene Prompt for GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3283,7 +3403,7 @@ Surrounding him are dozens of enormous, beautifully detailed doorways, each reve
 
 ---
 
-### No. 60: YouTube-Miniaturbild - Steampunk-Prompt: Das letzte Zahnrad
+### No. 63: YouTube-Miniaturbild - Steampunk-Prompt: Das letzte Zahnrad
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3323,7 +3443,7 @@ wird diese Welt gewiss wieder in Bewegung geraten.
 
 ---
 
-### No. 61: YouTube-Miniaturbild - Riesiger Polizei-Roboter bei nächtlicher Rettungsaktion
+### No. 64: YouTube-Miniaturbild - Riesiger Polizei-Roboter bei nächtlicher Rettungsaktion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3356,7 +3476,7 @@ Eine cineastische, fotorealistische Nachtszene, die einen riesigen zweibeinigen 
 
 ---
 
-### No. 62: YouTube-Miniaturbild - Frau liest auf einer verschneiten Straße
+### No. 65: YouTube-Miniaturbild - Frau liest auf einer verschneiten Straße
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3389,7 +3509,7 @@ Ein vertikales Porträt einer jungen Frau mit langem, dunklem Haar und sanftem P
 
 ---
 
-### No. 63: YouTube-Miniaturbild - Riesiger MPD-Roboter räumt Wrack
+### No. 66: YouTube-Miniaturbild - Riesiger MPD-Roboter räumt Wrack
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3422,7 +3542,7 @@ Ein cineastisches, fotorealistisches Bild eines kolossalen zweibeinigen Polizeir
 
 ---
 
-### No. 64: YouTube-Miniaturbild - Fotorealistische Verwandlung eines Kampfflugzeugs
+### No. 67: YouTube-Miniaturbild - Fotorealistische Verwandlung eines Kampfflugzeugs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3455,7 +3575,7 @@ Verwenden Sie das bereitgestellte Referenzbild, um die handgemalte Illustration 
 
 ---
 
-### No. 65: YouTube-Miniaturbild - Gemütliche Vintage-Flur-Tanzszene
+### No. 68: YouTube-Miniaturbild - Gemütliche Vintage-Flur-Tanzszene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3488,7 +3608,7 @@ Erstelle eine herzerwärmende 3D-animierte Filmszene in einem gemütlichen Vinta
 
 ---
 
-### No. 66: YouTube-Miniaturbild - Riesenroboter-Kontrollpunkt der Tokyo-Polizei
+### No. 69: YouTube-Miniaturbild - Riesenroboter-Kontrollpunkt der Tokyo-Polizei
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3521,7 +3641,7 @@ Eine hyperrealistische Weitwinkelaufnahme eines massiven zweibeinigen Polizei-Ro
 
 ---
 
-### No. 67: YouTube-Miniaturbild - Gothische Kathedrale Dark Fantasy Portrait Prompt
+### No. 70: YouTube-Miniaturbild - Gothische Kathedrale Dark Fantasy Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3556,7 +3676,7 @@ Alter Steinboden leicht feucht und reflektierend, schwache Staubpartikel, die im
 
 ---
 
-### No. 68: YouTube-Miniaturbild - GPT Image 2 Surreales Zeit-Split-Porträt
+### No. 71: YouTube-Miniaturbild - GPT Image 2 Surreales Zeit-Split-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3599,7 +3719,7 @@ Epische kinematografische Komposition, symmetrisches Split-World-Konzept, dramat
 
 ---
 
-### No. 69: YouTube-Miniaturbild - Kampfflugzeug-Cockpit-Ansicht bei scharfem Kurvenflug
+### No. 72: YouTube-Miniaturbild - Kampfflugzeug-Cockpit-Ansicht bei scharfem Kurvenflug
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3632,7 +3752,7 @@ Eine hyperrealistische Aufnahme aus der Ego-Perspektive im Cockpit eines Kampffl
 
 ---
 
-### No. 70: YouTube-Miniaturbild - Kinoästhetische Telefonzelle bei Nacht
+### No. 73: YouTube-Miniaturbild - Kinoästhetische Telefonzelle bei Nacht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3666,7 +3786,40 @@ Starker Regen fällt draußen, Tropfen laufen über die Glaspaneele, während di
 
 ---
 
-### No. 71: Comic / Storyboard - Eleganter Mann mit Bowling-Ausrüstung Prompt
+### No. 74: Comic / Storyboard - Anime-Mädchen wirft Baseball
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Dieser Prompt erzeugt ein Bild eines Anime-Mädchens, das einen Baseball mit magischen Effekten wirft, im Stil eines Sport-Manga-Panels.
+
+#### 📝 Prompt
+
+```
+Eine vertikale Illustration im Webtoon-Stil zeigt eine weibliche Anime-Figur, die einen Baseball wirft. Die Figur hat langes silbernes Haar, Katzenohren und violette Augen. Sie trägt eine orangefarbene Baseballkappe mit Logo, ein weißes Trikot mit dem Aufdruck 'SynClub', weiße Hosen mit orangefarbenen Streifen und einen schwarzen Handschuh. Ihre rechte Hand ist nach vorne gestreckt und lässt einen leuchtenden Baseball los, der von wirbelnder violetter Energie und dunklen, fuchsähnlichen Geistern umgeben ist. Im Hintergrund befindet sich ein Stadion voller Zuschauer unter einem blauen Himmel mit Wolken. Auf der linken Seite sind drei kleinere Panels zu sehen: eines zeigt ihr Gesicht in Schockstarre, ein anderes ihren ganzen Körper aus der Ferne und ein drittes eine Nahaufnahme der violetten Energie. Oben rechts befindet sich eine Sprechblase mit japanischem Text. Unten steht großer stilisierter japanischer Text: '狐火トルネード・タイプ3'. Der Gesamtstil ist dynamisch und energiegeladen, typisch für Sport-Manga.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397041560_7q4vnv_HU6d5pSagAAe0EE.jpg" width="600" alt="Comic / Storyboard - Anime-Mädchen wirft Baseball - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [レティシア・ノエル](https://x.com/N7S6P1)
+- **Quelle:** [Twitter Post](https://x.com/N7S6P1/status/2111798897031151873#reversed-0)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36653)**
+
+---
+
+### No. 75: Comic / Storyboard - Eleganter Mann mit Bowling-Ausrüstung Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3703,7 +3856,7 @@ und mehrfarbigen Bowlingschuhen
 
 ---
 
-### No. 72: Comic / Storyboard - Prompt für eine Anleitung zu einer kabellosen Türklingel-Kamera
+### No. 76: Comic / Storyboard - Prompt für eine Anleitung zu einer kabellosen Türklingel-Kamera
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3740,7 +3893,7 @@ wären sie nicht zu klein zum Lesen
 
 ---
 
-### No. 73: Comic / Storyboard - Niedlicher Pinguin-Mädchen-Comicstrip
+### No. 77: Comic / Storyboard - Niedlicher Pinguin-Mädchen-Comicstrip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3796,7 +3949,7 @@ Panel 4: Seitenansicht des Mädchens, das neugierig den Mülleimer beschnuppert.
 
 ---
 
-### No. 74: Comic / Storyboard - Krähe zerplatzt gelben Luftballon
+### No. 78: Comic / Storyboard - Krähe zerplatzt gelben Luftballon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3829,7 +3982,7 @@ Eine skurrile, handgezeichnete Illustration im Stil eines Bilderbuchs zeigt eine
 
 ---
 
-### No. 75: Comic / Storyboard - Neo-Naive Stil: Illustrations-Prompt für Charakterkämpfe
+### No. 79: Comic / Storyboard - Neo-Naive Stil: Illustrations-Prompt für Charakterkämpfe
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3894,7 +4047,7 @@ Hochformat, extrem kleine „voxcat“-Signatur in der unteren rechten Ecke.
 
 ---
 
-### No. 76: Comic / Storyboard - Opus 5.5 vs Wife GPT Comic Strip
+### No. 80: Comic / Storyboard - Opus 5.5 vs Wife GPT Comic Strip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3949,7 +4102,7 @@ Visueller Stil: Saubere digitale Illustration, lebendige Farben für das erste P
 
 ---
 
-### No. 77: Comic / Storyboard - Chun-Li tritt gegen riesiges Monster
+### No. 81: Comic / Storyboard - Chun-Li tritt gegen riesiges Monster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3982,7 +4135,7 @@ Eine hochauflösende digitale Illustration im lebhaften Comic-Stil, die eine cha
 
 ---
 
-### No. 78: Comic / Storyboard - Transformation in handgezeichnete Modeillustration
+### No. 82: Comic / Storyboard - Transformation in handgezeichnete Modeillustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4033,7 +4186,7 @@ Verwandeln Sie dieses Foto in eine niedliche handgezeichnete japanische Lifestyl
 
 ---
 
-### No. 79: Comic / Storyboard - Papier-Schnitt-Illustrations-Prompt für GPT Image 2
+### No. 83: Comic / Storyboard - Papier-Schnitt-Illustrations-Prompt für GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4114,7 +4267,7 @@ Vermeiden Sie Fotorealismus, CGI, glänzende Oberflächen, Plastikoptik, Neonfar
 
 ---
 
-### No. 80: Comic / Storyboard - Luftaufnahme einer Steampunk-Werkstatt-Transformation
+### No. 84: Comic / Storyboard - Luftaufnahme einer Steampunk-Werkstatt-Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4147,7 +4300,7 @@ Nutzen Sie das bereitgestellte Referenzbild, um das Porträt in eine hochdetaill
 
 ---
 
-### No. 81: Comic / Storyboard - Fantasy-Kartograph & Hund
+### No. 85: Comic / Storyboard - Fantasy-Kartograph & Hund
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4180,7 +4333,7 @@ Nutzen Sie das bereitgestellte Referenzbild, um das Motiv und seinen Hund in ein
 
 ---
 
-### No. 82: Comic / Storyboard - Vintage Editorial-Porträt-Collage
+### No. 86: Comic / Storyboard - Vintage Editorial-Porträt-Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4219,7 +4372,7 @@ Symmetrisches 2×2-Raster-Layout, dünne weiße Trennlinien zwischen den Panels,
 
 ---
 
-### No. 83: Comic / Storyboard - Transparente Hofdame in Rosé
+### No. 87: Comic / Storyboard - Transparente Hofdame in Rosé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4259,7 +4412,7 @@ Erstelle eine zarte Porträt-Illustration im Anime-Stil von {argument name="char
 
 ---
 
-### No. 84: Comic / Storyboard - Anime-Zug bei Dämmerung mit dem Berg Fuji
+### No. 88: Comic / Storyboard - Anime-Zug bei Dämmerung mit dem Berg Fuji
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4299,7 +4452,7 @@ Erstelle eine filmische Illustration im Anime-Stil von einem ruhigen Zuginneren 
 
 ---
 
-### No. 85: Comic / Storyboard - Cloud Friend Scrapbook-Poster
+### No. 89: Comic / Storyboard - Cloud Friend Scrapbook-Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4358,7 +4511,7 @@ Einschränkungen: Bewahre die exakte Zweiteilung der Komposition, die genaue Anz
 
 ---
 
-### No. 86: Comic / Storyboard - Konzeptuelle Szene für das Museum der verlorenen Morgen
+### No. 90: Comic / Storyboard - Konzeptuelle Szene für das Museum der verlorenen Morgen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4430,57 +4583,27 @@ Ein cineastischer Prompt für ein unterirdisches Museum, das in Glasvitrinen ver
 
 ---
 
-### No. 87: Comic / Storyboard - Die Filmszene „The Last Train Home“
+### No. 91: Produktmarketing - Kopfhörer-Produktplakat-Prompt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein eindringlich schöner cineastischer Prompt für einen verlassenen, verschneiten Bahnhof in den Bergen, mit einem mysteriösen, leuchtenden Vintage-Zug.
+Ein professioneller Prompt zur Erstellung eines kommerziellen Plakats für Kopfhörer mit GPT-2, der spezifische Markennamen, Produktdetails und Anweisungen zur künstlerischen Komposition enthält.
 
 #### 📝 Prompt
 
 ```
-{
-  "title": "The Last Train Home",
-  "image_description": "Eine atemberaubende cineastische Szene an einem {argument name=\"location\" default=\"verlassenen Bahnhof in den Bergen\"}. Dichter Nebel zieht über den leeren Bahnsteig. Vintage-Lampen werfen warmes, goldenes Licht durch den Dunst. Ein einsamer Reisender in einem dunklen Wollmantel steht neben einem alten Lederkoffer. Ein altertümlicher Zug taucht langsam aus dem Nebel auf. Jedes Fenster leuchtet sanft. Schnee fällt lautlos um den Bahnhof. Über dem Bahnsteig hängt ein verwittertes Schild mit der Aufschrift: HOME. Die Augen des Reisenden füllen sich mit Emotionen, als ihm klar wird, dass dieser Zug eigentlich nicht existieren dürfte.",
-  "story_element": {
-    "twist": "Der Zug erscheint nur ein einziges Mal, genau eine Stunde vor dem Tod einer Person."
-  },
-  "environment": {
-    "location": "Vergessener Gebirgsbahnhof",
-    "weather": "Schneefall und dichter Nebel",
-    "time": "Mitternacht"
-  },
-  "cinematography": {
-    "shot_type": "Weite cineastische Aufnahme",
-    "camera": "ARRI Alexa 65",
-    "lens": "50mm anamorphotisch",
-    "composition": "Symmetrischer, erzählerischer Bildaufbau"
-  },
-  "lighting": {
-    "type": "Warme Vintage-Lampen kombiniert mit kaltem Mondlicht",
-    "effects": [
-      "Volumetrischer Nebel",
-      "Schneepartikel",
-      "Atmosphärisches Leuchten"
-    ]
-  },
-  "mood": [
-    "Emotional",
-    "Mysteriös",
-    "Bittersüß",
-    "Nostalgisch"
-  ],
-  "quality": {
-    "style": "Preisgekröntes cineastisches Meisterwerk",
-    "realism": "Ultra-fotorealistisch",
-    "resolution": "8K",
-    "IMAX_quality": true,
-    "film_grain": true
-  }
-}
+Erstelle ein eigenständiges {argument name="aspect_ratio" default="4:5"} vertikales kommerzielles Poster, ohne Collage, ohne Multi-Grid. Verwende eine originale fiktive Marke; imitiere nicht das Packaging, die Logos oder die Werbung bestehender Marken. Der Text darf nur den in der Eingabeaufforderung explizit genannten Markennamen, Haupttitel und Kategorie verwenden; erfinde keine Preise, Auszeichnungen, Spezifikationen, Daten, Herkunftsländer oder Slogans. Das Bild muss dem Qualitätsstandard einer Creative-Direction-Prüfung entsprechen: realistische Struktur, glaubwürdige Materialien, klare Typografie, keine Wasserzeichen.
+
+Thema: Kopfhörer-Rezensionsmuster. Originalmarke "{argument name="brand_name" default="SONA"}", Produkt "{argument name="product_model" default="ARC H1"}", Haupttitel "{argument name="main_title" default="LISTEN"}".
+
+Platziere ein Paar graphitschwarze Over-Ear-Kopfhörer in einem cremeweißen Studio. Die Ohrmuscheln zeigen zur Kamera, der Bügel ist leicht nach hinten geneigt, echte Polsterung und Metall-Scharniere sind deutlich sichtbar. Ein mattes kobaltblaues, solides Schallwellen-Band, das von schmal zu breit variiert, tritt von unten links ein, führt sequenziell durch die linke Ohrmuschel, den Raum hinter dem Bügel und den rechten Hintergrund und erzeugt eine sanfte Wölbung. Es handelt sich nicht um leuchtende Audiosignale oder dekorative Kurven, sondern um flexibles Material mit Dicke, Kanten und Schatten.
+
+Kompositions-Kern: "Produkt auf solidem Schallband schwebend – Titel bildet Schallkammer." Riesige kondensierte Schriftart "{argument name="main_title" default="LISTEN"}" als sechs Zeichenrahmen in der Tiefe hinter der Szene angeordnet. Kopfhörer und Schallband weben abwechselnd vor und hinter diesen Rahmen hindurch und erzeugen klare Verdeckungen und räumliche Ebenen. Marke "{argument name="brand_name" default="SONA"}" oben, unterer Text nur "{argument name="product_model" default="ARC H1"} / HEADPHONES". Farben: Schwarz, Warmweiß, Kobaltblau. Direkte weiche Beleuchtung, Stillleben-Werbequalität.
+
+Keine Personen, Bühnenlichter, Musikfestivals, EQ-UIs, Spektrogramme, rote Idol-Cover, Neon, zusätzliche Kopfhörer oder bedeutungslose Tags.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -4488,21 +4611,39 @@ Ein eindringlich schöner cineastischer Prompt für einen verlassenen, verschnei
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113116188_b7au0q_HR2abiobIAAjIXT.png" width="600" alt="Comic / Storyboard - Die Filmszene „The Last Train Home“ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792397033814_ium4gp_HU6khRNaMAADLgG.jpg" width="600" alt="Produktmarketing - Kopfhörer-Produktplakat-Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397033815_efp4vl_HU6khRUagAAW5wS.jpg" width="600" alt="Produktmarketing - Kopfhörer-Produktplakat-Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397033814_nqn82v_HU6khRPbwAA6fDi.jpg" width="600" alt="Produktmarketing - Kopfhörer-Produktplakat-Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792397034645_jpkiy7_HU6khRaa8AIHxJT.jpg" width="600" alt="Produktmarketing - Kopfhörer-Produktplakat-Prompt - Image 4">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
-- **Quelle:** [Twitter Post](https://x.com/SheBuildsAI_/status/2098002802375303462)
-- **Veröffentlicht:** 10. September 2026
-- **Sprachen:** en
+- **Autor:** [蛋黄堡](https://x.com/Hamburgerai)
+- **Quelle:** [Twitter Post](https://x.com/Hamburgerai/status/2111821099155525877)
+- **Veröffentlicht:** 18. Oktober 2026
+- **Sprachen:** zh
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=34314)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36648)**
 
 ---
 
-### No. 88: Produktmarketing - Healing Home Produktwerbung Prompt
+### No. 92: Produktmarketing - Healing Home Produktwerbung Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4533,25 +4674,25 @@ Oben links ein kleines Logo bestehend aus dem Buchstaben V und einer Katzenform;
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309465191_ka8cki_HU45G-5bEAArST9.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792397035560_d2fnaf_HU45G-5bEAArST9.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309464778_lopdhl_HU45JfbaQAAD5Lo.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792397035552_sr8tzz_HU45JfbaQAAD5Lo.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309464819_rhhavf_HU45L4UbYAAtSjy.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792397035584_4zugku_HU45L4UbYAAtSjy.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309465523_8cqmoi_HU46AObaAAAtur3.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1792397036285_awsqqu_HU46AObaAAAtur3.jpg" width="600" alt="Produktmarketing - Healing Home Produktwerbung Prompt - Image 4">
 </div>
 
 #### 📌 Details
@@ -4565,7 +4706,7 @@ Oben links ein kleines Logo bestehend aus dem Buchstaben V und einer Katzenform;
 
 ---
 
-### No. 89: Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe
+### No. 93: Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4590,25 +4731,25 @@ Das Licht kommt von einem großen Softbox-Licht in der oberen linken Ecke und he
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309460286_v7fpcf_HU0nqwkbEAAM4Ib.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792397038572_lwzeqd_HU0nqwkbEAAM4Ib.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309460274_vmf3fo_HU0nqwZbcAAPYTl.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792397038012_5z1s0u_HU0nqwZbcAAPYTl.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309460437_0gfemr_HU0nqwYaYAAzOsT.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792397037978_xrbo3k_HU0nqwYaYAAzOsT.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309461280_tgxvnp_HU0nqwiaIAA82Ey.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 4">
+<img src="https://cms-assets.youmind.com/media/1792397038884_xm92c0_HU0nqwiaIAA82Ey.jpg" width="600" alt="Produktmarketing - GPT Image 2 Keramik-Poster-Prompt: Brennofen-Ringe - Image 4">
 </div>
 
 #### 📌 Details
@@ -4622,7 +4763,7 @@ Das Licht kommt von einem großen Softbox-Licht in der oberen linken Ecke und he
 
 ---
 
-### No. 90: Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil
+### No. 94: Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4647,25 +4788,25 @@ Kombiniere Hochgeschwindigkeits-Produktfotografie mit technischer Ästhetik, wob
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309459705_5kodi0_HU0nZW9acAAn4FK.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792397036544_98n5vd_HU0nZW9acAAn4FK.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309459425_ho41fo_HU0nZXAbkAAZO9q.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792397036498_kcggb9_HU0nZXAbkAAZO9q.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309459392_13gv5v_HU0nZXCaUAAly5Z.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792397036565_356j9e_HU0nZXCaUAAly5Z.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309460851_r6bllg_HU0nZW-bQAAjgSo.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 4">
+<img src="https://cms-assets.youmind.com/media/1792397037412_z73oht_HU0nZW-bQAAjgSo.jpg" width="600" alt="Produktmarketing - GPT Image 2 Rennradhelm-Poster-Prompt: Aerodynamik-Profil - Image 4">
 </div>
 
 #### 📌 Details
@@ -4679,7 +4820,7 @@ Kombiniere Hochgeschwindigkeits-Produktfotografie mit technischer Ästhetik, wob
 
 ---
 
-### No. 91: Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad
+### No. 95: Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4704,25 +4845,25 @@ Verwenden Sie eine Nahaufnahme-Stilleben-Fotografie. Weiches Licht von oben rech
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309457408_m40pyv_HU0m_K9bEAAmMl0.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792397037818_z8xwv6_HU0m_K9bEAAmMl0.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309457684_kq1xjc_HU0m_K0aEAA6lns.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792397037739_qnq6pf_HU0m_K0aEAA6lns.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309457747_o8yh71_HU0m_K3bsAEgef0.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792397037858_y3jvx7_HU0m_K3bsAEgef0.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309458642_24ziyy_HU0m_K0a8AEiYte.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 4">
+<img src="https://cms-assets.youmind.com/media/1792397039645_qr4tlk_HU0m_K0a8AEiYte.jpg" width="600" alt="Produktmarketing - GPT Image 2 Füllfederhalter-Plakat-Prompt: Tinten-Falt-Pfad - Image 4">
 </div>
 
 #### 📌 Details
@@ -4736,7 +4877,7 @@ Verwenden Sie eine Nahaufnahme-Stilleben-Fotografie. Weiches Licht von oben rech
 
 ---
 
-### No. 92: Produktmarketing - GPT Image 2 Vinyl-Plattenspieler Poster-Prompt: Groove City
+### No. 96: Produktmarketing - GPT Image 2 Vinyl-Plattenspieler Poster-Prompt: Groove City
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4793,7 +4934,7 @@ Verwende hartes Licht von seitlich oben, um klare und schlanke Schatten der Ring
 
 ---
 
-### No. 93: Produktmarketing - GPT Image 2 Tiernahrung-Poster-Prompt: Schalen-Schatten-Figur
+### No. 97: Produktmarketing - GPT Image 2 Tiernahrung-Poster-Prompt: Schalen-Schatten-Figur
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4850,7 +4991,7 @@ Kombinieren Sie echte Food-Fotografie, grafisches Branding und humorvolle visuel
 
 ---
 
-### No. 94: Produktmarketing - GPT Image 2 Campingzelt-Poster-Prompt: Nacht-Koordinaten
+### No. 98: Produktmarketing - GPT Image 2 Campingzelt-Poster-Prompt: Nacht-Koordinaten
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4907,7 +5048,7 @@ Die Beleuchtung besteht aus warmem Licht aus dem Zeltinneren, kühlendem Mondlic
 
 ---
 
-### No. 95: Produktmarketing - GPT-Image-2 Dessert Poster Prompt
+### No. 99: Produktmarketing - GPT-Image-2 Dessert Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4966,7 +5107,7 @@ Verwende nur Cremeweiß, Karamellbraun und eine kleine Menge dunklen Kaffee. Ver
 
 ---
 
-### No. 96: Produktmarketing - GPT Image 2 Prompt für Likör-Poster-Design
+### No. 100: Produktmarketing - GPT Image 2 Prompt für Likör-Poster-Design
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5037,7 +5178,7 @@ Bewahren Sie feine natürliche Materialtexturen und präzise Glanzlichter auf Gl
 
 ---
 
-### No. 97: Produktmarketing - GPT-2 Sneaker Ad Poster Prompt
+### No. 101: Produktmarketing - GPT-2 Sneaker Ad Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5093,7 +5234,7 @@ Geben Sie jedes Mal nur ein eigenständiges Plakat aus. Vermeiden Sie echte Mark
 
 ---
 
-### No. 98: Produktmarketing - GPT-Image Kaffee Japanisches Editorial Poster Prompt
+### No. 102: Produktmarketing - GPT-Image Kaffee Japanisches Editorial Poster Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5160,7 +5301,7 @@ Die finale Ausgabe sind 4 unabhängige 9:16 Plakate, die die Einheitlichkeit der
 
 ---
 
-### No. 99: Produktmarketing - Luxuriöses Porträt in einem rubinroten Samt-Evening-Gown
+### No. 103: Produktmarketing - Luxuriöses Porträt in einem rubinroten Samt-Evening-Gown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5211,7 +5352,7 @@ Ein atemberaubendes, ultra-realistisches 8K-Luxury-Fashion-Editorial-Porträt ei
 
 ---
 
-### No. 100: Produktmarketing - Corona Brand Fashion Concept Board
+### No. 104: Produktmarketing - Corona Brand Fashion Concept Board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5255,7 +5396,7 @@ Stil: Hochwertiges kommerzielles Mode-Lookbook, saubere Typografie, realistische
 
 ---
 
-### No. 101: Produktmarketing - Budweiser Streetwear Fashion Concept Board
+### No. 105: Produktmarketing - Budweiser Streetwear Fashion Concept Board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5288,7 +5429,7 @@ Nutzen Sie das bereitgestellte Referenzbild einer Budweiser-Bierdose, um es in e
 
 ---
 
-### No. 102: Produktmarketing - Soft Preppy Outfit Design Prompt
+### No. 106: Produktmarketing - Soft Preppy Outfit Design Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5335,7 +5476,7 @@ Keine zusätzlichen Dekorationen.
 
 ---
 
-### No. 103: Produktmarketing - Tsingtao-Bier-inspiriertes Bekleidungsdesign
+### No. 107: Produktmarketing - Tsingtao-Bier-inspiriertes Bekleidungsdesign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5368,7 +5509,7 @@ Entwerfen Sie eine Kollektion cooler Damenmode, inspiriert von diesem Produkt
 
 ---
 
-### No. 104: Produktmarketing - Beispiele für GPT Image 2 Poster und Studio-Bearbeitungen
+### No. 108: Produktmarketing - Beispiele für GPT Image 2 Poster und Studio-Bearbeitungen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5403,7 +5544,7 @@ Bearbeitung: Das Studiofoto der Ohrhörer diente als Referenz, die Bachszene ist
 
 ---
 
-### No. 105: Produktmarketing - Lesbares Headline-Poster und Produktbearbeitung
+### No. 109: Produktmarketing - Lesbares Headline-Poster und Produktbearbeitung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5442,46 +5583,7 @@ Ein Poster mit einer tatsächlich lesbaren Überschrift, plus eine Produktbearbe
 
 ---
 
-### No. 106: Produktmarketing - Anime-Kinetic-Couture-Modell
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt zur Generierung eines erwachsenen Anime-Mode-Modells, das Kinetic Couture mit Inspiration aus China trägt und spezifische Farbpaletten sowie futuristische Eleganz hervorhebt.
-
-#### 📝 Prompt
-
-```
-Erwachsenes Anime-Mode-Modell, originelle Kinetic Couture mit Inspiration aus China, Hellblau als einzige beibehaltene Heritage-Farbe, kombiniert mit Graphitgrau, Frostweiß und dezentem patiniertem Kupfer, hochwertiges Anime-Key-Visual, futuristische Eleganz, starke Heldinnen-Präsenz
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791618681273_alc7kq_HUI5Q1JbcAAYPpG.jpg" width="600" alt="Produktmarketing - Anime-Kinetic-Couture-Modell - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791618681212_kphk25_HUI5Q1XbEAESbLI.jpg" width="600" alt="Produktmarketing - Anime-Kinetic-Couture-Modell - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
-- **Quelle:** [Twitter Post](https://x.com/ArtistaNozomu/status/2108311090006503536)
-- **Veröffentlicht:** 8. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=36223)**
-
----
-
-### No. 107: E-Commerce-Hauptbild - Herbstlicher Straßenstil-Outfit-Prompt
+### No. 110: E-Commerce-Hauptbild - Herbstlicher Straßenstil-Outfit-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5520,7 +5622,7 @@ Ein Prompt zur Generierung eines niedlichen Mädchens in braunen Karo-Shorts, ei
 
 ---
 
-### No. 108: E-Commerce-Hauptbild - Deadpan-Charakter Produktfoto-Prompt
+### No. 111: E-Commerce-Hauptbild - Deadpan-Charakter Produktfoto-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5602,7 +5704,7 @@ Vertikale Ausrichtung.
 
 ---
 
-### No. 109: E-Commerce-Hauptbild - Mintgrüner Häkelpullover-Outfit-Prompt
+### No. 112: E-Commerce-Hauptbild - Mintgrüner Häkelpullover-Outfit-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5651,7 +5753,7 @@ Keine zusätzlichen Dekorationen.
 
 ---
 
-### No. 110: E-Commerce-Hauptbild - GPT Image Französischer Casual-Look
+### No. 113: E-Commerce-Hauptbild - GPT Image Französischer Casual-Look
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5698,7 +5800,7 @@ Keine zusätzlichen Dekorationen.
 
 ---
 
-### No. 111: E-Commerce-Hauptbild - GPT Image Parfümflaschen-Prompt
+### No. 114: E-Commerce-Hauptbild - GPT Image Parfümflaschen-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5731,7 +5833,7 @@ Eine riesige, abgerundete, hellgrüne transparente Glasparfümflasche, die ein M
 
 ---
 
-### No. 112: E-Commerce-Hauptbild - Fotorealistische Meal-Prep-Gläser mit Zutatenliste
+### No. 115: E-Commerce-Hauptbild - Fotorealistische Meal-Prep-Gläser mit Zutatenliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5782,7 +5884,7 @@ Vertikale Komposition, realistische Proportionen, saubere und appetitliche Präs
 
 ---
 
-### No. 113: E-Commerce-Hauptbild - Matte Schwarze B.AI Tastaturkappe
+### No. 116: E-Commerce-Hauptbild - Matte Schwarze B.AI Tastaturkappe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5815,7 +5917,7 @@ Eine Nahaufnahme aus der Vogelperspektive im Studio zeigt eine einzelne matte sc
 
 ---
 
-### No. 114: E-Commerce-Hauptbild - LEGO Minifigure Transformation
+### No. 117: E-Commerce-Hauptbild - LEGO Minifigure Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5903,7 +6005,7 @@ Sta
 
 ---
 
-### No. 115: E-Commerce-Hauptbild - GPT Image 2 Prompt: Frau im roten Kleid an der Bar
+### No. 118: E-Commerce-Hauptbild - GPT Image 2 Prompt: Frau im roten Kleid an der Bar
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5958,7 +6060,7 @@ Negativ:
 
 ---
 
-### No. 116: E-Commerce-Hauptbild - GPT Image 2 Prompt: Vintage Rosa Mixer
+### No. 119: E-Commerce-Hauptbild - GPT Image 2 Prompt: Vintage Rosa Mixer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5991,7 +6093,7 @@ Eine hochwertige fotorealistische Nahaufnahme eines pastellrosa Mixers im Vintag
 
 ---
 
-### No. 117: E-Commerce-Hauptbild - Vergleichsanzeige für Rhode Lip Treatment
+### No. 120: E-Commerce-Hauptbild - Vergleichsanzeige für Rhode Lip Treatment
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6039,120 +6141,13 @@ Einschränkungen: Behalten Sie genau 2 Vergleichspanels, genau 2 orangefarbene M
 
 ---
 
-### No. 118: E-Commerce-Hauptbild - Realistisches Werbefoto für Zimmer aus einer Skizze erstellen
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein umfassender Prompt, der eine handgezeichnete Raumaufteilung als strukturelle Vorlage nutzt, um ein realistisches Immobilien-Werbefoto mit natürlicher Beleuchtung zu generieren.
-
-#### 📝 Prompt
-
-```
-Erstelle ein realistisches Werbefoto eines Zimmers, um mein Zimmer an potenzielle Mieter zu vermarkten. Das Thema ist die Raumaufteilung: ein großes, bodentiefes Fenster auf der linken Seite mit exzellentem Sonnenlicht und Beleuchtung. Neben dem Fenster steht ein Katzenbett, auf dem eine {argument name="pet" default="orangefarbene Katze"} liegt. Im Schlafzimmer befindet sich ein großer Schreibtisch mit Alltagsgegenständen wie einem Computer, einer Tastatur, einer Maus und einem Telefon. Ein junger chinesischer Mann sitzt auf einem ergonomischen Stuhl und arbeitet am Computer. Rechts neben dem Schreibtisch steht ein Einzelbett. Die räumlichen Verhältnisse folgen der Skizze. Beleuchtung und Texturen sollten wie ein mit dem Smartphone aufgenommenes Schlafzimmerfoto wirken. Verbindliche Anforderungen: Alle in der Skizze gezeichneten Gegenstände müssen vorhanden sein, einschließlich der Sonne vor dem Fenster. Zu vermeidende Probleme: Integriere keine Elemente oder Phänomene, die dem echten Alltag widersprechen. Die übrigen Proportionen und Details des Zimmers kannst du frei wählen, um einen natürlichen, realistischen und ungezwungenen Effekt zu erzielen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942292901_ftm719_HRwCeKraoAA-G5L.jpg" width="600" alt="E-Commerce-Hauptbild - Realistisches Werbefoto für Zimmer aus einer Skizze erstellen - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [安伈XinAn](https://x.com/AnXin_37)
-- **Quelle:** [Twitter Post](https://x.com/AnXin_37/status/2097554757506539972)
-- **Veröffentlicht:** 9. September 2026
-- **Sprachen:** zh
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=33954)**
-
----
-
-### No. 119: E-Commerce-Hauptbild - Dezentes Rosen-Nagel-Edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Erstellt eine nahezu identische Bearbeitung des Referenzporträts, bei der lediglich die sichtbaren Fingernägel in eine zarte Maniküre mit Rosenthema verwandelt werden.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie REFERENCE_0 als Basisbild und führen Sie eine äußerst dezente Bearbeitung im Produktstil durch: Ändern Sie nur die sichtbaren Fingernägel an der Hand, die die Erdbeeren hält, in eine zarte {argument name="nail design" default="hellrosa Maniküre mit Rosenthema, winzigen Blumen-Nageldesigns und glänzendem Finish"}. Behalten Sie die gesamte Komposition, das Gesicht, die Pose, das Kleid, die Haube, den Blumenstrauß, die Erdbeeren, die Rosen, die Tapete, die Beleuchtung, die Farbpalette und den Schlagzeilentext {argument name="headline text" default="PINK EDEN"} so nah wie möglich an der Referenz bei. Verändern Sie weder die Figur, den Hintergrund, die Typografie, den Bildausschnitt noch die allgemeine Stimmung. Die Bearbeitung sollte sich auf genau 2 sichtbare Nagelbereiche auswirken: den Hauptdaumennagel und den kleinen, teilweise sichtbaren Fingernagel daneben; alle anderen Details sollten unverändert bleiben.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942358271_0ynebz_HRvk4F8bYAAUW5q.jpg" width="600" alt="E-Commerce-Hauptbild - Dezentes Rosen-Nagel-Edit - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942358277_clgsrw_HRvk4F2bcAADmc3.jpg" width="600" alt="E-Commerce-Hauptbild - Dezentes Rosen-Nagel-Edit - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [のえる](https://x.com/elle_elle_e)
-- **Quelle:** [Twitter Post](https://x.com/elle_elle_e/status/2097521726594978239#reversed-1)
-- **Veröffentlicht:** 9. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=34041)**
-
----
-
-### No. 120: E-Commerce-Hauptbild - Lifestyle-Generierung mit Produktplatzierung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Workflow zur Erstellung konsistenter Lifestyle-Bilder von Charakteren, die ein bestimmtes Produkt halten, basierend auf einem detaillierten JSON-Referenzstil.
-
-#### 📝 Prompt
-
-```
-Analysiere dieses Foto und erstelle einen sehr detaillierten JSON-Prompt, der den visuellen Stil beschreibt. Achte besonders darauf, das Color Grading, die Beleuchtung und alle exakten Farben im Foto aufzuschlüsseln, damit ich diesen Look auf meine eigenen Bilder anwenden kann. Generiere unter Verwendung dieses JSON als Referenz eine Person, die mein Produkt hält. Behalte dabei die gleichen Gesichtszüge bei.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029005307_j2vgpe_HRvBtnraAAAChs3.jpg" width="600" alt="E-Commerce-Hauptbild - Lifestyle-Generierung mit Produktplatzierung - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Miko](https://x.com/Mho_23)
-- **Quelle:** [Twitter Post](https://x.com/Mho_23/status/2097483045221917131)
-- **Veröffentlicht:** 9. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=33936)**
-
----
-
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 17808 weitere Prompts hier nicht angezeigt
+### 🎯 17828 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6215,6 +6210,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-19T02:16:34.630Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-19T17:55:02.339Z</sub>
 
 </div>
