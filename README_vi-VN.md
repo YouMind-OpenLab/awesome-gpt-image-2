@@ -139,9 +139,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **17959** |
+| 📝 Tổng số câu lệnh | **17968** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 02:23:57 UTC Thứ Tư, 21 tháng 10, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 16:16:10 UTC Thứ Tư, 21 tháng 10, 2026** |
 
 </div>
 
@@ -525,7 +525,41 @@ Chuyển đổi dòng thời gian tiến hóa phẳng thành đồ họa thông 
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### No. 1: Hồ sơ / Ảnh đại diện - Trang phục mùa thu thanh lịch đơn sắc
+### No. 1: Hồ sơ / Ảnh đại diện - Chân dung kịch tính với ánh sáng đỏ chiếu vào mắt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Prompt tạo chân dung kịch tính siêu thực của một người (sử dụng ảnh nhập) với ánh sáng đỏ ngang chỉ chiếu vào đôi mắt trên nền tối.
+
+#### 📝 Câu lệnh
+
+```
+Chân dung kịch tính siêu chân thực của người trong ảnh ({argument name="photo" default="ảnh đã nhập"}), một lọn tóc rối rủ xuống che một bên mắt, mặc áo cổ lọ màu đen, đặt ở trung tâm khung hình, ánh nhìn đầy mãnh liệt. Một vệt sáng đỏ nằm ngang sắc nét và rực rỡ chỉ chiếu sáng đôi mắt rồi hắt lên bức tường xám; phần còn lại chìm trong bóng tối sâu thẳm. Bầu không khí u tối, tối giản và đậm chất điện ảnh.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569133952_g3hqek_HVEsM2QWsAA3fMY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung kịch tính với ánh sáng đỏ chiếu vào mắt - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Ibrahim Kamara · Travail & Argent](https://x.com/Ibrakamara6)
+- **Nguồn:** [Twitter Post](https://x.com/Ibrakamara6/status/2112518312349368787)
+- **Đã xuất bản:** 20 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36721)**
+
+---
+
+### No. 2: Hồ sơ / Ảnh đại diện - Trang phục mùa thu thanh lịch đơn sắc
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -564,7 +598,7 @@ Chân váy ôm caro nhỏ màu đen dễ thương, áo len dệt kim màu đen, 
 
 ---
 
-### No. 2: Hồ sơ / Ảnh đại diện - Chân dung Hanfu thời Đường siêu thực
+### No. 3: Hồ sơ / Ảnh đại diện - Chân dung Hanfu thời Đường siêu thực
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -627,7 +661,7 @@ Nhân vật nữ phong cách cổ trang, khổ dọc 9:16, nhiếp ảnh siêu c
 
 ---
 
-### No. 3: Hồ sơ / Ảnh đại diện - Chân Dung Vườn Địa Trung Hải
+### No. 4: Hồ sơ / Ảnh đại diện - Chân Dung Vườn Địa Trung Hải
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -664,7 +698,7 @@ Tổng thể khung cảnh tĩnh lặng, tươi sáng và dịu êm. Không hề 
 
 ---
 
-### No. 4: Hồ sơ / Ảnh đại diện - GPT Image 2 Prompt cho Outfit Áo Hoodie Gấu Dễ Thương
+### No. 5: Hồ sơ / Ảnh đại diện - GPT Image 2 Prompt cho Outfit Áo Hoodie Gấu Dễ Thương
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -711,7 +745,7 @@ Không thêm bất kỳ phụ kiện trang trí nào khác.
 
 ---
 
-### No. 5: Hồ sơ / Ảnh đại diện - Cô Gái Mặc Váy Phong Cách Frankenstein Halloween
+### No. 6: Hồ sơ / Ảnh đại diện - Cô Gái Mặc Váy Phong Cách Frankenstein Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -757,7 +791,7 @@ Màu sắc: be, đen, xanh lá nhạt, xanh đêm.
 
 ---
 
-### No. 6: Hồ sơ / Ảnh đại diện - Câu lệnh tạo ảnh trang phục mùa thu với ChatGPT Image 2
+### No. 7: Hồ sơ / Ảnh đại diện - Câu lệnh tạo ảnh trang phục mùa thu với ChatGPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -796,7 +830,7 @@ dễ thương, áo blouse kẻ caro, quần short kẻ caro, áo khoác da, ph�
 
 ---
 
-### No. 7: Hồ sơ / Ảnh đại diện - Váy Halloween có túi kẹo – Prompt
+### No. 8: Hồ sơ / Ảnh đại diện - Váy Halloween có túi kẹo – Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -851,7 +885,7 @@ Toàn thân, đang cố chia sẻ đồ ngọt. Nụ cười hạnh phúc.
 
 ---
 
-### No. 8: Hồ sơ / Ảnh đại diện - Lữ khách đội mũ trùm đầu trong nhà thờ đổ nát
+### No. 9: Hồ sơ / Ảnh đại diện - Lữ khách đội mũ trùm đầu trong nhà thờ đổ nát
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -884,7 +918,7 @@ Một nhà thờ đổ nát vào ban đêm. Ánh trăng xuyên qua cửa sổ ho
 
 ---
 
-### No. 9: Hồ sơ / Ảnh đại diện - Cô Gái Showa Retro Trong Yukata
+### No. 10: Hồ sơ / Ảnh đại diện - Cô Gái Showa Retro Trong Yukata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -917,7 +951,7 @@ Một bức ảnh chân dung dọc theo phong cách retro thời Showa, nổi b�
 
 ---
 
-### No. 10: Hồ sơ / Ảnh đại diện - Prompt Trang Phục Áo Blouse Tím Quần Short Đen
+### No. 11: Hồ sơ / Ảnh đại diện - Prompt Trang Phục Áo Blouse Tím Quần Short Đen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -964,7 +998,7 @@ Không có phụ kiện trang trí rườm rà.
 
 ---
 
-### No. 11: Hồ sơ / Ảnh đại diện - Chân Dung Đồ Bơi Phong Cách Nhật Bản Cổ Điển
+### No. 12: Hồ sơ / Ảnh đại diện - Chân Dung Đồ Bơi Phong Cách Nhật Bản Cổ Điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -997,7 +1031,7 @@ Bức ảnh chụp toàn thân theo chiều dọc của một phụ nữ trẻ n
 
 ---
 
-### No. 12: Hồ sơ / Ảnh đại diện - Prompt Váy Ren Mạng Nhện Halloween
+### No. 13: Hồ sơ / Ảnh đại diện - Prompt Váy Ren Mạng Nhện Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1140,7 +1174,7 @@ Không có văn bản. Không có mũ. Không có quá nhiều con nhện hoặc
 
 ---
 
-### No. 13: Hồ sơ / Ảnh đại diện - Chân dung phong cách tạp chí Nhật Bản với tông màu tím xám mờ sương
+### No. 14: Hồ sơ / Ảnh đại diện - Chân dung phong cách tạp chí Nhật Bản với tông màu tím xám mờ sương
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1190,7 +1224,7 @@ Chủ thể được đặt ở trung tâm trong bố cục cận cảnh đầu 
 
 ---
 
-### No. 14: Hồ sơ / Ảnh đại diện - Ảnh Chụp Từ Trên Xuống Của Người Đang Ngủ Trên Sofa
+### No. 15: Hồ sơ / Ảnh đại diện - Ảnh Chụp Từ Trên Xuống Của Người Đang Ngủ Trên Sofa
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1250,7 +1284,7 @@ Máy ảnh chụp từ trên cao hướng xuống dưới, áp dụng góc nhìn
 
 ---
 
-### No. 15: Hồ sơ / Ảnh đại diện - Hệ thống biểu thức tổng hợp đa ký hiệu
+### No. 16: Hồ sơ / Ảnh đại diện - Hệ thống biểu thức tổng hợp đa ký hiệu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1304,7 +1338,7 @@ Thống nhất nhiều cảm xúc vào một khuôn mặt tự nhiên và chân 
 
 ---
 
-### No. 16: Hồ sơ / Ảnh đại diện - Prompt nhân vật anime phía sau chủ thể thực
+### No. 17: Hồ sơ / Ảnh đại diện - Prompt nhân vật anime phía sau chủ thể thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1375,7 +1409,7 @@ Không thay đổi danh tính, khuôn mặt, kiểu tóc, trang phục, phụ ki
 
 ---
 
-### No. 17: Hồ sơ / Ảnh đại diện - Ảnh selfie bằng điện thoại Nokia với cosplay mèo Ragdoll
+### No. 18: Hồ sơ / Ảnh đại diện - Ảnh selfie bằng điện thoại Nokia với cosplay mèo Ragdoll
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1421,7 +1455,7 @@ Tổng thể chân thực, rẻ tiền, thô ráp, chất lượng snapshot, kh�
 
 ---
 
-### No. 18: Hồ sơ / Ảnh đại diện - Chân Dung Sừng Vàng Tết
+### No. 19: Hồ sơ / Ảnh đại diện - Chân Dung Sừng Vàng Tết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1454,7 +1488,7 @@ Bức ảnh chân dung cận trung cảnh, góc thấp, theo chiều dọc của
 
 ---
 
-### No. 19: Hồ sơ / Ảnh đại diện - Minh họa tương tác hình học phong cách hoạt hình cho hai nhân vật
+### No. 20: Hồ sơ / Ảnh đại diện - Minh họa tương tác hình học phong cách hoạt hình cho hai nhân vật
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1516,32 +1550,23 @@ Sử dụng tổng thể ít màu sắc tương phản cao: đen, trắng, màu 
 
 ---
 
-### No. 20: Hồ sơ / Ảnh đại diện - Prompt chân dung quán cà phê thực tế cho GPT Image 2
+### No. 21: Bài đăng trên mạng xã hội - Mô tả nhân vật cho áp phích truy nã hài hước
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một prompt chi tiết để tạo ảnh chụp phong cách iPhone chân thực của một phụ nữ trong quán cà phê bằng GPT Image 2, tập trung vào việc tái hiện nhân vật chính xác từ ảnh tham chiếu và các chi tiết cụ thể về ánh sáng/bố cục.
+Một mô tả để biến một nhân vật thành áp phích truy nã hoặc cảnh bắt giữ hài hước với những tội danh ngẫu nhiên gây cười.
 
 #### 📝 Câu lệnh
 
 ```
-Chụp bằng iPhone. Ngoại hình của người phụ nữ phải giống hệt 100% so với ảnh tham chiếu đã tải lên, đang ngồi tại bàn ngoài trời dưới một cây mùa thu, ở vị trí trung tâm khung hình. Cơ thể cô hướng thẳng về phía trước, đầu hơi nghiêng, một bên má tựa nhẹ vào tay, trong khi tay kia thả lỏng trên bàn, cầm thân ly rượu vang đỏ rộng có chân rất mảnh, dài và tinh tế cùng thành ly mỏng. Chỉ còn lại một lượng nhỏ rượu vang ở đáy ly.
+Hãy biến nhân vật trong ảnh đính kèm [Tên: {argument name="character_name" default="Không rõ"}] thành một bức ảnh phong cách lệnh truy nã/bị bắt giữ đầy hài hước, kiểu như "chắc gì đã có tội nhưng vẫn bị giải đi vì một tội danh kỳ cục".
 
-Cô mặc áo khoác trench coat đen phồng với đệm vai có cấu trúc và tay áo dài quá khổ che kín ngón tay, bên trong là áo len cổ lọ màu đen. Kiểu tóc giống hệt ảnh đã tải lên.
+Hãy chọn ngẫu nhiên các tội danh. Nội dung cần nhẹ nhàng, vui nhộn và mang tính giải trí.
 
-Khăn trải bàn màu trắng, đĩa sứ trắng thanh lịch, mặt tiền tòa nhà kiểu châu Âu cổ điển ở hậu cảnh, với một cây mùa thu chiếm phần trên của khung hình.
-
-Chất lượng chân thực như ảnh chụp bằng iPhone, hạt phim tự nhiên tinh tế, kết cấu da và ánh sáng chân thực. Không làm mờ hậu cảnh; giữ nguyên chi tiết môi trường thực tế xuyên suốt cảnh quay.
-
-Móng tay cắt ngắn kiểu Pháp (French-tip) vuông.
-
-Định dạng dọc 9:16.
-
-Cô đeo kính râm mắt mèo không viền màu đen bản hẹp.
-
-Ban ngày nhiều mây, không có ánh nắng trực tiếp. Tốc độ màn trập chậm hơn một chút để tạo cảm giác chuyển động/hạt phim tự nhiên tinh tế trong khi vẫn giữ cho chủ thể chân thực và dễ nhận diện.
+Về bố cục, hãy dùng tư thế đứng trước vạch đo chiều cao, hoặc khoảnh khắc đang bị khống chế nhẹ nhàng. Ngoài ra, hãy đặt những món đồ nhỏ kỳ lạ xung quanh làm "vật chứng". Có thể làm hai góc ảnh (chính diện và nghiêng) hoặc một ảnh duy nhất. Không sử dụng huy hiệu cảnh sát hay biểu tượng quốc gia thật; mọi thứ phải hoàn toàn hư cấu để tạo tiếng cười. Nhớ chừa khoảng trống để thêm tội danh vào sau.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1549,27 +1574,192 @@ Ban ngày nhiều mây, không có ánh nắng trực tiếp. Tốc độ màn t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446353816_q6v5fa_HUFdtBXbMAEsC_Z.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt chân dung quán cà phê thực tế cho GPT Image 2 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792569135713_t74q26_HVHsSY6aoAAUlsN.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mô tả nhân vật cho áp phích truy nã hài hước - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791446355325_9bpw61_HUFdtBeakAASJ7U.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt chân dung quán cà phê thực tế cho GPT Image 2 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792569135918_ki1anh_HVHsSYlbcAAKyDO.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mô tả nhân vật cho áp phích truy nã hài hước - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569135979_tammr0_HVHsSYva4AAl0xT.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mô tả nhân vật cho áp phích truy nã hài hước - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art)
+- **Nguồn:** [Twitter Post](https://x.com/mugi_AI_Art/status/2112801064500293753)
+- **Đã xuất bản:** 21 tháng 10, 2026
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36725)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - GPT Image 2 Prompt: Bộ Đôi Ảnh Kết Cấu Thử Nghiệm
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Prompt tinh chỉnh cho GPT Image 2 để tạo bộ đôi ảnh dọc, so sánh ảnh gốc với bảy lớp kết cấu thử nghiệm như kính gân, khắc và bán tông.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức tranh đôi (diptych) khổ dọc tỷ lệ 3:4 cho mỗi ảnh được tải lên, chia đều thành nửa trên và nửa dưới với đường nối liền mạch. Không dùng vạch ngăn cách, khung viền hay bố cục cắt dán (collage). Phong cách thiết kế biên tập Thụy Sĩ, nhiếp ảnh thử nghiệm và thẩm mỹ in ấn cổ điển.
+
+NỬA TRÊN — ẢNH GỐC
+Giữ nguyên đặc điểm nhận diện, dáng pose, bối cảnh, bố cục, góc nhìn, ánh sáng và màu sắc của ảnh gốc. Chỉ cho phép chỉnh màu nhẹ và mở rộng hậu cảnh. Không chèn chữ.
+
+NỬA DƯỚI — BẢY VÙNG KẾT CẤU THỬ NGHIỆM
+Lặp lại toàn bộ ảnh gốc. Phủ bảy vùng hình chữ nhật bất đối xứng với kích thước khác nhau trực tiếp lên các pixel của ảnh, lấn qua những chi tiết không quan trọng. Đảm bảo tính liên tục về mặt thị giác cả bên trong lẫn bên ngoài từng vùng. Tuyệt đối không cắt cúp, phóng to/thu nhỏ, dịch chuyển, nhân bản hay vẽ lại hình ảnh. Giữ cho mọi điểm nhấn quan trọng luôn hiển thị rõ ràng.
+
+BẢY KỸ THUẬT ĐƯỢC ĐÁNH SỐ
+
+01. Reeded Glass: Khúc xạ quang học theo chiều dọc.
+
+02. Black-and-White Engraving: Nét khắc mảnh và kỹ thuật gạch chéo (crosshatching).
+
+03. American Stipple: Kết cấu chấm vi mô đen trắng.
+
+04. Vintage Halftone: Hạt in CMYK.
+
+05. Pixel Mosaic: Các khối pixel vuông.
+
+06. Transparent Overlay: 2–4 lớp mờ bán trong suốt chồng lên nhau.
+
+07. Duotone Screen Print: Hiệu ứng in lụa hai màu.
+
+CHI TIẾT THIẾT KẾ
+Thêm đường viền siêu mảnh, ô vuông nhỏ ở các góc và nét dẫn hướng thanh mảnh để xác định từng vùng hình chữ nhật. Ghi chú mỗi kỹ thuật bằng số thứ tự tương ứng cùng tên tiếng Anh. Giữ nguyên chất ảnh chân thực cho toàn bộ khu vực nằm ngoài bảy vùng này.
+
+YÊU CẦU NGHIÊM NGẶT
+Không thêm logo, watermark, hình ảnh phụ hay bất kỳ yếu tố trang trí thừa nào. Bảo toàn tính nguyên vẹn của bức ảnh gốc và duy trì một bố cục biên tập tinh tế, sạch sẽ.
+
+ĐẦU RA: Một poster dọc độ phân giải cao tỷ lệ 3:4 với nửa trên và nửa dưới bằng nhau.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569134333_6wxuwc_HVIaD8JaUAAhavB.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2 Prompt: Bộ Đôi Ảnh Kết Cấu Thử Nghiệm - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569134152_7hgsh6_HVIaD8bbwAAkR8p.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2 Prompt: Bộ Đôi Ảnh Kết Cấu Thử Nghiệm - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
 - **Tác giả:** [Sairah](https://x.com/Sairah_0)
-- **Nguồn:** [Twitter Post](https://x.com/Sairah_0/status/2108069146428940508)
-- **Đã xuất bản:** 8 tháng 10, 2026
+- **Nguồn:** [Twitter Post](https://x.com/Sairah_0/status/2112779843251376490)
+- **Đã xuất bản:** 21 tháng 10, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36103)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36722)**
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau
+### No. 23: Bài đăng trên mạng xã hội - Prompt Trang Phục Zombie Halloween Cho Nữ
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Prompt tạo hình cô gái zombie dễ thương trong chiếc váy mini trễ vai rách nát với các dải băng quấn.
+
+#### 📝 Câu lệnh
+
+```
+Một cô gái mặc chiếc váy liền phong cách zombie cho dịp Halloween.
+Trang phục là một chiếc đầm mini trễ vai màu ecru. Trên vai, eo và chân váy có nhiều đường xẻ rách cố ý cùng phần viền vải được cuộn lại.
+Qua những vết rách, có thể thấy lớp vải lót màu tím nhạt bên trong.
+Các mép vải rách được may viền bằng chỉ đen mảnh.
+Một dải ruy băng nhỏ kiểu băng gạc (sạch sẽ) ở cổ.
+Không đội mũ trên đầu.
+Màu sắc gồm ecru, tím nhạt, đen và xanh chàm đêm (night indigo). Không có vết bẩn hay máu.
+Góc nhìn toàn thân để thấy rõ thiết kế rách. Gương mặt dễ thương với biểu cảm hơi bối rối.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569135621_26qqig_HVFB_M2bIAEIVbs.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Trang Phục Zombie Halloween Cho Nữ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569136010_vns1rt_HVFCA3UbAAE7XG4.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Trang Phục Zombie Halloween Cho Nữ - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Nguồn:** [Twitter Post](https://x.com/ArtistaNozomu/status/2112741916521431175)
+- **Đã xuất bản:** 21 tháng 10, 2026
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36724)**
+
+---
+
+### No. 24: Bài đăng trên mạng xã hội - Poster Màu Nước Chào Buổi Sáng An Nhiên
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Tạo poster chào buổi sáng phong cách Trung Quốc đầy chất thơ, với vách đá hẻm núi vẽ màu nước, một bóng người đơn độc và kiểu chữ song ngữ thanh lịch.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một poster khổ dọc tỷ lệ 3:4 mang phong cách tối giản Trung Hoa thanh bình, đậm chất thơ, với hiệu ứng màu nước và khoảng trắng rộng rãi ở trung tâm. Phần nền là hai vách núi cao vút nằm ở hai bên trái phải, được vẽ bằng tông xanh xám dịu nhẹ điểm xuyết những mảng hồng và cam tinh tế, tạo thành một hẻm núi hẹp mở ra vùng trung tâm rực sáng phủ đầy sương mù trắng xóa. Dưới đáy hẻm núi là bóng dáng nhỏ bé của một người phụ nữ đơn độc nhìn từ phía sau, khoác chiếc áo choàng dài màu sáng cùng chiếc khăn đỏ bay trong gió, đang bước về phía khoảng không bừng sáng ấy.
+
+Bố cục chữ (Typography):
+- Góc trên bên trái: một chữ Hán lớn màu đen, phông serif "早" (Sáng).
+- Góc trên bên phải: một chữ Hán lớn màu đen, phông serif "安" (An), ghép lại đọc thành "早安" (Chào buổi sáng).
+- Khối chữ nhỏ ở giữa phía trên: "2026 / 10/21 / WED", tiếp theo là một đường gạch ngang ngắn, rồi ba dòng chữ Hán nhỏ dàn trải: "新的一天", "比昨天更靠近", "想要的生活".
+- Dọc chính giữa là một cột các chữ Hán màu đen cỡ vừa, đọc từ trên xuống dưới: "把平凡的每一天过成值得的".
+- Dòng chữ tiếng Anh viết tay nét thảo "Good Morning" bằng mực màu cam san hô vắt chéo qua phần giữa bức ảnh, đè lên cột chữ dọc.
+- Bên dưới cột chữ dọc là một đoạn văn nhỏ gồm ba dòng căn giữa: "更清醒的自己", "更踏实的节奏", "更靠近热爱的生活", tiếp nối bằng một đường phân cách ngắn và bốn dòng chữ cực nhỏ: "不急不躁", "一步步走", "日子会给你", "想要的答案".
+- Cạnh dưới cùng: dòng chữ in hoa phông serif kéo giãn khoảng cách "G O O D   M O R N I N G" trải dài hết chiều ngang, bên dưới là một dòng chữ Hán nhỏ dàn trải, ngăn cách bởi các vạch dọc mảnh: "清晨有光 | 步伐有力 | 生活有盼".
+
+Phong cách thị giác: nghệ thuật sắp chữ chuẩn mực, bố cục thoáng đãng, bảng màu pastel trầm chủ đạo gồm trắng, xanh nhạt và hồng đào dịu mắt, kết cấu vân giấy mờ ảo, lấm tấm những đốm cam li ti như cánh hoa hay hạt bụi, mang lại cảm giác tĩnh tại và truyền cảm hứng.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569137972_w1gvt2_HVHOI7HbsAAamk_.jpg" width="600" alt="Bài đăng trên mạng xã hội - Poster Màu Nước Chào Buổi Sáng An Nhiên - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [小小东](https://x.com/xiaoxiaodong)
+- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong/status/2112697054254543067#reversed-0)
+- **Đã xuất bản:** 21 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36728)**
+
+---
+
+### No. 25: Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1598,19 +1788,19 @@ Biến mặt đất thành các mảng màu phẳng như bản đồ; người, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792482816371_41xco4_HVDMbPmbYAAxLDT.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792569134023_1aws0v_HVDMbPmbYAAxLDT.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792482817899_x1zwc9_HVDMbPmbIAAKObO.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792569132560_clilkn_HVDMbPmbIAAKObO.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792482817898_bucer2_HVDMbPcaEAAtG2-.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792569134069_cpkxfq_HVDMbPcaEAAtG2-.jpg" width="600" alt="Bài đăng trên mạng xã hội - GPT Image 2: Biến đổi nghệ thuật dân gian trước và sau - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -1624,7 +1814,58 @@ Biến mặt đất thành các mảng màu phẳng như bản đồ; người, 
 
 ---
 
-### No. 22: Bài đăng trên mạng xã hội - Chuyển Đổi Nội Thất Gia Đình Phong Cách Màu Nước
+### No. 26: Bài đăng trên mạng xã hội - Cảnh Trà Thu Nhỏ Buổi Sáng Hàng Châu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Thiết kế áp phích dọc nổi bật với mô hình thu nhỏ của những người tí hon xung quanh bát trà và cây cầu đá, được phủ lên trên bằng lời chào buổi sáng Hàng Châu và thông tin thời tiết.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một poster dọc độ phân giải cao mang không khí tĩnh lặng, tái hiện khung cảnh diorama thu nhỏ đặt trên mặt đá ướt và phản chiếu. Điểm nhấn trung tâm là một chiếc bát trà màu xanh ngọc bích đựng đầy nước trà, nằm cạnh cây cầu vòm đá nhỏ phủ rêu phong. Dưới chân bát trà là một đóa sen trắng thanh tao. Xung quanh rải rác những mô hình nhân vật tí hon (khoảng 6 người): vài người đang đứng chụp ảnh, một người ngồi trên cầu, số khác thì thong dong dạo bước. Từ chính giữa phía trên, một sợi dây mảnh treo lơ lửng chiếc lá xanh trong suốt với giọt nước đọng nơi đầu lá, buông xuống ngay phía trên bát trà. Nền ảnh mờ ảo, mềm mại với các gam màu xám nhạt và be. Ở góc trên bên phải, lồng ghép phần chữ nghệ thuật bằng tiếng Trung và tiếng Anh: '早安' (Chào buổi sáng) in font serif lớn màu nâu, '杭州' (Hàng Châu) in font serif màu xanh lục đậm, tiếp theo là dòng chữ 'HANGZHOU GOOD MORNING', ngày tháng '2026-10-20', thông tin thời tiết '天气：晴转雷阵雨 22-32°C' và câu nói truyền cảm hứng '今日金句：心有清风，步步自有回响。'. Áp dụng phong cách nhiếp ảnh macro với độ sâu trường ảnh mỏng.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569138487_ey7wv4_HVCJImwaAAAcPeo.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cảnh Trà Thu Nhỏ Buổi Sáng Hàng Châu - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569138551_sejdpd_HVCJJTqasAAx77g.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cảnh Trà Thu Nhỏ Buổi Sáng Hàng Châu - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569138542_0bjf94_HVCJKI4bsAAidFb.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cảnh Trà Thu Nhỏ Buổi Sáng Hàng Châu - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569139157_q50lza_HVCJKskboAA5VKH.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cảnh Trà Thu Nhỏ Buổi Sáng Hàng Châu - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [小小东](https://x.com/xiaoxiaodong)
+- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong/status/2112345458433736964#reversed-0)
+- **Đã xuất bản:** 20 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36729)**
+
+---
+
+### No. 27: Bài đăng trên mạng xã hội - Chuyển Đổi Nội Thất Gia Đình Phong Cách Màu Nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1663,7 +1904,7 @@ Tạo một bức ảnh chuyển đổi tuyệt đẹp từ phong cách chân th
 
 ---
 
-### No. 23: Bài đăng trên mạng xã hội - Biển Ký Niệm Minh Họa Từ Ảnh
+### No. 28: Bài đăng trên mạng xã hội - Biển Ký Niệm Minh Họa Từ Ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1723,7 +1964,48 @@ Kết quả: Một poster ảnh và minh họa cá nhân hóa, ấm áp, mang l�
 
 ---
 
-### No. 24: Bài đăng trên mạng xã hội - Nữ sinh đi bộ với váy xếp ly màu nâu
+### No. 29: Bài đăng trên mạng xã hội - Poster buổi sáng chữa lành với lá cây đọng sương
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Thiết kế poster 'Chào buổi sáng' yên bình, nổi bật với những chiếc lá xanh đậm ướt át được phủ lên trên bằng kiểu chữ thanh lịch và những câu trích dẫn truyền cảm hứng.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một tấm poster chào buổi sáng phong cách chữa lành, khổ dọc, độ phân giải cao. Nền là bức ảnh chụp cận cảnh những chiếc lá xanh đậm và dây leo mảnh mai phủ đầy giọt nước trong veo, ánh sáng tự nhiên dịu nhẹ len qua tán lá tạo nên bầu không khí tĩnh lặng và đầy chất thơ.
+
+Ở góc trên bên trái, hiển thị số "19" bằng font chữ serif lớn, thanh lịch màu kem, kèm một đường kẻ dọc ngắn ngay bên dưới. Ở góc trên bên phải, hiển thị số "10" với cùng kiểu dáng và màu sắc, cũng có một đường kẻ dọc ngắn bên dưới. Nằm chính giữa phía trên cùng, xen giữa hai con số, là một đường gạch ngang nhỏ theo sau là dòng chữ Trung Quốc: "把清晨留给安静，把希望交给今天" (Hãy để buổi sớm mai cho sự tĩnh lặng, gửi gắm hy vọng vào hôm nay) được thể hiện bằng font sans-serif màu trắng tinh tế.
+
+Nổi bật ở trung tâm bức ảnh là hai ký tự Trung Quốc cỡ lớn "早安" (Chào buổi sáng) sử dụng font serif cách điệu, nét đậm. Các ký tự này mang sắc kem/beige có hiệu ứng bề mặt, trông hơi trong suốt khi đặt trên nền lá tối phía sau. Ngay bên dưới hai ký tự lớn này là dòng chữ tiếng Anh "GOOD MORNING" viết hoa toàn bộ bằng font serif, các chữ cái được giãn cách rộng, hai bên là hai đường gạch ngang dài.
+
+Bên dưới tiêu đề chính, nằm giữa phần nửa dưới của poster là một câu nói truyền cảm hứng gồm hai dòng, dùng font sans-serif màu trắng: "愿你在缓慢而坚定的节奏里，迎接新一天的光。" (Chúc bạn đón nhận ánh sáng ngày mới bằng nhịp bước chậm rãi mà kiên định.)
+
+Dưới cùng của poster là phần chân trang. Dòng đầu tiên ghi "MONDAY / 2026-10-19 / KEEP CALM AND GROW" bằng chữ in hoa màu trắng cỡ nhỏ, giãn cách đều. Bên dưới, nằm chính giữa hai dấu gạch ngang ngắn là dòng chữ "今日宜：清醒、从容、热爱生活" (Điều nên làm hôm nay: Tỉnh táo, điềm tĩnh, yêu cuộc sống).
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792569137914_26wnw0_HU8_6FyaEAENweh.jpg" width="600" alt="Bài đăng trên mạng xã hội - Poster buổi sáng chữa lành với lá cây đọng sương - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [小小东](https://x.com/xiaoxiaodong)
+- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong/status/2111977692757450859#reversed-0)
+- **Đã xuất bản:** 19 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36727)**
+
+---
+
+### No. 30: Bài đăng trên mạng xã hội - Nữ sinh đi bộ với váy xếp ly màu nâu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1756,7 +2038,7 @@ Một bức ảnh chân thực, chụp toàn thân từ góc nhìn nghiêng củ
 
 ---
 
-### No. 25: Bài đăng trên mạng xã hội - Robot cảnh sát khổng lồ tại Triển lãm Robot Tokyo
+### No. 31: Bài đăng trên mạng xã hội - Robot cảnh sát khổng lồ tại Triển lãm Robot Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1789,7 +2071,7 @@ Một hình ảnh siêu thực, độ phân giải cao về một triển lãm c
 
 ---
 
-### No. 26: Bài đăng trên mạng xã hội - Chân dung cô gái ngủ trên xe buýt phong cách Showa Retro
+### No. 32: Bài đăng trên mạng xã hội - Chân dung cô gái ngủ trên xe buýt phong cách Showa Retro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1822,7 +2104,7 @@ Bức chân dung dọc của một phụ nữ Đông Á trẻ tuổi đang ngủ
 
 ---
 
-### No. 27: Bài đăng trên mạng xã hội - Người Phụ Nữ Thực Với Bức Tường Graffiti Chibi Khổng Lồ
+### No. 33: Bài đăng trên mạng xã hội - Người Phụ Nữ Thực Với Bức Tường Graffiti Chibi Khổng Lồ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1920,7 +2202,7 @@ Tạo ra một câu chuyện hình ảnh vui tươi với sự tương tác li�
 
 ---
 
-### No. 28: Bài đăng trên mạng xã hội - Prompt Pop-Up Màu Nước Con Đường Ven Biển
+### No. 34: Bài đăng trên mạng xã hội - Prompt Pop-Up Màu Nước Con Đường Ven Biển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1959,7 +2241,7 @@ Tạo ra sự chuyển đổi tuyệt đẹp từ phong cách chân thực sang 
 
 ---
 
-### No. 29: Bài đăng trên mạng xã hội - GPT Image 2 Prompt Trang phục Streetwear Kẻ ô
+### No. 35: Bài đăng trên mạng xã hội - GPT Image 2 Prompt Trang phục Streetwear Kẻ ô
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2006,7 +2288,7 @@ Không có phụ kiện trang trí thừa.
 
 ---
 
-### No. 30: Bài đăng trên mạng xã hội - Chân dung phim cổ điển của cô gái mặc đồng phục thủy thủ
+### No. 36: Bài đăng trên mạng xã hội - Chân dung phim cổ điển của cô gái mặc đồng phục thủy thủ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2039,7 +2321,7 @@ Một bức ảnh dọc chụp toàn thân từ trung cảnh của một phụ n
 
 ---
 
-### No. 31: Bài đăng trên mạng xã hội - Minh họa hoạt hình 2D vẽ tay
+### No. 37: Bài đăng trên mạng xã hội - Minh họa hoạt hình 2D vẽ tay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2094,73 +2376,18 @@ Mẹo chuyên nghiệp: Tải lên từng ảnh một và sử dụng cùng câu
 
 ---
 
-### No. 32: Bài đăng trên mạng xã hội - Prompt Nhiếp Ảnh Động Vật Hoang Dã GPT-Image-2
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Mô tả
-
-Prompt tạo ảnh nhiếp ảnh động vật hoang dã năng động với khoảnh khắc quyết định và bối cảnh tối giản, sử dụng gpt-image-2.
-
-#### 📝 Câu lệnh
-
-```
-[Chủ thể] và [Động vật] tương tác trong bức ảnh động, người không xuất hiện hoàn toàn trong khung hình, chỉ lộ một phần bàn tay, cẳng tay hoặc mép cơ thể, thiết lập tiếp xúc trực tiếp với [Động vật] thông qua [Đạo cụ tương tác].
-
-Động vật được ghi lại đúng vào khoảnh khắc hành động: nhảy vồ, vươn tới, giữ chặt, nắm lấy, chạm nhẹ hoặc tiến lại gần đạo cụ, tạo nên một khoảnh khắc quyết định mạnh mẽ.
-
-Bố cục nhấn mạnh sự kết nối hành động, chủ thể nổi bật, nền tối giản, môi trường chân thực, ánh sáng ban ngày tự nhiên, tốc độ màn trập cao để đóng băng chuyển động, mang lại cảm giác chụp nhanh chân thực, đời thường và có tính kể chuyện. Nền sử dụng các mảng màu môi trường tự nhiên đơn giản diện tích lớn, làm nổi bật chủ thể và mối quan hệ tương tác.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309462899_tpdw5s_HUzqX2ybcAAk4vZ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Nhiếp Ảnh Động Vật Hoang Dã GPT-Image-2 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309462875_1i6l35_HUzqX20aMAAhLcq.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Nhiếp Ảnh Động Vật Hoang Dã GPT-Image-2 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309462869_fjynce_HUzqX53bgAAVYJY.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Nhiếp Ảnh Động Vật Hoang Dã GPT-Image-2 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792309463749_jn4p1z_HUzqX56aQAArzed.jpg" width="600" alt="Bài đăng trên mạng xã hội - Prompt Nhiếp Ảnh Động Vật Hoang Dã GPT-Image-2 - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [VoxCat](https://x.com/VoxcatAI)
-- **Nguồn:** [Twitter Post](https://x.com/VoxcatAI/status/2111320035914665986)
-- **Đã xuất bản:** 17 tháng 10, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36538)**
-
----
-
-### No. 33: Bài đăng trên mạng xã hội - Chân dung bãi biển phong cách cổ điển
+### No. 38: Infographic / Hình ảnh giáo dục - Bảng Nhân Vật Anime: Bé Gái Đang Khóc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Tạo hình ảnh phong cách retro của một phụ nữ đang mỉm cười, đội mũ rơm và mặc áo ren trắng trên bãi biển.
+Bảng tham khảo nhân vật anime chi tiết, mô tả một bé gái 3 tuổi với nhiều biểu cảm, góc nhìn cơ thể và các chi tiết trang phục.
 
 #### 📝 Câu lệnh
 
 ```
-Bức ảnh phong cách cổ điển chụp một cô gái trẻ trên bãi biển, được thực hiện bằng máy ảnh phim với hiệu ứng hạt (grain) rõ nét và các vệt sáng rò rỉ (light leaks). Cô ấy quay đầu lại qua vai với nụ cười rạng rỡ và chân thành. Cô đội chiếc mũ rộng vành đan từ rơm với viền màu nâu sẫm và mặc áo ren trắng có họa tiết mắt lưới (eyelet lace). Mái tóc được tết thành hai bím thấp hoặc buộc kiểu đuôi sam. Ánh nắng ấm áp chiếu xuống, tạo nên những bóng loang lổ từ chiếc mũ lên khuôn mặt cô. Ở phía nền, có thể thấy những bóng người mờ ảo đang bơi trong đại dương và một sườn đồi xanh mướt.
+Bảng thiết kế nhân vật anime độ phân giải cao của một bé gái 3 tuổi, được thể hiện theo phong cách pastel dịu nhẹ. Bố cục được chia thành các phần: Góc trên bên trái: Cận cảnh khuôn mặt bé gái đang khóc với mái tóc bob màu nâu và đôi mắt đỏ, mặc chiếc váy hoa màu hồng, hai tay vươn ra phía trước. Có chú thích '3歳' (3 tuổi) và '災害シーン用キャラクターシート' (Bảng thiết kế nhân vật cho các cảnh thảm họa). Góc trên bên phải: Bốn khung biểu cảm nhỏ hơn với chú thích '泣く' (Khóc), '怯える' (Sợ hãi), '驚く' (Ngạc nhiên) và '普段の笑顔' (Nụ cười thường ngày). Góc dưới bên trái: Hình toàn thân xoay vòng hiển thị ba góc nhìn với chú thích '正面' (Chính diện), '側面' (Nhìn nghiêng) và '背面' (Mặt sau). Bé mặc chiếc váy xếp tầng bèo nhún họa tiết hoa anh đào, đi tất trắng và giày thể thao màu hồng. Góc dưới bên phải: Các hình cận cảnh chi tiết với chú thích '瞳ディテール' (Chi tiết mắt), '口ディテール' (Chi tiết miệng), '髪飾り' (Phụ kiện tóc - kẹp hoa), '服ディテール' (Chi tiết trang phục - nơ), '靴ディテール' (Chi tiết giày) và '生地の柄' (Họa tiết vải).
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2168,213 +2395,21 @@ Bức ảnh phong cách cổ điển chụp một cô gái trẻ trên bãi bi�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223108422_auhee9_HUzXG_daUAApsMp.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung bãi biển phong cách cổ điển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792569137172_bqo3pd_HVD1mAVaIAE_kEn.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bảng Nhân Vật Anime: Bé Gái Đang Khóc - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [拓斗](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Nguồn:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2111298845120573527#reversed-0)
-- **Đã xuất bản:** 17 tháng 10, 2026
+- **Tác giả:** [ヌケがら🔥](https://x.com/nukegala83)
+- **Nguồn:** [Twitter Post](https://x.com/nukegala83/status/2112505860450894056#reversed-0)
+- **Đã xuất bản:** 20 tháng 10, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36544)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36726)**
 
 ---
 
-### No. 34: Bài đăng trên mạng xã hội - Chân dung Cung Xử Nữ với Năng lượng Vũ trụ Vàng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Prompt tạo minh họa chân thực của một người (từ hình ảnh tham chiếu đính kèm) kết hợp với biểu tượng cung hoàng đạo Xử Nữ, đặc trưng bởi năng lượng vàng và thẩm mỹ hình học thiêng liêng.
-
-#### 📝 Câu lệnh
-
-```
-Minh họa chân thực về mẫu trong hình ảnh đính kèm, giữ nguyên khuôn mặt và biểu cảm của cô ấy. Giữ lại phần đầu từ nền của hình ảnh gốc, với biểu tượng {argument name="zodiac sign" default="Virgo"} được đặt ở phía trên. Toàn bộ bối cảnh tràn ngập ánh sáng của năng lượng {argument name="energy color" default="golden"}, các hạt hình học thiêng liêng phát sáng và tinh vân vũ trụ {argument name="nebula type" default="golden nebulae"}. Bảng màu: vàng ròng, hổ phách neon và đen sâu thẳm. Chất lượng hình ảnh độ phân giải cao với hiệu ứng hoàn thiện kim loại.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223101722_44rerb_HUwHiGWWsAAO6Ij.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung Cung Xử Nữ với Năng lượng Vũ trụ Vàng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [HER19845](https://x.com/her19845)
-- **Nguồn:** [Twitter Post](https://x.com/her19845/status/2111070651058409940)
-- **Đã xuất bản:** 16 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36536)**
-
----
-
-### No. 35: Bài đăng trên mạng xã hội - Ảnh Vintage Hai Người Phụ Nữ Cầm Hoa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Tạo ảnh chân dung phong cách retro của hai cô gái trẻ cầm bó hoa trước cửa hàng truyền thống Nhật Bản, tái hiện vẻ đẹp hoài cổ thời Showa.
-
-#### 📝 Câu lệnh
-
-```
-Bức ảnh phong cách vintage chụp hai phụ nữ trẻ gốc Á Đông đứng sát nhau trước một cửa hàng truyền thống Nhật Bản. Người phụ nữ bên trái có mái tóc đen được búi thành hai bím tóc tròn, mặc chiếc váy xanh navy với họa tiết hoa trắng nhỏ và cổ áo xếp nếp, tay cầm một bó hoa màu xanh dương. Người phụ nữ bên phải có mái tóc đen ngắn cắt layer, mặc áo len màu đỏ rượu vang bên ngoài chiếc áo sơ mi trắng có cổ, tay cầm một bó hoa cosmos hồng. Cả hai đều có kết cấu da tự nhiên với tàn nhang rõ rệt và mụn nhẹ, nhìn thẳng vào ống kính với biểu cảm trung tính. Phông nền là những kệ gỗ chứa đầy chai lọ và hộp các loại, bao gồm biển hiệu có chữ Hán Nhật như '清酒' (sake) và '白鶴'. Bức ảnh mang tông màu ấm áp, phai nhạt đặc trưng của nhiếp ảnh phim cũ, với ánh sáng dịu nhẹ và kết cấu hơi hạt.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223110680_n2f9za_HUvkTjhawAAB_1l.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh Vintage Hai Người Phụ Nữ Cầm Hoa - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [拓斗](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Nguồn:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2111031879529013506#reversed-0)
-- **Đã xuất bản:** 16 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36547)**
-
----
-
-### No. 36: Bài đăng trên mạng xã hội - Tranh Ghép Ảnh Nhật Ký Du Lịch Phong Cách Cổ Điển
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Prompt cho GPT Image 2 để biến đổi ảnh tải lên thành một bức tranh ghép phong cách nhật ký du lịch tối giản, chia khung hình giữa ảnh gốc và minh họa màu nước phẳng của cùng cảnh đó.
-
-#### 📝 Câu lệnh
-
-```
-Biến đổi bức ảnh được tải lên thành một bức tranh ghép phong cách nhật ký du lịch cổ điển, tối giản. Hãy bắt chước phong cách tham khảo hai phần đã cung cấp một cách chính xác nhất có thể.
-
-KHUNG HÌNH:
-Bố cục dọc tỷ lệ 3:4 với hai phần ngang có chiều cao gần bằng nhau.
-
-PHẦN TRÊN — ẢNH GỐC:
-Giữ nguyên bức ảnh được tải lên cùng bố cục, địa điểm, kiến trúc, đồ vật, màu sắc và phối cảnh ban đầu. Đảm bảo phần này vẫn mang tính nhiếp ảnh, tự nhiên, hơi mờ nhẹ và có chất điện ảnh. Không biến phần trên thành tranh minh họa.
-
-PHẦN DƯỚI — MINH HỌA PHẲNG ĐƠN GIẢN:
-Tạo ra một bức minh họa bằng mực và màu nước theo phong cách tối giản, cố ý đơn giản hóa của CÙNG MỘT CẢNH.
-
-QUAN TRỌNG: Bức minh họa ở phần dưới phải trông giống như bức vẽ đơn giản, nhạt màu trong ảnh tham khảo, KHÔNG phải là một bức tranh màu nước chi tiết.
-
-Sử dụng:
-
-Các đường nét kiến trúc đơn giản hóa
-
-Lớp phủ màu nước phẳng, trong suốt
-
-Đường viền tối thiểu và nét cọ phóng khoáng
-
-Màu đất nung nhạt và xanh xám bụi bặm
-
-Xanh ô liu trầm và màu than chì
-
-Nhiều khoảng trống lớn trên nền giấy kem
-
-Hình bóng người đơn giản
-
-Rất ít chi tiết kiến trúc
-
-Các cạnh mềm mại, không hoàn hảo
-
-Không sao chép mọi chi tiết từ ảnh chụp. Chỉ giữ lại những yếu tố dễ nhận biết nhất của cảnh gốc.
-
-Bức minh họa cần tạo cảm giác tinh tế, thoáng đãng, hơi phai màu và được vẽ tay trên giấy cổ điển.
-
-BỐ CỤC:
-Giữ bức ảnh ở nửa trên và bức minh họa ở nửa dưới. Phân tách chúng bằng một đường biên ngang đơn giản, hơi bất quy tắc một cách tinh tế. Tránh các hiệu ứng xé giấy cầu kỳ.
-
-GIẤY:
-Giấy màu ngà ấm áp với vân tự nhiên tinh tế và bề mặt mờ (matte). Phần dưới nên có nhiều khoảng trống.
-
-VĂN BẢN:
-Ở cuối phần minh họa, thêm một tiêu đề nhỏ viết thường theo kiểu máy đánh chữ, tiếp theo là hai dòng ngắn chứa nội dung suy tư phù hợp với cảnh.
-
-Sử dụng chữ monospace màu xám đậm, mực hơi phai và khoảng cách rộng rãi. Giữ văn bản nhỏ và tinh tế.
-
-QUY TẮC PHONG CÁCH NGHIÊM NGẶT:
-Phần trên phải luôn là ảnh chụp.
-Phần dưới phải luôn là minh họa phẳng đơn giản.
-Không làm cho phần dưới trở nên chân thực như ảnh.
-Không sử dụng kỹ thuật vẽ màu nước quá chi tiết.
-Không tô đầy toàn bộ giấy bằng màu.
-Không thêm các khung bổ sung, viền, yếu tố trang trí hoặc văn bản ngẫu nhiên.
-Giữ nguyên bản sắc dễ nhận biết của cảnh gốc.
-
-Hình ảnh cuối cùng phải trông giống như một trang nhật ký du lịch tối giản với ảnh chụp ở trên và một bức minh họa diễn giải đơn giản ở dưới.
-
-Tỷ lệ khung hình: 3:4 dọc.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223105604_257gan_HUvQcQSaYAAVe88.jpg" width="600" alt="Bài đăng trên mạng xã hội - Tranh Ghép Ảnh Nhật Ký Du Lịch Phong Cách Cổ Điển - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Laraib Fatima‎](https://x.com/AiwithLariab)
-- **Nguồn:** [Twitter Post](https://x.com/AiwithLariab/status/2111010045442048383)
-- **Đã xuất bản:** 16 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36539)**
-
----
-
-### No. 37: Bài đăng trên mạng xã hội - Cô Gái Thể Thao Phong Cách Retro Showa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Tạo ảnh phong cách hoài cổ của một cô gái mặc bộ đồ thể thao màu đỏ, ôm quả bóng chuyền trong nhà thi đấu.
-
-#### 📝 Câu lệnh
-
-```
-Một bức ảnh mang phong cách phim cũ với hiệu ứng hạt film (film-grain), gợi cảm giác hoài niệm về một cô gái trẻ Nhật Bản đang ngồi trên sàn gỗ đánh bóng của nhà thi đấu trường học. Cô mặc bộ đồ thể thao bằng nhung đỏ cổ điển với đường viền trắng chạy dọc tay áo và quần, đặc trưng cho thời trang retro của kỷ nguyên Showa. Mái tóc đen được buộc thành hai bím thấp, cố định bằng những hạt ngọc trai nhỏ màu đỏ, cùng nụ cười nhẹ nhàng, tự nhiên. Một chiếc khăn mặt trắng vắt quanh cổ, gợi ý rằng cô vừa hoàn thành hoạt động thể chất. Cô ôm sát vào ngực một quả bóng chuyền da màu trắng ngà đã sờn cũ, hai tay đan chéo qua nó. Phông nền làm mờ các chi tiết của không gian nhà thi đấu, bao gồm một giá đỡ kim loại chứa nhiều quả bóng chuyền khác và những cửa sổ lớn đón ánh sáng ban ngày dịu nhẹ. Hình ảnh có bảng màu ấm áp, hơi phai nhạt, đặc trưng của nhiếp ảnh thập niên 1980.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223108662_hnxf16_HUvPXxKaoAAIS7f.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cô Gái Thể Thao Phong Cách Retro Showa - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [拓斗](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Nguồn:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2111008862233125226#reversed-0)
-- **Đã xuất bản:** 16 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36545)**
-
----
-
-### No. 38: Infographic / Hình ảnh giáo dục - Bảng Concept Nhân Vật Cyber Stage
+### No. 39: Infographic / Hình ảnh giáo dục - Bảng Concept Nhân Vật Cyber Stage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2423,7 +2458,7 @@ Phong cách tổng thể cần hòa quyện giữa công nghệ cyberpunk và nh
 
 ---
 
-### No. 39: Infographic / Hình ảnh giáo dục - So sánh Nhà ga Xe lửa: Yên tĩnh vs Bỏ hoang
+### No. 40: Infographic / Hình ảnh giáo dục - So sánh Nhà ga Xe lửa: Yên tĩnh vs Bỏ hoang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2456,7 +2491,7 @@ Hình ảnh so sánh chia đôi màn hình hai cảnh nhà ga xe lửa lúc hoà
 
 ---
 
-### No. 40: Infographic / Hình ảnh giáo dục - Haiku về hầm rượu bị bỏ quên
+### No. 41: Infographic / Hình ảnh giáo dục - Haiku về hầm rượu bị bỏ quên
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2493,7 +2528,7 @@ chiếm trọn nơi này
 
 ---
 
-### No. 41: Infographic / Hình ảnh giáo dục - Prompt Thiết Kế Nhân Vật Anime
+### No. 42: Infographic / Hình ảnh giáo dục - Prompt Thiết Kế Nhân Vật Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2556,7 +2591,7 @@ Phong cách hình ảnh: Minh họa kỹ thuật số chất lượng cao kết 
 
 ---
 
-### No. 42: Infographic / Hình ảnh giáo dục - Infographic về Điểm Nemo
+### No. 43: Infographic / Hình ảnh giáo dục - Infographic về Điểm Nemo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2605,7 +2640,7 @@ Phong cách hình ảnh: Thiết kế infographic chuyên nghiệp. Sử dụng 
 
 ---
 
-### No. 43: Infographic / Hình ảnh giáo dục - Ảnh nhiệt của người
+### No. 44: Infographic / Hình ảnh giáo dục - Ảnh nhiệt của người
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2638,7 +2673,7 @@ Bức ảnh chụp nhiệt chân thực của một người đứng trong môi 
 
 ---
 
-### No. 44: Infographic / Hình ảnh giáo dục - Thiết kế Poster Liên hoan Nghệ thuật Thanh Hoa
+### No. 45: Infographic / Hình ảnh giáo dục - Thiết kế Poster Liên hoan Nghệ thuật Thanh Hoa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2671,7 +2706,7 @@ Tạo một poster thiết kế đồ họa chia đôi màn hình cho 'Liên hoa
 
 ---
 
-### No. 45: Infographic / Hình ảnh giáo dục - Banner Phát Triển Game Nhật Bản
+### No. 46: Infographic / Hình ảnh giáo dục - Banner Phát Triển Game Nhật Bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2704,7 +2739,7 @@ Một hình ảnh banner ngang với nền màu be nhạt. Ở bên trái, có v
 
 ---
 
-### No. 46: Infographic / Hình ảnh giáo dục - Bố cục bàn làm việc dễ thương và minh họa phong cách Kawaii
+### No. 47: Infographic / Hình ảnh giáo dục - Bố cục bàn làm việc dễ thương và minh họa phong cách Kawaii
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2745,7 +2780,7 @@ Phong cách hình ảnh: Phần trên là nhiếp ảnh sắc nét, tươi sáng
 
 ---
 
-### No. 47: Infographic / Hình ảnh giáo dục - Infographic Manga: Kỹ thuật Prompt AI
+### No. 48: Infographic / Hình ảnh giáo dục - Infographic Manga: Kỹ thuật Prompt AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2797,7 +2832,7 @@ Phần dưới:
 
 ---
 
-### No. 48: Infographic / Hình ảnh giáo dục - Bảng Thông Tin Nhân Vật Hell Hound
+### No. 49: Infographic / Hình ảnh giáo dục - Bảng Thông Tin Nhân Vật Hell Hound
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2884,7 +2919,7 @@ Văn bản chân trang: "STINKY IS PROTECTED. ALWAYS. NO HARM SHALL TOUCH HER. E
 
 ---
 
-### No. 49: Infographic / Hình ảnh giáo dục - Bảng Thiết Kế Nhân Vật Anime: Cặp Đôi Hanfu Truyền Thống
+### No. 50: Infographic / Hình ảnh giáo dục - Bảng Thiết Kế Nhân Vật Anime: Cặp Đôi Hanfu Truyền Thống
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2927,7 +2962,7 @@ Nhân vật bên phải (Nữ):
 
 ---
 
-### No. 50: Infographic / Hình ảnh giáo dục - Bảng thiết kế nhân vật Anime: Nữ hoàng Kiếm
+### No. 51: Infographic / Hình ảnh giáo dục - Bảng thiết kế nhân vật Anime: Nữ hoàng Kiếm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2975,7 +3010,7 @@ Tạo một bảng thiết kế nhân vật chi tiết cao, chuyên nghiệp cho
 
 ---
 
-### No. 51: Infographic / Hình ảnh giáo dục - Minh họa Nghiên cứu Quán Cà phê Nghệ thuật Dân gian
+### No. 52: Infographic / Hình ảnh giáo dục - Minh họa Nghiên cứu Quán Cà phê Nghệ thuật Dân gian
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3036,7 +3071,7 @@ Rải vài nguyên tố trôi nổi nhỏ xíu qua khoảng trống: bốn hoặ
 
 ---
 
-### No. 52: Infographic / Hình ảnh giáo dục - Nhắc tạo Poster Typography Tết Trung Thu
+### No. 53: Infographic / Hình ảnh giáo dục - Nhắc tạo Poster Typography Tết Trung Thu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3094,31 +3129,22 @@ Màu phông chữ: {argument name="font_color_en" default="Gucci Ancora Red"}
 
 ---
 
-### No. 53: Infographic / Hình ảnh giáo dục - Infographic Nhà máy Xử lý Nước thải
+### No. 54: Hình thu nhỏ trên YouTube - Quảng Cáo Thực Phẩm Gà Rán Phong Cách Điện Ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một poster infographic phong cách công nghiệp chi tiết minh họa quy trình và nguyên lý hoạt động của nhà máy xử lý nước thải, nổi bật với các sơ đồ quy trình và kiểu chữ đậm.
+Prompt chi tiết cao để tạo quảng cáo thực phẩm chân thực như ảnh chụp, nổi bật với gà rán và người mẫu, được tối ưu hóa cho GPT Image 2.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một poster infographic nằm ngang giải thích nguyên lý hoạt động của nhà máy xử lý nước thải. Phong cách thiết kế mang tính công nghiệp, hiện đại và tương phản cao, sử dụng bảng màu gồm đỏ đậm, đen, trắng và xanh ngọc/xanh dương cho các yếu tố liên quan đến nước.
+GOLDEN CRUNCH | TUYỆT TÁC ĐIỆN ẢNH ẨM THỰC.
 
-**Bố cục & Yếu tố Văn bản:**
-1.  **Góc trên bên trái/Giữa (Tiêu đề):** Các ký tự tiếng Trung "污水处理厂" (Nhà máy Xử lý Nước thải) màu đỏ, lớn, đậm và có hiệu ứng mờ cũ kỹ trải dài ở phía trên. Bên dưới là văn bản màu đen, đậm, cỡ lớn "工作原理" (Nguyên lý Hoạt động). Văn bản màu đen nhỏ hơn bên dưới: "从进水、分离、生化反应到净化出水" (Từ nước đầu vào, tách biệt, phản ứng sinh hóa đến nước đầu ra đã được làm sạch).
-2.  **Thanh bên trái:** Bố cục dọc với các khối văn bản nhỏ. Khối trên cùng: "让每一滴污水重回自然" (Để mỗi giọt nước ô nhiễm trở về với thiên nhiên), "水的下一站是更洁净的未来" (Điểm đến tiếp theo của nước là một tương lai sạch sẽ hơn), văn bản tiếng Anh "CLEANER WATER BRIGHTER TOMORROW". Khối dưới cùng (nền đỏ): "处理改变为了更好的水环境" (Xử lý thay đổi để có môi trường nước tốt hơn), văn bản tiếng Anh "CLEAN CYCLE HEALTHY CITIES".
-3.  **Phía bên phải (Hình nền):** Một bức ảnh ghép lớn hiển thị góc nhìn từ trên cao của các bể lắng hình tròn chứa đầy nước màu xanh ngọc, được kết nối bởi đường ống và lối đi bộ. Văn bản phủ lên phía bên phải: "从污水到清水" (Từ nước ô nhiễm đến nước sạch), "连接城市与更健康的生活" (Kết nối thành phố với cuộc sống khỏe mạnh hơn), "FOR A CLEANER TOMORROW", "水循环 城市运行 与自然共生" (Chu trình nước, vận hành đô thị, cộng sinh với thiên nhiên), "净化 让城市更有生命力" (Làm sạch giúp thành phố tràn đầy sức sống), "CLEAN WATER STRONGER CITIES".
-4.  **Giữa phía dưới (Sơ đồ Quy trình):** Một sơ đồ mặt cắt ngang minh họa dòng chảy của nước qua các giai đoạn khác nhau. Các mũi tên chỉ hướng từ trái sang phải. Nhãn phía trên các phần: "格栅 / 沉砂" (Song chắn rác/Bể lắng cát), "初沉" (Lắng bậc một), "生化反应" (Phản ứng sinh hóa - được mô tả bằng bong bóng khí), "二沉" (Lắng bậc hai). Nhãn ở hai đầu: "进水" (Nước đầu vào) ở bên trái, "出水" (Nước đầu ra) ở bên phải.
-5.  **Góc dưới bên phải:** Khối văn bản nhỏ: "更干净的水 更宜居的城市 更可持续的明天" (Nước sạch hơn, thành phố đáng sống hơn, ngày mai bền vững hơn), văn bản tiếng Anh "CLEANER WATER HEALTHIER CITIES A BRIGHTER TOMORROW".
-6.  **Hộp đỏ ở giữa:** Một ô vuông nhỏ màu đỏ chứa văn bản màu trắng: "看不见的工程 支撑看得见的美好生活" (Công trình vô hình nâng đỡ cuộc sống tươi đẹp hữu hình), văn bản tiếng Anh "INFRASTRUCTURE FOR A HEALTHIER TOMORROW".
+Tạo một đoạn quảng cáo ẩm thực điện ảnh đẳng cấp thế giới, chân thực đến từng chi tiết, với nhân vật chính là một cô gái trẻ xinh đẹp sở hữu đường nét biểu cảm tự nhiên, mái tóc nâu gợn sóng mềm mại và chiếc áo len dệt kim màu be cao cấp ấm áp, đang ngồi trong một phòng ăn hiện đại sang trọng ngập tràn ánh sáng ấm. Hãy bắt trọn khoảnh khắc đầy mê hoặc khi cô đưa chiếc đùi gà rán vàng ruộm, giòn tan hoàn hảo lại gần đôi môi hé mở, gương mặt rạng ngời niềm phấn khích và háo hức thật sự. Ở tiền cảnh, một chiếc đĩa gốm trắng sang trọng chất đầy những miếng gà vừa chiên nóng hổi với lớp vỏ xù xì giòn rụm được khắc họa tỉ mỉ đến từng chi tiết, sắc vàng hổ phách óng ả, những vảy giòn mỏng manh cùng lớp dầu bóng bẩy tự nhiên.
 
-**Chi tiết Phong cách Hình ảnh:**
-*   Sử dụng lớp phủ kết cấu hạt trên toàn bộ hình ảnh để tạo cảm giác như giấy in.
-*   Kiểu chữ cho các ký tự tiếng Trung nên là sans-serif nặng và đậm.
-*   Nước trong các bức ảnh và sơ đồ nên có màu xanh ngọc/cyan đặc trưng nổi bật trên nền xám/đỏ/đen.
+**CHẤT LƯỢNG ĐIỆN ẢNH ĐỈNH CAO:** Quay bằng máy ARRI Alexa 65 với ống kính chân dung điện ảnh 85mm, độ sâu trường ảnh mỏng, lấy nét tinh xảo vào gương mặt người phụ nữ và miếng gà chủ đạo, hiệu ứng bokeh quang học mượt mà như kem, hệ thống đèn practical tungsten ấm áp đầy tinh tế, ánh sáng chính định hướng dịu nhẹ, viền sáng thanh thoát vương trên mái tóc, lỗ chân lông da tự nhiên, bàn tay chân thực, các ngón tay chuẩn xác về mặt giải phẫu, đôi mắt sống động như thật và kết cấu chân thực.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -3126,27 +3152,27 @@ Tạo một poster infographic nằm ngang giải thích nguyên lý hoạt đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789458733276_rp96yq_HSMGlTdaoAAEKuS.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Infographic Nhà máy Xử lý Nước thải - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792569135476_ldl0qm_HVD-ndGaUAAgucY.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Quảng Cáo Thực Phẩm Gà Rán Phong Cách Điện Ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789458733214_u53ggv_HSMIL5fbcAA6R70.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Infographic Nhà máy Xử lý Nước thải - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792569135133_7ko1cq_HVD-oALbYAASlC-.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Quảng Cáo Thực Phẩm Gà Rán Phong Cách Điện Ảnh - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [小小东](https://x.com/xiaoxiaodong01)
-- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2099530880842879182#reversed-0)
-- **Đã xuất bản:** 14 tháng 9, 2026
+- **Tác giả:** [Aaqib ali](https://x.com/akkiwani99_ali)
+- **Nguồn:** [Twitter Post](https://x.com/akkiwani99_ali/status/2112468197828153506)
+- **Đã xuất bản:** 20 tháng 10, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=34687)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=36723)**
 
 ---
 
-### No. 54: Hình thu nhỏ trên YouTube - Em gái của Battle Rising
+### No. 55: Hình thu nhỏ trên YouTube - Em gái của Battle Rising
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3179,7 +3205,7 @@ Chiếc chainsword được ban phước của chị đã vỡ vụn, chị đan
 
 ---
 
-### No. 55: Hình thu nhỏ trên YouTube - Trận Duel Cuối Cùng của Horus Heresy
+### No. 56: Hình thu nhỏ trên YouTube - Trận Duel Cuối Cùng của Horus Heresy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3212,7 +3238,7 @@ Trận duel cuối cùng của Horus Heresy. Trên tàu Vengeful Spirit đang ba
 
 ---
 
-### No. 56: Hình thu nhỏ trên YouTube - Lady Death Chiến Đấu Với Quỷ Dữ
+### No. 57: Hình thu nhỏ trên YouTube - Lady Death Chiến Đấu Với Quỷ Dữ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3245,7 +3271,7 @@ Brian Pulido’s Lady Death (Hope) chém xuyên qua nhiều con quỷ có sừng
 
 ---
 
-### No. 57: Hình thu nhỏ trên YouTube - Bóng người trên đỉnh núi lúc hoàng hôn vũ trụ
+### No. 58: Hình thu nhỏ trên YouTube - Bóng người trên đỉnh núi lúc hoàng hôn vũ trụ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3296,7 +3322,7 @@ Một cảnh quan hùng vĩ và siêu thực với bóng dáng đơn độc củ
 
 ---
 
-### No. 58: Hình thu nhỏ trên YouTube - Chiến binh Anime chân thực trong trận chiến thời Trung Cổ
+### No. 59: Hình thu nhỏ trên YouTube - Chiến binh Anime chân thực trong trận chiến thời Trung Cổ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3329,7 +3355,7 @@ Một bức ảnh hành động điện ảnh siêu chân thực về một nữ
 
 ---
 
-### No. 59: Hình thu nhỏ trên YouTube - Nhân vật Minecraft trong cánh đồng hoa hướng dương
+### No. 60: Hình thu nhỏ trên YouTube - Nhân vật Minecraft trong cánh đồng hoa hướng dương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3362,7 +3388,7 @@ Cận cảnh quay điện ảnh siêu thực của một nhân vật phong cách
 
 ---
 
-### No. 60: Hình thu nhỏ trên YouTube - Prompt GPT Image 2 cho Phép biến đổi Kỳ diệu của Llama
+### No. 61: Hình thu nhỏ trên YouTube - Prompt GPT Image 2 cho Phép biến đổi Kỳ diệu của Llama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3401,7 +3427,7 @@ Một con llama đang trải qua Phép biến đổi Ma thuật Hoang dã với 
 
 ---
 
-### No. 61: Hình thu nhỏ trên YouTube - Người Đàn Ông Siêu Thực Trên Đám Mây Với Thành Phố Bên Dưới
+### No. 62: Hình thu nhỏ trên YouTube - Người Đàn Ông Siêu Thực Trên Đám Mây Với Thành Phố Bên Dưới
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3448,7 +3474,7 @@ Không có vẻ ngoài hoạt hình, không phải tranh minh họa, không có 
 
 ---
 
-### No. 62: Hình thu nhỏ trên YouTube - Cinematic Multi-Door Fantasy Scene Prompt for GPT Image 2
+### No. 63: Hình thu nhỏ trên YouTube - Cinematic Multi-Door Fantasy Scene Prompt for GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3509,7 +3535,7 @@ Surrounding him are dozens of enormous, beautifully detailed doorways, each reve
 
 ---
 
-### No. 63: Hình thu nhỏ trên YouTube - Prompt Hình Ảnh Steampunk: Bánh Răng Cuối Cùng
+### No. 64: Hình thu nhỏ trên YouTube - Prompt Hình Ảnh Steampunk: Bánh Răng Cuối Cùng
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3549,7 +3575,7 @@ chắc chắn thế giới này sẽ vận hành trở lại.
 
 ---
 
-### No. 64: Hình thu nhỏ trên YouTube - Robot Cảnh Sát Khổng Lồ Tham Gia Cứu Hộ Đêm
+### No. 65: Hình thu nhỏ trên YouTube - Robot Cảnh Sát Khổng Lồ Tham Gia Cứu Hộ Đêm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3582,7 +3608,7 @@ Cảnh quay điện ảnh, siêu thực vào ban đêm, mô tả một robot c�
 
 ---
 
-### No. 65: Hình thu nhỏ trên YouTube - Phụ Nữ Đọc Sách Trên Phố Tuyết
+### No. 66: Hình thu nhỏ trên YouTube - Phụ Nữ Đọc Sách Trên Phố Tuyết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3615,7 +3641,7 @@ Bức chân dung dọc của một cô gái trẻ với mái tóc đen dài và 
 
 ---
 
-### No. 66: Hình thu nhỏ trên YouTube - Robot Cảnh Sát MPD Khổng Lồ Dọn Dẹp Đống Sụp
+### No. 67: Hình thu nhỏ trên YouTube - Robot Cảnh Sát MPD Khổng Lồ Dọn Dẹp Đống Sụp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3648,7 +3674,7 @@ Một hình ảnh điện ảnh, siêu thực của một robot cảnh sát hai 
 
 ---
 
-### No. 67: Hình thu nhỏ trên YouTube - Biến Đổi Máy Bay Chiến Đấu Thành Ảnh Thực Tế
+### No. 68: Hình thu nhỏ trên YouTube - Biến Đổi Máy Bay Chiến Đấu Thành Ảnh Thực Tế
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3681,7 +3707,7 @@ Sử dụng hình ảnh tham khảo được cung cấp, hãy biến đổi minh
 
 ---
 
-### No. 68: Hình thu nhỏ trên YouTube - Cảnh Khiêu Vũ Ấm Áp Trong Hành Lang Phong Cách Vintage
+### No. 69: Hình thu nhỏ trên YouTube - Cảnh Khiêu Vũ Ấm Áp Trong Hành Lang Phong Cách Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3714,7 +3740,7 @@ Tạo một cảnh phim hoạt hình 3D ấm áp bên trong hành lang phong cá
 
 ---
 
-### No. 69: Hình thu nhỏ trên YouTube - Trạm Kiểm Soát Robot Cảnh Sát Khổng Lồ Tại Tokyo
+### No. 70: Hình thu nhỏ trên YouTube - Trạm Kiểm Soát Robot Cảnh Sát Khổng Lồ Tại Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3747,7 +3773,7 @@ Một bức ảnh góc rộng siêu thực tế về một robot cảnh sát hai
 
 ---
 
-### No. 70: Hình thu nhỏ trên YouTube - Prompt Chân Dung Fantasy Tối Gothic Cathedral
+### No. 71: Hình thu nhỏ trên YouTube - Prompt Chân Dung Fantasy Tối Gothic Cathedral
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3782,7 +3808,7 @@ Sàn đá cổ kính hơi ẩm ướt và phản chiếu, những hạt bụi m�
 
 ---
 
-### No. 71: Hình thu nhỏ trên YouTube - Chân dung chia đôi thời gian siêu thực với GPT Image 2
+### No. 72: Hình thu nhỏ trên YouTube - Chân dung chia đôi thời gian siêu thực với GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3825,7 +3851,7 @@ Bố cục điện ảnh hùng tráng, khái niệm thế giới chia đôi đ�
 
 ---
 
-### No. 72: Hình thu nhỏ trên YouTube - Góc nhìn buồng lái máy bay chiến đấu khi nghiêng cánh
+### No. 73: Hình thu nhỏ trên YouTube - Góc nhìn buồng lái máy bay chiến đấu khi nghiêng cánh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3855,41 +3881,6 @@ Một bức ảnh có độ chân thực cao theo góc nhìn thứ nhất từ b
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=35415)**
-
----
-
-### No. 73: Hình thu nhỏ trên YouTube - Buồng điện thoại đêm phong cách điện ảnh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Câu lệnh tạo ảnh chụp đêm phong cách điện ảnh siêu thực về một chàng trai trẻ điển trai trong buồng điện thoại màu đỏ cổ điển giữa cơn mưa lớn, sử dụng gpt-image-2 (được gọi là Gpt 2).
-
-#### 📝 Câu lệnh
-
-```
-Ảnh chụp đêm phong cách điện ảnh siêu thực về một chàng trai trẻ ngoài 20 tuổi với vẻ ngoài điển trai nổi bật, đang ngồi bên trong một buồng điện thoại màu đỏ cổ điển trên con phố vắng lặng lúc nửa đêm. Anh có mái tóc đen nhánh dày và xoăn tự nhiên, đôi mày rậm, đôi mắt nâu sẫm sâu thẳm, đường hàm góc cạnh được điêu khắc tinh tế, râu quai nón nhẹ nhàng tự nhiên, kết cấu da chân thực, lỗ chân lông rõ nét cùng các đặc điểm khuôn mặt nam tính thanh lịch. Anh cầm chặt ống nghe điện thoại đen cũ kỹ áp sát vào tai, với vẻ mặt bí ẩn và trầm tư khi ánh mắt hơi hướng về phía lớp kính phủ đầy giọt mưa.
-
-Mưa lớn trút xuống bên ngoài, những giọt nước chảy dài trên các tấm kính, trong khi sương mù dày đặc bao quanh buồng điện thoại và che khuất mờ ảo con phố trống trải. Mặt đường ướt phản chiếu ánh sáng hổ phách ấm áp từ buồng điện thoại và những ngọn đèn đường xa xôi. Kiến trúc đô thị cổ điển dần tan biến vào màn sương trong nền. Những phản chiếu neon tinh tế, ánh sáng viền kiểu điện ảnh, tia sáng thể tích mềm mại, bóng tối sâu thẳm, bầu không khí xanh đêm u buồn, phản chiếu chân thực trên bề mặt ướt, độ sâu trường ảnh nông, ống kính 85mm, f/1.4, hạt phim kịch tính, dải tương phản động cao, da chân thực như ảnh thật, chi tiết vải phức tạp, thẩm mỹ noir tinh tế, bầu không khí bí ẩn và giàu cảm xúc, nhiếp ảnh biên tập cao cấp, 8K, siêu chi tiết, tỷ lệ tự nhiên, không văn bản, không hình mờ, không phụ nữ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790322678007_8pnlfr_HS9QKvpb0AAS5kZ.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Buồng điện thoại đêm phong cách điện ảnh - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
-- **Nguồn:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2102987709883298171)
-- **Đã xuất bản:** 24 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=35318)**
 
 ---
 
@@ -6308,7 +6299,7 @@ Tạo một hình ảnh quảng cáo phòng thực tế để tiếp thị phòn
 
 <div align="center">
 
-### 🎯 17839 câu lệnh khác không hiển thị ở đây
+### 🎯 17848 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6371,6 +6362,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-21T02:23:57.628Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-21T16:16:10.469Z</sub>
 
 </div>
