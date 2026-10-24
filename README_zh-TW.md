@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **17990** |
+| 📝 提示詞總數 | **17998** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年10月24日 星期六 凌晨2:22:12 [UTC]** |
+| 🔄 最後更新 | **2026年10月24日 星期六 下午3:01:08 [UTC]** |
 
 </div>
 
@@ -525,18 +525,18 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 個人檔案 / 頭像 - 電影感火柴人像
+### No. 1: 個人檔案 / 頭像 - 女子遞糖果的肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一張超寫實、電影感的特寫人像，呈現一位女性手持點燃的火柴，搭配戲劇性的明暗對比光影效果。
+一張寫實風格的照片，呈現一位身穿花卉圖案袍子的年輕女子，在陽光明媚的環境中向鏡頭遞上小糖果。
 
 #### 📝 提示詞
 
 ```
-生成一張超寫實、電影感的特寫人像，主角是一位美麗的年輕女子，留著長而凌亂飄逸的深色秀髮，眉毛濃密、睫毛纖長，雙唇微啟。她輕輕閉上雙眼，神情寧靜、夢幻且充滿情緒張力。右手舉起一根點燃的火柴，靠近臉部。溫暖的橘金色火光映照出她半邊的臉龐、鼻樑、嘴唇、頸部與手指，另一半則隱沒在深邃柔和的陰影之中。幾縷散落的髮絲自然地勾勒著臉型。整體呈現暗沉憂鬱的氛圍、戲劇性的明暗對比（chiaroscuro）光線、逼真的肌膚紋理與精緻的五官細節；風格為藝術攝影，色調溫暖如琥珀，陰影柔和，景深極淺，細節豐富，4K 畫質，直式人像構圖，9:16 比例。請保留自然的面部比例，營造出優雅而神祕的美感。
+一張擬真風格的年輕亞洲女性肖像，她留著深色短髮，臉上有自然的雀斑。她身穿淺色半透膚的花卉長袍或洋裝，上頭點綴著藍色花朵圖案，內搭白色打底衣物。一側頭髮用簡單的米色髮夾輕輕別起。她坐在木椅上，身處陽光灑落的房間裡，身後的大窗戶望出去是一片翠綠的枝葉。光線柔和自然，營造出溫暖、宛如底片攝影般的質感。她神情溫柔地直視鏡頭，右手向前朝觀者伸出，掌心托著三顆圓圓的小東西（看起來像彩色糖果或小石頭），由於景深較淺，這些小物顯得略微失焦。
 ```
 
 #### 🖼️ 生成圖片
@@ -544,17 +544,17 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741901361_o4iat3_HVS5yWAakAAAxC3.jpg" width="600" alt="個人檔案 / 頭像 - 電影感火柴人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792827962059_ds2thp_HVUF6MhacAAs28_.jpg" width="600" alt="個人檔案 / 頭像 - 女子遞糖果的肖像 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Hassan](https://x.com/msdeb54)
-- **來源:** [Twitter Post](https://x.com/msdeb54/status/2113518423456297040)
+- **作者:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
+- **來源:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2113602103117746644#reversed-0)
 - **發布時間:** 2026年10月23日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36791)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36843)**
 
 ---
 
@@ -583,19 +583,19 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741904619_zh5wnj_HVSm_nYa0AAhjOp.jpg" width="600" alt="個人檔案 / 頭像 - 珠紋質感 3D 漫畫風格人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792827957115_600l27_HVSm_nYa0AAhjOp.jpg" width="600" alt="個人檔案 / 頭像 - 珠紋質感 3D 漫畫風格人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741904663_pnkqak_HVSnAQ-aoAAY4F4.jpg" width="600" alt="個人檔案 / 頭像 - 珠紋質感 3D 漫畫風格人像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792827957600_9j60u4_HVSnAQ-aoAAY4F4.jpg" width="600" alt="個人檔案 / 頭像 - 珠紋質感 3D 漫畫風格人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741904975_p1p2rt_HVSnA5Xb0AAzyyp.jpg" width="600" alt="個人檔案 / 頭像 - 珠紋質感 3D 漫畫風格人像 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792827958605_90dbw1_HVSnA5Xb0AAzyyp.jpg" width="600" alt="個人檔案 / 頭像 - 珠紋質感 3D 漫畫風格人像 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -1471,7 +1471,312 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 21: 社群媒體貼文 - 日本水彩風格旅行插畫
+### No. 21: 社群媒體貼文 - GPT Image 2 搞笑召喚儀式提示詞
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+此提示詞旨在生成一張幽默圖片，描繪角色進行宏大的召喚儀式，卻意外召喚出荒謬的物品。它指示模型在保持角色外觀不變的同時，創造嚴肅儀式與滑稽結果之間的喜劇反差。
+
+#### 📝 提示詞
+
+```
+請繪製一幅充滿喜感的畫面：附圖中的角色透過一場盛大的召喚儀式，卻意外召喚出了令人意想不到的東西。
+
+[角色]
+保留原本的五官、髮型、基本配色與性格特徵。配合本次場景，調整表情與姿勢。
+
+[召喚物]
+請勿指定具體範例或選項，而是為這次的情境原創一個新事物。要與盛大的儀式形成強烈反差，讓人光看畫面就能明白出現了什麼，並忍不住想問「為什麼要召喚這個？」。避免侷限於與角色外貌或服裝直接相關的物品，請加入出人意表的組合。
+
+[場景構圖]
+分別從不同角度決定召喚物、其大小與狀態、角色的反應，以及對周遭環境造成的影響。接著將這些元素串聯成一個容易理解的事件。角色的反應不要只停留在「驚訝」，務必透過表情與肢體動作，傳達出他與召喚物之間的關係。
+
+[表現手法]
+讓儀式的呈現既道地又盛大，利用與出現物品之間的「落差感」來營造笑點。主要的笑點（哏）請限定為一個，並安排道具與配角來加以襯托。不要依賴文字說明，請設計出一目了然的構圖，讓人一眼就能看懂角色、召喚物與反應。如果本次對話中已經產生過同一專案的圖片，請勿重複使用相同的物品或笑點，請嘗試不同的方向。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827961529_s9waja_HVYKsM3b0AAmnqA.jpg" width="600" alt="社群媒體貼文 - GPT Image 2 搞笑召喚儀式提示詞 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827961554_0r7ngh_HVYKueXbAAAXPh7.jpg" width="600" alt="社群媒體貼文 - GPT Image 2 搞笑召喚儀式提示詞 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827961782_jtakkq_HVYKueObkAEjleF.jpg" width="600" alt="社群媒體貼文 - GPT Image 2 搞笑召喚儀式提示詞 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art)
+- **來源:** [Twitter Post](https://x.com/mugi_AI_Art/status/2113888995520417974)
+- **發布時間:** 2026年10月24日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36842)**
+
+---
+
+### No. 22: 社群媒體貼文 - 復古故事書旅行插畫提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+將照片轉換為手繪風格的編輯旅行插畫，呈現復古故事書美學，特色為彩色鉛筆質感與溫暖色調。
+
+#### 📝 提示詞
+
+```
+將上傳的照片轉化為優美的手繪編輯風格旅行插畫，呈現迷人的復古故事書美學。
+
+風格：在溫暖且帶有紋理的紙張上，以傳統色鉛筆與蠟筆繪製的插畫。可見的素描筆觸、顆粒感顏料、不完美的手繪輪廓、細膩的交叉排線，以及柔和的霧面質感。融合歐洲旅行手札藝術與現代插畫敘事風格。
+
+主體：保留原始人物的辨識特徵、五官、髮型、服裝、姿勢及關鍵細節。運用優雅簡化的造型、富有表現力的神態、細緻的線條、紅潤的雙頰，以及自然比例，營造出略帶童趣的手繪感。
+
+背景：依情境重現原始環境，可加入如畫般的建築細節、風景地貌、迷人建物、蔚藍天空、起伏丘陵或石板街道。維持景深與透視感，同時將細節簡化為生動的手繪形式。
+
+色彩配置：暖奶油色、赤陶紅、灰藍色、柔和橄欖綠、炭黑色與淺米色。採用和諧的配色、柔和的對比，以及微妙的復古色調變化。
+
+材質與細節：在整幅畫面中加入明顯的鉛筆刮痕、粗獷的蠟筆筆觸、不均勻的填色、精緻的排線與自然的紙張紋理。讓作品保有真實的觸感、自然氣息與純手工繪製的質地。可視情況點綴小巧的手繪愛心或俏皮元素。
+
+構圖：3:4 直式人像比例，平衡的取景，滿版插畫搭配略微不規則的紙張邊緣。確保主體突出，背景生動吸引人，但不搶走主要場景的風采。
+
+最終成果：一幅精緻且充滿懷舊感的旅行手札插畫，宛如由專業編輯插畫家親手繪製。避免照片寫實感、光滑的數位渲染、3D 效果、過度平滑的處理，以及制式的動漫風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827958698_y1axqm_HVYDLWebAAA2XKZ.jpg" width="600" alt="社群媒體貼文 - 復古故事書旅行插畫提示詞 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827957165_ft2o9g_HVYDLWlbUAAgEjq.jpg" width="600" alt="社群媒體貼文 - 復古故事書旅行插畫提示詞 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Sairah](https://x.com/Sairah_0)
+- **來源:** [Twitter Post](https://x.com/Sairah_0/status/2113880583906705750)
+- **發布時間:** 2026年10月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36840)**
+
+---
+
+### No. 23: 社群媒體貼文 - 空靈晨間海報
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+極簡風格海報，呈現逆光剪影走向光明，搭配大型橘色中文字體設計。
+
+#### 📝 提示詞
+
+```
+直式海報設計，畫面中央是一位背對鏡頭、走向明亮朦朧白色虛空的人物剪影，並帶有逆光效果。人物身穿長大衣，正處於跨步前行的姿態，身形因背後強烈的光芒而略顯模糊。圖像中央橫向疊加大型粗體橘色中文字「早安諸位」，部分遮擋住人物的軀幹。最頂端為黑色小字「MORNING NOTE • 2026-10-24 • TO EVERYONE」。底部則有一塊深褐橘色的小型置中文字區塊，包含以下資訊：「主題 | 早安諸位」、「日期 | 2026-10-24」、「時刻 | 07:10 AM」、「對象 | 晨間問候者，背身離場」，以及「備註 | 在近乎空無的白裡，向更亮處邁一步，替今天先說一句早安。」整體風格極簡、空靈且採高調攝影手法，並運用顆粒質感呈現。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827963686_e0qhu6_HVXJ0k3asAAYYXk.jpg" width="600" alt="社群媒體貼文 - 空靈晨間海報 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [小小东](https://x.com/xiaoxiaodong)
+- **來源:** [Twitter Post](https://x.com/xiaoxiaodong/status/2113817933084545427#reversed-0)
+- **發布時間:** 2026年10月24日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36845)**
+
+---
+
+### No. 24: 社群媒體貼文 - 戲劇光影下的電影感肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+超寫實提示詞，呈現身穿黑色禮服女性的電影感肖像，結合戲劇性冷暖光線與大氣煙霧效果。
+
+#### 📝 提示詞
+
+```
+生成一張超寫實、高細節的電影級人像，主角是一位美麗的年輕女性，擁有散發暖光的肌膚、充滿表現力的榛棕色雙眼、自然的雀斑、柔潤亮澤的雙唇，以及深棕色的頭髮，梳成隨性優雅的髮髻，幾縷散落的髮絲輕拂臉龐。她身穿奢華的黑色質感平口洋裝，搭配細緻的細肩帶，手臂周圍垂墜著飄逸的透膚布料。身體微微側轉，臉部則直視鏡頭，神情自信而神秘。
+
+戲劇性的電影光效，溫暖的金橘色高光映照在她的一側臉龐，另一側則是冷調的煙燻藍灰光線。深色氛圍背景中帶有繚繞的琥珀色煙霧、淡淡的薄霧與藝術般的景深層次。精緻的布料細節、逼真的肌膚紋理、根根分明的髮絲、自然的面部比例、專業時尚雜誌攝影風格、淺景深、85mm 人像鏡頭、HDR、超銳利對焦、豐富對比度、照片級寫實、8K 畫質、4:5 直式構圖。
+
+反向提示詞（Negative Prompt）：模糊影像、低解析度、塑膠感肌膚、過度修圖、臉部扭曲、雙眼不對稱、多餘手指、手部變形、不自然的身體比例、色彩過飽和、卡通、動漫、浮水印、文字、標誌。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827960185_dnn4dr_HVTrPHzboAAg5wi.jpg" width="600" alt="社群媒體貼文 - 戲劇光影下的電影感肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Hassan](https://x.com/Hassanlaurent)
+- **來源:** [Twitter Post](https://x.com/Hassanlaurent/status/2113572782063902873)
+- **發布時間:** 2026年10月23日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36841)**
+
+---
+
+### No. 25: 社群媒體貼文 - 鯨魚尾巴攝影與水墨插畫雙聯作品
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+採用分割版面設計，上方為寫實的鯨魚躍出水面之尾部攝影，下方搭配極簡風格的點描水墨插畫與韓文字體排版。
+
+#### 📝 提示詞
+
+```
+建立一幅垂直雙聯畫風格的構圖，畫面分為上下兩個截然不同的部分。上半部是一張照片級寫實的高解析度攝影作品，呈現大翅鯨的尾鰭從深藍海洋中垂直揚起的瞬間。尾基部周圍的海水帶有白色泡沫與飛濺的水珠紋理。背景則是柔和失焦的藍色山巒，上方為明亮的天空與散落的雲朵。下半部是極簡風格的插畫，以淡藍灰色紙質紋理為背景。畫面中是同一個鯨尾形狀的風格化黑色墨水畫，但完全採用點描技法（由數千個細小圓點組成）繪製。請在下半部加入特定的韓文排版：左上角以小字標示「No. 027」，接著是大標題「먼바다로 가는 꼬리」，以及較小的副標題「먼 곳을 향한 꼬리」。在畫面最底部正中央，以襯線字體標示學名「Megaptera novaeangliae · 해양 포유류」。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827964396_8vv18a_HVTiAE4aMAAJsR9.jpg" width="600" alt="社群媒體貼文 - 鯨魚尾巴攝影與水墨插畫雙聯作品 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827964483_1za9p7_HVTiAg-acAAUviA.jpg" width="600" alt="社群媒體貼文 - 鯨魚尾巴攝影與水墨插畫雙聯作品 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827964389_5mf8ys_HVTiBB7akAAnCnT.jpg" width="600" alt="社群媒體貼文 - 鯨魚尾巴攝影與水墨插畫雙聯作品 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827965165_sbm8m5_HVTiBh8bYAErcwL.jpg" width="600" alt="社群媒體貼文 - 鯨魚尾巴攝影與水墨插畫雙聯作品 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [小小东](https://x.com/xiaoxiaodong)
+- **來源:** [Twitter Post](https://x.com/xiaoxiaodong/status/2113568095839068251#reversed-0)
+- **發布時間:** 2026年10月23日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36846)**
+
+---
+
+### No. 26: 社群媒體貼文 - 從寫實到水彩風格轉換提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+兩組提示詞，將照片轉化為上下分割構圖的藝術作品：上半部為寫實風格，下半部則呈現細膩的水彩插畫。
+
+#### 📝 提示詞
+
+```
+請使用參考圖片，建立迷人的寫實照片轉水彩風格轉換效果。畫面中呈現一位可愛的幼兒，戴著黃色遮陽帽、身穿淺藍色格紋連身短褲、黃色襪子與深色涼鞋，正好奇地蹲下，在寧靜的鄉間小路上與三隻白鴨互動。路邊點綴著茂盛的綠草、遠處的住宅建築、柔和的自然光線，營造出恬靜的鄉村氛圍。在下半部，將同一場景轉換為繪製於米色紋理紙張上的精緻手繪水彩插畫。保留幼兒的姿勢、服裝、鴨子的位置以及原始構圖。運用柔和的水彩暈染、細緻的鉛筆輪廓、淡雅的粉藍與鼠尾草綠色調、隨性的筆觸，以及極簡的手繪草地細節。優雅簡約的童話故事書美學、溫暖的紙張質感、充足的留白、溫馨動人的氛圍、高細節、直式 4:5 構圖。
+
+請使用參考圖片，建立唯美的寫實照片轉水彩風格轉換效果。畫面中呈現一隻毛茸茸的可愛金色狗狗坐在翠綠的草地上，用明亮有神的棕色雙眼直視鏡頭，開心地張開嘴巴，吐出粉紅色的舌頭。在溫暖的自然陽光下，捕捉牠柔軟蓬鬆的毛髮、圓潤的耳朵、蓬鬆的尾巴與親切的個性，背景則是柔焦模糊的鄉村景色。在下半部，將同一隻狗狗轉換為繪製於米色紋理紙張上的精緻水彩畫。保留狗狗的五官特徵、毛色、表情與整體輪廓。運用隨性的金米色水彩暈染、細膩的鉛筆輪廓、柔和的顏料潑灑、淡雅的鼠尾草綠草地筆觸，以及淺藍色刷痕點綴。極簡手繪插畫、迷人的兒童故事書風格、自然的紙張紋理、柔和的粉彩色調、充足的留白、舒適溫馨的氛圍、直式 4:5 構圖。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827959989_8q4fmn_HVTZ3xTaQAA3oQ1.jpg" width="600" alt="社群媒體貼文 - 從寫實到水彩風格轉換提示詞 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827959988_4r7vrn_HVTZ3xmbAAAg3Hk.jpg" width="600" alt="社群媒體貼文 - 從寫實到水彩風格轉換提示詞 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Taaruk](https://x.com/Taaruk_)
+- **來源:** [Twitter Post](https://x.com/Taaruk_/status/2113553689386655988)
+- **發布時間:** 2026年10月23日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36839)**
+
+---
+
+### No. 27: 社群媒體貼文 - 電影感火柴人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張超寫實、電影感的特寫人像，呈現一位女性手持點燃的火柴，搭配戲劇性的明暗對比光影效果。
+
+#### 📝 提示詞
+
+```
+生成一張超寫實、電影感的特寫人像，主角是一位美麗的年輕女子，留著長而凌亂飄逸的深色秀髮，眉毛濃密、睫毛纖長，雙唇微啟。她輕輕閉上雙眼，神情寧靜、夢幻且充滿情緒張力。右手舉起一根點燃的火柴，靠近臉部。溫暖的橘金色火光映照出她半邊的臉龐、鼻樑、嘴唇、頸部與手指，另一半則隱沒在深邃柔和的陰影之中。幾縷散落的髮絲自然地勾勒著臉型。整體呈現暗沉憂鬱的氛圍、戲劇性的明暗對比（chiaroscuro）光線、逼真的肌膚紋理與精緻的五官細節；風格為藝術攝影，色調溫暖如琥珀，陰影柔和，景深極淺，細節豐富，4K 畫質，直式人像構圖，9:16 比例。請保留自然的面部比例，營造出優雅而神祕的美感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827961377_0gj98p_HVS5yWAakAAAxC3.jpg" width="600" alt="社群媒體貼文 - 電影感火柴人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Hassan](https://x.com/Hassanlaurent)
+- **來源:** [Twitter Post](https://x.com/Hassanlaurent/status/2113518423456297040)
+- **發布時間:** 2026年10月23日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36791)**
+
+---
+
+### No. 28: 社群媒體貼文 - 日本水彩風格旅行插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1506,13 +1811,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741902893_abmdjr_HVSxltDbYAE1OXv.jpg" width="600" alt="社群媒體貼文 - 日本水彩風格旅行插畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792827958572_0x9g6l_HVSxltDbYAE1OXv.jpg" width="600" alt="社群媒體貼文 - 日本水彩風格旅行插畫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741903059_cx5ltf_HVSxltAbsAALDtS.jpg" width="600" alt="社群媒體貼文 - 日本水彩風格旅行插畫 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792827958621_a2b7e6_HVSxltAbsAALDtS.jpg" width="600" alt="社群媒體貼文 - 日本水彩風格旅行插畫 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1526,7 +1831,40 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 22: 社群媒體貼文 - 萬聖節惡魔洋裝角色
+### No. 29: 社群媒體貼文 - 反 AI 修辭反應第一部分
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一幅漫畫風格插圖，描繪一位穿著高反光背心、留著粉紅色頭髮的女性坐在辦公椅上，手持啤酒並指向觀眾，對話框中寫著「Skill Issue.」
+
+#### 📝 提示詞
+
+```
+請使用提供的參考圖片，以全新的姿勢與情境重新生成該角色。角色的設計（粉紅色頭髮、眼鏡、鴨舌帽、頭巾、反光背心）須維持不變。將場景改為她往後靠在辦公椅上翹著腿，一隻手指向觀看者，另一隻手拿著一罐「Lite」啤酒。將對話框內的文字更新為：「SKILL ISSUE.」。背景海報請改為兔子骷髏標誌，並加上「CANS CATS PLANES ETC.」字樣。在桌上新增一個印有「BAD PLANS TODAY」字樣的馬克杯。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792827963367_5kzh0f_HVSm2icWkAAzALz.jpg" width="600" alt="社群媒體貼文 - 反 AI 修辭反應第一部分 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Flutterwhat](https://x.com/flutterwhat)
+- **來源:** [Twitter Post](https://x.com/flutterwhat/status/2113497778131177772#reversed-1)
+- **發布時間:** 2026年10月23日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36800)**
+
+---
+
+### No. 30: 社群媒體貼文 - 萬聖節惡魔洋裝角色
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1568,7 +1906,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 23: 社群媒體貼文 - 結合紋理樣本的編輯風格攝影
+### No. 31: 社群媒體貼文 - 結合紋理樣本的編輯風格攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1607,7 +1945,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 24: 社群媒體貼文 - 超商鏡面拼貼
+### No. 32: 社群媒體貼文 - 超商鏡面拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1673,7 +2011,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 25: 社群媒體貼文 - 復古秋日人像
+### No. 33: 社群媒體貼文 - 復古秋日人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1706,7 +2044,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 26: 社群媒體貼文 - 手繪故事書插畫提示詞
+### No. 34: 社群媒體貼文 - 手繪故事書插畫提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1751,7 +2089,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 27: 社群媒體貼文 - 萬聖節狼主題連身裙女孩
+### No. 35: 社群媒體貼文 - 萬聖節狼主題連身裙女孩
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1797,7 +2135,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 28: 社群媒體貼文 - GPT Image 2 提示詞長度比較
+### No. 36: 社群媒體貼文 - GPT Image 2 提示詞長度比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1836,7 +2174,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 29: 社群媒體貼文 - 巨型 MPD 機器人搬運重物
+### No. 37: 社群媒體貼文 - 巨型 MPD 機器人搬運重物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1869,249 +2207,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 30: 社群媒體貼文 - 日落時的合成波跑車
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成充滿活力的合成波場景，特色為霓虹燈裝飾的超級跑車停在反光網格道路上，背景為條紋狀的日落天空，非常適合用作桌布、專輯封面或復古未來主義品牌設計。
-
-#### 📝 提示詞
-
-```
-一幅 9:16 直式 Synthwave 風格數位插畫，描繪一輛流線低趴、神似 Lamborghini Countach 的跑車，停駐在反射著霓虹光芒的濕潤柏油路面上。車身以左前側四分之三角度微微朝向觀者，底盤散發粉紅與青色的炫彩底燈，車頭燈則投射出溫暖的琥珀色光束。跑車後方延伸出一條由螢光藍線構成的無限網格道路，一路沒入地平線；兩側聳立著鋸齒狀的山巒剪影，沐浴在洋紅與紫羅蘭色調之中。天空被一輪巨大的落日主宰，以橙色、黃色與深紅色的同心橫紋呈現，部分被染上紫色的薄雲遮掩。整體氛圍如夢似幻、復古未來感十足，並飽和著電光粉、紫色、藍色與橙色——喚起 1980 年代街機美學與 Vaporwave 氣息。畫面中未見任何文字或標誌。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655537640_gpscc6_HVJ2LLOW4AAejGU.jpg" width="600" alt="社群媒體貼文 - 日落時的合成波跑車 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655537665_9wadm7_HVJ2LLQXoAAiyP5.jpg" width="600" alt="社群媒體貼文 - 日落時的合成波跑車 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655537603_otpves_HVJ2LLQWoAAPewa.jpg" width="600" alt="社群媒體貼文 - 日落時的合成波跑車 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Rendar AI](https://x.com/rendar_ai)
-- **來源:** [Twitter Post](https://x.com/rendar_ai/status/2112881126607888462#reversed-0)
-- **發布時間:** 2026年10月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36762)**
-
----
-
-### No. 31: 社群媒體貼文 - 滑稽通緝令角色提示詞
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-將角色轉化為滑稽通緝令或逮捕場景的提示詞，包含隨機搞笑罪名。
-
-#### 📝 提示詞
-
-```
-請將附圖中的角色 [姓名：{argument name="character_name" default="Unknown"}] 製作成搞笑的通緝海報／逮捕風格視覺圖，營造出「明明應該沒犯法，卻因為某種莫名其妙的罪名被帶走」的氛圍。
-
-罪名請隨機決定。整體內容要輕鬆、有趣又充滿喜劇效果。
-
-構圖方面，請採用站在身高標記牆前的姿勢，或是正被輕輕制伏的瞬間。此外，在周圍擺放一些奇怪的小物品當作「證物」。可以做成兩格畫面（正面與側面），或是一張完整的圖片。請勿使用真實的警察標誌或國徽；必須是完全虛構的幽默風格。並預留空間，以便後續補上罪名文字。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655536062_2pnubp_HVHsSY6aoAAUlsN.jpg" width="600" alt="社群媒體貼文 - 滑稽通緝令角色提示詞 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655536072_m8ahm6_HVHsSYlbcAAKyDO.jpg" width="600" alt="社群媒體貼文 - 滑稽通緝令角色提示詞 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655536114_rxys9n_HVHsSYva4AAl0xT.jpg" width="600" alt="社群媒體貼文 - 滑稽通緝令角色提示詞 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art)
-- **來源:** [Twitter Post](https://x.com/mugi_AI_Art/status/2112801064500293753)
-- **發布時間:** 2026年10月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36725)**
-
----
-
-### No. 32: 社群媒體貼文 - 萬聖節殭屍女孩造型提示詞
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-用於生成可愛殭屍主題女孩的提示詞，角色身穿破損露肩迷你洋裝並搭配繃帶緞帶。
-
-#### 📝 提示詞
-
-```
-一名女孩穿著萬聖節殭屍風格的連身裙。
-這套服裝是米白色的平口迷你洋裝。肩膀、腰部和裙擺多處刻意設計了撕裂開口，布料邊緣呈現捲曲狀。
-從破損處可以看見內層的淺紫色布料。
-撕裂邊緣帶有細緻的黑色縫線。
-頸部繫著一條乾淨的小繃帶風緞帶。
-頭上沒有戴帽子。
-配色為米白、淺紫、黑色與夜靛藍。沒有任何污漬或血跡。
-全身視角，能清楚看見撕裂設計細節。臉蛋可愛，神情略顯困擾。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655534507_au5rni_HVFB_M2bIAEIVbs.jpg" width="600" alt="社群媒體貼文 - 萬聖節殭屍女孩造型提示詞 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655534523_td99zd_HVFCA3UbAAE7XG4.jpg" width="600" alt="社群媒體貼文 - 萬聖節殭屍女孩造型提示詞 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
-- **來源:** [Twitter Post](https://x.com/ArtistaNozomu/status/2112741916521431175)
-- **發布時間:** 2026年10月21日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36724)**
-
----
-
-### No. 33: 社群媒體貼文 - 寧靜早安水彩海報
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成富有詩意的中式早安海報，特色為水彩峽谷峭壁、孤獨身影及優雅的雙語排版。
-
-#### 📝 提示詞
-
-```
-製作一張 3:4 直式海報，採用寧靜詩意的中式極簡風格，融入水彩紋理與大面積的中央留白。背景左右兩側各有一座高聳峭壁，以柔和的藍灰色調繪製，點綴細緻的粉色與橘色光影，形成一道狹窄峽谷，並向中央明亮泛白的迷霧處敞開。峽谷底部站著一位渺小的孤身女子，以背影呈現，身穿淺色長外套、繫著飄逸紅圍巾，正朝發光的出口前行。
-
-文字排版：
-- 左上角：一個黑色宋體大字「早」。
-- 右上角：一個黑色宋體大字「安」，兩者合讀為「早安」。
-- 上方中央小字區塊：「2026 / 10/21 / WED」，接著一條短橫線，下方為三行字距寬鬆的小字中文：「新的一天」、「比昨天更靠近」、「想要的生活」。
-- 畫面中央一列由上而下排列的黑色中等中文字：「把平凡的每一天過成值得的」。
-- 一句珊瑚橘色墨水的手寫英文草書「Good Morning」，斜向劃過畫面中段，與直式文字交疊。
-- 直式文字下方，置中排列三行小段落：「更清醒的自己」、「更踏實的節奏」、「更靠近熱愛的生活」，接著一條短分隔線，以及四行更小的文字：「不急不躁」、「一步步走」、「日子會給你」、「想要的答案」。
-- 底部邊緣：寬字距的大寫襯線字母「G O O D   M O R N I N G」橫跨整個寬度，其下為一行字距寬鬆的小字中文，以細豎線分隔：「清晨有光 | 步伐有力 | 生活有盼」。
-
-視覺風格：乾淨的編輯式排版、輕盈通透的構圖、以白色、淡藍與柔桃色為主調的低飽和粉彩色系、細緻的紙張顆粒紋理、如花瓣或塵埃般淡淡散落的橘色斑點，營造平靜且鼓舞人心的氛圍。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792569137972_w1gvt2_HVHOI7HbsAAamk_.jpg" width="600" alt="社群媒體貼文 - 寧靜早安水彩海報 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [小小东](https://x.com/xiaoxiaodong)
-- **來源:** [Twitter Post](https://x.com/xiaoxiaodong/status/2112697054254543067#reversed-0)
-- **發布時間:** 2026年10月21日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36728)**
-
----
-
-### No. 34: 社群媒體貼文 - GPT Image 2 前後對比：民間藝術風格轉換
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-適用於 GPT Image 2 的提示詞，可生成垂直堆疊的前後對比圖，將原始照片轉換為平面、紋理密集的素人民間藝術印刷風格，同時保留原有構圖。
-
-#### 📝 提示詞
-
-```
-僅使用提供的圖片作為唯一素材，製作一組垂直排列的「前後對比」圖。
-
-版面配置：精確劃分為兩個等高的區塊：上方為原始圖片，下方為轉換後的圖片。兩個區塊皆須維持原圖的長寬比與相同寬度。整張畫布的高度為原圖的兩倍。上下區塊直接以乾淨的水平線相接，不得新增粗分隔線、額外區塊、裝飾邊框、標籤或任何文字。
-
-上方區塊 — 原始圖片：將提供的圖片原封不動置於上半部。完整保留其構圖、原始色彩、光線、細節、既有文字及裁切範圍。請勿對此區塊進行重繪、修飾、風格化或添加紋理。
-
-下方區塊 — 素人藝術（OUTSIDER ART）：將同一場景重繪為平面且紋理密集的素人民間藝術版畫。請保留主體、可辨識的輪廓、相對位置、重要物件及整體構圖，切勿憑空捏造額外的主體或道具。
-
-將地面簡化為地圖般的色塊分區，人物、樹木、建築與物件皆以簡單的正面或側面立面呈現。去除透視收斂、攝影景深、方向性光源及投影。
-採用暖調紙白、暖調墨黑，以及二至四種源自原圖的低飽和色彩。挑選一個既有物件或相連細節，作為全圖唯一的飽和點綴色。為每個大色塊賦予一種一致的手作紋理：如縫線痕跡、不規則窗格線條或密集的枝葉筆觸。紋理需保持密集、富有節奏感，並略帶手工的不完美感。
-
-若畫面中有人物，請繪製小巧、實心、無臉孔的人形，衣著填滿色彩，四肢具備明顯寬度。所有表面皆須呈現為啞光紙張上的不透明印刷油墨質感，不留任何攝影痕跡。
-所有插畫、紙張紋理與色彩變化必須嚴格限制在下方區塊內。不得使用漸層、亮面向量效果、水彩、火柴人、可愛的卡通比例、自創字體或浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792569134023_1aws0v_HVDMbPmbYAAxLDT.jpg" width="600" alt="社群媒體貼文 - GPT Image 2 前後對比：民間藝術風格轉換 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792569132560_clilkn_HVDMbPmbIAAKObO.jpg" width="600" alt="社群媒體貼文 - GPT Image 2 前後對比：民間藝術風格轉換 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792569134069_cpkxfq_HVDMbPcaEAAtG2-.jpg" width="600" alt="社群媒體貼文 - GPT Image 2 前後對比：民間藝術風格轉換 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Sairah](https://x.com/Sairah_0)
-- **來源:** [Twitter Post](https://x.com/Sairah_0/status/2112413004935610807)
-- **發布時間:** 2026年10月20日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36688)**
-
----
-
-### No. 35: 資訊圖表 / 教育視覺化內容 - GPT Image 2 手繪風格資訊圖提示詞
+### No. 38: 資訊圖表 / 教育視覺化內容 - GPT Image 2 手繪風格資訊圖提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2148,7 +2244,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 36: 資訊圖表 / 教育視覺化內容 - 清水寺旅遊 LP：結合動漫吉祥物
+### No. 39: 資訊圖表 / 教育視覺化內容 - 清水寺旅遊 LP：結合動漫吉祥物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2191,7 +2287,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 37: 資訊圖表 / 教育視覺化內容 - GPT Image 2 提示詞：實驗性紋理雙聯畫
+### No. 40: 資訊圖表 / 教育視覺化內容 - GPT Image 2 提示詞：實驗性紋理雙聯畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2260,7 +2356,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 38: 資訊圖表 / 教育視覺化內容 - 動漫角色設定圖：哭泣的女孩
+### No. 41: 資訊圖表 / 教育視覺化內容 - 動漫角色設定圖：哭泣的女孩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2293,7 +2389,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 39: 資訊圖表 / 教育視覺化內容 - 賽博舞台角色概念設定圖
+### No. 42: 資訊圖表 / 教育視覺化內容 - 賽博舞台角色概念設定圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2342,7 +2438,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 40: 資訊圖表 / 教育視覺化內容 - 安靜與廢棄火車站對比
+### No. 43: 資訊圖表 / 教育視覺化內容 - 安靜與廢棄火車站對比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2375,7 +2471,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 41: 資訊圖表 / 教育視覺化內容 - 關於荒廢酒窖的俳句
+### No. 44: 資訊圖表 / 教育視覺化內容 - 關於荒廢酒窖的俳句
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2508,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 42: 資訊圖表 / 教育視覺化內容 - 動漫角色設計表提示詞
+### No. 45: 資訊圖表 / 教育視覺化內容 - 動漫角色設計表提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2475,7 +2571,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 43: 資訊圖表 / 教育視覺化內容 - 尼莫點資訊圖表
+### No. 46: 資訊圖表 / 教育視覺化內容 - 尼莫點資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2524,7 +2620,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 44: 資訊圖表 / 教育視覺化內容 - 人物熱成像照片
+### No. 47: 資訊圖表 / 教育視覺化內容 - 人物熱成像照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2557,7 +2653,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 45: 資訊圖表 / 教育視覺化內容 - 清華藝術節海報設計
+### No. 48: 資訊圖表 / 教育視覺化內容 - 清華藝術節海報設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2590,7 +2686,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 46: 資訊圖表 / 教育視覺化內容 - 日本遊戲開發橫幅
+### No. 49: 資訊圖表 / 教育視覺化內容 - 日本遊戲開發橫幅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2623,7 +2719,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 47: 資訊圖表 / 教育視覺化內容 - 可愛專注力桌面平鋪與 Kawaii 插畫
+### No. 50: 資訊圖表 / 教育視覺化內容 - 可愛專注力桌面平鋪與 Kawaii 插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2664,37 +2760,18 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 48: 資訊圖表 / 教育視覺化內容 - 漫畫資訊圖表：AI 提示詞工程
+### No. 51: YouTube 縮圖 - 東京巨型機器人警察
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一張風格化的漫畫頁面，透過狐妖角色與視覺元素拆解，生動呈現 AI 圖像生成的提示詞工程概念。
+夕陽下的東京街頭，一名醉酒的上班族被巨大的機器人警察俯視，呈現出一幕幽默的場景。
 
 #### 📝 提示詞
 
 ```
-一張垂直構圖、細節豐富的漫畫風格資訊圖表頁面，背景採用仿羊皮紙質感。版面主要分為三個區塊：頂部插畫區、中段圖解拆解區，以及底部以文字為主的結論區。
-
-頂部區塊：
-- 一幅大型且充滿空靈感的插畫，描繪一位留著白色長髮、擁有狐狸耳朵的狐妖（Kitsune）角色，身穿飄逸白袍，佇立於夕陽下的山巔。
-- 在她下方，一位將黑色長髮束起的老者身著深藍色傳統漢服，盤腿而坐手持毛筆，神情若有所思地仰望上方。
-- 老者右側有一位身穿灰袍的年輕男子跪坐著，正在紙上描繪狐妖的形象。
-- 場景周圍環繞著日文文字區塊，解釋「Prompt」（プロンプト，即提示詞）的概念。
-- 左側排列著四個小型方形角色頭像，標註著如「美女」、「舞者」等描述，展示不同女性角色的變體。
-- 右側有大型直排日文標題寫著「提示詞入門」。
-
-中段區塊：
-- 一個水平流程圖，標題為「將特徵語言化以構建畫面」。
-- 圖中顯示六張小型方形圖片依序由加號（+）連接，最終導向等號（=）及一張結果圖。
-- 序列包含：1. 銀色長髮、2. 藍色眼睛、3. 白色服裝、4. 山間夕陽、5. 回眸姿勢、6. 柔和逆光。
-- 最終結果即為頂部區塊中完整的狐妖形象。
-
-底部區塊：
-- 一則粗體大字日文標題，採用紅黑墨跡風格：「百語を並べて一画を失う」（堆砌百字反失一筆）。
-- 標題周圍散落著撕碎的紙片，上面手寫列出了過度使用提示詞的負面影響，例如「8K 解析度」、「超高品質」、「複雜構圖」、「不自然的光線」、「電影感光效」、「大規模」、「最高品質」。
-- 最底部的方框內有一句總結性文字，指出文字雖是工具，但過多反而會掩蓋單一筆觸的本質。
+一張電影感、照片級寫實的黃昏東京街頭廣角鏡頭。畫面中央的主體是一台約三層樓高的巨大雙足警用機器人。這台機器人採用工業風設計，配備重型黑色機械關節與白色裝甲板。它的頭部為長方形結構，搭載多組攝影機鏡頭，雙肩則裝有紅色警示燈。機器人的胸甲與護肩上，以白色字樣清楚印著「警視庁 MPD」。前景中，一名身穿深色西裝、領帶鬆開的日本醉漢上班族正踉蹌後退，一手拿著啤酒罐，另一手舉起智慧型手機自拍。畫面右側，兩名身穿深色制服、背後印有「警視庁 MPD」的人類警察站在金屬護欄旁，抬頭仰望這台巨型機械。背景可見溫暖的黃色路燈、模糊的行人身影、指向日本橋的藍色路標，以及在紫橘交織的暮色天空中閃耀的東京鐵塔。
 ```
 
 #### 🖼️ 生成圖片
@@ -2702,108 +2779,21 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1790495309102_68is3h_HTJm7e_bwAAhXD5.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 漫畫資訊圖表：AI 提示詞工程 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792827962935_5k3dfv_HVUtU7xbIAAFbaP.jpg" width="600" alt="YouTube 縮圖 - 東京巨型機器人警察 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [レティシア・ノエル](https://x.com/N7S6P1)
-- **來源:** [Twitter Post](https://x.com/N7S6P1/status/2103857155845783883#reversed-0)
-- **發布時間:** 2026年9月26日
+- **作者:** [カーブミラー](https://x.com/kabumira862571)
+- **來源:** [Twitter Post](https://x.com/kabumira862571/status/2113645448955339104#reversed-0)
+- **發布時間:** 2026年10月23日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=35529)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36844)**
 
 ---
 
-### No. 49: 資訊圖表 / 教育視覺化內容 - 地獄獵犬角色設定圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一份詳細的奇幻角色設定表，描繪了「地獄獵犬」守護者，包含屬性數據、解剖研究、行為姿態，以及與其主人——一隻名為 Stinky 的貓之間的守護誓言。
-
-#### 📝 提示詞
-
-```
-創建一張垂直佈局的角色設定資訊圖，主角為名為「地獄獵犬」（Hell Hound）的奇幻生物，採用黑暗、哥德式且高度細節化的數位藝術風格。版面在仿羊皮紙背景上劃分為多個區塊，並配有黑色邊框。
-
-**標題區塊：**
-- **主標題：** 左上角以大型破損襯線字體顯示 "HELL HOUND"。
-- **副標題：** 主標題下方顯示 "FOREST GUARDIAN & PROTECTOR"（森林守護者與保護者）。
-- **屬性區塊（左側）：** 列出以下屬性：TYPE: Noble Protector（類型：高貴守護者）；HABITAT: Kolby's World（棲息地：Kolby 的世界）；SKIN: Charcoal Black — Guardian's Oath（皮膚：炭黑色 — 守護者之誓）；COAT: Shimmering Void（毛皮：閃爍虛空）；BEHAVIOR: Protective • Loyal • Gentle（行為：保護性 • 忠誠 • 溫柔）；PRIMARY MISSION: Protect the innocent — especially Stinky（主要任務：保護無辜者 — 尤其是 Stinky）。
-- **引言（左側）：** 手寫風格文字："You will never harm what I swear to protect."（你永遠無法傷害我發誓要保護的事物。）後跟一個心形符號。
-- **主插圖（中央/右側）：** 一隻巨大、令人畏懼的黑色獵犬，由陰影般的纖維材質構成，雙眼發出白光，周圍環繞著金色的魔法火花。它正保護性地蹲伏在一隻穿著粉色連帽衫的可愛小灰貓（角色 "Stinky"）身上。
-- **顏色變體（右上角）：** 三個小型素描展示不同的配色方案，標籤分別為：CHARCOAL BLACK (DEFAULT)（炭黑色 - 預設）、ASH GRAY (MIST VEIL)（灰燼色 - 霧紗）、CORPSE GRAY (BONE VEIL)（屍灰色 - 骨紗）。
-
-**細節面板（右欄）：**
-五個矩形面板展示特寫鏡頭及描述：
-1. **SKIN DETAIL（皮膚細節）：** 展示紋理。文字："Living shadow. Shifts and shimmers. Hardened by unyielding loyalty."（活著的陰影。變幻莫測，閃爍不定。因不屈的忠誠而堅硬。）
-2. **EYE DETAIL（眼睛細節）：** 展示發光的眼睛。文字："Sees threats before they form. Seeks only Stinky's safety."（在威脅成形前便已看見。只尋求 Stinky 的安全。）
-3. **HEAD DETAIL（頭部細節）：** 展示顱骨結構。文字："Ancient skull. Worn by time, softened by love."（古老的顱骨。被時間磨損，被愛撫平。）
-4. **TEETH（牙齒）：** 展示獠牙。文字："Built for war. Used for protection only."（為戰爭而生。僅用於保護。）
-5. **CLAW / HAND（爪子/手）：** 展示利爪。文字："Can tear through nightmares. Chooses to build safe spaces."（能撕裂噩夢。選擇構築安全空間。）
-
-**中間區塊 - 骨骼研究：**
-一條水平帶，標題為 "SKELETAL STUDY"（骨骼研究），包含該生物骨骼的五個解剖線條圖，從不同角度展示：FRONT VIEW（正面視圖）、LEFT VIEW（左側視圖）、BACK VIEW（背面視圖）、RIGHT VIEW（右側視圖），以及關於隆起脊柱的側面輪廓註解。
-
-**中下區塊 - 行為與棲息地：**
-兩欄內容：
-1. **MOVEMENT & BEHAVIOR（移動與行為）：** 四個小型插圖展示姿態，標籤分別為 RESTING / WATCHING（休息/觀察）、PROTECTING（保護）、SHELTERING（庇護）、GENTLE（溫柔）。
-2. **COMMON HIDING PLACES（常見藏身處）：** 兩個插圖，標籤分別為 FORESTS（森林）和 ABANDONED PLACES（廢棄之地）。
-3. **ODOR（氣味）：** 一個帶有骷髏圖示的小面板，文字描述氣味為雨水、苔蘚與古老誓言的味道。
-
-**底部區塊 - 守護者之誓：**
-一個寬面板，特徵是兩幅獵犬睡在貓旁邊的插圖。兩者之間是一首標題為 "THE GUARDIAN'S OATH"（守護者之誓）的詩：
-"I do not hunt her.
-I do not frighten her.
-I do not let harm come near her.
-If danger comes,
-I will stand between.
-If fear comes,
-I will be the dark she hides in.
-If the world forgets her...
-I will remember.
-I am her guardian.
-I am her Hell Hound.
-I am her forever."
-（我不獵殺她。
-我不嚇唬她。
-我不讓傷害靠近她。
-若危險來臨，
-我會站在中間。
-若恐懼來臨，
-我會成為她躲藏的黑暗。
-若世界遺忘瞭她……
-我會記得。
-我是她的守護者。
-我是她的地獄獵犬。
-我永遠屬於她。）
-側邊註解寫道："He does not ask for love. He earns it."（他不索求愛。他贏得愛。）以及 "She is tiny. He is endless. Together they are unbreakable."（她是渺小的。他是無盡的。在一起他們是不可摧毀的。）
-頁腳文字："STINKY IS PROTECTED. ALWAYS. NO HARM SHALL TOUCH HER. EVER."（Stinky 受到保護。永遠如此。任何傷害都不得觸碰她。絕對不行。）
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790322685750_etehov_HS7hLOFW8AAwly6.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 地獄獵犬角色設定圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Flutterwhat](https://x.com/flutterwhat)
-- **來源:** [Twitter Post](https://x.com/flutterwhat/status/2102866284778336744#reversed-0)
-- **發布時間:** 2026年9月23日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=35336)**
-
----
-
-### No. 50: YouTube 縮圖 - 巨型機器人交通指揮
+### No. 52: YouTube 縮圖 - 巨型機器人交通指揮
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2836,7 +2826,7 @@ I am her forever."
 
 ---
 
-### No. 51: YouTube 縮圖 - 電影感炸雞食品廣告
+### No. 53: YouTube 縮圖 - 電影感炸雞食品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2879,7 +2869,7 @@ GOLDEN CRUNCH | 極致美食電影級視覺。
 
 ---
 
-### No. 52: YouTube 縮圖 - 戰鬥修女之崛起
+### No. 54: YouTube 縮圖 - 戰鬥修女之崛起
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2912,7 +2902,7 @@ GOLDEN CRUNCH | 極致美食電影級視覺。
 
 ---
 
-### No. 53: YouTube 縮圖 - 荷魯斯異端終極決鬥
+### No. 55: YouTube 縮圖 - 荷魯斯異端終極決鬥
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2945,7 +2935,7 @@ GOLDEN CRUNCH | 極致美食電影級視覺。
 
 ---
 
-### No. 54: YouTube 縮圖 - 死亡女神對抗惡魔
+### No. 56: YouTube 縮圖 - 死亡女神對抗惡魔
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2978,7 +2968,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 55: YouTube 縮圖 - 宇宙黃昏下的山頂剪影
+### No. 57: YouTube 縮圖 - 宇宙黃昏下的山頂剪影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3029,7 +3019,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 56: YouTube 縮圖 - 中世紀戰場上的寫實動漫女戰士
+### No. 58: YouTube 縮圖 - 中世紀戰場上的寫實動漫女戰士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3062,7 +3052,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 57: YouTube 縮圖 - 向日葵田中的 Minecraft 角色
+### No. 59: YouTube 縮圖 - 向日葵田中的 Minecraft 角色
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3095,7 +3085,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 58: YouTube 縮圖 - GPT Image 2 提示詞：神奇的駱馬變形
+### No. 60: YouTube 縮圖 - GPT Image 2 提示詞：神奇的駱馬變形
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3134,7 +3124,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 59: YouTube 縮圖 - 超現實男子坐於雲端俯瞰城市
+### No. 61: YouTube 縮圖 - 超現實男子坐於雲端俯瞰城市
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3181,7 +3171,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 60: YouTube 縮圖 - GPT Image 2 電影感多門奇幻場景提示詞
+### No. 62: YouTube 縮圖 - GPT Image 2 電影感多門奇幻場景提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3242,7 +3232,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 61: YouTube 縮圖 - 蒸汽朋克最後齒輪提示詞
+### No. 63: YouTube 縮圖 - 蒸汽朋克最後齒輪提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3282,7 +3272,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 62: YouTube 縮圖 - 夜間救援中的巨型警用機器人
+### No. 64: YouTube 縮圖 - 夜間救援中的巨型警用機器人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3315,7 +3305,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 63: YouTube 縮圖 - 雪中街景閱讀女子
+### No. 65: YouTube 縮圖 - 雪中街景閱讀女子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3348,7 +3338,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 64: YouTube 縮圖 - 巨型 MPD 機器人清理廢墟
+### No. 66: YouTube 縮圖 - 巨型 MPD 機器人清理廢墟
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3381,7 +3371,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 65: YouTube 縮圖 - 寫實戰機風格轉換
+### No. 67: YouTube 縮圖 - 寫實戰機風格轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3414,7 +3404,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 66: YouTube 縮圖 - 溫馨復古走廊舞蹈場景
+### No. 68: YouTube 縮圖 - 溫馨復古走廊舞蹈場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3447,7 +3437,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 67: YouTube 縮圖 - 東京警察巨型機器人檢查站
+### No. 69: YouTube 縮圖 - 東京警察巨型機器人檢查站
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3480,22 +3470,23 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 68: YouTube 縮圖 - 哥德式大教堂黑暗奇幻人像提示詞
+### No. 70: 漫畫 / 分鏡腳本 - 滑稽通緝令角色提示詞
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-用於生成超寫實電影感黑暗奇幻攝影作品的詳細提示詞，描繪一位英俊年輕男子站在哥德式大教堂拱門下，具備戲劇性光影與神秘氛圍。
+將角色轉化為滑稽通緝令或逮捕場景的提示詞，包含隨機搞笑罪名。
 
 #### 📝 提示詞
 
 ```
-一張超寫實、具電影感的黑暗奇幻攝影作品，主角是一位約二十歲出頭、相貌極其英俊的年輕男子，獨自站在巨大的哥德式大教堂拱門之下。他擁有濃密自然的波浪狀烏黑頭髮、粗獷有力的眉毛、深邃的黑褐色雙眼、輪廓分明的雕塑般下顎線、輕微的自然鬍渣、真實的皮膚質感、清晰可見的毛孔以及精緻陽剛的面部特徵。
+請將附圖中的角色 [姓名：{argument name="character_name" default="Unknown"}] 製作成搞笑的通緝海報／逮捕風格視覺圖，營造出「明明應該沒犯法，卻因為某種莫名其妙的罪名被帶走」的氛圍。
 
-他身穿一件優雅的黑色長款剪裁大衣，內搭深色高領襯衫，散發出一種神秘而強大的氣場。聳立的哥德式拱門在他上方戲劇性地延伸，裝飾著繁複的石雕、風化的柱子和巨大陰影籠罩的拱形天花板。銳利的金白色光束穿透濃密的煙霧與薄霧，照亮他的臉部和肩膀部分區域，而教堂的其他部分則消失在深沉的黑暗中。
+罪名請隨機決定。整體內容要輕鬆、有趣又充滿喜劇效果。
 
-古老的石製地板略微潮濕且具有反射效果，細微的塵埃顆粒在光線中漂浮，遠處背景中有微弱燭光，展現出戲劇性的體積光、深邃陰影、強烈的明暗對比法（Chiaroscuro）、哥德式建築風格、神聖神秘的氛圍、電影構圖、真實比例、自然表情、高度細節的石紋、照片級寫實皮膚、HDR、85mm 鏡頭、淺景深、戲劇性透視、黑暗奢華編輯攝影、超高細節、8K 解析度、無女性、無文字、無浮水印、無 AI 生成感面孔、直式 9:16 比例。
+構圖方面，請採用站在身高標記牆前的姿勢，或是正被輕輕制伏的瞬間。此外，在周圍擺放一些奇怪的小物品當作「證物」。可以做成兩格畫面（正面與側面），或是一張完整的圖片。請勿使用真實的警察標誌或國徽；必須是完全虛構的幽默風格。並預留空間，以便後續補上罪名文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -3503,93 +3494,29 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1790322672090_efkze1_HTCFHUbb0AAG1vm.jpg" width="600" alt="YouTube 縮圖 - 哥德式大教堂黑暗奇幻人像提示詞 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792655536062_2pnubp_HVHsSY6aoAAUlsN.jpg" width="600" alt="漫畫 / 分鏡腳本 - 滑稽通緝令角色提示詞 - Image 1">
 </div>
 
-#### 📌 詳情
-
-- **作者:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
-- **來源:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2103327399190593748)
-- **發布時間:** 2026年9月25日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=35397)**
-
----
-
-### No. 69: YouTube 縮圖 - GPT Image 2 超現實時間分割人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-使用 GPT Image 2 創建超現實電影感照片的提示詞，將一名男子在 1920 年代復古與 2120 年未來主義美學之間進行視覺分割。
-
-#### 📝 提示詞
-
-```
-一張極致寫實的電影感超現實照片，描繪了一位二十歲出頭、英俊非凡的年輕男子，正站在兩個世紀的交界處，創造出 1920 年與 2120 年之間的無縫視覺分割。
-
-他擁有濃密自然捲曲的烏黑頭髮、堅毅的眉毛、深邃的黑褐色眼睛、輪廓分明的雕塑般下顎線、輕微的自然鬍渣、逼真的皮膚紋理、可見的毛孔以及精緻的男性面部特徵。
-
-圖片的左側代表 1920 年代：一條優雅的復古城市街道，擁有裝飾藝術（Art Deco）風格的建築、經典汽車、老式磚造建築、溫暖琥珀色的街燈、復古商店招牌、身穿 1920 年代西裝和大衣的行人、細微的膠片顆粒感、棕褐調色澤以及真實的年代氛圍。這名年輕男子穿著剪裁完美的 1920 年代三件套西裝，配戴懷錶，腳穿擦亮皮鞋，並展現復古髮型細節。
-
-右側則代表 2120 年：一座令人屏息的未來大都市，充滿高聳的玻璃金屬摩天大樓、全息廣告、自動駕駛飛行車、發光的霓虹建築、未來主義行人、先進科技、浮空交通系統以及細微的大氣霧氣。這名年輕男子穿著優雅的黑色未來主義剪裁西裝，帶有精緻的金屬細節和微妙發光的點綴。
-
-構圖的中心顯示兩個時代在他周圍融合，伴隨著發光的時間扭曲、漂浮的鐘表碎片、粒子以及連接 1920 年至 2120 年的現實漣漪。他的身體在兩個時代之間微妙過渡，而他的臉龐保持完全相同且極度逼真，象徵著一個被困於過去與未來之間的男人。
-
-史詩般的電影構圖、對稱的分離世界概念、戲劇性的透視效果、逼真的環境反射、體積光照明、大氣深度感、物理準確的材质、高度詳細的皮膚、自然的面部表情、照片級寫實、8K HDR、超銳利焦點、電影級色彩分級、35mm 攝影、傑作、無文字、無浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
+##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1790322670315_9qsc2c_HS-u0dXbkAAXTRd.jpg" width="600" alt="YouTube 縮圖 - GPT Image 2 超現實時間分割人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792655536072_m8ahm6_HVHsSYlbcAAKyDO.jpg" width="600" alt="漫畫 / 分鏡腳本 - 滑稽通緝令角色提示詞 - Image 2">
 </div>
 
-#### 📌 詳情
-
-- **作者:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
-- **來源:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2103091784179912903)
-- **發布時間:** 2026年9月24日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=35396)**
-
----
-
-### No. 70: 漫畫 / 分鏡腳本 - 反 AI 修辭反應第一部分
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一幅漫畫風格插圖，描繪一位穿著高反光背心、留著粉紅色頭髮的女性坐在辦公椅上，手持啤酒並指向觀眾，對話框中寫著「Skill Issue.」
-
-#### 📝 提示詞
-
-```
-請使用提供的參考圖片，以全新的姿勢與情境重新生成該角色。角色的設計（粉紅色頭髮、眼鏡、鴨舌帽、頭巾、反光背心）須維持不變。將場景改為她往後靠在辦公椅上翹著腿，一隻手指向觀看者，另一隻手拿著一罐「Lite」啤酒。將對話框內的文字更新為：「SKILL ISSUE.」。背景海報請改為兔子骷髏標誌，並加上「CANS CATS PLANES ETC.」字樣。在桌上新增一個印有「BAD PLANS TODAY」字樣的馬克杯。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
+##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741906574_lrcp3h_HVSm2icWkAAzALz.jpg" width="600" alt="漫畫 / 分鏡腳本 - 反 AI 修辭反應第一部分 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792655536114_rxys9n_HVHsSYva4AAl0xT.jpg" width="600" alt="漫畫 / 分鏡腳本 - 滑稽通緝令角色提示詞 - Image 3">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Flutterwhat](https://x.com/flutterwhat)
-- **來源:** [Twitter Post](https://x.com/flutterwhat/status/2113497778131177772#reversed-1)
-- **發布時間:** 2026年10月23日
-- **多語言:** en
+- **作者:** [むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art)
+- **來源:** [Twitter Post](https://x.com/mugi_AI_Art/status/2112801064500293753)
+- **發布時間:** 2026年10月21日
+- **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36800)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36725)**
 
 ---
 
@@ -3909,7 +3836,59 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 春麗重踢巨型怪獸
+### No. 78: 漫畫 / 分鏡腳本 - 漫畫資訊圖表：AI 提示詞工程
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張風格化的漫畫頁面，透過狐妖角色與視覺元素拆解，生動呈現 AI 圖像生成的提示詞工程概念。
+
+#### 📝 提示詞
+
+```
+一張垂直構圖、細節豐富的漫畫風格資訊圖表頁面，背景採用仿羊皮紙質感。版面主要分為三個區塊：頂部插畫區、中段圖解拆解區，以及底部以文字為主的結論區。
+
+頂部區塊：
+- 一幅大型且充滿空靈感的插畫，描繪一位留著白色長髮、擁有狐狸耳朵的狐妖（Kitsune）角色，身穿飄逸白袍，佇立於夕陽下的山巔。
+- 在她下方，一位將黑色長髮束起的老者身著深藍色傳統漢服，盤腿而坐手持毛筆，神情若有所思地仰望上方。
+- 老者右側有一位身穿灰袍的年輕男子跪坐著，正在紙上描繪狐妖的形象。
+- 場景周圍環繞著日文文字區塊，解釋「Prompt」（プロンプト，即提示詞）的概念。
+- 左側排列著四個小型方形角色頭像，標註著如「美女」、「舞者」等描述，展示不同女性角色的變體。
+- 右側有大型直排日文標題寫著「提示詞入門」。
+
+中段區塊：
+- 一個水平流程圖，標題為「將特徵語言化以構建畫面」。
+- 圖中顯示六張小型方形圖片依序由加號（+）連接，最終導向等號（=）及一張結果圖。
+- 序列包含：1. 銀色長髮、2. 藍色眼睛、3. 白色服裝、4. 山間夕陽、5. 回眸姿勢、6. 柔和逆光。
+- 最終結果即為頂部區塊中完整的狐妖形象。
+
+底部區塊：
+- 一則粗體大字日文標題，採用紅黑墨跡風格：「百語を並べて一画を失う」（堆砌百字反失一筆）。
+- 標題周圍散落著撕碎的紙片，上面手寫列出了過度使用提示詞的負面影響，例如「8K 解析度」、「超高品質」、「複雜構圖」、「不自然的光線」、「電影感光效」、「大規模」、「最高品質」。
+- 最底部的方框內有一句總結性文字，指出文字雖是工具，但過多反而會掩蓋單一筆觸的本質。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790495309102_68is3h_HTJm7e_bwAAhXD5.jpg" width="600" alt="漫畫 / 分鏡腳本 - 漫畫資訊圖表：AI 提示詞工程 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [レティシア・ノエル](https://x.com/N7S6P1)
+- **來源:** [Twitter Post](https://x.com/N7S6P1/status/2103857155845783883#reversed-0)
+- **發布時間:** 2026年9月26日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=35529)**
+
+---
+
+### No. 79: 漫畫 / 分鏡腳本 - 春麗重踢巨型怪獸
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3942,7 +3921,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 民間藝術咖啡廳學習插畫
+### No. 80: 漫畫 / 分鏡腳本 - 民間藝術咖啡廳學習插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4003,7 +3982,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - 手繪時尚插畫轉換
+### No. 81: 漫畫 / 分鏡腳本 - 手繪時尚插畫轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4054,7 +4033,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - GPT Image 2 紙雕插畫提示詞
+### No. 82: 漫畫 / 分鏡腳本 - GPT Image 2 紙雕插畫提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4135,7 +4114,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 82: 漫畫 / 分鏡腳本 - 鳥瞰視角蒸汽龐克工坊變身
+### No. 83: 漫畫 / 分鏡腳本 - 鳥瞰視角蒸汽龐克工坊變身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4168,7 +4147,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 83: 漫畫 / 分鏡腳本 - 奇幻地圖繪製師與愛犬
+### No. 84: 漫畫 / 分鏡腳本 - 奇幻地圖繪製師與愛犬
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4201,7 +4180,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 84: 漫畫 / 分鏡腳本 - 復古時尚編輯人像拼貼
+### No. 85: 漫畫 / 分鏡腳本 - 復古時尚編輯人像拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4240,7 +4219,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 85: 漫畫 / 分鏡腳本 - 透明玫瑰宮廷仕女
+### No. 86: 漫畫 / 分鏡腳本 - 透明玫瑰宮廷仕女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4280,19 +4259,25 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 86: 漫畫 / 分鏡腳本 - 黃昏動漫列車與富士山
+### No. 87: 產品行銷 - 萬聖節殭屍女孩造型提示詞
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-充滿氛圍感的動漫列車內部場景，一位孤獨的哥德風少女剪影映襯在粉彩色的富士山夕陽前，適合作為電影感桌布藝術。
+用於生成可愛殭屍主題女孩的提示詞，角色身穿破損露肩迷你洋裝並搭配繃帶緞帶。
 
 #### 📝 提示詞
 
 ```
-創作一張電影感動漫風格的插畫，描繪黃昏時分寧靜的列車內部，營造出一種憂鬱且夢幻的氛圍。場景從近乎空無一人的通勤列車內部視角出發，橫跨長長的深藍色長椅與大型長方形車窗。一位嬌小的少女坐在長椅右側附近，雙手交疊放在膝上，神情平靜而孤獨，目光微微側向一邊。她身穿全黑哥德風服飾：黑色貝雷帽、帶有緞帶細節的深色襯衫、黑色長裙、深色襪子以及黑色綁帶靴；她的 {argument name="hair color" default="black"} 頭髮梳成兩條長辮，擁有白皙的皮膚與精緻的動漫五官。透過車窗，展現寧靜的日本湖畔景觀，遠處中心為 {argument name="mountain" default="Mount Fuji"}，在水中柔和地倒映，岸邊點綴著小型寶塔剪影與樹梢。窗外天空為粉彩色的暮光，帶有薰衣草藍色調、粉色雲朵，左上方窗戶附近有一個巨大的圓形 {argument name="sun or moon" default="粉色落日"} 散發著光芒；左上方加入幾枝粉色櫻花與花瓣。列車內部光線保持昏暗且冷色調，少女的身影主要隱沒在對比窗外光芒的陰影中。包含天花板附近清晰可見的三個吊環、長椅後方的一扇大型多格窗戶，以及右側一扇帶有狹長窗戶的車門。採用 16:9 寬螢幕構圖，運用柔和的賽璐珞動漫渲染風格，室內陰影為柔和的深藍色，室外光線為粉彩粉紅色與藍色，無文字、無浮水印、無其他乘客。
+一名女孩穿著萬聖節殭屍風格的連身裙。
+這套服裝是米白色的平口迷你洋裝。肩膀、腰部和裙擺多處刻意設計了撕裂開口，布料邊緣呈現捲曲狀。
+從破損處可以看見內層的淺紫色布料。
+撕裂邊緣帶有細緻的黑色縫線。
+頸部繫著一條乾淨的小繃帶風緞帶。
+頭上沒有戴帽子。
+配色為米白、淺紫、黑色與夜靛藍。沒有任何污漬或血跡。
+全身視角，能清楚看見撕裂設計細節。臉蛋可愛，神情略顯困擾。
 ```
 
 #### 🖼️ 生成圖片
@@ -4300,27 +4285,27 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113124326_zwiqs3_HR6tFIFXcAwQg-M.jpg" width="600" alt="漫畫 / 分鏡腳本 - 黃昏動漫列車與富士山 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792655534507_au5rni_HVFB_M2bIAEIVbs.jpg" width="600" alt="產品行銷 - 萬聖節殭屍女孩造型提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113124492_59uxct_HR6tFIJXcAYfSXe.jpg" width="600" alt="漫畫 / 分鏡腳本 - 黃昏動漫列車與富士山 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792655534523_td99zd_HVFCA3UbAAE7XG4.jpg" width="600" alt="產品行銷 - 萬聖節殭屍女孩造型提示詞 - Image 2">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Chiyo](https://x.com/Chiyo_memo_)
-- **來源:** [Twitter Post](https://x.com/Chiyo_memo_/status/2098304867223687367#reversed-0)
-- **發布時間:** 2026年9月11日
-- **多語言:** en
+- **作者:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **來源:** [Twitter Post](https://x.com/ArtistaNozomu/status/2112741916521431175)
+- **發布時間:** 2026年10月21日
+- **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=34331)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36724)**
 
 ---
 
-### No. 87: 產品行銷 - 東方茶葉商業海報設計
+### No. 88: 產品行銷 - 東方茶葉商業海報設計
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4379,7 +4364,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 88: 產品行銷 - 礦泉水輪廓折射海報
+### No. 89: 產品行銷 - 礦泉水輪廓折射海報
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4437,7 +4422,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 89: 產品行銷 - 燈具光影投影海報
+### No. 90: 產品行銷 - 燈具光影投影海報
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4495,7 +4480,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 90: 產品行銷 - 耳機產品海報提示詞
+### No. 91: 產品行銷 - 耳機產品海報提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4555,7 +4540,7 @@ Brian Pulido 的 Lady Death（Hope）斬殺數隻長角惡魔及低階妖魔。
 
 ---
 
-### No. 91: 產品行銷 - 療癒居家產品廣告提示詞
+### No. 92: 產品行銷 - 療癒居家產品廣告提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4618,7 +4603,7 @@ Prompt:
 
 ---
 
-### No. 92: 產品行銷 - GPT Image 2 陶瓷海報提示詞：窯變年輪
+### No. 93: 產品行銷 - GPT Image 2 陶瓷海報提示詞：窯變年輪
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4675,7 +4660,7 @@ Prompt:
 
 ---
 
-### No. 93: 產品行銷 - GPT Image 2 自行車安全帽海報提示詞：氣流剖面
+### No. 94: 產品行銷 - GPT Image 2 自行車安全帽海報提示詞：氣流剖面
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4732,7 +4717,7 @@ Prompt:
 
 ---
 
-### No. 94: 產品行銷 - GPT Image 2 鋼筆海報提示詞：墨跡折疊路徑
+### No. 95: 產品行銷 - GPT Image 2 鋼筆海報提示詞：墨跡折疊路徑
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4789,7 +4774,7 @@ Prompt:
 
 ---
 
-### No. 95: 產品行銷 - GPT Image 2 黑膠唱機海報提示詞：Groove City
+### No. 96: 產品行銷 - GPT Image 2 黑膠唱機海報提示詞：Groove City
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4846,7 +4831,7 @@ Prompt:
 
 ---
 
-### No. 96: 產品行銷 - GPT Image 2 寵物食品海報提示詞：碗影角色
+### No. 97: 產品行銷 - GPT Image 2 寵物食品海報提示詞：碗影角色
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4903,7 +4888,7 @@ Prompt:
 
 ---
 
-### No. 97: 產品行銷 - GPT Image 2 露營帳篷海報提示詞：夜間座標
+### No. 98: 產品行銷 - GPT Image 2 露營帳篷海報提示詞：夜間座標
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4960,7 +4945,7 @@ Prompt:
 
 ---
 
-### No. 98: 產品行銷 - GPT-Image-2 甜點海報提示詞
+### No. 99: 產品行銷 - GPT-Image-2 甜點海報提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5019,7 +5004,7 @@ Prompt:
 
 ---
 
-### No. 99: 產品行銷 - GPT Image 2 烈酒海報設計提示詞
+### No. 100: 產品行銷 - GPT Image 2 烈酒海報設計提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5090,7 +5075,7 @@ Prompt:
 
 ---
 
-### No. 100: 產品行銷 - GPT-2 球鞋廣告海報提示詞
+### No. 101: 產品行銷 - GPT-2 球鞋廣告海報提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5146,7 +5131,7 @@ Prompt:
 
 ---
 
-### No. 101: 產品行銷 - GPT-Image 日式編輯風格咖啡海報提示詞
+### No. 102: 產品行銷 - GPT-Image 日式編輯風格咖啡海報提示詞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5213,7 +5198,7 @@ Prompt:
 
 ---
 
-### No. 102: 產品行銷 - 奢華紅寶石色絲絨晚禮服人像
+### No. 103: 產品行銷 - 奢華紅寶石色絲絨晚禮服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5261,50 +5246,6 @@ Prompt:
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36319)**
-
----
-
-### No. 103: 產品行銷 - Corona 品牌時尚概念專案
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個提示詞，將 Corona 啤酒罐參考圖轉化為完整的女性時尚系列 Lookbook，包含服裝樣機與生活方式攝影。
-
-#### 📝 提示詞
-
-```
-使用提供的 Corona Extra 啤酒罐參考圖像，為「Corona Women's Collection」生成一個全面的時尚概念專案。
-
-目標：將啤酒品牌的視覺識別轉化為高端街頭服飾與海灘服飾系列。
-
-版面與構圖：
-1. 左上角：在奶油色背景上展示提取出的 Corona 標誌（哥德式字體、皇冠、兩隻獅鷲），並附有副標題「WOMEN'S COLLECTION」以及關於墨西哥傳承的簡短描述。
-2. 中央：特徵兩個 AI 生成的模特兒（正面與背面視圖）。正面模特兒穿著印有金色/藍色品牌標識的白色短版球衣 T 恤；背面模特兒穿著帶有大型背部印花的寬鬆深藍色 T 恤和牛仔短褲。
-3. 右側（「THE COLLECTION」）：以網格形式排列六個單獨的產品樣機：短版球衣 T 恤、工字背心、寬鬆連帽衫、休閒短褲、托特包和老爹帽。所有物品必須採用啤酒罐上的藍金配色方案。
-4. 底部區塊：包含「COLOR PALETTE」（色彩調色板）色卡區域（深藍色、金色、奶油色）、刺繡細節特寫鏡頭，以及一排四張生活方式照片，展示模特兒在陽光明媚的戶外環境中穿著該系列。
-5. 頁尾：深藍色橫幅，上面有金色文字，內容為「SINCE 1925」、「BREWED IN MEXICO」和「HECHA CON ORGULLO」。
-
-風格：高端商業時尚 Lookbook，乾淨的字體排印，逼真的織物紋理，以及充滿活力的夏日光線。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791792864496_9zzh1i_HUT7JG4bYAARQ3k.jpg" width="600" alt="產品行銷 - Corona 品牌時尚概念專案 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Popcraft AI](https://x.com/popcraftAI)
-- **來源:** [Twitter Post](https://x.com/popcraftAI/status/2109086663452614665#reversed-1)
-- **發布時間:** 2026年10月11日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=36326)**
 
 ---
 
@@ -6119,7 +6060,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17870 更多提示詞未在此顯示
+### 🎯 17878 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6182,6 +6123,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-24T02:22:12.679Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-24T15:01:08.128Z</sub>
 
 </div>
