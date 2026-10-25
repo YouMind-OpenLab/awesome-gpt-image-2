@@ -139,9 +139,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **17998** |
+| 📝 Totale prompt | **18006** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **domenica 25 ottobre 2026 alle ore 02:10:26 UTC** |
+| 🔄 Ultimo aggiornamento | **domenica 25 ottobre 2026 alle ore 15:13:12 UTC** |
 
 </div>
 
@@ -525,7 +525,73 @@ Trasforma una linea temporale evolutiva piatta in un'infografica 3D realistica a
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### No. 1: Profilo / Avatar - Ritratto di Donna che Offre Dolcetti
+### No. 1: Profilo / Avatar - Ritratto Cinematografico di Viaggio su Strada in Auto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Genera un ritratto iperrealistico di una donna rilassata in auto in movimento, con sfondi sfocati dal movimento e luce solare calda.
+
+#### 📝 Prompt
+
+```
+Ritratto lifestyle spontaneo di una giovane donna seduta sul sedile posteriore di un'auto in movimento, con la testa reclinata all'indietro contro lo schienale e gli occhi dolcemente chiusi, il viso rivolto verso il finestrino aperto mentre si lascia avvolgere dalla luce del sole e dalla brezza. Capelli lunghi castano scuro tendenti al nero con una frangetta leggera e sfilacciata, scompigliati dal vento con alcune ciocche libere che volano nell'aria. Trucco morbido e naturale, pelle luminosa e idratata, espressione rilassata e serena con le labbra color pesca leggermente dischiuse. Indossa una t-shirt bianca a girocollo oversize senza stampe e pantaloni della tuta grigio chiaro, con un ginocchio sollevato e le braccia strette attorno ad esso. Interni dell'auto scuri, con un pannello porta nero e una maniglia argentata in primo piano. Fuori dal finestrino, alberi verdi che scorrono velocemente, fortemente sfocati dall'effetto mosso. Luce calda e intensa del sole di mezzogiorno che entra nell'abitacolo, con delicati riflessi sul viso e sul collo. Atmosfera sognante e spensierata da road trip estivo, estetica cinematografica in stile coreano, motion blur sullo sfondo, profondità di campo ridotta, obiettivo 50mm, f/2, fotorealistico, texture ultra dettagliata di pelle e capelli, composizione verticale 9:16.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914376360_reluym_HVaBnPQaoAAE7DS.jpg" width="600" alt="Profilo / Avatar - Ritratto Cinematografico di Viaggio su Strada in Auto - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Sophie](https://x.com/Itx_Sophie)
+- **Fonte:** [Twitter Post](https://x.com/Itx_Sophie/status/2114202791904412102)
+- **Pubblicato:** 25 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36883)**
+
+---
+
+### No. 2: Profilo / Avatar - Ritratto in un accogliente caffè con GPT Image 2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Prompt per ritratto fotorealistico per GPT Image 2 che raffigura una giovane donna dell'Asia orientale in un ambiente da caffè.
+
+#### 📝 Prompt
+
+```
+Ritratto di una giovane donna dell'Asia orientale seduta in un accogliente caffè, rivolta verso la fotocamera con la testa leggermente inclinata e uno sguardo calmo e dolce. Capelli lunghissimi, scalati, color castano scuro con una frangia a tendina leggera e sfilata, sciolti e leggermente scompigliati, con riflessi naturali e ciocche che ricadono sulle spalle. Pelle luminosa e impeccabile, trucco naturale e delicato, labbra color pesca rosato caldo, sottile eyeliner marrone. Indossa un maglione beige oversize in maglia con scollo a V dalla texture morbida e vaporosa, delicate collane dorate sovrapposte con un pendente a medaglione rotondo e piccoli orecchini a cerchio aderenti in oro. È seduta su una sedia da caffè in rattan intrecciato. Sfondo: un'ampia finestra con cornice nera e vegetazione autunnale sfocata, librerie in legno scuro con ripiani dal tono caldo, foto incorniciate e una piccola pianta in vaso, il tutto dolcemente fuori fuoco. Luce calda del sole dell'ora d'oro, luce diffusa e morbida proveniente dalla finestra, atmosfera autunnale intima, palette di colori nei toni della terra, beige e marrone, estetica editoriale lifestyle in stile coreano, profondità di campo ridotta, obiettivo 85mm, f/1.8, fotorealistico, texture ultra-dettagliata di pelle e capelli, composizione verticale 2:3.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914375004_3tpa10_HVVn-gibQAAbDuD.jpg" width="600" alt="Profilo / Avatar - Ritratto in un accogliente caffè con GPT Image 2 - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Sophie](https://x.com/Itx_Sophie)
+- **Fonte:** [Twitter Post](https://x.com/Itx_Sophie/status/2113961200086343796)
+- **Pubblicato:** 24 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36880)**
+
+---
+
+### No. 3: Profilo / Avatar - Ritratto di Donna che Offre Dolcetti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -558,7 +624,7 @@ Un ritratto fotorealistico di una giovane donna asiatica con capelli scuri e cor
 
 ---
 
-### No. 2: Profilo / Avatar - Ritratto caricaturale 3D con texture a perline
+### No. 4: Profilo / Avatar - Ritratto caricaturale 3D con texture a perline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -609,7 +675,7 @@ Ultra HD, micro-dettagli elaborati, arte digitale professionale, profondità scu
 
 ---
 
-### No. 3: Profilo / Avatar - Profondità di campo ridotta I2I
+### No. 5: Profilo / Avatar - Profondità di campo ridotta I2I
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -656,7 +722,7 @@ Illumina sottilmente i contorni dei capelli e della pelle con una controluce cal
 
 ---
 
-### No. 4: Profilo / Avatar - Ritratto Retro Showa di una Ragazza in Kimono Floreale
+### No. 6: Profilo / Avatar - Ritratto Retro Showa di una Ragazza in Kimono Floreale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -689,7 +755,7 @@ Un ritratto verticale di una giovane donna con un caschetto scuro e corto con fr
 
 ---
 
-### No. 5: Profilo / Avatar - Ritratto Beach in Stile Showa Retro
+### No. 7: Profilo / Avatar - Ritratto Beach in Stile Showa Retro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -722,7 +788,7 @@ Un ritratto verticale a mezza figura di una giovane donna dell'Asia orientale in
 
 ---
 
-### No. 6: Profilo / Avatar - Ritratto Drammatico con Luce Rossa sugli Occhi
+### No. 8: Profilo / Avatar - Ritratto Drammatico con Luce Rossa sugli Occhi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -756,7 +822,7 @@ Ritratto drammatico ultra-realistico della persona ({argument name="photo" defau
 
 ---
 
-### No. 7: Profilo / Avatar - Outfit Autunnale Elegante in Monocromo
+### No. 9: Profilo / Avatar - Outfit Autunnale Elegante in Monocromo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -795,7 +861,7 @@ Gonna aderente a quadretti vichy nera, dolcevita nero in maglia, stivaletti beig
 
 ---
 
-### No. 8: Profilo / Avatar - Ritratto fotorealistico in Hanfu della dinastia Tang
+### No. 10: Profilo / Avatar - Ritratto fotorealistico in Hanfu della dinastia Tang
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -858,7 +924,7 @@ Personaggio femminile in stile antico, formato verticale 9:16, fotografia iperre
 
 ---
 
-### No. 9: Profilo / Avatar - Ritratto di Giardino Mediterraneo
+### No. 11: Profilo / Avatar - Ritratto di Giardino Mediterraneo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -895,7 +961,7 @@ L'atmosfera generale è silenziosa, luminosa e delicata. Nessuna teatralità. Ri
 
 ---
 
-### No. 10: Profilo / Avatar - Prompt GPT Image 2: Outfit Felpa Orsetto Carino
+### No. 12: Profilo / Avatar - Prompt GPT Image 2: Outfit Felpa Orsetto Carino
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -942,7 +1008,7 @@ Nessuna decorazione aggiuntiva.
 
 ---
 
-### No. 11: Profilo / Avatar - Abito da Halloween in stile Frankenstein per ragazza
+### No. 13: Profilo / Avatar - Abito da Halloween in stile Frankenstein per ragazza
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -988,7 +1054,7 @@ Inquadratura a figura intera, braccia leggermente sollevate in modo che le linee
 
 ---
 
-### No. 12: Profilo / Avatar - Prompt Autunno Outfit ChatGPT Image 2
+### No. 14: Profilo / Avatar - Prompt Autunno Outfit ChatGPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1027,7 +1093,7 @@ carino, camicetta a quadri gingham, pantaloncini corti a quadri gingham, giacca 
 
 ---
 
-### No. 13: Profilo / Avatar - Prompt per Abito Halloween con Tascas di Dolci
+### No. 15: Profilo / Avatar - Prompt per Abito Halloween con Tascas di Dolci
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1074,7 +1140,7 @@ Corpo intero, intenta a condividere dolci. Un sorriso felice.
 
 ---
 
-### No. 14: Profilo / Avatar - Viaggiatore incappucciato nella cattedrale in rovina
+### No. 16: Profilo / Avatar - Viaggiatore incappucciato nella cattedrale in rovina
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1107,7 +1173,7 @@ Una cattedrale in rovina di notte. La luce lunare filtra attraverso il rosone e 
 
 ---
 
-### No. 15: Profilo / Avatar - Ragazza Showa retrò in yukata
+### No. 17: Profilo / Avatar - Ragazza Showa retrò in yukata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1140,7 +1206,7 @@ Una fotografia verticale in stile retrò dell'era Showa, che ritrae una giovane 
 
 ---
 
-### No. 16: Profilo / Avatar - Prompt Outfit Blusa Viola e Shorts Neri
+### No. 18: Profilo / Avatar - Prompt Outfit Blusa Viola e Shorts Neri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1187,7 +1253,7 @@ Nessun decoro aggiuntivo.
 
 ---
 
-### No. 17: Profilo / Avatar - Ritratto in Costume da Bagno Giapponese Vintage
+### No. 19: Profilo / Avatar - Ritratto in Costume da Bagno Giapponese Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1220,7 +1286,7 @@ Uno scatto verticale a figura intera di una giovane donna giapponese in piedi ac
 
 ---
 
-### No. 18: Profilo / Avatar - Prompt per Abito in Pizzo con Ragnatele di Halloween
+### No. 20: Profilo / Avatar - Prompt per Abito in Pizzo con Ragnatele di Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1363,23 +1429,32 @@ Nessun testo. Nessun cappello. Niente ragni o decorazioni di zucche eccessive. D
 
 ---
 
-### No. 19: Profilo / Avatar - Ritratto in stile rivista giapponese con toni viola grigio nebbioso
+### No. 21: Post sui social media - Illustrazione editoriale ad acquerello da foto
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Un prompt per generare un ritratto realistico nello stile di layout delle riviste giapponesi, con toni viola e grigi nebbiosi a bassa saturazione, illuminazione morbida ed estetica d'archivio.
+Trasforma una foto caricata in un poster di viaggio minimalista ad acquerello e gouache, con colori pastello tenui e grana della carta testurizzata.
 
 #### 📝 Prompt
 
 ```
-{argument name="character" default="[Descrizione del Personaggio]"}, personaggio reale, scattato con Nokia.
-Ritratto con ambientazione soft × Layout piatto da rivista giapponese × Gradazioni digitali lisce con rendering fine dei capelli × Gradiente continuo e sottile di luce e ombra che modella il viso.
-Luce frontale piena e morbida, quasi nessuna rottura evidente dell'ombra.
-La palette cromatica complessiva utilizza viola nebbioso / bianco avorio / grigio chiaro, toni freddi a bassissima saturazione.
-Il soggetto è centrato in una composizione ravvicinata frontale testa-spalle, con struttura facciale definita, lasciando spazio ai bordi per piccola tipografia e aree etichetta d'archivio.
+Trasforma la foto caricata in una splendida illustrazione editoriale minimalista, con un'estetica delicata che richiama l'acquerello e il guazzo dipinti a mano.
+
+STILE ARTISTICO: Illustrazione da poster di viaggio vintage, velature ad acquerello delicate, pennellate di guazzo appena accennate, grana visibile della carta fatta a mano, texture morbide dei pigmenti, contorni pittorici volutamente imperfetti, colori pastello smorzati e un'atmosfera romantica e sognante.
+
+COMPOSIZIONE: Poster verticale in formato 2:3. Posiziona i soggetti principali nel terzo inferiore dell'inquadratura, lasciando circa il 65–70% della parte superiore come spazio pulito, simile a una calda carta color avorio dalla leggera texture naturale. Mantieni la composizione ariosa, serena, sobria ed equilibrata.
+
+SOGGETTO: Preserva l'identità riconoscibile, l'acconciatura, l'abbigliamento, la posa e il legame emotivo delle persone presenti nella foto di riferimento. Semplifica i tratti in eleganti forme dipinte a mano, con dettagli del viso ridotti al minimo e proporzioni naturali. Conserva un'atmosfera spontanea, intima e narrativa.
+
+SFONDO: Rappresenta l'ambiente circostante con pennellate sciolte e impressioniste e silhouette semplificate. Monumenti celebri, paesaggi, alberi, edifici o scorci urbani devono restare riconoscibili ma discreti. Utilizza tocchi di blu navy tenue, blu polveroso, beige caldo, rosa cipria smorzato e giallo dorato delicato.
+
+LUCE E TEXTURE: Luce naturale e morbida, ombre delicate, leggere sfumature di colore che si fondono tra loro, velature ad acquerello sovrapposte, finitura opaca e autentica carta texturizzata. Concentra i dettagli sui soggetti e sulla parte inferiore dello sfondo.
+
+ATMOSFERA GENERALE: Romantica, nostalgica, serena, poetica, senza tempo e intima, come la pagina di un diario di viaggio splendidamente illustrato.
+
+REGOLE FERREE: Composizione minimalista, ampio spazio negativo, niente fotorealismo, niente rendering 3D, niente contorni netti, niente colori troppo saturi, niente dettagli superflui, niente cornici, niente testo e niente watermark. L'immagine finale deve sembrare davvero dipinta a mano su carta ruvida.
 ```
 
 #### 🖼️ Immagini generate
@@ -1387,53 +1462,32 @@ Il soggetto è centrato in una composizione ravvicinata frontale testa-spalle, c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050684874_p18apd_HUmZmF3boAAvYp6.jpg" width="600" alt="Profilo / Avatar - Ritratto in stile rivista giapponese con toni viola grigio nebbioso - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050684057_i218ny_HUmZmKLaUAA7k6e.jpg" width="600" alt="Profilo / Avatar - Ritratto in stile rivista giapponese con toni viola grigio nebbioso - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050684125_y53dom_HUmZmGIbQAEw2mh.jpg" width="600" alt="Profilo / Avatar - Ritratto in stile rivista giapponese con toni viola grigio nebbioso - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792914374788_6x6913_HVdAMnSbEAA0JbJ.jpg" width="600" alt="Post sui social media - Illustrazione editoriale ad acquerello da foto - Image 1">
 </div>
 
 #### 📌 Dettagli
 
-- **Autore:** [VoxCat](https://x.com/VoxcatAI)
-- **Fonte:** [Twitter Post](https://x.com/VoxcatAI/status/2110416845480366249)
-- **Pubblicato:** 14 ottobre 2026
-- **Lingue:** zh
+- **Autore:** [Sairah](https://x.com/Sairah_0)
+- **Fonte:** [Twitter Post](https://x.com/Sairah_0/status/2114229145135726839)
+- **Pubblicato:** 25 ottobre 2026
+- **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36452)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36881)**
 
 ---
 
-### No. 20: Profilo / Avatar - Scatto dall'alto di una persona che dorme sul divano
+### No. 22: Post sui social media - Statua in bronzo verdigris di donna seduta
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Prompt per generare una foto lifestyle dall'alto di un personaggio addormentato su un divano, abbracciando un cuscino e usando un peluche come guanciale.
+Immagine fotorealistica di una statua in bronzo consumata dal tempo, raffigurante una donna velata seduta in un cimitero, con una ricca patina verde e un'illuminazione suggestiva.
 
 #### 📝 Prompt
 
 ```
-{argument name="subject" default="[Descrizione del soggetto]"}, fotografia lifestyle indoor, composizione dall'alto.
-
-Il personaggio è sdraiato su un morbido divano, riposando o dormendo profondamente, con il corpo naturalmente girato di lato o leggermente rannicchiato. Le mani stringono un cuscino soffice, mentre la testa poggia su un peluche usato come guanciale. La postura generale del sonno è rilassata, naturale e tranquilla, con un'atmosfera casalinga e un tocco di dolcezza. Le gambe possono essere piegate in modo naturale o delicatamente raccolte, creando una forma morbida che si adatta al divano; la relazione tra cuscino, peluche e persona è chiaramente visibile.
-
-La scena è uno spazio interno accogliente: il divano è morbido e confortevole, mentre l'ambiente circostante può includere naturalmente cuscini, coperte, tappeti, lampade da comodino, tende, libri, riviste o altri piccoli oggetti quotidiani, creando un'atmosfera domestica silenziosa, rilassante e calda. Il focus evidenzia l'intimità tra la persona, il cuscino, il peluche e il divano, in uno spazio semplice e ordinato.
-
-La telecamera riprende dall'alto verso il basso, adottando una prospettiva overhead ben definita, mostrando chiaramente la postura completa, la disposizione del divano e la posizione relativa di cuscino e peluche. La composizione è naturale, l'immagine pulita, con spazi negativi moderati.
-
-L'illuminazione è soffusa, utilizzando luce naturale diffusa diurna interna o luce interna calda e morbida. L'atmosfera generale è silenziosa, rigenerante e confortevole, con una texture fotografica lifestyle di alta qualità, dettagli nitidi e materiali realistici e soffici. Immagine verticale 3:4, piccola firma voxcat nell'angolo in basso a destra.
+Un ritratto verticale fotorealistico di una statua in bronzo consumata dal tempo, raffigurante una donna seduta in un cimitero. La statua presenta una spessa patina verde di verderame, con ossidazioni marrone scuro nelle fessure. La figura è avvolta in vesti fluenti che le coprono il capo come un velo e si raccolgono ai suoi piedi su un piedistallo di pietra. Il viso è rivolto verso il cielo, con gli occhi chiusi in un'espressione di sereno abbandono o di preghiera. Una mano poggia sul ginocchio, mentre l'altra ricade mollemente lungo il fianco. Alle sue spalle si trova una semplice lapide ricoperta di muschio. Lo sfondo mostra alberi fuori fuoco con fogliame autunnale nei toni tenui del verde e del marrone, creando una ridotta profondità di campo. L'illuminazione è intensa e drammatica, e mette in risalto la texture del metallo rispetto all'ambiente circostante più scuro.
 ```
 
 #### 🖼️ Immagini generate
@@ -1441,39 +1495,209 @@ L'illuminazione è soffusa, utilizzando luce naturale diffusa diurna interna o l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050684924_yn9rwx_HUljsqRbIAABU3W.jpg" width="600" alt="Profilo / Avatar - Scatto dall'alto di una persona che dorme sul divano - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792914380279_27ez2z_HVbLVNrXoAIik8u.jpg" width="600" alt="Post sui social media - Statua in bronzo verdigris di donna seduta - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050684574_uj03x2_HUljsqNbcAATbfp.jpg" width="600" alt="Profilo / Avatar - Scatto dall'alto di una persona che dorme sul divano - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792914380170_2mx8j6_HVbLVN8W4AApXHy.jpg" width="600" alt="Post sui social media - Statua in bronzo verdigris di donna seduta - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050684954_jo7tds_HUljstbbAAA4Si4.jpg" width="600" alt="Profilo / Avatar - Scatto dall'alto di una persona che dorme sul divano - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792914380201_un4c17_HVbLVOnWsAAL4LB.jpg" width="600" alt="Post sui social media - Statua in bronzo verdigris di donna seduta - Image 3">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Dreamkeeper](https://x.com/InchainAlice)
+- **Fonte:** [Twitter Post](https://x.com/InchainAlice/status/2114100847210910023#reversed-0)
+- **Pubblicato:** 24 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36886)**
+
+---
+
+### No. 23: Post sui social media - Statua di marmo di donna inginocchiata con corona di rose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un primo piano drammatico di una statua in marmo bianco raffigurante una donna velata inginocchiata, con una corona di rose rosse, su sfondo nero.
+
+#### 📝 Prompt
+
+```
+Una straordinaria fotografia ad alta risoluzione di una statua classica in marmo bianco che raffigura una donna inginocchiata, in un atteggiamento di profondo dolore o preghiera. La figura è avvolta in vesti fluenti e in un lungo velo traslucido che scende a cascata fino alla base, creando un effetto etereo in cui il tessuto sembra quasi seta impalpabile. Appoggiata sul capo, sopra il velo, si trova una corona di rose rosso scuro, che offre un contrasto cromatico d'impatto contro la pietra monocromatica. Il volto della statua è sereno ma malinconico, con lo sguardo rivolto verso il basso. L'illuminazione è un drammatico chiaroscuro: un fascio di luce dall'alto mette in risalto la statua su uno sfondo nero pece, esaltando la superficie liscia del marmo e le pieghe delicate dei drappeggi.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914379630_qre78x_HVbJJrfWMAA404_.jpg" width="600" alt="Post sui social media - Statua di marmo di donna inginocchiata con corona di rose - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914379729_zz94bj_HVbJJqzXwAAqObi.jpg" width="600" alt="Post sui social media - Statua di marmo di donna inginocchiata con corona di rose - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914379674_xiwoxb_HVbJJq3XQAAsuy7.jpg" width="600" alt="Post sui social media - Statua di marmo di donna inginocchiata con corona di rose - Image 3">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Dreamkeeper](https://x.com/InchainAlice)
+- **Fonte:** [Twitter Post](https://x.com/InchainAlice/status/2114098553530318921#reversed-0)
+- **Pubblicato:** 24 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36885)**
+
+---
+
+### No. 24: Post sui social media - Prompt per Poster di Viaggio Tipografico con GPT Image
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descrizione
+
+Un prompt strutturato per generare poster di viaggio tipografici di alta gamma utilizzando GPT Image. Adotta un approccio basato su template che consente agli utenti di sostituire elementi specifici come la parola principale, il paesaggio e la palette cromatica per creare varianti (ad esempio, PEAK/MIST/TIDE/DUNE), mantenendo uno stile editoriale coerente.
+
+#### 📝 Prompt
+
+```
+GPT-Image x {Elemento A Parola} x {Elemento B Paesaggio} x {Elemento C Colore Carta} x Cornice Tipografica
+
+==================== Elementi (Generane uno alla volta) ====================
+[Elemento A | Parola] {WORD} (4 lettere maiuscole, glifi con aperture o cerchi, in grassetto e leggibili; Sottotitolo {SUB})
+[Elemento B | Paesaggio] {SCENE}
+[Elemento C | Colore Carta e Palette] {PALETTE}
+[Elementi Fissi] Nome Progetto "Altitude Log"; Direzione: Poster Tipografico di Viaggio; Rapporto d'aspetto: 9:16; Atmosfera: Cinematografica / Serena / Avventurosa / Design Editoriale; Non modificare il concept principale, i requisiti di layout, la conclusione e i divieti presenti nel testo originale.
+
+==================== Prompt Finale (Inserisci gli elementi nelle parentesi graffe) ====================
+Crea un poster di alto livello basato su una cornice tipografica, in cui la tipografia oversize diventa la struttura visiva principale.
+
+Tema: Viaggio
+Direzione: Poster Tipografico di Viaggio
+Nome Progetto: Altitude Log
+Titolo Principale: {WORD}
+Sottotitolo: {SUB}
+Soggetto: Paesaggio (vedi le note sulla direzione qui sotto)
+Atmosfera: Cinematografica / Serena / Avventurosa / Design Editoriale
+Palette Colori: {PALETTE}
+Rapporto d'aspetto: 9:16
+
+Il poster deve restituire la texture di un manifesto di design premium, di una locandina cinematografica, della visual di un evento, di una campagna promozionale turistica o del poster di un progetto culturale.
+
+Concept Principale: Lascia che sia la tipografia a incorniciare l'immagine, invece di limitarsi a sovrapporla.
+Usa lettere enormi tagliate ai margini, cornici tipografiche verticali, finestre a forma di testo, ampi spazi negativi marcati, fotografia reale, grana della carta, una gerarchia delle informazioni chiara e relazioni visive esplicite tra il soggetto e la tipografia.
+
+Direzione Selezionata: Poster Tipografico di Viaggio
+Usa una parola gigante come contenitore dell'immagine. Riempi l'interno delle lettere con fotografie di paesaggi e inserisci una piccola figura di viaggiatore per trasmettere il senso di scala. Il paesaggio da inserire è: {SCENE}. La foto del paesaggio si estende in modo continuo come un unico blocco, interrompendosi naturalmente quando attraversa gli spazi vuoti tra le lettere; il piccolo viaggiatore si trova all'interno di una delle lettere ed è chiaramente visibile. Le lettere della parola "{WORD}" devono essere in grassetto, con glifi nitidi e leggibili. Le lettere possono essere leggermente tagliate dai bordi della tela, mentre lo sfondo esterno alla parola ha il colore della carta.
+
+Mantieni la composizione pulita e strutturata, con una sensibilità da design editoriale e una logica visiva chiara.
+
+Evita collage disordinati, eccesso di elementi, sticker casuali, espressioni tipografiche deboli, testi piatti sovrapposti, design generici da template, errori di rendering del testo, figure distorte, paesaggi finti, stili da cartone animato e loghi di brand reali protetti da copyright.
+
+Genera un solo poster finale completo.
+
+==================== Valori degli Elementi (Inserisci elementi diversi nello stesso template, generandone uno ciascuno) ====================
+PEAK (Oltre la linea delle nuvole) x Cresta montuosa innevata al mattino: Picchi innevati frastagliati nella parte superiore, una sottile traccia di impronte del viaggiatore lungo la cresta, un piccolo viaggiatore con giacca rossa in piedi sulla cresta, che occupa solo una minuscola porzione dell'inquadratura per mostrare la scala, texture fotografica reale, luce mattutina che colpisce lateralmente la superficie nevosa x Colore carta caldo (base carta bianco sporco) + Blu freddo delle montagne innevate e oro caldo della luce mattutina
+MIST (Dove respira la foresta) x Foresta originaria di conifere nella nebbia mattutina: Alti abeti rossi che rivelano strati di profondità nella foschia, un morbido raggio di luce che penetra la chioma, la vista di schiena di un piccolo escursionista su un sentiero nel bosco, che occupa solo una minuscola porzione dell'inquadratura, texture fotografica reale x Verde scuro (base carta verde scuro) + Bianco nebbia e verde muschio
+TIDE (Tra mare e cielo) x Scogliere costiere al crepuscolo: Onde in lunga esposizione lenta che trascinano una foschia bianca tra gli scogli neri, orizzonte rosa-arancio in lontananza, un piccolo viaggiatore in piedi sullo scoglio, che occupa solo una minuscola porzione dell'inquadratura, texture fotografica reale x Blu navy profondo (base carta blu intenso) + Verde ciano del mare e bianco della spuma delle onde
+DUNE (Luce lenta sulla sabbia) x Dune del deserto all'alba: Creste di dune continue che formano netti confini luce/ombra, delicati motivi creati dal vento sulla superficie sabbiosa, una fila di impronte che si estende lungo la cresta, un piccolo viaggiatore che cammina sulla cresta, che occupa solo una minuscola porzione dell'inquadratura, texture fotografica reale x Colore carta caldo (base carta color sabbia) + Rosso ocra delle dune e marrone scuro delle ombre
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914378191_240vbc_HVUpmT8aQAAGvA0.jpg" width="600" alt="Post sui social media - Prompt per Poster di Viaggio Tipografico con GPT Image - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914378555_tdpw8q_HVUpmUHasAACCos.jpg" width="600" alt="Post sui social media - Prompt per Poster di Viaggio Tipografico con GPT Image - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914378198_jqq1jh_HVUpmUNakAAChiF.jpg" width="600" alt="Post sui social media - Prompt per Poster di Viaggio Tipografico con GPT Image - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792050685520_ygpvu7_HUljstcboAAYOb-.jpg" width="600" alt="Profilo / Avatar - Scatto dall'alto di una persona che dorme sul divano - Image 4">
+<img src="https://cms-assets.youmind.com/media/1792914379146_ar10jv_HVUpmUNbQAAloco.jpg" width="600" alt="Post sui social media - Prompt per Poster di Viaggio Tipografico con GPT Image - Image 4">
 </div>
 
 #### 📌 Dettagli
 
-- **Autore:** [VoxCat](https://x.com/VoxcatAI)
-- **Fonte:** [Twitter Post](https://x.com/VoxcatAI/status/2110327539642343913)
-- **Pubblicato:** 14 ottobre 2026
+- **Autore:** [蛋黄堡](https://x.com/Hamburgerai)
+- **Fonte:** [Twitter Post](https://x.com/Hamburgerai/status/2113957174166593707)
+- **Pubblicato:** 24 ottobre 2026
 - **Lingue:** zh
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36453)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36884)**
 
 ---
 
-### No. 21: Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2
+### No. 25: Post sui social media - Prompt di Moda Surreale e Fantasy per GPT Image 2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Due prompt dettagliati per GPT Image 2: uno per una scena di moda cinematografica surrealista con un cannone rosa, e un altro per una scena fantasy bizzarra a cavallo di un coniglio gigante.
+
+#### 📝 Prompt
+
+```
+Crea una fotografia di moda surreale e cinematografica che ritrae un'elegante donna bionda con indosso un miniabito floreale rosa pastello, stivali rosa al ginocchio e occhiali protettivi futuristici, mentre cammina con sicurezza impugnando un enorme cannone sci-fi rosa decorato con delle rose. Il cannone spara in lontananza una spettacolare esplosione di fiamme e fumo. Ambienta la scena in un sognante quartiere residenziale rosa, con un'auto d'epoca rosa, una casa rosa pastello, strade polverose e cieli drammatici carichi di fumo. Utilizza colori pastello tenui, un'estetica retro-futuristica, texture realistiche, illuminazione cinematografica, composizione grandangolare e uno stile da fotografia editoriale di alta gamma. Onirica ma fotorealistica, ultra-dettagliata, qualità 8K.
+
+Crea una scena fantasy stravagante e fotorealistica con un'elegante giovane donna che indossa un abito a strati in tulle nei toni pastello dell'arcobaleno, un corsetto color crema e un piccolo cilindro vintage, intenta a cavalcare un gigantesco e soffice coniglio bianco che vola aggraziato sopra dolci colline di campagna. Il coniglio ha lunghe orecchie dritte, un pelo morbido e ricco di dettagli e una delicata imbracatura in pelle. Sotto di loro si estendono campi dorati, foreste in lontananza e montagne avvolte nella foschia, il tutto sotto un cielo azzurro da sogno punteggiato di nuvole soffici. Cattura il movimento magico del coniglio sospeso in aria, i tessuti fluttuanti, la calda luce solare della golden hour, la profondità di campo cinematografica, le texture realistiche, l'atmosfera fiabesca e lo styling lussuoso tipico degli editoriali di moda. Ultra-dettagliata, incantevole, fotorealismo in 8K.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914376386_7j70s8_HVZDjCWaMAAdC17.jpg" width="600" alt="Post sui social media - Prompt di Moda Surreale e Fantasy per GPT Image 2 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914376487_7ivzbf_HVZDjCpbIAA7Q4S.jpg" width="600" alt="Post sui social media - Prompt di Moda Surreale e Fantasy per GPT Image 2 - Image 2">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Taaruk](https://x.com/Taaruk_)
+- **Fonte:** [Twitter Post](https://x.com/Taaruk_/status/2113951353987092749)
+- **Pubblicato:** 24 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36882)**
+
+---
+
+### No. 26: Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1504,19 +1728,19 @@ Rendi la messa in scena del rituale autentica e maestosa, sfruttando lo scarto t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792827961529_s9waja_HVYKsM3b0AAmnqA.jpg" width="600" alt="Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792914378608_1ty842_HVYKsM3b0AAmnqA.jpg" width="600" alt="Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792827961554_0r7ngh_HVYKueXbAAAXPh7.jpg" width="600" alt="Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792914378628_zm6hp2_HVYKueXbAAAXPh7.jpg" width="600" alt="Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792827961782_jtakkq_HVYKueObkAEjleF.jpg" width="600" alt="Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1792914378387_i3hbe9_HVYKueObkAEjleF.jpg" width="600" alt="Post sui social media - Prompt per Rituale di Evocazione Comico per GPT Image 2 - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -1530,7 +1754,7 @@ Rendi la messa in scena del rituale autentica e maestosa, sfruttando lo scarto t
 
 ---
 
-### No. 22: Post sui social media - Prompt per Illustrazione di Viaggio in Stile Libro Vintage
+### No. 27: Post sui social media - Prompt per Illustrazione di Viaggio in Stile Libro Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1563,13 +1787,13 @@ RISULTATO FINALE: Un'illustrazione da diario di viaggio sofisticata e nostalgica
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792827958698_y1axqm_HVYDLWebAAA2XKZ.jpg" width="600" alt="Post sui social media - Prompt per Illustrazione di Viaggio in Stile Libro Vintage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792914377927_snadf7_HVYDLWebAAA2XKZ.jpg" width="600" alt="Post sui social media - Prompt per Illustrazione di Viaggio in Stile Libro Vintage - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792827957165_ft2o9g_HVYDLWlbUAAgEjq.jpg" width="600" alt="Post sui social media - Prompt per Illustrazione di Viaggio in Stile Libro Vintage - Image 2">
+<img src="https://cms-assets.youmind.com/media/1792914377961_wmwf9i_HVYDLWlbUAAgEjq.jpg" width="600" alt="Post sui social media - Prompt per Illustrazione di Viaggio in Stile Libro Vintage - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1583,7 +1807,58 @@ RISULTATO FINALE: Un'illustrazione da diario di viaggio sofisticata e nostalgica
 
 ---
 
-### No. 23: Post sui social media - Poster Buongiorno Etéreo
+### No. 28: Post sui social media - Esibizione dell'Idol Underground nei panni di Infermiera Dentale
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt che genera una foto realistica di un'idol giapponese in costume da infermiera dentale, mentre si esibisce sul palco interagendo con il pubblico.
+
+#### 📝 Prompt
+
+```
+Una fotografia realistica di una giovane idol giapponese che si esibisce su un piccolo palco underground. Indossa un grazioso e stilizzato costume da infermiera odontoiatrica, composto da un abito bianco a maniche corte con profili rosa, una cerniera frontale e un logo a forma di dente sul petto. Porta un cappellino da infermiera bianco coordinato con l'emblema di un dente. I suoi capelli sono castano scuro, acconciati in due codini (twin tails) con la frangia. Con una mano tiene un microfono nero vicino alla bocca, mentre con l'altra fa il simpatico gesto del finger heart. L'illuminazione è quella drammatica tipica dei palchi, con fari luminosi ben visibili sullo sfondo che risaltano contro un soffitto scuro. In primo piano si intravedono le sagome sfocate delle teste degli spettatori, creando un effetto di profondità e restituendo tutta l'atmosfera di un'esibizione dal vivo.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914380608_st1ybv_HVXlScaawAAdJHD.jpg" width="600" alt="Post sui social media - Esibizione dell'Idol Underground nei panni di Infermiera Dentale - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914380708_4l9san_HVXlScabcAAx1TI.jpg" width="600" alt="Post sui social media - Esibizione dell'Idol Underground nei panni di Infermiera Dentale - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914380694_1ww5c4_HVXlScYaEAE_c0_.jpg" width="600" alt="Post sui social media - Esibizione dell'Idol Underground nei panni di Infermiera Dentale - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792914381362_zfofiw_HVXlScfagAAUgld.jpg" width="600" alt="Post sui social media - Esibizione dell'Idol Underground nei panni di Infermiera Dentale - Image 4">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [野田吾郎](https://x.com/goro_noda23327)
+- **Fonte:** [Twitter Post](https://x.com/goro_noda23327/status/2113847786034835782#reversed-0)
+- **Pubblicato:** 24 ottobre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36887)**
+
+---
+
+### No. 29: Post sui social media - Poster Buongiorno Etéreo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1616,7 +1891,7 @@ Un poster verticale con al centro la silhouette controluce di una persona che si
 
 ---
 
-### No. 24: Post sui social media - Ritratto Cinematografico con Illuminazione Drammatica
+### No. 30: Post sui social media - Ritratto Cinematografico con Illuminazione Drammatica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1653,7 +1928,7 @@ Prompt negativo: immagine sfocata, bassa risoluzione, pelle di plastica, fotorit
 
 ---
 
-### No. 25: Post sui social media - Diptych: Foto della Coda di Balena e Illustrazione a Inchiostro
+### No. 31: Post sui social media - Diptych: Foto della Coda di Balena e Illustrazione a Inchiostro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1704,7 +1979,7 @@ Crea una composizione verticale in stile dittico, suddivisa in due metà distint
 
 ---
 
-### No. 26: Post sui social media - Prompt per la Trasformazione da Fotorealistico ad Acquerello
+### No. 32: Post sui social media - Prompt per la Trasformazione da Fotorealistico ad Acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1745,7 +2020,7 @@ Crea una splendida trasformazione da fotorealistico ad acquerello utilizzando l'
 
 ---
 
-### No. 27: Post sui social media - Ritratto Cinematografico di un Fiammifero
+### No. 33: Post sui social media - Ritratto Cinematografico di un Fiammifero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1778,7 +2053,7 @@ Crea un ritratto in primo piano ultra-realistico e cinematografico di una bellis
 
 ---
 
-### No. 28: Post sui social media - Illustrazione di Viaggio ad Acquerello Giapponese
+### No. 34: Post sui social media - Illustrazione di Viaggio ad Acquerello Giapponese
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1833,7 +2108,7 @@ Niente testo, niente tipografia, niente bordi, niente cornici, niente fotorealis
 
 ---
 
-### No. 29: Post sui social media - Reazioni alla retorica anti-IA Parte 1
+### No. 35: Post sui social media - Reazioni alla retorica anti-IA Parte 1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1866,7 +2141,7 @@ Utilizzando l'immagine di riferimento fornita, rigenera il personaggio in una nu
 
 ---
 
-### No. 30: Post sui social media - Personaggio in Abito da Diavolo per Halloween
+### No. 36: Post sui social media - Personaggio in Abito da Diavolo per Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1908,7 +2183,7 @@ Colori: rosso pallido, nero, écru, blu notte. Inquadratura a figura intera da u
 
 ---
 
-### No. 31: Post sui social media - Fotografia editoriale con campioni di texture
+### No. 37: Post sui social media - Fotografia editoriale con campioni di texture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1947,197 +2222,7 @@ Crea una composizione di fotografia editoriale e graphic design di alta qualità
 
 ---
 
-### No. 32: Post sui social media - Collage allo Specchio del Minimarket
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt per GPT Image 2 che genera un collage di foto 3x3 di una donna in varie scene all'interno di un minimarket, visto attraverso uno specchio di sicurezza convesso con distorsione fisheye.
-
-#### 📝 Prompt
-
-```
-Crea un collage fotografico 3×3 ultra-realistico con la stessa donna dell'immagine di riferimento caricata, mantenendo in tutti e nove i riquadri l'esatta identità facciale, la forma del viso, gli occhi, il naso, le labbra, il tono della pelle e i tratti naturali.
-
-CONCEPT E COMPOSIZIONE: un divertente servizio fotografico stile candid ambientato in un minimarket, ripreso dall'alto attraverso uno specchio convesso di sicurezza. In ogni riquadro la donna guarda verso lo specchio con una realistica distorsione fisheye, i bordi curvi dello specchio e un'ampia visuale delle corsie del negozio.
-
-NOVE SCENE DIVERSE:
-
-1. Sorride e fa l'occhiolino mentre tiene in mano un caffè freddo, indossando un maglione color panna a maglia.
-
-2. Indossa un top nero e si allunga verso uno scaffale di snack tenendo un cestino della spesa.
-
-3. Indossa una felpa rosa con cappuccio e fa un broncio tenero abbracciando noodles istantanei e snack colorati.
-
-4. Indossa un top a righe bianche e nere e ride tenendo un cestino pieno di spesa.
-
-5. Indossa un top bianco a maniche lunghe e jeans blu, accovacciata per raccogliere degli snack caduti a terra.
-
-6. Indossa un cardigan azzurro e sorride radiosa tenendo una torta alla crema di fragole vicino al viso.
-
-7. Indossa una felpa grigia con cappuccio e un cappellino da baseball beige, facendo il segno della pace mentre tiene una bibita ghiacciata.
-
-8. Indossa un top nero senza maniche con gli occhiali da sole sulla testa, esaminando una tazza di noodles istantanei con espressione incuriosita.
-
-9. Indossa un maglione color panna a maglia e abbraccia felice una grande confezione di carta igienica.
-
-AMBIENTAZIONE: un moderno minimarket ben illuminato con scaffali di snack colorati, banchi frigo per le bevande, pavimenti lucidi con piastrelle color panna, cestini della spesa e alcuni clienti in lontananza. Inserisci riflessi realistici, cornici curve dello specchio nere e rosse e una naturale illuminazione dall'alto tipica dei negozi.
-
-STILE FOTOGRAFICO: fotografia ultra-fotorealistica, prospettiva fisheye dall'alto, obiettivo grandangolare, proporzioni realistiche, texture naturale della pelle, ciocche di capelli dettagliate, espressioni autentiche, confezioni dei prodotti nitide, esposizione bilanciata e fotografia lifestyle spontanea.
-
-LAYOUT DEL COLLAGE: griglia 3×3 perfettamente allineata con nove pannelli verticali distinti, sottili separatori bianchi, qualità dell'immagine uniforme, pose ed espressioni facciali variegate. Mantieni la stessa donna riconoscibile in tutti e nove i riquadri.
-
-REQUISITI RIGOROSI: preserva l'identità facciale della donna di riferimento. Mantieni mani, dita e proporzioni corporee realistiche. Evita volti duplicati, anatomia distorta, dettagli sfocati, filtri bellezza eccessivi, effetti cartoon, testi, loghi e watermark.
-
-Rapporto d'aspetto: verticale 9:16
-Qualità: ultra-realistica, altamente dettagliata, 8K, fotografia lifestyle professionale.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741904546_q401k0_HVOngHKaUAEt1x0.jpg" width="600" alt="Post sui social media - Collage allo Specchio del Minimarket - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Aiza](https://x.com/AizaAi12)
-- **Fonte:** [Twitter Post](https://x.com/AizaAi12/status/2113216861106000068)
-- **Pubblicato:** 22 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36795)**
-
----
-
-### No. 33: Post sui social media - Ritratto Autunnale Vintage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un ritratto in stile retrò di una donna con copricapo floreale autunnale e abito nero in pizzo, seduta su un divano in pelle con effetto foto consumata.
-
-#### 📝 Prompt
-
-```
-Un ritratto in stile vintage di una giovane donna asiatica con lunghi capelli scuri raccolti in un'acconciatura alta. Indossa un elaborato copricapo autunnale decorato con una grande dalia color pesca, piccole zucche arancioni, zucche ornamentali blu, foglie d'acero rosse e rametti di bacche. Il trucco mette in risalto finte lentiggini sul naso e sulle guance, mentre alle orecchie porta delicati orecchini dorati con pietre scure a forma di goccia. Veste un abito in pizzo nero con scollo a barca che lascia le spalle scoperte, maniche trasparenti e una spilla cammeo appuntata sul corpetto. È seduta su un divano Chesterfield in pelle nera trapuntata e vissuta, con lo sguardo pensieroso rivolto di lato. L'immagine è caratterizzata da un marcato filtro retrò che richiama una vecchia fotografia, con graffi visibili, polvere, colori sbiaditi e un bordo bianco dall'effetto usurato.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741904806_n6shlx_HVOlJnjaoAAs3CP.jpg" width="600" alt="Post sui social media - Ritratto Autunnale Vintage - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Fonte:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2113214240203129113#reversed-0)
-- **Pubblicato:** 22 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36796)**
-
----
-
-### No. 34: Post sui social media - Prompt per Illustrazione di Libro di Favole Disegnato a Mano
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un prompt GPT Image 2 che trasforma una foto caricata in un'illustrazione accogliente e disegnata a mano, nello stile di un libro di favole. Specifica colori pastello caldi, texture a matita colorata, sfondi semplificati e la preservazione delle identità dei soggetti e delle connessioni emotive.
-
-#### 📝 Prompt
-
-```
-Trasforma la foto caricata in una splendida e tenera illustrazione da libro di fiabe, realizzata a mano. Conserva i tratti riconoscibili dei soggetti originali, le acconciature, le pose, le espressioni, l'abbigliamento, il linguaggio del corpo e il legame emotivo che li unisce. Mantieni la composizione e l'interazione fedeli alla foto di riferimento.
-
-STILE ARTISTICO: Un'illustrazione moderna per libri per bambini, calda e giocosa, con una texture morbida che ricorda la pittura a mano, le matite colorate e i pastelli a cera. Usa contorni a schizzo espressivi nei toni del nero e marrone, linee volutamente imperfette, forme organiche semplificate, lineamenti delicati, guance rosee ed espressioni naturali e gioiose. Applica una palette pastello calda con rosa corallo, blu polveroso, marrone caramello, pesca tenue e bianco crema.
-
-TEXTURE E DETTAGLI: Tratti di matita visibili, leggera grana della carta, colore sfumato in modo irregolare, ciocche di capelli appena accennate, ombreggiature minime e affascinanti imperfezioni artigianali. Crea un'atmosfera intima, nostalgica e affettuosa, ricca di calore e personalità.
-
-SFONDO: Semplifica lo sfondo originale trasformandolo in un fondale pulito e minimale color carta crema. Aggiungi qualche piccolo segno decorativo disegnato a mano, linee giocose, minuscoli cuori o scarabocchi espressivi che completino la scena senza distogliere l'attenzione dai soggetti.
-
-COMPOSIZIONE: Mantieni l'inquadratura, la disposizione dei soggetti, la posa e l'interazione originali. Fai in modo che i soggetti siano il chiaro punto focale dell'immagine. Utilizza forme pulite, spazi vuoti bilanciati e un'estetica editoriale organica, tipica dei libri illustrati.
-
-IMPORTANTE: Illustra esattamente la foto caricata, senza inventare una nuova scena. Preserva l'identità e le caratteristiche distintive dei soggetti. Evita il fotorealismo, il rendering 3D, la pittura digitale lucida, i dettagli eccessivi, le ombre dure, gli sfondi complessi e la grafica vettoriale troppo rifinita. Nessun testo, watermark o bordo.
-
-RISULTATO: Un'illustrazione da libro di fiabe di alta qualità, affascinante e disegnata a mano, con l'effetto morbido di una stampa vintage, colori caldi, texture artistiche visibili e un'autentica espressione emotiva. Adatta l'illustrazione in modo naturale alla foto caricata, indipendentemente dai soggetti o dall'ambientazione.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741902851_lg239e_HVNF_kAa4AAOvgY.jpg" width="600" alt="Post sui social media - Prompt per Illustrazione di Libro di Favole Disegnato a Mano - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Sairah](https://x.com/Sairah_0)
-- **Fonte:** [Twitter Post](https://x.com/Sairah_0/status/2113109623859536335)
-- **Pubblicato:** 22 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36756)**
-
----
-
-### No. 35: Post sui social media - Ragazza in Abito da Lupo Mannaro per Halloween
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descrizione
-
-Prompt dettagliato per generare una ragazza con un abito a tema lup mannaro per Halloween, con bordi in pelliccia e accessori con zanne.
-
-#### 📝 Prompt
-
-```
-Una ragazza indossa un vestito a tema lupo per Halloween.
-L'outfit è un miniabito blu scuro con spalle scoperte. Spesso bordo di pelliccia grigia su colletto, polsini e orlo della gonna.
-Grandi stampe di zanne bianche di lupo e impronte di zampe sulla gonna.
-Sottile nastro nero in vita con un ciondolo a forma di zanna all'estremità.
-Mantella corta di pelliccia sulle spalle.
-Niente orecchie sulla testa. Piccole spille a forma di zanna tra i capelli.
-I colori sono blu navy, grigio, bianco e blu notte.
-Figura intera visibile con bordi di pelliccia e motivi a zanna. Un sorriso leggermente selvaggio.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741901130_frljwu_HVJziWabYAEfSvJ.jpg" width="600" alt="Post sui social media - Ragazza in Abito da Lupo Mannaro per Halloween - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792741901322_7x9kdp_HVJzj3nagAAapWL.jpg" width="600" alt="Post sui social media - Ragazza in Abito da Lupo Mannaro per Halloween - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
-- **Fonte:** [Twitter Post](https://x.com/ArtistaNozomu/status/2113104555592601792)
-- **Pubblicato:** 22 ottobre 2026
-- **Lingue:** ja
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36758)**
-
----
-
-### No. 36: Post sui social media - Confronto sulla lunghezza dei prompt per GPT Image 2
+### No. 38: Infografica / Contenuto Visual Educativo - Confronto sulla lunghezza dei prompt per GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2162,7 +2247,7 @@ Pannello destro: etichettato "100 WORDS" nella parte inferiore. L'immagine è un
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655537186_02bb3c_HVKb7QxWYAAdwlm.jpg" width="600" alt="Post sui social media - Confronto sulla lunghezza dei prompt per GPT Image 2 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792655537186_02bb3c_HVKb7QxWYAAdwlm.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Confronto sulla lunghezza dei prompt per GPT Image 2 - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2176,40 +2261,7 @@ Pannello destro: etichettato "100 WORDS" nella parte inferiore. L'immagine è un
 
 ---
 
-### No. 37: Post sui social media - Giganteschi robot MPD che trasportano carichi pesanti
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Due enormi robot della polizia stanno trasportando un carico industriale in un porto affollato, circondati da lavoratori umani.
-
-#### 📝 Prompt
-
-```
-Uno scatto fotorealistico con obiettivo grandangolare di due enormi robot umanoidi bipedi in piedi su una superficie di cemento bagnato in un porto giapponese. I robot sono rivestiti da corazze bianche e grigio scuro, con luci di emergenza rosse sulle spalle e sulla testa. Su ciascun robot compaiono le scritte '警視庁' (Dipartimento di Polizia Metropolitana) e 'MPD' in caratteri neri sulle piastre pettorali e sulle spalline. Insieme sorreggono tra loro un grande e pesante container industriale metallico o un macchinario. Sullo sfondo si stagliano un ponte sospeso (simile al Tokyo Rainbow Bridge), i grattacieli della città e un cielo azzurro punteggiato di nuvole sparse. A livello del suolo si notano numerosi operai edili che indossano gilet ad alta visibilità gialli e caschi protettivi, insieme ad agenti di polizia in divisa scura intenti a dirigere il traffico. Sulla sinistra è parcheggiato un camion della polizia nero con insegne simili.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655538941_ozq4a8_HVKUo4va8AAf23t.jpg" width="600" alt="Post sui social media - Giganteschi robot MPD che trasportano carichi pesanti - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [カーブミラー](https://x.com/kabumira862571)
-- **Fonte:** [Twitter Post](https://x.com/kabumira862571/status/2112914614136737994#reversed-0)
-- **Pubblicato:** 21 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36765)**
-
----
-
-### No. 38: Infografica / Contenuto Visual Educativo - Prompt per Infografica Disegnata a Mano con GPT Image 2
+### No. 39: Infografica / Contenuto Visual Educativo - Prompt per Infografica Disegnata a Mano con GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2245,7 +2297,7 @@ Tema: Poster educativo sul ciclo dell'acqua
 
 ---
 
-### No. 39: Infografica / Contenuto Visual Educativo - LP di viaggio Kiyomizu-dera con mascotte anime
+### No. 40: Infografica / Contenuto Visual Educativo - LP di viaggio Kiyomizu-dera con mascotte anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2288,7 +2340,7 @@ Contenuto testuale: Conservare tutti i testi giapponesi esattamente come mostrat
 
 ---
 
-### No. 40: Infografica / Contenuto Visual Educativo - Prompt GPT Image 2: Dittico di Texture Sperimentale
+### No. 41: Infografica / Contenuto Visual Educativo - Prompt GPT Image 2: Dittico di Texture Sperimentale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2357,7 +2409,7 @@ OUTPUT: un poster verticale 3:4 in alta definizione con metà superiore e inferi
 
 ---
 
-### No. 41: Infografica / Contenuto Visual Educativo - Scheda Personaggio Anime: Bambina che Piange
+### No. 42: Infografica / Contenuto Visual Educativo - Scheda Personaggio Anime: Bambina che Piange
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2390,7 +2442,7 @@ Un character sheet anime ad alta risoluzione di una bambina di 3 anni, realizzat
 
 ---
 
-### No. 42: Infografica / Contenuto Visual Educativo - Scheda di Concept del Personaggio Cyber Stage
+### No. 43: Infografica / Contenuto Visual Educativo - Scheda di Concept del Personaggio Cyber Stage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2439,7 +2491,7 @@ L'estetica generale deve fondere la tecnologia cyberpunk con elementi fantasy et
 
 ---
 
-### No. 43: Infografica / Contenuto Visual Educativo - Confronto tra una stazione ferroviaria tranquilla e una abbandonata
+### No. 44: Infografica / Contenuto Visual Educativo - Confronto tra una stazione ferroviaria tranquilla e una abbandonata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2472,7 +2524,7 @@ Un confronto a schermo diviso di due scene di stazioni ferroviarie al tramonto, 
 
 ---
 
-### No. 44: Infografica / Contenuto Visual Educativo - Haiku sulla Cantina di Vini Trascurata
+### No. 45: Infografica / Contenuto Visual Educativo - Haiku sulla Cantina di Vini Trascurata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2509,7 +2561,7 @@ hanno libero il campo
 
 ---
 
-### No. 45: Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime
+### No. 46: Infografica / Contenuto Visual Educativo - Prompt per Foglio di Design dei Personaggi Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2572,7 +2624,7 @@ Stile visivo: Illustrazione digitale di alta qualità mista a estetiche di diagr
 
 ---
 
-### No. 46: Infografica / Contenuto Visual Educativo - Infografica di Point Nemo
+### No. 47: Infografica / Contenuto Visual Educativo - Infografica di Point Nemo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2621,7 +2673,7 @@ Stile Visivo: Design professionale per infografiche. Utilizzare font sans-serif 
 
 ---
 
-### No. 47: Infografica / Contenuto Visual Educativo - Immagine Termica di una Persona
+### No. 48: Infografica / Contenuto Visual Educativo - Immagine Termica di una Persona
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2654,7 +2706,7 @@ Una fotografia termica realistica di una persona in piedi in un ambiente interno
 
 ---
 
-### No. 48: Infografica / Contenuto Visual Educativo - Progettazione del poster per il Festival delle Arti di Tsing Hua
+### No. 49: Infografica / Contenuto Visual Educativo - Progettazione del poster per il Festival delle Arti di Tsing Hua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2687,7 +2739,7 @@ Crea un poster di graphic design a schermo diviso per il '2025 Spring x Tsing Hu
 
 ---
 
-### No. 49: Infografica / Contenuto Visual Educativo - Banner per lo sviluppo di giochi in giapponese
+### No. 50: Infografica / Contenuto Visual Educativo - Banner per lo sviluppo di giochi in giapponese
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2720,7 +2772,7 @@ Un'immagine orizzontale del banner con uno sfondo beige chiaro. Sul lato sinistr
 
 ---
 
-### No. 50: Infografica / Contenuto Visual Educativo - Deliziosa foto dall'alto di una scrivania per la concentrazione e illustrazione kawaii
+### No. 51: Infografica / Contenuto Visual Educativo - Deliziosa foto dall'alto di una scrivania per la concentrazione e illustrazione kawaii
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2761,7 +2813,7 @@ Stile Visivo: La parte superiore è una fotografia nitida, luminosa e ariosa. La
 
 ---
 
-### No. 51: Miniatura di YouTube - Poliziotto Robot Gigante a Tokyo
+### No. 52: Miniatura di YouTube - Poliziotto Robot Gigante a Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2794,7 +2846,7 @@ Un'ampia inquadratura cinematografica e fotorealistica di una trafficata strada 
 
 ---
 
-### No. 52: Miniatura di YouTube - Controllo del Traffico con Robot Gigante
+### No. 53: Miniatura di YouTube - Controllo del Traffico con Robot Gigante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2827,7 +2879,7 @@ Una scena notturna cinematografica e fotorealistica a Tokyo, con un colossale ro
 
 ---
 
-### No. 53: Miniatura di YouTube - Annuncio Pubblicitario Cinematografico di Pollo Fritto
+### No. 54: Miniatura di YouTube - Annuncio Pubblicitario Cinematografico di Pollo Fritto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2870,7 +2922,7 @@ Crea una pubblicità cinematografica di cibo di livello mondiale e ultra-fotorea
 
 ---
 
-### No. 54: Miniatura di YouTube - Sorella di Battle Rising
+### No. 55: Miniatura di YouTube - Sorella di Battle Rising
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2903,7 +2955,7 @@ La sua benedetta chainsword è in frantumi, sanguina, circondata e in inferiorit
 
 ---
 
-### No. 55: Miniatura di YouTube - Duello Finale dell'Eresia di Horus
+### No. 56: Miniatura di YouTube - Duello Finale dell'Eresia di Horus
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2936,7 +2988,7 @@ Il duello finale dell'Eresia di Horus. A bordo della Vengeful Spirit, in orbita 
 
 ---
 
-### No. 56: Miniatura di YouTube - Lady Death combatte contro i demoni
+### No. 57: Miniatura di YouTube - Lady Death combatte contro i demoni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2969,7 +3021,7 @@ Lady Death (Hope) di Brian Pulido taglia a pezzi diversi demoni cornuti e creatu
 
 ---
 
-### No. 57: Miniatura di YouTube - Silhouette sulla cima della montagna al tramonto cosmico
+### No. 58: Miniatura di YouTube - Silhouette sulla cima della montagna al tramonto cosmico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3020,7 +3072,7 @@ Un paesaggio maestoso e surreale che presenta la silhouette solitaria di una per
 
 ---
 
-### No. 58: Miniatura di YouTube - Guerriera Anime Realistica in Battaglia Medievale
+### No. 59: Miniatura di YouTube - Guerriera Anime Realistica in Battaglia Medievale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3053,7 +3105,7 @@ Un'azione cinematografica iperrealistica di una giovane guerriera giapponese nel
 
 ---
 
-### No. 59: Miniatura di YouTube - Personaggio Minecraft in un Campo di Girasoli
+### No. 60: Miniatura di YouTube - Personaggio Minecraft in un Campo di Girasoli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3086,7 +3138,7 @@ Un primo piano iperrealistico e cinematografico di un personaggio in stile Minec
 
 ---
 
-### No. 60: Miniatura di YouTube - Prompt GPT Image 2 per una Trasformazione Magica del Lama
+### No. 61: Miniatura di YouTube - Prompt GPT Image 2 per una Trasformazione Magica del Lama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3125,7 +3177,7 @@ Un lama sottoposto a una Selvaggia Trasformazione Magica mentre viti incantate, 
 
 ---
 
-### No. 61: Miniatura di YouTube - Uomo Surreale su una Nuvola con Città Sotto
+### No. 62: Miniatura di YouTube - Uomo Surreale su una Nuvola con Città Sotto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3172,7 +3224,7 @@ Nessun aspetto da cartone animato, nessuna illustrazione, nessun look CGI, nessu
 
 ---
 
-### No. 62: Miniatura di YouTube - Prompt per Scena Fantasy Cinematografica con Molte Porte per GPT Image 2
+### No. 63: Miniatura di YouTube - Prompt per Scena Fantasy Cinematografica con Molte Porte per GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3233,7 +3285,7 @@ Intorno a lui ci sono decine di ingressi enormi e splendidamente dettagliati, og
 
 ---
 
-### No. 63: Miniatura di YouTube - Prompt Steampunk: The Last Gear
+### No. 64: Miniatura di YouTube - Prompt Steampunk: The Last Gear
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3273,7 +3325,7 @@ sicuramente, questo mondo tornerà a muoversi.
 
 ---
 
-### No. 64: Miniatura di YouTube - Robot di Polizia Gigante in un Salvataggio Notturno
+### No. 65: Miniatura di YouTube - Robot di Polizia Gigante in un Salvataggio Notturno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3306,7 +3358,7 @@ Una scena notturna cinematografica e fotorealistica che raffigura un enorme robo
 
 ---
 
-### No. 65: Miniatura di YouTube - Donna che legge in una strada innevata
+### No. 66: Miniatura di YouTube - Donna che legge in una strada innevata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3339,7 +3391,7 @@ Un ritratto verticale di una giovane donna con lunghi capelli scuri e morbidi ci
 
 ---
 
-### No. 66: Miniatura di YouTube - Gigantesco robot MPD rimuove i detriti
+### No. 67: Miniatura di YouTube - Gigantesco robot MPD rimuove i detriti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3372,7 +3424,7 @@ Un'immagine cinematografica e fotorealistica di un colossale robot bipede della 
 
 ---
 
-### No. 67: Miniatura di YouTube - Trasformazione fotorealistica dell'aereo da guerra
+### No. 68: Miniatura di YouTube - Trasformazione fotorealistica dell'aereo da guerra
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3405,7 +3457,7 @@ Utilizzando l'immagine di riferimento fornita, trasforma l'illustrazione dipinta
 
 ---
 
-### No. 68: Miniatura di YouTube - Scena di Danza in un Corridoio Vintage Accogliente
+### No. 69: Miniatura di YouTube - Scena di Danza in un Corridoio Vintage Accogliente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3438,7 +3490,7 @@ Crea una scena cinematografica animata 3D commovente all'interno di un corridoio
 
 ---
 
-### No. 69: Miniatura di YouTube - Checkpoint del Robot della Polizia di Tokyo
+### No. 70: Miniatura di YouTube - Checkpoint del Robot della Polizia di Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3471,7 +3523,7 @@ Scatto grandangolare iperrealistico di un enorme robot bipede della polizia posi
 
 ---
 
-### No. 70: Fumetto / Storyboard - Prompt per Personaggio su Manifesto di Taglia Comico
+### No. 71: Fumetto / Storyboard - Prompt per Personaggio su Manifesto di Taglia Comico
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3521,7 +3573,7 @@ Per la composizione, usa una posa in piedi davanti alle linee metriche per il ri
 
 ---
 
-### No. 71: Fumetto / Storyboard - Ragazza Anime che Lancia la Palla da Baseball
+### No. 72: Fumetto / Storyboard - Ragazza Anime che Lancia la Palla da Baseball
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3554,7 +3606,7 @@ Illustrazione verticale in stile webtoon di un personaggio femminile anime che l
 
 ---
 
-### No. 72: Fumetto / Storyboard - Prompt per un uomo elegante con attrezzatura da bowling
+### No. 73: Fumetto / Storyboard - Prompt per un uomo elegante con attrezzatura da bowling
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3591,7 +3643,7 @@ e dalle scarpe da bowling multicolori
 
 ---
 
-### No. 73: Fumetto / Storyboard - Prompt per istruzioni videocitofono wireless
+### No. 74: Fumetto / Storyboard - Prompt per istruzioni videocitofono wireless
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3628,7 +3680,7 @@ se non fossero troppo piccole per essere lette
 
 ---
 
-### No. 74: Fumetto / Storyboard - Fumetto della Ragazza Pinguino Carina
+### No. 75: Fumetto / Storyboard - Fumetto della Ragazza Pinguino Carina
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3684,7 +3736,7 @@ Vignetta 4: Vista laterale della ragazza che annusa il bidone della spazzatura c
 
 ---
 
-### No. 75: Fumetto / Storyboard - Corvo pazzo che fa scoppiare un palloncino giallo
+### No. 76: Fumetto / Storyboard - Corvo pazzo che fa scoppiare un palloncino giallo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3717,7 +3769,7 @@ Un'illustrazione whimsical, disegnata a mano in stile libro per bambini, raffigu
 
 ---
 
-### No. 76: Fumetto / Storyboard - Prompt per Illustrazione di Combattimento in Stile Neo-Naïf
+### No. 77: Fumetto / Storyboard - Prompt per Illustrazione di Combattimento in Stile Neo-Naïf
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3782,7 +3834,7 @@ Formato verticale, firma "voxcat" estremamente piccola nell'angolo in basso a de
 
 ---
 
-### No. 77: Fumetto / Storyboard - Opus 5.5 vs Wife GPT: Fumetto a Strisce
+### No. 78: Fumetto / Storyboard - Opus 5.5 vs Wife GPT: Fumetto a Strisce
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3837,7 +3889,7 @@ Stile visivo: Illustrazione digitale pulita, colori vivaci per la prima vignetta
 
 ---
 
-### No. 78: Fumetto / Storyboard - Infografica Manga: Ingegneria dei Prompt AI
+### No. 79: Fumetto / Storyboard - Infografica Manga: Ingegneria dei Prompt AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3889,7 +3941,7 @@ Sezione Inferiore:
 
 ---
 
-### No. 79: Fumetto / Storyboard - Chun-Li sferra un calcio a un mostro gigante
+### No. 80: Fumetto / Storyboard - Chun-Li sferra un calcio a un mostro gigante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3922,7 +3974,7 @@ Un'illustrazione digitale ad alta risoluzione in stile fumetto vibrante che raff
 
 ---
 
-### No. 80: Fumetto / Storyboard - Illustrazione di Studio in un Caffè Folk Art
+### No. 81: Fumetto / Storyboard - Illustrazione di Studio in un Caffè Folk Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3983,7 +4035,7 @@ Spargi solo pochi minuscoli elementi fluttuanti nello spazio vuoto: quattro o ci
 
 ---
 
-### No. 81: Fumetto / Storyboard - Trasformazione in Illustrazione di Moda Disegnata a Mano
+### No. 82: Fumetto / Storyboard - Trasformazione in Illustrazione di Moda Disegnata a Mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4034,7 +4086,7 @@ Trasforma questa foto in un carino schizzo lifestyle/moda disegnato a mano in st
 
 ---
 
-### No. 82: Fumetto / Storyboard - Prompt per illustrazione a ritagli di carta per GPT Image 2
+### No. 83: Fumetto / Storyboard - Prompt per illustrazione a ritagli di carta per GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4115,7 +4167,7 @@ Evita fotorealismo, CGI, superfici lucide, aspetto plastico, colori neon, illumi
 
 ---
 
-### No. 83: Fumetto / Storyboard - Trasformazione in Officina Steampunk con Vista Aerea
+### No. 84: Fumetto / Storyboard - Trasformazione in Officina Steampunk con Vista Aerea
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4148,7 +4200,7 @@ Utilizzando l'immagine di riferimento fornita, trasforma il ritratto in una vist
 
 ---
 
-### No. 84: Fumetto / Storyboard - Cartografo Fantasy e Cane
+### No. 85: Fumetto / Storyboard - Cartografo Fantasy e Cane
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4181,7 +4233,7 @@ Utilizzando l'immagine di riferimento fornita, trasforma il soggetto e il suo ca
 
 ---
 
-### No. 85: Fumetto / Storyboard - Collage di ritratti editoriali vintage
+### No. 86: Fumetto / Storyboard - Collage di ritratti editoriali vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4220,7 +4272,7 @@ Layout a griglia 2×2 simmetrico, sottili divisori bianchi tra i riquadri, ident
 
 ---
 
-### No. 86: Fumetto / Storyboard - Dama di corte in rosa trasparente
+### No. 87: Fumetto / Storyboard - Dama di corte in rosa trasparente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4260,7 +4312,7 @@ Crea una delicata illustrazione ritratto in stile anime di {argument name="chara
 
 ---
 
-### No. 87: Marketing di Prodotto - Prompt Outfit Ragazza Zombie Halloween
+### No. 88: Marketing di Prodotto - Prompt Outfit Ragazza Zombie Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4306,7 +4358,7 @@ Figura intera in cui il design strappato sia ben visibile. Viso carino con un'es
 
 ---
 
-### No. 88: Marketing di Prodotto - Design di Poster Commerciale per Tè Orientale
+### No. 89: Marketing di Prodotto - Design di Poster Commerciale per Tè Orientale
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4365,7 +4417,7 @@ Nessuna figura umana, costumi antichi, scene realistiche di sale da tè, paesagg
 
 ---
 
-### No. 89: Marketing di Prodotto - Poster con Rifrazione delle Linee di Contorno dell'Acqua Minerale
+### No. 90: Marketing di Prodotto - Poster con Rifrazione delle Linee di Contorno dell'Acqua Minerale
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4423,7 +4475,7 @@ Utilizza una luce zenitale morbida e una controluce posteriore sinistra per rend
 
 ---
 
-### No. 90: Marketing di Prodotto - Poster con Proiezione Luminosa della Lampada
+### No. 91: Marketing di Prodotto - Poster con Proiezione Luminosa della Lampada
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4481,7 +4533,7 @@ Utilizza una texture fotografica tipica degli interni notturni, silenziosa e dis
 
 ---
 
-### No. 91: Marketing di Prodotto - Prompt per Poster Prodotto Cuffie
+### No. 92: Marketing di Prodotto - Prompt per Poster Prodotto Cuffie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4541,7 +4593,7 @@ Nessuna persona, luci di scena, festival musicali, UI EQ, spettrogrammi, coperti
 
 ---
 
-### No. 92: Marketing di Prodotto - Prompt per Annuncio Prodotto Casa Healing
+### No. 93: Marketing di Prodotto - Prompt per Annuncio Prodotto Casa Healing
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4604,7 +4656,7 @@ In alto a sinistra posiziona un piccolo Logo composto dalla lettera V e da una f
 
 ---
 
-### No. 93: Marketing di Prodotto - Prompt Poster Ceramica GPT Image 2: Anelli del Forno
+### No. 94: Marketing di Prodotto - Prompt Poster Ceramica GPT Image 2: Anelli del Forno
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4661,7 +4713,7 @@ La luce proviene da un grande softbox in alto a sinistra, evidenziando l'altezza
 
 ---
 
-### No. 94: Marketing di Prodotto - Prompt Poster Casco Ciclismo GPT Image 2: Profilo Flusso Aria
+### No. 95: Marketing di Prodotto - Prompt Poster Casco Ciclismo GPT Image 2: Profilo Flusso Aria
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4718,7 +4770,7 @@ Combina fotografia di prodotto ad alta velocità con estetica ingegneristica, en
 
 ---
 
-### No. 95: Marketing di Prodotto - Prompt per Poster con Penna a Goccia GPT Image 2: Percorso di Pieghe a Inchiostro
+### No. 96: Marketing di Prodotto - Prompt per Poster con Penna a Goccia GPT Image 2: Percorso di Pieghe a Inchiostro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4775,7 +4827,7 @@ Usa fotografia still life ravvicinata, con luce soffusa proveniente dall'alto a 
 
 ---
 
-### No. 96: Marketing di Prodotto - Prompt per poster vinile con GPT Image 2: Groove City
+### No. 97: Marketing di Prodotto - Prompt per poster vinile con GPT Image 2: Groove City
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4832,7 +4884,7 @@ Usa luce dura laterale dall'alto per creare ombre nette e sottili delle pareti a
 
 ---
 
-### No. 97: Marketing di Prodotto - Prompt GPT Image 2 Poster Cibo per Animali: Ombra della Ciotola a Forma di Cane
+### No. 98: Marketing di Prodotto - Prompt GPT Image 2 Poster Cibo per Animali: Ombra della Ciotola a Forma di Cane
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4889,7 +4941,7 @@ Combina fotografia reale di cibo, branding grafico e un'illusione visiva umorist
 
 ---
 
-### No. 98: Marketing di Prodotto - Prompt GPT Image 2 per Poster Tenda da Campeggio: Coordinate Notturne
+### No. 99: Marketing di Prodotto - Prompt GPT Image 2 per Poster Tenda da Campeggio: Coordinate Notturne
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4946,7 +4998,7 @@ L'illuminazione consiste in luce calda dall'interno della tenda, luce lunare fre
 
 ---
 
-### No. 99: Marketing di Prodotto - Prompt per Poster Dessert GPT-Image-2
+### No. 100: Marketing di Prodotto - Prompt per Poster Dessert GPT-Image-2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5005,7 +5057,7 @@ I colori devono utilizzare esclusivamente bianco crema, marrone caramello e una 
 
 ---
 
-### No. 100: Marketing di Prodotto - Prompt per Design Poster Liquori GPT Image 2
+### No. 101: Marketing di Prodotto - Prompt per Design Poster Liquori GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5076,7 +5128,7 @@ Preserva delicate texture naturali dei materiali e precisi riflessi sul vetro; e
 
 ---
 
-### No. 101: Marketing di Prodotto - Prompt per Poster Pubblicitario Sneaker GPT-2
+### No. 102: Marketing di Prodotto - Prompt per Poster Pubblicitario Sneaker GPT-2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5132,7 +5184,7 @@ Genera solo un poster indipendente ogni volta. Evita loghi di marchi reali, pers
 
 ---
 
-### No. 102: Marketing di Prodotto - Prompt per Poster Editoriale Giapponese sul Caffè con GPT-Image
+### No. 103: Marketing di Prodotto - Prompt per Poster Editoriale Giapponese sul Caffè con GPT-Image
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5196,57 +5248,6 @@ L'output finale è composto da 4 poster indipendenti 9:16, che mantengono l'unit
 - **Lingue:** zh
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36320)**
-
----
-
-### No. 103: Marketing di Prodotto - Ritratto di Abito da Sera in Velluto Rosso Rubino di Lusso
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Prompt per creare un ritratto editoriale di moda lussuoso ultra-realistico di una donna che indossa un abito da sera in velluto rosso rubino intenso in un elegante salone da ballo.
-
-#### 📝 Prompt
-
-```
-Un ritratto editoriale di moda lussuoso ultra-realistico in 8K di un'elegante donna adulta con lunghi e voluminosi capelli castani ondulati, ciocche morbide che incorniciano il viso, pelle chiara luminosa, occhi verde nocciola, tratti delicati e labbra lucide rosa antico. Indossa un squisito abito da sera in velluto rosso rubino intenso, caratterizzato da uno scollo a cuore scolpito, drappeggi plissettati intricati sul corpetto, un design spalle scoperte, tessuto fluente fino al pavimento e maniche drammatiche a mantello che cadono elegantemente dalle braccia. È abbinato a una collana statement scintillante con diamanti, orecchini pendenti coordinati e un lussuoso bracciale di diamanti. Assume pose graziose con le mani appoggiate delicatamente vicino alla coscia, guardando direttamente nella fotocamera con un'espressione sicura e dolce. L'ambientazione è un elegante salone da ballo di lusso con sfondo scuro dai toni caldi, luci ambientali dorate e un sottile riflesso dello specchio dietro di lei, creando un'atmosfera glamour da red carpet. Fotografia professionale di moda di lusso, illuminazione cinematografica calda, riflessi morbidi sulla pelle, texture realistica del velluto, dettagli intricati del tessuto, proporzioni naturali del corpo, profondità di campo ridotta, obiettivo ritrattistico 85mm, messa a fuoco nitida del viso, color grading sofisticato, texture della pelle fotorealistica, estetica di copertina di rivista high-end, composizione verticale 9:16.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791792859303_mojm1g_HUWl5gaXgAADYPt.jpg" width="600" alt="Marketing di Prodotto - Ritratto di Abito da Sera in Velluto Rosso Rubino di Lusso - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791792859679_67wh16_HUWl5gZXAAA6trs.jpg" width="600" alt="Marketing di Prodotto - Ritratto di Abito da Sera in Velluto Rosso Rubino di Lusso - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791792859675_ua6hlp_HUWl5gYXMAAKQGJ.jpg" width="600" alt="Marketing di Prodotto - Ritratto di Abito da Sera in Velluto Rosso Rubino di Lusso - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791792860203_kdtt1c_HUWl5gbXUAAG9ia.jpg" width="600" alt="Marketing di Prodotto - Ritratto di Abito da Sera in Velluto Rosso Rubino di Lusso - Image 4">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Talia](https://x.com/TaliaAariz)
-- **Fonte:** [Twitter Post](https://x.com/TaliaAariz/status/2109274485366907362)
-- **Pubblicato:** 11 ottobre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=36319)**
 
 ---
 
@@ -6061,7 +6062,7 @@ Proporzioni: ritratto verticale 4:5.
 
 <div align="center">
 
-### 🎯 17878 altri prompt non mostrati qui
+### 🎯 17886 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6124,6 +6125,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-25T02:10:26.733Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-25T15:13:12.544Z</sub>
 
 </div>
