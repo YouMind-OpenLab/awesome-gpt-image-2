@@ -139,9 +139,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **18033** |
+| 📝 プロンプト総数 | **18040** |
 | ⭐ おすすめ | **6** |
-| 🔄 最終更新 | **2026年10月29日木曜日 3:20:24 UTC** |
+| 🔄 最終更新 | **2026年10月29日木曜日 17:44:38 UTC** |
 
 </div>
 
@@ -525,7 +525,90 @@ VR ヘッドセットのハイテクな分解図を、詳細なパーツ説明�
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: プロフィール / アバター - イエロージンガムナース衣装プロンプト
+### No. 1: プロフィール / アバター - GPT Image 2 色鉛筆イラストレーション
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+アップロードした写真を、構図と人物のアイデンティティを保ちながら手描きの色鉛筆イラストに変換するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+アップロードされた写真を、元の写真の内容・構図・情感をそのまま保ちながら、美しい手描きの色鉛筆イラストへと変換してください。
+
+1. 参照画像の正確性
+アップロードされた写真を注意深く分析してください。被写体の人物像、顔立ち、髪型、表情、ポーズ、服装、アクセサリー、身体の比率、周囲のオブジェクト、背景、カメラアングル、遠近感、ライティング、そして特徴的な細部までを含みます。
+
+同じシーンをイラストとして再現してください。元の被写体の特徴的な外見と、シーン内の配置を正確に保ちます。ポーズを変更したり、存在しないオブジェクトを追加したり、重要なディテールを省略したり、元の環境を改変したりしないでください。
+
+2. アートスタイル
+伝統的な色鉛筆とクレヨンによるイラストスタイルを採用し、ざらつきのあるクリーム色のスケッチブック用紙に手描きされたような美しい絵画に仕上げてください。
+
+以下の要素を取り入れます：
+- 色鉛筆のストローク（線の跡）と繊細なクロスハッチング（交差する線による陰影）が見えること。
+- 柔らかく、あえて完璧ではない手描きの輪郭線。
+- 筆圧の自然な強弱を活かした、重ね塗りの陰影表現。
+- 用紙のきめ細かな質感と、クレヨンのほのかなテクスチャ。
+- 淡いパステル調のニュアンスを含む、温かみのある落ち着いた色彩。
+- ややラフな輪郭線と、手描きならではの愛らしい不完全さ。
+- デジタル特有の滑らかなグラデーションではなく、自然な色の混ざり合い。
+- 一本一本流れるような線で丁寧に描かれた髪の毛。
+- シンプルでありながらも本人とわかる、表情豊かな顔のディテール。
+- 写真のような陰影ではなく、鉛筆の重ね塗りで表現される柔らかな影。
+
+3. カラーパレット
+クリーミーベージュ、ダスティピンク、くすんだブラウン、温かみのあるキャラメル、チャコールブラック、ソフトグレー、そして控えめなアースカラーを中心とした、ノスタルジックで温かみのあるパレットを使用してください。元の写真の実際の色合いに合わせつつ、伝統的なアナログ画材の表現へと落とし込んでください。
+
+4. 背景と環境
+家具、ドア、壁、通り、歩道、手すり、植物、ペット、建物など、見えるすべての要素を含め、元の背景を忠実に再現してください。
+
+背景のディテールは、ラフでありながらも意図を持った鉛筆のタッチで描きます。元の奥行き、遠近感、空間的な位置関係を維持しつつ、シーン全体が統一感のある手描きイラストになるように仕上げてください。
+
+5. ライティングと雰囲気
+元の光の方向と全体的な雰囲気をそのまま保ってください。個人的なイラスト日記やアーティストのスケッチブックの 1 ページにその瞬間が切り取られたかのような、居心地がよく親密で、ノスタルジックな感情を表現します。
+
+6. 最終仕上げ
+画像全体が、アートフィルターをかけた写真ではなく、質感のある紙に色鉛筆で本当に手描きされたように見えなければなりません。
+
+元のアスペクト比と構図を維持してください。画像全体を通して、緻密なイラスト表現、有機的な線画、鉛筆の粒子感、優しい不完全さ、一貫した手描きのテクスチャを用いてください。
+
+重要：アップロードされた写真のみが、このシーンの唯一の参照元です。被写体の人物像、ポーズ、オブジェクト、構図をそのまま保持してください。変更するのは視覚的な表現手法のみであり、伝統的なイラストへと変換します。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259848181_pag8pu_HVxkeJOaMAI5EyU.jpg" width="600" alt="プロフィール / アバター - GPT Image 2 色鉛筆イラストレーション - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259848201_k3gaz9_HVxkeJZaAAEzIKO.jpg" width="600" alt="プロフィール / アバター - GPT Image 2 色鉛筆イラストレーション - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259849466_5u1d74_HVxkeJYbYAA74N9.jpg" width="600" alt="プロフィール / アバター - GPT Image 2 色鉛筆イラストレーション - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Sairah](https://x.com/Sairah_0)
+- **ソース:** [Twitter Post](https://x.com/Sairah_0/status/2115676409092096205)
+- **公開日:** 2026年10月29日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37045)**
+
+---
+
+### No. 2: プロフィール / アバター - イエロージンガムナース衣装プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -544,13 +627,13 @@ VR ヘッドセットのハイテクな分解図を、詳細なパーツ説明�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173373839_ykayan_HVm6P_6a8AATJu8.jpg" width="600" alt="プロフィール / アバター - イエロージンガムナース衣装プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793259851455_1jd6pu_HVm6P_6a8AATJu8.jpg" width="600" alt="プロフィール / アバター - イエロージンガムナース衣装プロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173373948_ke8odu_HVm7J8MacAEjmDq.jpg" width="600" alt="プロフィール / アバター - イエロージンガムナース衣装プロンプト - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793259851428_m6z18p_HVm7J8MacAEjmDq.jpg" width="600" alt="プロフィール / アバター - イエロージンガムナース衣装プロンプト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -564,7 +647,7 @@ VR ヘッドセットのハイテクな分解図を、詳細なパーツ説明�
 
 ---
 
-### No. 2: プロフィール / アバター - 秋のイラスト風ステッカー変換
+### No. 3: プロフィール / アバター - 秋のイラスト風ステッカー変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -595,13 +678,13 @@ GPT Image 2 を使用して、アップロードした写真を魅力的な手�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173368129_96r5lt_HVsw2BJbYAEMeiZ.jpg" width="600" alt="プロフィール / アバター - 秋のイラスト風ステッカー変換 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793259849469_tde706_HVsw2BJbYAEMeiZ.jpg" width="600" alt="プロフィール / アバター - 秋のイラスト風ステッカー変換 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173367769_h0ol0p_HVsw2Bab0AAnBnS.jpg" width="600" alt="プロフィール / アバター - 秋のイラスト風ステッカー変換 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793259849526_cl6tfy_HVsw2Bab0AAnBnS.jpg" width="600" alt="プロフィール / アバター - 秋のイラスト風ステッカー変換 - Image 2">
 </div>
 
 #### 📌 詳細
@@ -615,7 +698,7 @@ GPT Image 2 を使用して、アップロードした写真を魅力的な手�
 
 ---
 
-### No. 3: プロフィール / アバター - シネマティックな夜市場の女剣士
+### No. 4: プロフィール / アバター - シネマティックな夜市場の女剣士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -664,7 +747,7 @@ GPT Image 2 を使用して、アップロードした写真を魅力的な手�
 
 ---
 
-### No. 4: プロフィール / アバター - かぼちゃドレス ハロウィン プロンプト
+### No. 5: プロフィール / アバター - かぼちゃドレス ハロウィン プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -689,13 +772,13 @@ GPT Image 2 を使用して、アップロードした写真を魅力的な手�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173374549_eaw7my_HVm8ZrvaIAANqCS.jpg" width="600" alt="プロフィール / アバター - かぼちゃドレス ハロウィン プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793259849835_8kd3px_HVm8ZrvaIAANqCS.jpg" width="600" alt="プロフィール / アバター - かぼちゃドレス ハロウィン プロンプト - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173374567_bjkszp_HVm835QbkAA8klN.jpg" width="600" alt="プロフィール / アバター - かぼちゃドレス ハロウィン プロンプト - Image 2">
+<img src="https://cms-assets.youmind.com/media/1793259849580_05btrh_HVm835QbkAA8klN.jpg" width="600" alt="プロフィール / アバター - かぼちゃドレス ハロウィン プロンプト - Image 2">
 </div>
 
 #### 📌 詳細
@@ -709,7 +792,7 @@ GPT Image 2 を使用して、アップロードした写真を魅力的な手�
 
 ---
 
-### No. 5: プロフィール / アバター - ハニーキャンドルドレス ハロウィン ガール
+### No. 6: プロフィール / アバター - ハニーキャンドルドレス ハロウィン ガール
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -750,7 +833,7 @@ GPT Image 2 を使用して、アップロードした写真を魅力的な手�
 
 ---
 
-### No. 6: プロフィール / アバター - 地下鉄での自然なスナップ写真のプロンプト
+### No. 7: プロフィール / アバター - 地下鉄での自然なスナップ写真のプロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -783,7 +866,7 @@ GPT-image-2 を使用して、地下鉄に乗る女性のリアルなスナッ�
 
 ---
 
-### No. 7: プロフィール / アバター - GPT Image ミニチュア強制遠近法プロンプト
+### No. 8: プロフィール / アバター - GPT Image ミニチュア強制遠近法プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -841,7 +924,7 @@ GPT-image-2 を使用して、地下鉄に乗る女性のリアルなスナッ�
 
 ---
 
-### No. 8: プロフィール / アバター - カピバラ ユズ温泉 ステッカー
+### No. 9: プロフィール / アバター - カピバラ ユズ温泉 ステッカー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -874,7 +957,7 @@ GPT-image-2 を使用して、地下鉄に乗る女性のリアルなスナッ�
 
 ---
 
-### No. 9: プロフィール / アバター - レトロ ポートレート：ぬいぐるみ犬を頭に乗せた少女
+### No. 10: プロフィール / アバター - レトロ ポートレート：ぬいぐるみ犬を頭に乗せた少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -907,7 +990,7 @@ GPT-image-2 を使用して、地下鉄に乗る女性のリアルなスナッ�
 
 ---
 
-### No. 10: プロフィール / アバター - 車内でのシネマティックなロードトリップ・ポートレート
+### No. 11: プロフィール / アバター - 車内でのシネマティックなロードトリップ・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -940,7 +1023,7 @@ GPT-image-2 を使用して、地下鉄に乗る女性のリアルなスナッ�
 
 ---
 
-### No. 11: プロフィール / アバター - GPT Image 2 で作る居心地の良いカフェのポートレート
+### No. 12: プロフィール / アバター - GPT Image 2 で作る居心地の良いカフェのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -973,7 +1056,7 @@ GPT Image 2 で生成する、カフェにいる若い東アジア系女性の�
 
 ---
 
-### No. 12: プロフィール / アバター - キャンディを差し出す女性のポートレート
+### No. 13: プロフィール / アバター - キャンディを差し出す女性のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1089,7 @@ GPT Image 2 で生成する、カフェにいる若い東アジア系女性の�
 
 ---
 
-### No. 13: プロフィール / アバター - ビーズテクスチャ付き 3D キャリカチュアポートレート
+### No. 14: プロフィール / アバター - ビーズテクスチャ付き 3D キャリカチュアポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1057,7 +1140,7 @@ Ultra-HD、精緻なマイクロディテール、プロフェッショナルな
 
 ---
 
-### No. 14: プロフィール / アバター - 浅い被写界深度 I2I
+### No. 15: プロフィール / アバター - 浅い被写界深度 I2I
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1104,7 +1187,7 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 15: プロフィール / アバター - 昭和レトロな花柄着物の少女ポートレート
+### No. 16: プロフィール / アバター - 昭和レトロな花柄着物の少女ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1137,7 +1220,7 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 16: プロフィール / アバター - 昭和レトロ ビーチ ポートレート
+### No. 17: プロフィール / アバター - 昭和レトロ ビーチ ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1170,7 +1253,7 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 17: プロフィール / アバター - 目に赤いライトを当てたドラマチックなポートレート
+### No. 18: プロフィール / アバター - 目に赤いライトを当てたドラマチックなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1204,7 +1287,7 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 18: プロフィール / アバター - モノクロエレガントな秋の装い
+### No. 19: プロフィール / アバター - モノクロエレガントな秋の装い
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1243,7 +1326,7 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 19: プロフィール / アバター - 写実的な唐代漢服ポートレート
+### No. 20: プロフィール / アバター - 写実的な唐代漢服ポートレート
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1306,22 +1389,18 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 20: プロフィール / アバター - 地中海の庭園でのポートレート
+### No. 21: ソーシャルメディア投稿 - ヴィンテージカメラを持つレトロな昭和ガール
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-大理石の手すりと花々が咲く地中海の湖畔庭園で、ラベンダー色のグラデーションドレスを着た若い女性の写実的なポートレートを描画するためのプロンプト。
+レトロな昭和ガールがヴィンテージカメラを持ち、視聴者に向けて手を伸ばすノスタルジックなフィルム風ポートレートを生成します。背景は素朴な木製です。
 
 #### 📝 プロンプト
 
 ```
-地中海の湖畔にある庭園の午後。高い位置から陽光が斜めに差し込んでいる。遠くには静かな青い湖面と、霧に包まれた山々。湖畔には淡い色合いのヴィラと細長い糸杉が点在している。手前はヨーロッパ風の石造りテラス。白い大理石の手すり、彫刻入りの柱、通路に沿って並べられた大きな植木鉢。アーチや壁、プランターからは、咲き誇る白や薄紫の花々が自然な流れで垂れ下がっている。
-
-若い女性が庭園テラスの中央に立っている。薄紫からミルキーホワイトへとグラデーションを描くシアーなロングドレスを身につけている。半透明の幾重ものガーゼが風にふわりと持ち上げられ、スカートが自然に広がっている。少し横向きに立ち、片手でスカートの裾を持ち上げ、もう一方の手は鎖骨のあたりに添えられている。長い髪は風に後ろへなびき、白い花飾りで彩られている。大げさなポーズではなく、湖畔の散歩中にふと足を止めたような、陽光に照らされた一瞬の姿。
-
-全体の雰囲気は静かで明るく、柔らかい。強いドラマ性はない。むしろヨーロッパのプライベートな湖畔庭園で過ごす、晩春の午後のようである。ミルキーホワイト、薄紫、レイクブルー、ペールグリーンを中心としたカラーパレット。空気は澄み渡っている。花びら、ガーゼ、水面にはかすかな反射が見られる。質感は、ハイエンドなブライダルフォトグラフィと、夢のようなライフスタイルフォトグラフィの中間にある。
+昭和レトロな雰囲気を纏う若い東アジア人女性の自然な一瞬を切り取った、縦構図のミディアムショット写真。肩にかかる長さの黒髪にストレートの前髪を下ろし、袖を肘までロールアップしたベージュのボタンダウンシャツとブルーデニムのジーンズを合わせています。表情は生き生きとして驚きに満ちており、何かを話しているかのように、あるいは笑い声を上げるように口を開いています。右手にはヴィンテージの黒い蛇腹式折りたたみカメラ（中判）を胸元に寄せるようにして持っています。左腕はレンズに向かってまっすぐ伸ばされ、手前に大きくピントが外れた状態で写り込むことで強烈な遠近感が生まれ、まるで見る者へ手を差し伸べているような構図になっています。背景には、澄み渡る青空の下、色褪せたダークカラーの外壁と瓦屋根の軒先を持つ木造建築が佇んでいます。全体を通して 1970 年代から 80 年代のアナログ写真特有のフィルム粒子の質感、温かみのある色調、そして柔らかなライティングが際立つ一枚です。
 ```
 
 #### 🖼️ 生成画像
@@ -1329,21 +1408,97 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1792482825198_abt3nn_HU_0z1baYAAz9TF.jpg" width="600" alt="プロフィール / アバター - 地中海の庭園でのポートレート - Image 1">
+<img src="https://cms-assets.youmind.com/media/1793259852632_91l7dg_HVuFcT7bgAA6a73.jpg" width="600" alt="ソーシャルメディア投稿 - ヴィンテージカメラを持つレトロな昭和ガール - Image 1">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [沧瑶](https://x.com/CryY666666)
-- **ソース:** [Twitter Post](https://x.com/CryY666666/status/2112176321082093822)
-- **公開日:** 2026年10月19日
-- **言語:** zh
+- **作者:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
+- **ソース:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2115431176198590975#reversed-0)
+- **公開日:** 2026年10月28日
+- **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36695)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37048)**
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - 戦術的ネコの尋問シーン
+### No. 22: ソーシャルメディア投稿 - 花柄パジャマを着た女性のレトロなポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+ヴィンテージの花柄パジャマを着てベッドでくつろぐ若い女性を、ノスタルジックなフィルムグレイン調で捉えたポートレート。
+
+#### 📝 プロンプト
+
+```
+ベッドに仰向けに横たわる、短く無造作な黒髪を持つ若い女性を縦構図で捉えたポートレート写真。彼女はヴィンテージ風の 2 ピースパジャマを着用しており、ボタンダウンシャツとショートパンツの上下ともに、クリーム色の生地に繊細な花柄があしらわれています。右腕は頭上に伸ばして枕に預け、左手はそっと頭の側面に添えられています。唇をわずかに開き、カメラをまっすぐに見つめるその表情は柔らかく、どこか物憂げな雰囲気を漂わせています。背景には居心地のよさそうな寝室が広がり、彼女の背後には木製のヘッドボードが見えています。左側にはベッドサイドテーブルがあり、本や小さな丸型のアナログ時計、その他の私物が無造作に置かれています。右側の窓から差し込む陽光が、温かみのある自然光となって彼女の顔や上半身を照らし出しています。全体的にレトロな美意識が際立つ一枚で、フィルム特有の粒状感や柔らかなピント、そして昭和の写真のような温かな色調が特徴です。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259852770_hjptub_HVtrnTHasAAKC3g.jpg" width="600" alt="ソーシャルメディア投稿 - 花柄パジャマを着た女性のレトロなポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
+- **ソース:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2115402777472217216#reversed-0)
+- **公開日:** 2026年10月28日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37049)**
+
+---
+
+### No. 23: ソーシャルメディア投稿 - 6つの雑誌カバー
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+日本の6つの異なるジャンルの雑誌のカバーモデルとして描かれたアニメ少女のキャラクターシート。
+
+#### 📝 プロンプト
+
+```
+クリーンな白背景に 6 種類の異なる雑誌カバーを横一列に並べた、高解像度の横長画像を生成してください。中心となる被写体はすべて同一のアニメ風若い女性（肩までのブラウンヘアとブルーアイ）ですが、各ジャンルに合わせて服装やスタイリングが異なります。
+
+左から順に、各カバーの内容は以下の通りです：
+1. 女性ファッション誌：タイトル『凛と日和』。コーラルカラーのトップスにホワイトパンツを着用し、バッグを持っています。
+2. アニメ・ゲーム誌：タイトル『アニマギア』。発光するアクセントをあしらった近未来的なネオンパープルのアイドル衣装を着ています。
+3. ビジネス誌：タイトル『週刊ビジネス羅針盤』。ダークグレーのプロフェッショナルなスーツを着用し、タブレットを持っています。
+4. トラベル誌：タイトル『旅色めぐり』。カジュアルなオレンジ色のジャケットを着て、山々の風景をバックに立っています。
+5. 料理誌：タイトル『おいしい毎日』。イエローのシャツの上にエプロンを着用し、新鮮な食材が並ぶキッチンに立っています。
+6. オカルト誌：タイトル『異界探訪』。ミステリアスで影の濃い空間を背景に、ダークレッドのヴィクトリア朝風ドレスを着ています。
+
+各カバーには、実際の雑誌に見られるような自然な日本語のタイポグラフィ、ヘッドライン、小さなテキストブロックを必ず含めてください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259853359_zdj5ww_HVti2rxXEAAo_Zf.jpg" width="600" alt="ソーシャルメディア投稿 - 6つの雑誌カバー - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [オオトリヒカリ🐦‍🔥](https://x.com/ohtori1)
+- **ソース:** [Twitter Post](https://x.com/ohtori1/status/2115393144397152596#reversed-0)
+- **公開日:** 2026年10月28日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37050)**
+
+---
+
+### No. 24: ソーシャルメディア投稿 - 戦術的ネコの尋問シーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1376,7 +1531,7 @@ GPT を使用してイラストに浅い被写界深度の効果を追加する�
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - スプリットスクリーン写真からアニメへ変換するプロンプト
+### No. 25: ソーシャルメディア投稿 - スプリットスクリーン写真からアニメへ変換するプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1447,7 +1602,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - 居心地の良い朝のイラスト
+### No. 26: ソーシャルメディア投稿 - 居心地の良い朝のイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1486,7 +1641,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - ポートレート付きリアル壁掛けカレンダー
+### No. 27: ソーシャルメディア投稿 - ポートレート付きリアル壁掛けカレンダー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1519,7 +1674,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 25: ソーシャルメディア投稿 - 昭和レトロなストリートポートレート
+### No. 28: ソーシャルメディア投稿 - 昭和レトロなストリートポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1552,7 +1707,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 26: ソーシャルメディア投稿 - 昭和レトロ ポートレート：女性と石像
+### No. 29: ソーシャルメディア投稿 - 昭和レトロ ポートレート：女性と石像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1585,7 +1740,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 27: ソーシャルメディア投稿 - 居心地の良いシーンを描いたヴィンテージ スケッチブック イラスト
+### No. 30: ソーシャルメディア投稿 - 居心地の良いシーンを描いたヴィンテージ スケッチブック イラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1624,7 +1779,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 28: ソーシャルメディア投稿 - 黒猫ハロウィンドレス アニメ少女
+### No. 31: ソーシャルメディア投稿 - 黒猫ハロウィンドレス アニメ少女
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1670,7 +1825,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - 防犯ミラー越しのコンビニエンスストア写真コラージュ
+### No. 32: ソーシャルメディア投稿 - 防犯ミラー越しのコンビニエンスストア写真コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1736,7 +1891,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 30: ソーシャルメディア投稿 - 秋葉原のSuicaペンギン
+### No. 33: ソーシャルメディア投稿 - 秋葉原のSuicaペンギン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1769,7 +1924,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 31: ソーシャルメディア投稿 - 写真から水彩風エディトリアルイラストを作成
+### No. 34: ソーシャルメディア投稿 - 写真から水彩風エディトリアルイラストを作成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1816,97 +1971,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 32: ソーシャルメディア投稿 - 座る女性の緑青ブロンズ像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-墓地に座るベールをまとった女性の、風化したブロンズ像の写実的な画像。豊かな緑青（パティーナ）と雰囲気のあるライティングが特徴です。
-
-#### 📝 プロンプト
-
-```
-写真のようにリアルな、墓地に佇む風化したブロンズ像の縦型ポートレート。座る女性の姿を象ったこの像は、深い緑青（ろくしょう）に覆われ、細部のくぼみには暗褐色の酸化が見られます。流れるような衣をまとい、その布はベールのように頭を覆い、石の台座の上で足元にふわりと溜まっています。顔は空を見上げるように傾けられ、静かな諦観あるいは祈りをたたえた表情で目を閉じています。片手は膝の上にそっと置かれ、もう一方の手は体の横に力を抜いて垂らされています。背後には、苔むした質素な墓石が佇んでいます。背景には、くすんだ緑や茶色に色づいた秋の木々がピンボケで写り込み、浅い被写界深度を生み出しています。ライティングは陰影豊かでドラマチックであり、暗い周囲との対比によって金属の質感が際立っています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793001766525_benoxp_HVbLVNrXoAIik8u.jpg" width="600" alt="ソーシャルメディア投稿 - 座る女性の緑青ブロンズ像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793001766248_pmo5pz_HVbLVN8W4AApXHy.jpg" width="600" alt="ソーシャルメディア投稿 - 座る女性の緑青ブロンズ像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793001766284_7m95cn_HVbLVOnWsAAL4LB.jpg" width="600" alt="ソーシャルメディア投稿 - 座る女性の緑青ブロンズ像 - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Dreamkeeper](https://x.com/InchainAlice)
-- **ソース:** [Twitter Post](https://x.com/InchainAlice/status/2114100847210910023#reversed-0)
-- **公開日:** 2026年10月24日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36886)**
-
----
-
-### No. 33: ソーシャルメディア投稿 - バラの冠を戴いた跪く女性像の大理石彫刻
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-黒い背景に浮かぶ、赤いバラの冠を被った跪くベールをまとった女性の白い大理石像のドラマチックなクローズアップ写真。
-
-#### 📝 プロンプト
-
-```
-深い悲しみ、あるいは祈りを捧げるように跪く女性を象った、古典的な白い大理石の彫像をとらえた、息を呑むほど美しい高解像度の写真。人物は流れるようなローブと、台座へと流れ落ちる長く半透明のヴェールに身を包み、その布地がまるで薄絹のように見える幻想的な雰囲気を生み出しています。ヴェールの上から頭頂部には深紅のバラの花冠が飾られ、モノクロームの石肌との鮮やかな色彩のコントラストを描き出します。彫像の表情は静謐でありながらどこか物悲しく、視線は伏せられています。ライティングは劇的なキアロスクーロ（明暗法）で、漆黒の背景の中で上方から彫像にスポットライトが当たり、大理石の滑らかな質感とドレープの繊細なひだが際立っています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792914379630_qre78x_HVbJJrfWMAA404_.jpg" width="600" alt="ソーシャルメディア投稿 - バラの冠を戴いた跪く女性像の大理石彫刻 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792914379729_zz94bj_HVbJJqzXwAAqObi.jpg" width="600" alt="ソーシャルメディア投稿 - バラの冠を戴いた跪く女性像の大理石彫刻 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792914379674_xiwoxb_HVbJJq3XQAAsuy7.jpg" width="600" alt="ソーシャルメディア投稿 - バラの冠を戴いた跪く女性像の大理石彫刻 - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Dreamkeeper](https://x.com/InchainAlice)
-- **ソース:** [Twitter Post](https://x.com/InchainAlice/status/2114098553530318921#reversed-0)
-- **公開日:** 2026年10月24日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36885)**
-
----
-
-### No. 34: インフォグラフィック / 教育ビジュアル - パーソナライズされた手相ガイド インフォグラフィック
+### No. 35: インフォグラフィック / 教育ビジュアル - パーソナライズされた手相ガイド インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1947,7 +2012,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 35: インフォグラフィック / 教育ビジュアル - クジラの尾の写真とインクイラストのダイプティク
+### No. 36: インフォグラフィック / 教育ビジュアル - クジラの尾の写真とインクイラストのダイプティク
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1998,7 +2063,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 36: インフォグラフィック / 教育ビジュアル - 写実的な写真から水彩画へ変換するプロンプト
+### No. 37: インフォグラフィック / 教育ビジュアル - 写実的な写真から水彩画へ変換するプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2039,7 +2104,7 @@ GPT Image 2 用のプロンプトで、アップロードした写真をスプ�
 
 ---
 
-### No. 37: インフォグラフィック / 教育ビジュアル - GPT Image 2 プロンプト長比較
+### No. 38: インフォグラフィック / 教育ビジュアル - GPT Image 2 プロンプト長比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2078,7 +2143,7 @@ GPT Image 2 が、5 語、25 語、100 語のプロンプトで宇宙図書館�
 
 ---
 
-### No. 38: インフォグラフィック / 教育ビジュアル - GPT Image 2 手描き風インフォグラフィックプロンプト
+### No. 39: インフォグラフィック / 教育ビジュアル - GPT Image 2 手描き風インフォグラフィックプロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2125,7 +2190,7 @@ GPT Image 2 で水循環を解説する手描き風のインフォグラフィ�
 
 ---
 
-### No. 39: インフォグラフィック / 教育ビジュアル - アニメマスコット付き清水寺旅行 LP
+### No. 40: インフォグラフィック / 教育ビジュアル - アニメマスコット付き清水寺旅行 LP
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2168,7 +2233,7 @@ GPT Image 2 で水循環を解説する手描き風のインフォグラフィ�
 
 ---
 
-### No. 40: インフォグラフィック / 教育ビジュアル - GPT Image 2 プロンプト: 実験的テクスチャのダイプティク
+### No. 41: インフォグラフィック / 教育ビジュアル - GPT Image 2 プロンプト: 実験的テクスチャのダイプティク
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2237,7 +2302,7 @@ reeded glass、engraving、halftone など7つの実験的なテクスチャオ�
 
 ---
 
-### No. 41: インフォグラフィック / 教育ビジュアル - アニメキャラクターシート：泣いている女の子
+### No. 42: インフォグラフィック / 教育ビジュアル - アニメキャラクターシート：泣いている女の子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2270,7 +2335,7 @@ reeded glass、engraving、halftone など7つの実験的なテクスチャオ�
 
 ---
 
-### No. 42: インフォグラフィック / 教育ビジュアル - サイバーステージキャラクターコンセプトシート
+### No. 43: インフォグラフィック / 教育ビジュアル - サイバーステージキャラクターコンセプトシート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2319,7 +2384,7 @@ reeded glass、engraving、halftone など7つの実験的なテクスチャオ�
 
 ---
 
-### No. 43: インフォグラフィック / 教育ビジュアル - 「静かな」vs「廃墟の」駅比較
+### No. 44: インフォグラフィック / 教育ビジュアル - 「静かな」vs「廃墟の」駅比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2352,7 +2417,7 @@ reeded glass、engraving、halftone など7つの実験的なテクスチャオ�
 
 ---
 
-### No. 44: インフォグラフィック / 教育ビジュアル - 放置されたワインセラーについての俳句
+### No. 45: インフォグラフィック / 教育ビジュアル - 放置されたワインセラーについての俳句
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2389,7 +2454,7 @@ GPT Image 2 Lowで生成された、放置されたワインセラーにいる�
 
 ---
 
-### No. 45: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト
+### No. 46: インフォグラフィック / 教育ビジュアル - アニメキャラクターデザインシート プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2452,7 +2517,7 @@ GPT Image 2 Lowで生成された、放置されたワインセラーにいる�
 
 ---
 
-### No. 46: インフォグラフィック / 教育ビジュアル - ポイント・ネモのインフォグラフィック
+### No. 47: インフォグラフィック / 教育ビジュアル - ポイント・ネモのインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2501,7 +2566,7 @@ GPT Image 2 Lowで生成された、放置されたワインセラーにいる�
 
 ---
 
-### No. 47: インフォグラフィック / 教育ビジュアル - 人物のサーマルイメージ写真
+### No. 48: インフォグラフィック / 教育ビジュアル - 人物のサーマルイメージ写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2534,7 +2599,7 @@ FLIR カメラで撮影された、屋内環境に立つ人物のリアルなサ
 
 ---
 
-### No. 48: インフォグラフィック / 教育ビジュアル - 清華芸術祭ポスターデザイン
+### No. 49: インフォグラフィック / 教育ビジュアル - 清華芸術祭ポスターデザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2567,7 +2632,7 @@ FLIR カメラで撮影された、屋内環境に立つ人物のリアルなサ
 
 ---
 
-### No. 49: インフォグラフィック / 教育ビジュアル - Japanese Game Dev Banner
+### No. 50: インフォグラフィック / 教育ビジュアル - Japanese Game Dev Banner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2600,7 +2665,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 50: YouTube サムネイル - シネマティック ゴールデン B ロゴ
+### No. 51: YouTube サムネイル - シネマティック ゴールデン B ロゴ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2633,7 +2698,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 51: YouTube サムネイル - 雨の東京に現れた巨大 MPD ロボット
+### No. 52: YouTube サムネイル - 雨の東京に現れた巨大 MPD ロボット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2666,7 +2731,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 52: YouTube サムネイル - 音楽テック系 YouTube サムネイル
+### No. 53: YouTube サムネイル - 音楽テック系 YouTube サムネイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2708,7 +2773,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 53: YouTube サムネイル - 橋の下の廃道
+### No. 54: YouTube サムネイル - 橋の下の廃道
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2741,7 +2806,52 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 54: YouTube サムネイル - 東京の巨大ロボット警察官
+### No. 55: YouTube サムネイル - 座る女性の緑青ブロンズ像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+墓地に座るベールをまとった女性の、風化したブロンズ像の写実的な画像。豊かな緑青（パティーナ）と雰囲気のあるライティングが特徴です。
+
+#### 📝 プロンプト
+
+```
+写真のようにリアルな、墓地に佇む風化したブロンズ像の縦型ポートレート。座る女性の姿を象ったこの像は、深い緑青（ろくしょう）に覆われ、細部のくぼみには暗褐色の酸化が見られます。流れるような衣をまとい、その布はベールのように頭を覆い、石の台座の上で足元にふわりと溜まっています。顔は空を見上げるように傾けられ、静かな諦観あるいは祈りをたたえた表情で目を閉じています。片手は膝の上にそっと置かれ、もう一方の手は体の横に力を抜いて垂らされています。背後には、苔むした質素な墓石が佇んでいます。背景には、くすんだ緑や茶色に色づいた秋の木々がピンボケで写り込み、浅い被写界深度を生み出しています。ライティングは陰影豊かでドラマチックであり、暗い周囲との対比によって金属の質感が際立っています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793001766525_benoxp_HVbLVNrXoAIik8u.jpg" width="600" alt="YouTube サムネイル - 座る女性の緑青ブロンズ像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793001766248_pmo5pz_HVbLVN8W4AApXHy.jpg" width="600" alt="YouTube サムネイル - 座る女性の緑青ブロンズ像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793001766284_7m95cn_HVbLVOnWsAAL4LB.jpg" width="600" alt="YouTube サムネイル - 座る女性の緑青ブロンズ像 - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Dreamkeeper](https://x.com/InchainAlice)
+- **ソース:** [Twitter Post](https://x.com/InchainAlice/status/2114100847210910023#reversed-0)
+- **公開日:** 2026年10月24日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36886)**
+
+---
+
+### No. 56: YouTube サムネイル - 東京の巨大ロボット警察官
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2774,7 +2884,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 55: YouTube サムネイル - シネマティックなマッチ棒のポートレート
+### No. 57: YouTube サムネイル - シネマティックなマッチ棒のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2807,7 +2917,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 56: YouTube サムネイル - 巨大ロボットの交通整理
+### No. 58: YouTube サムネイル - 巨大ロボットの交通整理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2840,7 +2950,7 @@ A horizontal banner image with a light beige background. On the left side, there
 
 ---
 
-### No. 57: YouTube サムネイル - シネマティック フライドチキン食品広告
+### No. 59: YouTube サムネイル - シネマティック フライドチキン食品広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2883,7 +2993,7 @@ GOLDEN CRUNCH | 究極のフードシネマ。
 
 ---
 
-### No. 58: YouTube サムネイル - 戦乙女の復活
+### No. 60: YouTube サムネイル - 戦乙女の復活
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2916,7 +3026,7 @@ GOLDEN CRUNCH | 究極のフードシネマ。
 
 ---
 
-### No. 59: YouTube サムネイル - ホルスの大逆：最後の決闘
+### No. 61: YouTube サムネイル - ホルスの大逆：最後の決闘
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2949,7 +3059,7 @@ Vengeful Spirit の艦内で、人類の皇帝とウォーマスター ホルス
 
 ---
 
-### No. 60: YouTube サムネイル - Lady Death が悪魔と戦う
+### No. 62: YouTube サムネイル - Lady Death が悪魔と戦う
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2982,7 +3092,7 @@ Brian Pulido の Lady Death (Hope) が、複数の角を持つ悪魔や下位の
 
 ---
 
-### No. 61: YouTube サムネイル - 宇宙の夕暮れに浮かぶ山頂のシルエット
+### No. 63: YouTube サムネイル - 宇宙の夕暮れに浮かぶ山頂のシルエット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3033,7 +3143,7 @@ Brian Pulido の Lady Death (Hope) が、複数の角を持つ悪魔や下位の
 
 ---
 
-### No. 62: YouTube サムネイル - 中世の戦場で戦うリアルなアニメ風戦士
+### No. 64: YouTube サムネイル - 中世の戦場で戦うリアルなアニメ風戦士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3066,7 +3176,7 @@ Brian Pulido の Lady Death (Hope) が、複数の角を持つ悪魔や下位の
 
 ---
 
-### No. 63: YouTube サムネイル - ひまわり畑の Minecraft キャラクター
+### No. 65: YouTube サムネイル - ひまわり畑の Minecraft キャラクター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3099,7 +3209,7 @@ Brian Pulido の Lady Death (Hope) が、複数の角を持つ悪魔や下位の
 
 ---
 
-### No. 64: YouTube サムネイル - GPT Image 2 プロンプト：魔法のラマ変身
+### No. 66: YouTube サムネイル - GPT Image 2 プロンプト：魔法のラマ変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3138,7 +3248,7 @@ Brian Pulido の Lady Death (Hope) が、複数の角を持つ悪魔や下位の
 
 ---
 
-### No. 65: YouTube サムネイル - 都市の上空、雲の上に座るシュールな男性
+### No. 67: YouTube サムネイル - 都市の上空、雲の上に座るシュールな男性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3185,7 +3295,7 @@ Brian Pulido の Lady Death (Hope) が、複数の角を持つ悪魔や下位の
 
 ---
 
-### No. 66: YouTube サムネイル - GPT Image 2 向け：シネマティックな多扉ファンタジーシーンプロンプト
+### No. 68: YouTube サムネイル - GPT Image 2 向け：シネマティックな多扉ファンタジーシーンプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3246,7 +3356,7 @@ Surrounding him are dozens of enormous, beautifully detailed doorways, each reve
 
 ---
 
-### No. 67: YouTube サムネイル - スチームパンク「最後の歯車」プロンプト
+### No. 69: YouTube サムネイル - スチームパンク「最後の歯車」プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3286,7 +3396,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 68: YouTube サムネイル - 夜間災害救助活動における巨大警察ロボット
+### No. 70: YouTube サムネイル - 夜間災害救助活動における巨大警察ロボット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3319,7 +3429,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 69: コミック / ストーリーボード - GPT Image 2 用 コミックな召喚儀式プロンプト
+### No. 71: コミック / ストーリーボード - GPT Image 2 用 コミックな召喚儀式プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3376,7 +3486,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 70: コミック / ストーリーボード - 反AIレトリックへの反応 Part 1
+### No. 72: コミック / ストーリーボード - 反AIレトリックへの反応 Part 1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3409,7 +3519,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 71: コミック / ストーリーボード - コミカルな手配書キャラクタープロンプト
+### No. 73: コミック / ストーリーボード - コミカルな手配書キャラクタープロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3459,7 +3569,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 72: コミック / ストーリーボード - アニメ少女がベースボールを投げる
+### No. 74: コミック / ストーリーボード - アニメ少女がベースボールを投げる
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3492,7 +3602,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 73: コミック / ストーリーボード - 上品な男性とボウリング用具のプロンプト
+### No. 75: コミック / ストーリーボード - 上品な男性とボウリング用具のプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3529,7 +3639,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 74: コミック / ストーリーボード - ワイヤレスドアベルカメラの取扱説明書プロンプト
+### No. 76: コミック / ストーリーボード - ワイヤレスドアベルカメラの取扱説明書プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3566,7 +3676,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 75: コミック / ストーリーボード - かわいいペンギン少女の4コマ漫画
+### No. 77: コミック / ストーリーボード - かわいいペンギン少女の4コマ漫画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3622,7 +3732,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 76: コミック / ストーリーボード - 黄色い風船を割るマッド・クロウ
+### No. 78: コミック / ストーリーボード - 黄色い風船を割るマッド・クロウ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3655,7 +3765,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 77: コミック / ストーリーボード - ネオ・ナイーブ風キャラクター格闘イラストのプロンプト
+### No. 79: コミック / ストーリーボード - ネオ・ナイーブ風キャラクター格闘イラストのプロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3720,7 +3830,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 78: コミック / ストーリーボード - Opus 5.5 vs Wife GPT コミック
+### No. 80: コミック / ストーリーボード - Opus 5.5 vs Wife GPT コミック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3775,7 +3885,7 @@ GPT Image 2 で作成されたスチームパンク風画像「最後の歯車�
 
 ---
 
-### No. 79: コミック / ストーリーボード - 漫画インフォグラフィック: AI プロンプトエンジニアリング
+### No. 81: コミック / ストーリーボード - 漫画インフォグラフィック: AI プロンプトエンジニアリング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3827,7 +3937,7 @@ AI 画像生成におけるプロンプトエンジニアリングの概念を�
 
 ---
 
-### No. 80: コミック / ストーリーボード - 春麗が巨大モンスターをキック
+### No. 82: コミック / ストーリーボード - 春麗が巨大モンスターをキック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3860,7 +3970,7 @@ AI 画像生成におけるプロンプトエンジニアリングの概念を�
 
 ---
 
-### No. 81: コミック / ストーリーボード - フォークアート カフェ勉強 イラスト
+### No. 83: コミック / ストーリーボード - フォークアート カフェ勉強 イラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3921,7 +4031,7 @@ AI 画像生成におけるプロンプトエンジニアリングの概念を�
 
 ---
 
-### No. 82: コミック / ストーリーボード - 手描きファッションイラスト変換
+### No. 84: コミック / ストーリーボード - 手描きファッションイラスト変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3972,7 +4082,7 @@ gpt-image-2（明示的に指定）用のプロンプトで、アップロード
 
 ---
 
-### No. 83: コミック / ストーリーボード - GPT Image 2 用 ペーパーカットイラストレーション プロンプト
+### No. 85: コミック / ストーリーボード - GPT Image 2 用 ペーパーカットイラストレーション プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4053,7 +4163,7 @@ gpt-image-2（明示的に指定）用のプロンプトで、アップロード
 
 ---
 
-### No. 84: コミック / ストーリーボード - 空中俯瞰スチームパンク工房変身
+### No. 86: コミック / ストーリーボード - 空中俯瞰スチームパンク工房変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4086,7 +4196,7 @@ gpt-image-2（明示的に指定）用のプロンプトで、アップロード
 
 ---
 
-### No. 85: コミック / ストーリーボード - ファンタジー地図製作者と犬
+### No. 87: コミック / ストーリーボード - ファンタジー地図製作者と犬
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4119,7 +4229,7 @@ gpt-image-2（明示的に指定）用のプロンプトで、アップロード
 
 ---
 
-### No. 86: コミック / ストーリーボード - ヴィンテージ・エディトリアル・ポートレート・コラージュ
+### No. 88: コミック / ストーリーボード - ヴィンテージ・エディトリアル・ポートレート・コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4158,7 +4268,7 @@ gpt-image-2（明示的に指定）用のプロンプトで、アップロード
 
 ---
 
-### No. 87: コミック / ストーリーボード - 透明感のある薔薇の宮廷貴婦人
+### No. 89: コミック / ストーリーボード - 透明感のある薔薇の宮廷貴婦人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4198,7 +4308,58 @@ gpt-image-2（明示的に指定）用のプロンプトで、アップロード
 
 ---
 
-### No. 88: プロダクトマーケティング - GPT Image 2 スリアルファッション＆ファンタジー プロンプト集
+### No. 90: プロダクトマーケティング - 3D デザイナー玩具少女ポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+Pop Mart/C4D スタイルの 3D デザイナー玩具少女ポートレートを生成するためのプロンプトです。特定のカラーとアクセサリーに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+正方形 1:1 のコレクタブル 3D デザイナーズトイの少女のクローズアップポートレート。ハイエンドな Pop Mart / C4D Octane のような質感。柔らかい東アジア系のティーンエイジャーのような顔立ち、丸い頬、鼻筋に散る薄いそばかす、ツヤのあるピーチカラーの唇、長いまつ毛を備えた大きなヘーゼル色の瞳。鎖骨までかかる柔らかなウェーブの栗色の髪は、ゆるいサイドパートで分け、小さなミントグリーンのヘアピンを 2 つ留めている。片手の甲に軽くあごを乗せたポーズ。クリーム色の半透明オーバルサングラスには、淡いミントカラーのレンズ。オフホワイトのオーバーサイズジップパーカーを肩からずらして羽織り、その下にはミントグリーンのリブタンクトップを着用。お揃いのミントグリーンの球体ピアス。無地のミントシーフォーム背景。明るい商業用のキーライト、柔らかなキャッチライト、わずかなサブサーフェス・スキャタリング、超精細な髪の流れとニットの質感。ロゴなし、ウォーターマークなし、テキストなし、実在の人物の写真ではないこと。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259850823_w2dtfe_HVt3eXfW8AAzx5k.jpg" width="600" alt="プロダクトマーケティング - 3D デザイナー玩具少女ポートレート - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259850774_hwdo40_HVt3eXoXsAAoXfl.jpg" width="600" alt="プロダクトマーケティング - 3D デザイナー玩具少女ポートレート - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259850776_m82h7z_HVt3eXtWIAAqHQq.jpg" width="600" alt="プロダクトマーケティング - 3D デザイナー玩具少女ポートレート - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793259851806_1g09ss_HVt3eXdXsAASS4a.jpg" width="600" alt="プロダクトマーケティング - 3D デザイナー玩具少女ポートレート - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [mo Ki](https://x.com/static_stare)
+- **ソース:** [Twitter Post](https://x.com/static_stare/status/2115415848861024720)
+- **公開日:** 2026年10月28日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37047)**
+
+---
+
+### No. 91: プロダクトマーケティング - GPT Image 2 スリアルファッション＆ファンタジー プロンプト集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4239,7 +4400,7 @@ GPT Image 2 用の詳細なプロンプトを2つ紹介。1つはピンクの大
 
 ---
 
-### No. 89: プロダクトマーケティング - ドラマチックなライティングによるシネマティック・ポートレート
+### No. 92: プロダクトマーケティング - ドラマチックなライティングによるシネマティック・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4276,7 +4437,7 @@ GPT Image 2 用の詳細なプロンプトを2つ紹介。1つはピンクの大
 
 ---
 
-### No. 90: プロダクトマーケティング - ハロウィン ゾンビガール オUTFIT プロンプト
+### No. 93: プロダクトマーケティング - ハロウィン ゾンビガール オUTFIT プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4329,7 +4490,7 @@ GPT Image 2 用の詳細なプロンプトを2つ紹介。1つはピンクの大
 
 ---
 
-### No. 91: プロダクトマーケティング - オリエンタルティー商業ポスターデザイン
+### No. 94: プロダクトマーケティング - オリエンタルティー商業ポスターデザイン
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4388,7 +4549,7 @@ GPT Image 2 用の詳細なプロンプトを2つ紹介。1つはピンクの大
 
 ---
 
-### No. 92: プロダクトマーケティング - ミネラルウォーター コンター屈折ポスター
+### No. 95: プロダクトマーケティング - ミネラルウォーター コンター屈折ポスター
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4446,7 +4607,7 @@ GPT Image 2 用の詳細なプロンプトを2つ紹介。1つはピンクの大
 
 ---
 
-### No. 93: プロダクトマーケティング - ランプライト投影ポスター
+### No. 96: プロダクトマーケティング - ランプライト投影ポスター
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4504,7 +4665,7 @@ GPT Image 2 用の詳細なプロンプトを2つ紹介。1つはピンクの大
 
 ---
 
-### No. 94: プロダクトマーケティング - ヘッドホン製品ポスター用プロンプト
+### No. 97: プロダクトマーケティング - ヘッドホン製品ポスター用プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4564,7 +4725,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 95: プロダクトマーケティング - ヒーリングホーム商品広告プロンプト
+### No. 98: プロダクトマーケティング - ヒーリングホーム商品広告プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4627,7 +4788,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 96: プロダクトマーケティング - GPT Image 2 陶芸ポスター プロンプト：窯の年輪
+### No. 99: プロダクトマーケティング - GPT Image 2 陶芸ポスター プロンプト：窯の年輪
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4684,7 +4845,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 97: プロダクトマーケティング - GPT Image 2 サイクルヘルメット ポスタープロンプト：エアフロー プロファイル
+### No. 100: プロダクトマーケティング - GPT Image 2 サイクルヘルメット ポスタープロンプト：エアフロー プロファイル
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4741,7 +4902,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 98: プロダクトマーケティング - GPT Image 2 ペンポスタープロンプト: インク折り畳みパス
+### No. 101: プロダクトマーケティング - GPT Image 2 ペンポスタープロンプト: インク折り畳みパス
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4798,7 +4959,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 99: プロダクトマーケティング - GPT Image 2 ビニールレコードターンテーブルポスタープロンプト：Groove City
+### No. 102: プロダクトマーケティング - GPT Image 2 ビニールレコードターンテーブルポスタープロンプト：Groove City
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4855,7 +5016,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 100: プロダクトマーケティング - GPT Image 2 ペットフードポスター用プロンプト：ボウルの影で描くキャラクター
+### No. 103: プロダクトマーケティング - GPT Image 2 ペットフードポスター用プロンプト：ボウルの影で描くキャラクター
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4912,7 +5073,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 101: プロダクトマーケティング - GPT Image 2 キャンプテントポスタープロンプト：夜の座標
+### No. 104: プロダクトマーケティング - GPT Image 2 キャンプテントポスタープロンプト：夜の座標
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4969,7 +5130,7 @@ GPT-2 を使用してヘッドホンの商業ポスターを生成するため�
 
 ---
 
-### No. 102: プロダクトマーケティング - GPT-Image-2 デザートポスター用プロンプト
+### No. 105: プロダクトマーケティング - GPT-Image-2 デザートポスター用プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5028,134 +5189,7 @@ GPT-Image-2 を使用し、温度変化に基づくタイポグラフィ効果�
 
 ---
 
-### No. 103: プロダクトマーケティング - GPT Image 2 リキュール ポスター デザイン プロンプト
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-GPT Image 2 を使用したリキュール広告ポスター生成のための詳細プロンプト。素材の質感と光の屈折に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-[Brand]: {argument name="brand_en" default="HOLLOW"}
-[Product]: {argument name="product_en" default="Short-shouldered transparent square bottle with amber whisky, black cap"}
-[Title]: {argument name="title_en" default="EMBER"}
-[Category]: {argument name="category_en" default="WHISKY"}
-[Side Materials]: {argument name="side_materials_en" default="Dark oak cross-section / Thick-walled amber glass"}
-[Scene & Camera]: {argument name="scene_camera_en" default="Wine cellar oak countertop, low-angle three-quarter view, warm side backlighting"}
-[Optical Event]: {argument name="optical_event_en" default="The liquid locally tints the title amber and slightly magnifies it; restrained caustics appear on the surface"}
-[Main Color]: {argument name="main_color_en" default="Amber Brown"}
-
-4:5 の縦長リキュール広告ポスターを作成し、一度に1枚の完成品を出力してください。
-
-固定のビジュアル言語：リアルな商業静物写真、温かみのあるアイボリーの余白、巨大でコントラストの高いセリフ体タイトル、抑制されたエディトリアルレイアウト。ワインボトルと透明なメディアを用いてテキストを屈折させ、サイドマテリアルによって形成される明るいチャネルと組み合わせます。ネオン、発光するアウトライン、汎用的なECカード、黄金の豪華な装飾は避けてください。
-
-[Scene & Camera] に従って [Product] を配置します。[Side Materials] はクローズアップとしてフレームに入り、部分的なトリミングにより非対称な垂直方向の余白を形成します。開口部はカメラとともにゆっくりと拡大・縮小できますが、鏡像のようなドアフレームにはしないでください。ボトルは画面高さの約半分から3分の2を占め、余白の中で完全に認識可能であり、片側のサイドマテリアルによるわずかな遮蔽があります。上部には呼吸できる空間が必要です。サイドマテリアルは、このリキュールの種類における保管、包装、または飲用の文脈由来のものでなければなりません。無関係な洞窟、花畑、あるいは画一的にコピーされた写真背景を追加しないでください。
-
-大きなタイトル [Title] を中央上部の領域にレイヤーをまたいで配置し、ストロークの一部がワインボトルや透明メディアの背後を通るようにします。これにより、[Optical Event] で局所的な拡大、変位、または色フィルタリングが生じます。メディアを通らないテキスト部分は通常通り鮮明に保ちます。歪みは半透明の領域に限定し、タイトル全体を波状にねじ曲げないでください。[Main Color] を唯一の強い色として使用し、温かみのあるアイボリーとチャコールブラックを補助色とします。液体の透過性、ガラスの厚さ、接触影、結露、投影は説得力のあるものでなければなりません。光学効果をレーザーのように描かないでください。
-
-[Brand] は上部に小さく間隔を広げたサンセリフ体で配置し、[Category] と "Drink Responsibly" は下部に小さな文字で2行として配置します。ボトルラベルにはブランドとカテゴリーのみを使用し、情報密度をクリーンに保ちます。画像全体では上記のテキストのみが許可されます。スローガン、ヴィンテージ、アルコール度数、受賞歴、原産地、価格、提供されていない製品主張を自動的に追加しないでください。シーン内に人物はいません。過度な飲酒を表現しないでください。
-
-繊細で自然な素材の質感と正確なガラスハイライトを保持します。重いCGI、浮遊する製品、余分なボトル、ランダムな文字、眩しさの積み重ね、コラージュ、ウォーターマークを避けてください。シーン、カメラ、ボトル形状、光学イベントは変数によって変化しますが、温かみのあるアイボリーの余白、セリフ体のメインタイトル、局所的な屈折というビジュアル言語は一貫性を保ちます。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223103207_jow9rq_HUuAj58agAAEV6r.jpg" width="600" alt="プロダクトマーケティング - GPT Image 2 リキュール ポスター デザイン プロンプト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223101671_25wvo1_HUuAj6BaEAAL3tJ.jpg" width="600" alt="プロダクトマーケティング - GPT Image 2 リキュール ポスター デザイン プロンプト - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223103292_fe0aze_HUuAj5_acAAIDm6.jpg" width="600" alt="プロダクトマーケティング - GPT Image 2 リキュール ポスター デザイン プロンプト - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792223103762_8aacyj_HUuAj6EakAA_FhG.jpg" width="600" alt="プロダクトマーケティング - GPT Image 2 リキュール ポスター デザイン プロンプト - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [蛋黄堡](https://x.com/Hamburgerai)
-- **ソース:** [Twitter Post](https://x.com/Hamburgerai/status/2110979049887522906)
-- **公開日:** 2026年10月16日
-- **言語:** zh
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36498)**
-
----
-
-### No. 104: プロダクトマーケティング - GPT-2 スニーカー広告ポスター用プロンプト
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 説明
-
-GPT Image 2 を使用し、シーンに基づいたパフォーマンスビジュアルとタイポグラフィの統合を特徴とする、モダンなスニーカー広告ポスターを生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-[靴の種類] と [靴の外観] を主役とした、モダンなスニーカーのプロモーションポスターを作成してください。温かみのあるホワイト、グラファイトブラック、そして燃えるようなオレンジ色で構成された固定のビジュアルシステムを使用します。布地、フォーム、ゴムなどのディテールが鮮明に表現され、ライティングが統一されたリアルな商業製品写真として仕上げてください。靴は完全に描かれ、フレームの約半分を占め、シーンは靴の目的を引き立てる役割を果たします。
-
-[靴の種類] に応じたシーンを展開してください:
-ロードランニングシューズ: 早朝の都市の高架トラック、ローアングルで斜め前方から撮影し、つま先は右上を向きます。地面のラインが遠方に収束し、適度なモーションブラーを加えて推進力を表現します。
-トレイルシューズ: 岩層、森の斜面、冷たい灰色の空を背景に、地面に近いワイドアングルのサイドフロントビューで撮影します。深い溝のあるソールが砂利を踏みしめ、わずかな塵を巻き上げ、燃えるようなオレンジ色の道が斜面に沿って登っていきます。
-シティトレーニングシューズ: 温かみのある白いコンクリートのトレーニングスペース、天窓からの光とサイドライトを使用し、ローアングルで上向きに撮影します。つま先は左上を向けます。ソールの周りに短いオレンジ色の折れ線を描き、ターン動作と安定したサポートを表現します。
-
-選択した環境に大きな [英語のアクションワード] を統合してください: ロードモデルでは遠近感を持たせたトラックの一部となり、トレイルモデルでは切り立った岩層に埋め込まれ、トレーニングモデルでは壁、柱、床に沿って折り畳まれます。フォントには温かみのあるホワイトの前面と燃えるようなオレンジ色の断面を使用し、現実的な遮蔽感、厚み、影を施して視認性を保ちます。
-
-上部に [商品名] と "CONCEPT FOOTWEAR" を配置し、下部に [スローガン] と [構造ラベル] を配置してください。小さなテキストは簡潔かつ明確にし、モダンなサンセリフフォントを使用して、商品、空間タイトル、補助情報の間に階層構造を確保してください。
-
-出力は毎回独立したポスター1枚のみとしてください。実際のブランドロゴ、人物、架空のパフォーマンス数値、無関係なテキスト、靴の変形、プラスチックのような質感、過度な装飾は避けてください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136974513_k32rr5_HUoV19ya0AATbz8.jpg" width="600" alt="プロダクトマーケティング - GPT-2 スニーカー広告ポスター用プロンプト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136973051_o0lxwi_HUoV19waYAAK3af.jpg" width="600" alt="プロダクトマーケティング - GPT-2 スニーカー広告ポスター用プロンプト - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792136973222_eyhy20_HUoV19xbsAAhxvV.jpg" width="600" alt="プロダクトマーケティング - GPT-2 スニーカー広告ポスター用プロンプト - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [蛋黄堡](https://x.com/Hamburgerai)
-- **ソース:** [Twitter Post](https://x.com/Hamburgerai/status/2110523616286888284)
-- **公開日:** 2026年10月15日
-- **言語:** zh
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=36502)**
-
----
-
-### No. 105: E コマースのメイン画像 - GPT Image 2 かわいいクマパーカーファッション プロンプト
+### No. 106: E コマースのメイン画像 - GPT Image 2 かわいいクマパーカーファッション プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5202,7 +5236,7 @@ OUTFIT:
 
 ---
 
-### No. 106: E コマースのメイン画像 - 秋のストリートスタイル・ファッションプロンプト
+### No. 107: E コマースのメイン画像 - 秋のストリートスタイル・ファッションプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5241,7 +5275,7 @@ OUTFIT:
 
 ---
 
-### No. 107: E コマースのメイン画像 - デッドパン風キャラクター商品写真プロンプト
+### No. 108: E コマースのメイン画像 - デッドパン風キャラクター商品写真プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5324,7 +5358,7 @@ OUTFIT:
 
 ---
 
-### No. 108: E コマースのメイン画像 - ミントグリーンのクロシェセーターのファッションプロンプト
+### No. 109: E コマースのメイン画像 - ミントグリーンのクロシェセーターのファッションプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5373,7 +5407,7 @@ OUTFIT:
 
 ---
 
-### No. 109: E コマースのメイン画像 - GPT Image フレンチカジュアルな服装
+### No. 110: E コマースのメイン画像 - GPT Image フレンチカジュアルな服装
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5420,7 +5454,7 @@ OUTFIT:
 
 ---
 
-### No. 110: E コマースのメイン画像 - GPT Image 香水ボトル用プロンプト
+### No. 111: E コマースのメイン画像 - GPT Image 香水ボトル用プロンプト
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5453,7 +5487,7 @@ OUTFIT:
 
 ---
 
-### No. 111: E コマースのメイン画像 - 材料リスト付きのリアルなミールプレップジャー
+### No. 112: E コマースのメイン画像 - 材料リスト付きのリアルなミールプレップジャー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5504,7 +5538,7 @@ Cucumber」
 
 ---
 
-### No. 112: E コマースのメイン画像 - マットブラック B.AI キーボードキーキャット
+### No. 113: E コマースのメイン画像 - マットブラック B.AI キーボードキーキャット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5537,7 +5571,7 @@ Cucumber」
 
 ---
 
-### No. 113: E コマースのメイン画像 - LEGO ミニフィギュア変換
+### No. 114: E コマースのメイン画像 - LEGO ミニフィギュア変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5625,7 +5659,7 @@ Sta
 
 ---
 
-### No. 114: E コマースのメイン画像 - GPT Image 2 プロンプト：バーで赤いドレスを着た女性
+### No. 115: E コマースのメイン画像 - GPT Image 2 プロンプト：バーで赤いドレスを着た女性
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5680,7 +5714,7 @@ Sta
 
 ---
 
-### No. 115: E コマースのメイン画像 - GPT Image 2 プロンプト：ヴィンテージピンクのブレンダー
+### No. 116: E コマースのメイン画像 - GPT Image 2 プロンプト：ヴィンテージピンクのブレンダー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5713,7 +5747,7 @@ Sta
 
 ---
 
-### No. 116: E コマースのメイン画像 - rhode リップトリートメント比較広告
+### No. 117: E コマースのメイン画像 - rhode リップトリートメント比較広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5761,7 +5795,7 @@ Sta
 
 ---
 
-### No. 117: E コマースのメイン画像 - スケッチから生成するリアルな部屋のプロモーション用レンダリング
+### No. 118: E コマースのメイン画像 - スケッチから生成するリアルな部屋のプロモーション用レンダリング
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5795,7 +5829,7 @@ Sta
 
 ---
 
-### No. 118: E コマースのメイン画像 - 繊細なローズネイルの編集
+### No. 119: E コマースのメイン画像 - 繊細なローズネイルの編集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5835,7 +5869,7 @@ REFERENCE_0 をベース画像として使用し、非常に繊細な製品ス�
 
 ---
 
-### No. 119: E コマースのメイン画像 - プロダクトプレイスメントを活用したライフスタイル画像の生成
+### No. 120: E コマースのメイン画像 - プロダクトプレイスメントを活用したライフスタイル画像の生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5868,65 +5902,13 @@ REFERENCE_0 をベース画像として使用し、非常に繊細な製品ス�
 
 ---
 
-### No. 120: E コマースのメイン画像 - 韓国のスーパーマーケットで撮影された自然な買い物客
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-スーパーマーケットの通路でしゃがみ込む女性を捉えた、スマートフォン撮影風のリアルなライフスタイルファッション写真。小売店やソーシャルメディア向けの本格的な商品イメージに最適です。
-
-#### 📝 プロンプト
-
-```
-韓国のスーパーマーケットでの日常的な買い物の瞬間を捉えた、スマートフォン撮影風のリアルな縦型写真を生成してください。{argument name="hair color" default="ダークブラウンの肩までの長さの髪"}の若い女性が、シリアルやグラノーラの売り場の横で低くしゃがみ込んでいます。彼女は顔を覆うように深く被った{argument name="hat color" default="赤"}のベースボールキャップ、少しゆったりとした白いリブ編みの長袖ヘンリーネックトップス、ライトブルーのワイドレッグジーンズ、ベージュのソールの白いスニーカーを着用し、スリムな黒のショルダーバッグを肩にかけています。彼女は横向きで右側を見ており、左腕を床に置かれた黒いプラスチック製の買い物かごの方へ伸ばしています。かごの中には食料品が入っており、側面には白い「emart」のロゴが見えます。シーンにはメインの買い物客が 1 名、黒いかごが 1 つ、背景に買い物客が 2 名、ショッピングカートが 1 台、数字の「6」と韓国語のカテゴリー名が書かれた目立つ頭上の通路案内板、価格が「2,980」と書かれた値札、そして韓国語のラベルが貼られたシリアル、グラノーラ、スナック、袋入り食品が並ぶ長い棚が含まれます。消費者がスマートフォンで撮影したような自然なスナップショットスタイルで、少し不完全なフレーミング、リアルな屋内の蛍光灯照明、わずかなモーションブラー、ニュートラルな色合い、光沢のあるグレーのスーパーの床への反射、奥行きのある通路のパース、そして日常のリアルなディテールを表現してください。スタジオでのファッション撮影ではなく、カジュアルなバイヤーショーや店舗のソーシャルメディア用写真のように見せてください。華やかな照明、誇張されたポーズ、人工的な肌の質感、余計な人物、透かしなどは一切含めないでください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942336338_pno2c0_HRunAK4a8AAgaeo.jpg" width="600" alt="E コマースのメイン画像 - 韓国のスーパーマーケットで撮影された自然な買い物客 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942336335_c9iow2_HRunAK4bEAAuUrl.jpg" width="600" alt="E コマースのメイン画像 - 韓国のスーパーマーケットで撮影された自然な買い物客 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942336347_njta2l_HRunAK7boAAhW8b.jpg" width="600" alt="E コマースのメイン画像 - 韓国のスーパーマーケットで撮影された自然な買い物客 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942337698_21gvm6_HRunAK5bgAAlJqH.jpg" width="600" alt="E コマースのメイン画像 - 韓国のスーパーマーケットで撮影された自然な買い物客 - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [虎小象](https://x.com/hx831126)
-- **ソース:** [Twitter Post](https://x.com/hx831126/status/2097453683609137635#reversed-0)
-- **公開日:** 2026年9月8日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=34017)**
-
----
-
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 17913 さらに多くのプロンプトがあります
+### 🎯 17920 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5989,6 +5971,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-10-29T03:20:24.069Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-10-29T17:44:38.496Z</sub>
 
 </div>
