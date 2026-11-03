@@ -141,7 +141,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **18073** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 20:59:53 UTC Thứ Hai, 2 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 04:28:07 UTC Thứ Ba, 3 tháng 11, 2026** |
 
 </div>
 
@@ -6518,6 +6518,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-02T20:59:53.117Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-03T04:28:07.662Z</sub>
 
 </div>
