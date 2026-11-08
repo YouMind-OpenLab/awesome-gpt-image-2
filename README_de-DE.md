@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **18102** |
+| 📝 Gesamtanzahl Prompts | **18103** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Sonntag, 8. November 2026 um 03:10:12 UTC** |
+| 🔄 Zuletzt aktualisiert | **Sonntag, 8. November 2026 um 17:21:50 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Niedliches pastellgelb-weiß kariertes Krankenschwestern-Outfit, süßes Kleid i
 
 ---
 
-### No. 21: Social-Media-Beitrag - GPT Image 2 Pastellkreide-Illustration
+### No. 21: Social-Media-Beitrag - Anime-Editorial-Poster aus Foto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein detaillierter Prompt für gpt-image-2, der ein Referenzfoto in ein hochwertiges Anime-inspiriertes Editorial-Poster mit spezifischen Kompositions- und Stilvorgaben verwandelt.
+
+#### 📝 Prompt
+
+```
+Verwandle das Referenzfoto in ein hochwertiges, stilisiertes Editorial-Poster im Anime-Stil. Dabei müssen die exakten Gesichtszüge, die Frisur, die Pose, die Sonnenbrille, die Perlenohrringe und die rote Daunenjacke der abgebildeten Person originalgetreu erhalten bleiben.
+
+Erstelle eine atemberaubende vertikale Komposition aus zwei Panels:
+
+Oberes Panel: Fotorealistisches Porträt der Frau vor einem strahlend blauen Himmel, warmes Sonnenlicht der Goldenen Stunde, natürlicher Wind, der durch ihr Haar weht, leuchtend orange getönte Sonnenbrille, realistische Hauttextur, cineastische Fotografie.
+
+Unteres Panel: Interpretiere exakt dieselbe Frau als äußerst detaillierte Illustration im Stil einer Mischung aus Anime und Comic. Bewahre ihre Gesichtsidentität, ihren Ausdruck, ihre Frisur, ihr Outfit, ihre Accessoires und ihre Pose. Nutze dramatisches oranges Kantenlicht (Rim Light), ausdrucksstarke feine Linienführung, satte Farben und hochwertiges Graphic-Novel-Shading.
+
+Poster-Design:
+
+* Dunkelgrauer Anthrazit-Hintergrund mit leuchtend orangefarbenen Akzenten.
+* Große, fette, kursive Typografie mit dem Schriftzug „URBAN GLOW“.
+* Kleinerer Untertitel: „CITY VIBES IN COLOR“.
+* Dynamische diagonale orangefarbene Grafiken und geometrische Elemente.
+* Moderne Streetwear-Editorial-Ästhetik.
+* Hoher Kontrast, Premium-Magazincover-Design.
+
+Wichtig: Das illustrierte Gesicht muss dem Originalfoto so nah wie möglich kommen. Verändere weder die Identität der Person noch die Gesichtsproportionen oder markante Merkmale. Ultradetailliert, 4K, professionelles Poster-Design, vertikale 3:4-Komposition.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Social-Media-Beitrag - Anime-Editorial-Poster aus Foto - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Social-Media-Beitrag - Anime-Editorial-Poster aus Foto - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Harry AI](https://x.com/Tech_Harry1)
+- **Quelle:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Veröffentlicht:** 7. November 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Social-Media-Beitrag - GPT Image 2 Pastellkreide-Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Verwandle das hochgeladene Referenzfoto in eine bezaubernde, handgezeichnete Pas
 
 ---
 
-### No. 22: Social-Media-Beitrag - GPT Image 2: Notebook-Pop-Out-Illusion
+### No. 23: Social-Media-Beitrag - GPT Image 2: Notebook-Pop-Out-Illusion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Erstelle eine ultradetaillierte, fotorealistische Szene einer jungen Frau, die s
 
 ---
 
-### No. 23: Social-Media-Beitrag - Haaland Anime-Konfrontation
+### No. 24: Social-Media-Beitrag - Haaland Anime-Konfrontation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Eine dramatische Illustration im Anime-Stil von Erling Haaland im Trikot von Man
 
 ---
 
-### No. 24: Social-Media-Beitrag - OOTD Mode-Collage Editorial-Prompt
+### No. 25: Social-Media-Beitrag - OOTD Mode-Collage Editorial-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Ultrahochdetailliert, hochwertiges Grafikdesign, ausgewogene Komposition, 3:4 Ho
 
 ---
 
-### No. 25: Social-Media-Beitrag - Vintage-Bilderbuch-Illustrationsstil-Transfer
+### No. 26: Social-Media-Beitrag - Vintage-Bilderbuch-Illustrationsstil-Transfer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Endergebnis: Eine detailreiche, bildfüllende traditionelle Kinderbuchillustrati
 
 ---
 
-### No. 26: Social-Media-Beitrag - Sam Altman Giraffen-Hals Meme
+### No. 27: Social-Media-Beitrag - Sam Altman Giraffen-Hals Meme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ Ein humorvoller Prompt zur Generierung eines Bildes von Sam Altman mit einem üb
 
 ---
 
-### No. 27: Social-Media-Beitrag - Herbstlicher Romantischer Date-Outfit-Prompt für GPT Image 2
+### No. 28: Social-Media-Beitrag - Herbstlicher Romantischer Date-Outfit-Prompt für GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Romantischer, klassischer Herbst-Look für ein Date, elegantes feminines Styling
 
 ---
 
-### No. 28: Social-Media-Beitrag - Kinematografisches Fantasy-Porträt mit Miniatur-Selbst
+### No. 29: Social-Media-Beitrag - Kinematografisches Fantasy-Porträt mit Miniatur-Selbst
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ KAMERA UND QUALITÄT: Umweltporträt in Ganzkörperansicht, vertikale Kompositio
 
 ---
 
-### No. 29: Social-Media-Beitrag - Mixed-Media-Scrapbook im Doodle-Stil
+### No. 30: Social-Media-Beitrag - Mixed-Media-Scrapbook im Doodle-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Hochwertige Details, natürliches Licht, wunderschöne Komposition, vertikales 9
 
 ---
 
-### No. 30: Social-Media-Beitrag - Retro Showa Café Porträt
+### No. 31: Social-Media-Beitrag - Retro Showa Café Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Eine Fotografie im Vintage-Stil zeigt eine junge Frau, die in einem Retro-Café 
 
 ---
 
-### No. 31: Social-Media-Beitrag - Vintage-Foto einer Frau im Feld
+### No. 32: Social-Media-Beitrag - Vintage-Foto einer Frau im Feld
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Ein nostalgisches Foto im Vintage-Stil, das eine junge Frau zeigt, die auf einer
 
 ---
 
-### No. 32: Social-Media-Beitrag - Vergleichsposter: Fotografie vs. Impasto-Ölgemälde
+### No. 33: Social-Media-Beitrag - Vergleichsposter: Fotografie vs. Impasto-Ölgemälde
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Fotocollagen, veränderte Motive, themenfremde Szenen, illustrierte Fotografien,
 
 ---
 
-### No. 33: Social-Media-Beitrag - Split-Frame-Galerieposter mit poetischem Text
+### No. 34: Social-Media-Beitrag - Split-Frame-Galerieposter mit poetischem Text
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Unten: ein warmer, strukturierter Hintergrund in gebrochenem Weiß (Off-White), 
 
 ---
 
-### No. 34: Social-Media-Beitrag - Realistisches Abendporträt beim Spaziergang mit spezifischer Kleidung
+### No. 35: Social-Media-Beitrag - Realistisches Abendporträt beim Spaziergang mit spezifischer Kleidung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Kleidung: ein schwarzer, figurbetonter Jumpsuit mit langen Ärmeln und einem hoh
 
 ---
 
-### No. 35: Social-Media-Beitrag - Anime-Herbst-Date-Outfit-Prompt
+### No. 36: Social-Media-Beitrag - Anime-Herbst-Date-Outfit-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Wunderschöne Anime-Illustration, feine Linienführung, sanfte Farbgebung, detai
 
 ---
 
-### No. 36: Social-Media-Beitrag - Vintage Weihnachtsmärchen-Illustrations-Prompt
+### No. 37: Social-Media-Beitrag - Vintage Weihnachtsmärchen-Illustrations-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ Seitenverhältnis: 9:16 vertikal.
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Social-Media-Beitrag - Retro-Japanische Tennis-Spielerin
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Erzeugt ein nostalgisches, filmisches Porträt einer jungen Frau beim Tennis-Aufschlag und ruft eine Vintage-Ästhetik im japanischen Stil hervor.
-
-#### 📝 Prompt
-
-```
-Eine vertikale Ganzkörperaufnahme einer jungen Frau, die unter einem strahlend blauen Himmel auf einem Tennisplatz im Freien mit Sandboden spielt. Sie ist mitten im Aufschlag festgehalten: Ihr rechter Arm ist weit über dem Kopf ausgestreckt und lässt gerade einen gelben Tennisball los, während ihre linke Hand einen Vintage-Holzschläger hinter der Schulter nach hinten führt. Sie trägt einen weißen Plisseetennisrock, ein weißes Poloshirt mit kurzen Ärmeln, weiße Tennissocken und weiße Sneaker. Ihre dunklen Haare sind zu einem Pferdeschwanz zusammengebunden, und sie trägt eine weiße Kappe mit rotem Schirm. Das Bild hat eine unverkennbare Retro-Ästhetik und wirkt wie ein gescanntes Analogfoto aus der Showa-Zeit (Japan der 1970er- und 80er-Jahre) – geprägt von warmen Farbtönen, leichtem Filmkorn, weichem Fokus sowie Lichteinfällen oder Kratzern an den Rändern. Im Hintergrund sind ein grüner Maschendrahtzaun, Bäume und ein Strommast zu sehen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Social-Media-Beitrag - Retro-Japanische Tennis-Spielerin - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Quelle:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Veröffentlicht:** 2. November 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6369,7 +6392,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 weitere Prompts hier nicht angezeigt
+### 🎯 17983 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6432,6 +6455,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-08T03:10:12.575Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-08T17:21:50.214Z</sub>
 
 </div>

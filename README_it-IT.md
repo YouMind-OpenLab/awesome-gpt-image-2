@@ -139,9 +139,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **18102** |
+| 📝 Totale prompt | **18103** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **domenica 8 novembre 2026 alle ore 03:10:24 UTC** |
+| 🔄 Ultimo aggiornamento | **domenica 8 novembre 2026 alle ore 17:21:58 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Adorabile outfit da infermiera a quadretti vichy in giallo pastello e bianco, do
 
 ---
 
-### No. 21: Post sui social media - Illustrazione con pastelli a cera GPT Image 2
+### No. 21: Post sui social media - Poster Editoriale Anime da Foto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Un prompt dettagliato per gpt-image-2 che trasforma una foto di riferimento in un poster editoriale premium ispirato all'anime, con istruzioni specifiche sulla composizione e sullo stile.
+
+#### 📝 Prompt
+
+```
+Trasforma la fotografia di riferimento in un poster editoriale premium e stilizzato, ispirato all'anime, preservando con esattezza i tratti del viso, l'acconciatura, la posa, gli occhiali da sole, gli orecchini di perle e il piumino rosso della protagonista.
+
+Crea una straordinaria composizione verticale a due pannelli:
+
+Pannello superiore: ritratto fotorealistico della donna su uno sfondo di cielo azzurro limpido, calda luce solare dell'ora d'oro, vento naturale che le scompiglia i capelli, occhiali da sole dalle vivaci lenti arancioni, texture della pelle realistica, fotografia cinematografica.
+
+Pannello inferiore: reinterpreta esattamente la stessa donna come un'illustrazione altamente dettagliata che fonde anime e fumetto. Mantieni intatti l'identità del volto, l'espressione, l'acconciatura, l'outfit, gli accessori e la posa. Utilizza una drammatica controluce arancione (rim light), un tratto fine ed espressivo, colori intensi e ombreggiature da graphic novel di alta qualità.
+
+Design del poster:
+
+* Sfondo grigio antracite scuro con accenti arancioni vibranti.
+* Grande tipografia bold in corsivo con la scritta “URBAN GLOW”.
+* Sottotitolo più piccolo: “CITY VIBES IN COLOR”.
+* Grafiche arancioni diagonali dinamiche ed elementi geometrici.
+* Estetica editoriale streetwear contemporanea.
+* Contrasto elevato, design premium da copertina di rivista.
+
+Importante: mantieni il volto illustrato il più possibile fedele alla fotografia originale. Non alterare l'identità della persona, le proporzioni del viso o i tratti distintivi. Ultra-dettagliato, 4K, design professionale per poster, composizione verticale 3:4.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Post sui social media - Poster Editoriale Anime da Foto - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Post sui social media - Poster Editoriale Anime da Foto - Image 2">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Harry AI](https://x.com/Tech_Harry1)
+- **Fonte:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Pubblicato:** 7 novembre 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Post sui social media - Illustrazione con pastelli a cera GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Trasforma la foto di riferimento caricata in un'incantevole illustrazione a past
 
 ---
 
-### No. 22: Post sui social media - Illusione Pop-Out Notebook con GPT Image 2
+### No. 23: Post sui social media - Illusione Pop-Out Notebook con GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Crea una scena fotorealistica ultra-dettagliata di una giovane donna che sembra 
 
 ---
 
-### No. 23: Post sui social media - Haaland: Scontro Anime
+### No. 24: Post sui social media - Haaland: Scontro Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Un'illustrazione in stile anime dal forte impatto drammatico di Erling Haaland c
 
 ---
 
-### No. 24: Post sui social media - Prompt Editoriale Collage Moda OOTD
+### No. 25: Post sui social media - Prompt Editoriale Collage Moda OOTD
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Ultra-dettagliato, grafica curata e rifinita, composizione bilanciata, poster ve
 
 ---
 
-### No. 25: Post sui social media - Trasferimento dello stile di illustrazione da libro per bambini vintage
+### No. 26: Post sui social media - Trasferimento dello stile di illustrazione da libro per bambini vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Risultato finale: un'illustrazione tradizionale a piena pagina per libri di fiab
 
 ---
 
-### No. 26: Post sui social media - Meme del collo da giraffa di Sam Altman
+### No. 27: Post sui social media - Meme del collo da giraffa di Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ Un prompt umoristico per generare un'immagine di Sam Altman con un collo esagera
 
 ---
 
-### No. 27: Post sui social media - Prompt Outfit Appuntamento Autunnale Romantico per GPT Image 2
+### No. 28: Post sui social media - Prompt Outfit Appuntamento Autunnale Romantico per GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Un look romantico e classico per un appuntamento autunnale, uno stile femminile 
 
 ---
 
-### No. 28: Post sui social media - Ritratto Fantasy Cinematografico con Miniatura di Sé
+### No. 29: Post sui social media - Ritratto Fantasy Cinematografico con Miniatura di Sé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ FOTOCAMERA E QUALITÀ: Ritratto ambientato a figura intera, composizione vertica
 
 ---
 
-### No. 29: Post sui social media - Stile doodle per scrapbook multimediale
+### No. 30: Post sui social media - Stile doodle per scrapbook multimediale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Dettagli di alta qualità, illuminazione naturale, composizione curata, formato 
 
 ---
 
-### No. 30: Post sui social media - Ritratto in stile Retro Showa Cafe
+### No. 31: Post sui social media - Ritratto in stile Retro Showa Cafe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Una fotografia in stile vintage di una giovane donna seduta in un caffè retrò 
 
 ---
 
-### No. 31: Post sui social media - Foto d'epoca di una donna in un campo
+### No. 32: Post sui social media - Foto d'epoca di una donna in un campo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Una fotografia nostalgica in stile vintage di una giovane donna seduta in un rig
 
 ---
 
-### No. 32: Post sui social media - Poster Comparativo: Fotografia vs Pittura a Olio Impasto
+### No. 33: Post sui social media - Poster Comparativo: Fotografia vs Pittura a Olio Impasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Fotomontaggi, soggetti alterati, scene non pertinenti, fotografie dall'aspetto i
 
 ---
 
-### No. 33: Post sui social media - Poster Gallery a Split-Frame con Testo Poetico
+### No. 34: Post sui social media - Poster Gallery a Split-Frame con Testo Poetico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Metà inferiore: uno sfondo color bianco caldo con texture di carta. Il soggetto
 
 ---
 
-### No. 34: Post sui social media - Ritratto realistico di una passeggiata serale con outfit specifico
+### No. 35: Post sui social media - Ritratto realistico di una passeggiata serale con outfit specifico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Abbigliamento: una tuta nera aderente a maniche lunghe con scollo alto e complet
 
 ---
 
-### No. 35: Post sui social media - Prompt Outfit Appuntamento Autunnale Anime
+### No. 36: Post sui social media - Prompt Outfit Appuntamento Autunnale Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Splendida illustrazione anime, tratto delicato, colori tenui, texture dei tessut
 
 ---
 
-### No. 36: Post sui social media - Prompt per Illustrazione Vintage da Libro di Fiabe Natalizio
+### No. 37: Post sui social media - Prompt per Illustrazione Vintage da Libro di Fiabe Natalizio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ Proporzioni: 9:16 verticale.
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Post sui social media - Ragazza di Tennis Giapponese Retrò
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Genera un ritratto nostalgico in stile pellicola di una giovane donna al servizio nel tennis, che evoca un'estetica giapponese vintage.
-
-#### 📝 Prompt
-
-```
-Un'inquadratura verticale a figura intera di una giovane donna che gioca a tennis su un campo in terra battuta all'aperto, sotto un cielo azzurro e limpido. È immortalata nel pieno del servizio: il braccio destro è teso in alto sopra la testa mentre rilascia una pallina da tennis gialla, e la mano sinistra impugna una racchetta vintage in legno portata dietro la spalla. Indossa una gonna da tennis bianca a pieghe, una polo bianca a maniche corte, calzini bianchi alla caviglia e sneakers bianche. I capelli scuri sono raccolti in una coda di cavallo e porta un cappellino bianco con visiera rossa. L'immagine ha un'estetica marcatamente retrò, simile a una fotografia analogica scansionata dell'era Showa (Giappone degli anni '70-'80), caratterizzata da toni caldi, leggera grana, fuoco morbido e infiltrazioni di luce o graffi lungo i bordi. Sullo sfondo si notano una recinzione verde a rete metallica, degli alberi e un palo della luce.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Post sui social media - Ragazza di Tennis Giapponese Retrò - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Fonte:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Pubblicato:** 2 novembre 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6366,7 +6389,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 altri prompt non mostrati qui
+### 🎯 17983 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6429,6 +6452,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-08T03:10:24.394Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-08T17:21:58.451Z</sub>
 
 </div>

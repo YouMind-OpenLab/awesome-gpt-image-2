@@ -139,9 +139,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **18102** |
+| 📝 Total de prompts | **18103** |
 | ⭐ Destaque | **6** |
-| 🔄 Última atualização | **domingo, 8 de novembro de 2026 às 03:10:29 UTC** |
+| 🔄 Última atualização | **domingo, 8 de novembro de 2026 às 17:22:02 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Fantasia de enfermeira fofa em xadrez amarelo pastel e branco, vestido doce insp
 
 ---
 
-### No. 21: Publicação em Mídias Sociais - Ilustração a Giz Pastel GPT Image 2
+### No. 21: Publicação em Mídias Sociais - Pôster Editorial de Anime a partir de Foto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrição
+
+Um prompt detalhado para o gpt-image-2 que transforma uma foto de referência em um pôster editorial premium inspirado em anime, com instruções específicas de composição e estilo.
+
+#### 📝 Prompt
+
+```
+Transforme a fotografia de referência em um pôster editorial premium e estilizado com inspiração anime, preservando exatamente os traços faciais, o penteado, a pose, os óculos de sol, os brincos de pérola e a jaqueta puffer vermelha da pessoa.
+
+Crie uma composição vertical deslumbrante dividida em dois painéis:
+
+Painel superior: Retrato fotorrealista da mulher sob um céu azul limpo, com a luz quente e dourada do fim de tarde, o vento natural balançando seu cabelo, óculos de sol vibrantes com lentes alaranjadas, textura de pele realista e fotografia cinematográfica.
+
+Painel inferior: Reimagine exatamente a mesma mulher como uma ilustração altamente detalhada que une anime e quadrinhos. Preserve sua identidade facial, expressão, penteado, roupa, acessórios e pose. Use uma iluminação de contorno (rim light) laranja dramática, traços finos e expressivos, cores intensas e sombreamento premium no estilo graphic novel.
+
+Design do pôster:
+
+* Fundo cinza-chumbo escuro com detalhes em laranja vibrante.
+* Tipografia grande, em negrito e itálico com os dizeres “URBAN GLOW”.
+* Subtítulo menor: “CITY VIBES IN COLOR”.
+* Elementos gráficos laranjas diagonais e formas geométricas dinâmicas.
+* Estética editorial moderna de streetwear.
+* Alto contraste, design premium de capa de revista.
+
+Importante: Mantenha o rosto ilustrado o mais fiel possível à fotografia original. Não altere a identidade da pessoa, as proporções faciais nem seus traços característicos. Ultrarrico em detalhes, 4K, design de pôster profissional, composição vertical 3:4.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Publicação em Mídias Sociais - Pôster Editorial de Anime a partir de Foto - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Publicação em Mídias Sociais - Pôster Editorial de Anime a partir de Foto - Image 2">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Harry AI](https://x.com/Tech_Harry1)
+- **Fonte:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Publicado:** 7 de novembro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Publicação em Mídias Sociais - Ilustração a Giz Pastel GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Transforme a foto de referência enviada em uma encantadora ilustração feita �
 
 ---
 
-### No. 22: Publicação em Mídias Sociais - Ilusão Pop-Out do GPT Image 2 em Caderno
+### No. 23: Publicação em Mídias Sociais - Ilusão Pop-Out do GPT Image 2 em Caderno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Crie uma cena fotorrealista ultradetalhada de uma jovem que parece emergir atrav
 
 ---
 
-### No. 23: Publicação em Mídias Sociais - Confronto Anime de Haaland
+### No. 24: Publicação em Mídias Sociais - Confronto Anime de Haaland
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Uma ilustração dramática em estilo anime de Erling Haaland com a camisa do Ma
 
 ---
 
-### No. 24: Publicação em Mídias Sociais - Prompt Editorial de Colagem de Moda OOTD
+### No. 25: Publicação em Mídias Sociais - Prompt Editorial de Colagem de Moda OOTD
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Ultradetallhado, design gráfico impecável, composição equilibrada, pôster v
 
 ---
 
-### No. 25: Publicação em Mídias Sociais - Transferência de Estilo de Ilustração de Livros Infantis Vintage
+### No. 26: Publicação em Mídias Sociais - Transferência de Estilo de Ilustração de Livros Infantis Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Resultado final: Uma ilustração tradicional de livro infantil em quadro inteir
 
 ---
 
-### No. 26: Publicação em Mídias Sociais - Meme do Pescoço de Girafa de Sam Altman
+### No. 27: Publicação em Mídias Sociais - Meme do Pescoço de Girafa de Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ Um prompt humorístico para gerar uma imagem de Sam Altman com um pescoço exage
 
 ---
 
-### No. 27: Publicação em Mídias Sociais - Prompt de Look Romântico para Encontro no Outono para GPT Image 2
+### No. 28: Publicação em Mídias Sociais - Prompt de Look Romântico para Encontro no Outono para GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Moda romântica e tradicional para um encontro de outono, styling feminino e ele
 
 ---
 
-### No. 28: Publicação em Mídias Sociais - Retrato Fantástico Cinematográfico com Miniatura de Si Mesma
+### No. 29: Publicação em Mídias Sociais - Retrato Fantástico Cinematográfico com Miniatura de Si Mesma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ CÂMERA E QUALIDADE: Retrato ambiental de corpo inteiro, composição vertical, 
 
 ---
 
-### No. 29: Publicação em Mídias Sociais - Estilo de Rabisco em Scrapbook Multimídia
+### No. 30: Publicação em Mídias Sociais - Estilo de Rabisco em Scrapbook Multimídia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Detalhes de alta qualidade, iluminação natural, composição impecável, forma
 
 ---
 
-### No. 30: Publicação em Mídias Sociais - Retrato Retrô Showa Café
+### No. 31: Publicação em Mídias Sociais - Retrato Retrô Showa Café
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Uma fotografia em estilo vintage de uma jovem sentada em um café retrô da era 
 
 ---
 
-### No. 31: Publicação em Mídias Sociais - Foto Vintage de Mulher no Campo
+### No. 32: Publicação em Mídias Sociais - Foto Vintage de Mulher no Campo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Uma fotografia nostálgica em estilo vintage de uma jovem sentada em um campo ve
 
 ---
 
-### No. 32: Publicação em Mídias Sociais - Pôster Comparativo: Fotografia vs Pintura a Óleo Impasto
+### No. 33: Publicação em Mídias Sociais - Pôster Comparativo: Fotografia vs Pintura a Óleo Impasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Colagens fotográficas, sujeitos alterados, cenas desconexas, fotografias ilustr
 
 ---
 
-### No. 33: Publicação em Mídias Sociais - Pôster de Galeria com Quadros Divididos e Texto Poético
+### No. 34: Publicação em Mídias Sociais - Pôster de Galeria com Quadros Divididos e Texto Poético
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Parte inferior: um fundo de papel texturizado em tom branco quente. O elemento p
 
 ---
 
-### No. 34: Publicação em Mídias Sociais - Retrato Realista de Passeio Noturno com Roupa Específica
+### No. 35: Publicação em Mídias Sociais - Retrato Realista de Passeio Noturno com Roupa Específica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Roupas: um macacão preto justo, de mangas compridas e gola alta totalmente fech
 
 ---
 
-### No. 35: Publicação em Mídias Sociais - Prompt de Outfit para Encontro Outonal em Estilo Anime
+### No. 36: Publicação em Mídias Sociais - Prompt de Outfit para Encontro Outonal em Estilo Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Bela ilustração anime, traços delicados, coloração suave, texturas detalhad
 
 ---
 
-### No. 36: Publicação em Mídias Sociais - Prompt de Ilustração Vintage de Livro de Histórias de Natal
+### No. 37: Publicação em Mídias Sociais - Prompt de Ilustração Vintage de Livro de Histórias de Natal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ Proporção: 9:16 vertical.
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Publicação em Mídias Sociais - Garota de Tênis Retrô Japonesa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Gera um retrato nostálgico, com estética cinematográfica, de uma jovem jogando tênis, evocando a atmosfera vintage japonesa.
-
-#### 📝 Prompt
-
-```
-Uma foto vertical de corpo inteiro de uma jovem jogando tênis em uma quadra de saibro ao ar livre, sob um céu azul e limpo. Ela é capturada no meio do saque, com o braço direito estendido bem acima da cabeça soltando uma bola de tênis amarela, enquanto a mão esquerda segura uma raquete de madeira vintage atrás do ombro. Ela veste uma saia de tênis branca plissada, uma polo branca de manga curta, meias brancas de cano médio e tênis brancos. Seu cabelo escuro está preso em um rabo de cavalo, e ela usa um boné branco com a aba vermelha. A imagem tem uma estética retrô marcante, parecendo uma fotografia em filme digitalizada da era Showa (Japão dos anos 1970 e 1980), caracterizada por tons de cores quentes, leve granulação, foco suave e vazamentos de luz ou arranhões nas bordas. Ao fundo, há uma cerca verde de tela aramada, árvores e um poste de energia.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Publicação em Mídias Sociais - Garota de Tênis Retrô Japonesa - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Fonte:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Publicado:** 2 de novembro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6363,7 +6386,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 mais prompts não mostrados aqui
+### 🎯 17983 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6426,6 +6449,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-08T03:10:29.396Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-08T17:22:02.948Z</sub>
 
 </div>

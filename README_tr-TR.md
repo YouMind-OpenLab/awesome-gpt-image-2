@@ -139,9 +139,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **18102** |
+| 📝 Toplam İstem | **18103** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **8 Kasım 2026 Pazar 03:10:40 UTC** |
+| 🔄 Son Güncelleme | **8 Kasım 2026 Pazar 17:22:10 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Sevimli pastel sarı ve beyaz ekoseli hemşire kıyafeti, tatlı Lolita ilhamlı
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - GPT Image 2 Pastel Boya Kalemi İllüstrasyonu
+### No. 21: Sosyal Medya Gönderisi - Fotoğraftan Anime Editoryal Afişi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Referans fotoğrafı, belirli kompozisyon ve stil talimatlarıyla premium anime tarzı bir editoryal afişe dönüştürmek için gpt-image-2'ye yönelik detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Referans fotoğrafı; kişinin yüz hatlarını, saç stilini, pozunu, güneş gözlüğünü, inci küpelerini ve kırmızı şişme montunu birebir koruyarak premium, stilize edilmiş anime esintili bir editoryal postere dönüştür.
+
+Göz alıcı, iki panelli dikey bir kompozisyon oluştur:
+
+Üst Panel: Berrak mavi bir gökyüzü önünde kadının fotogerçekçi portresi, sıcak altın saat gün ışığı, saçlarının arasında esen doğal rüzgar, canlı turuncu camlı güneş gözlüğü, gerçekçi cilt dokusu, sinematik fotoğrafçılık.
+
+Alt Panel: Aynı kadını son derece detaylı bir anime-çizgi roman füzyonu illüstrasyon olarak yeniden hayal et. Yüz kimliğini, ifadesini, saç stilini, kıyafetini, aksesuarlarını ve pozunu birebir koru. Dramatik turuncu kenar aydınlatması (rim lighting), etkileyici ince çizgiler, zengin renkler ve premium grafik roman gölgelendirmesi kullan.
+
+Poster Tasarımı:
+
+* Canlı turuncu vurgulara sahip koyu antrasit arka plan.
+* “URBAN GLOW” yazan büyük, kalın ve italik tipografi.
+* Daha küçük alt başlık: “CITY VIBES IN COLOR”.
+* Dinamik çapraz turuncu grafikler ve geometrik öğeler.
+* Modern streetwear editoryal estetiği.
+* Yüksek kontrastlı, premium dergi kapağı tasarımı.
+
+Önemli: İllüstrasyondaki yüzün orijinal fotoğrafla birebir eşleşmesini sağla. Kişinin kimliğini, yüz oranlarını veya ayırt edici özelliklerini değiştirme. Ultra detaylı, 4K, profesyonel poster tasarımı, dikey 3:4 kompozisyon.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Sosyal Medya Gönderisi - Fotoğraftan Anime Editoryal Afişi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Sosyal Medya Gönderisi - Fotoğraftan Anime Editoryal Afişi - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Harry AI](https://x.com/Tech_Harry1)
+- **Kaynak:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Yayınlandı:** 7 Kasım 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Sosyal Medya Gönderisi - GPT Image 2 Pastel Boya Kalemi İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Yüklenen referans fotoğrafı, orijinal konunun tam kimliğini, yüz hatların�
 
 ---
 
-### No. 22: Sosyal Medya Gönderisi - GPT Image 2 Notebook Pop-Out İllüzyonu
+### No. 23: Sosyal Medya Gönderisi - GPT Image 2 Notebook Pop-Out İllüzyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Yırtık bir defter sayfasından çıkan bir kadının hiper gerçekçi optik il
 
 ---
 
-### No. 23: Sosyal Medya Gönderisi - Haaland Anime Yüzleşmesi
+### No. 24: Sosyal Medya Gönderisi - Haaland Anime Yüzleşmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Manchester City forması giyen Erling Haaland'ın elleriyle saçlarını kavram�
 
 ---
 
-### No. 24: Sosyal Medya Gönderisi - OOTD Moda Kolajı Editoryal İstem
+### No. 25: Sosyal Medya Gönderisi - OOTD Moda Kolajı Editoryal İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Ultra detaylı, kusursuz grafik tasarım, dengeli kompozisyon, 3:4 dikey poster.
 
 ---
 
-### No. 25: Sosyal Medya Gönderisi - Vintage Resimli Kitap İllüstrasyon Stili Aktarımı
+### No. 26: Sosyal Medya Gönderisi - Vintage Resimli Kitap İllüstrasyon Stili Aktarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Nihai Görünüm: Elle boyanmış vintage bir resimli kitap görünümünde, bol
 
 ---
 
-### No. 26: Sosyal Medya Gönderisi - Sam Altman Zürafa Boyun Memi
+### No. 27: Sosyal Medya Gönderisi - Sam Altman Zürafa Boyun Memi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ gpt-image-2 kullanılarak, Sam Altman'ın zürafa gibi abartılı derecede uzun 
 
 ---
 
-### No. 27: Sosyal Medya Gönderisi - GPT Image 2 için Sonbahar Romantik Buluşma Kıyafeti İstemi
+### No. 28: Sosyal Medya Gönderisi - GPT Image 2 için Sonbahar Romantik Buluşma Kıyafeti İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Romantik ve klasik bir sonbahar buluşması stili, zarif feminen bir görünüm,
 
 ---
 
-### No. 28: Sosyal Medya Gönderisi - Minyatür Benlik ile Sinematik Fantastik Portre
+### No. 29: Sosyal Medya Gönderisi - Minyatür Benlik ile Sinematik Fantastik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ KAMERA VE KALİTE: Tam boy çevresel portre, dikey kompozisyon, hafif alçak kam
 
 ---
 
-### No. 29: Sosyal Medya Gönderisi - Karma Medya Karalama Defteri Doodle Tarzı
+### No. 30: Sosyal Medya Gönderisi - Karma Medya Karalama Defteri Doodle Tarzı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Yüksek kaliteli detaylar, doğal aydınlatma, güzel kompozisyon, dikey 9:16 fo
 
 ---
 
-### No. 30: Sosyal Medya Gönderisi - Retro Showa Cafe Portresi
+### No. 31: Sosyal Medya Gönderisi - Retro Showa Cafe Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Retro Showa dönemi kafesinde oturan genç bir kadının vintage tarzda bir foto
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - Çayırda Kadın Vintage Fotoğraf
+### No. 32: Sosyal Medya Gönderisi - Çayırda Kadın Vintage Fotoğraf
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Yemyeşil bir çayırda oturan genç bir kadının nostaljik, vintage tarzda bir
 
 ---
 
-### No. 32: Sosyal Medya Gönderisi - Fotoğrafçılık vs Impasto Yağlı Boya Karşılaştırma Poster
+### No. 33: Sosyal Medya Gönderisi - Fotoğrafçılık vs Impasto Yağlı Boya Karşılaştırma Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Fotoğraf kolajları, değiştirilmiş özneler, konuyla alakasız sahneler, ill
 
 ---
 
-### No. 33: Sosyal Medya Gönderisi - Şiirsel Metinli Bölünmüş Çerçeveli Galeri Afişi
+### No. 34: Sosyal Medya Gönderisi - Şiirsel Metinli Bölünmüş Çerçeveli Galeri Afişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Alt kısım: Sıcak tonlu, kırık beyaz dokulu kağıt arka plan. Ana nesne ark
 
 ---
 
-### No. 34: Sosyal Medya Gönderisi - Belirli Kıyafetle Gerçekçi Akşam Gezintisi Portresi
+### No. 35: Sosyal Medya Gönderisi - Belirli Kıyafetle Gerçekçi Akşam Gezintisi Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Kıyafet: Uzun kollu, yakası tamamen kapalı ve yüksek kesimli, siyah dar kesi
 
 ---
 
-### No. 35: Sosyal Medya Gönderisi - Anime Sonbahar Randevu Kıyafeti İstem Prompt
+### No. 36: Sosyal Medya Gönderisi - Anime Sonbahar Randevu Kıyafeti İstem Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Güzel anime illüstrasyonu, zarif çizgiler, yumuşak renklendirme, detaylı ku
 
 ---
 
-### No. 36: Sosyal Medya Gönderisi - Vintage Noel Hikaye Kitabı İllüstrasyonu İstem
+### No. 37: Sosyal Medya Gönderisi - Vintage Noel Hikaye Kitabı İllüstrasyonu İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ En boy oranı: 9:16 dikey.
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Sosyal Medya Gönderisi - Retro Japon Tenis Kızı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Tenis oynayan genç bir kadının nostaljik, film tarzı portresini oluşturarak vintage Japon estetiğini yansıtır.
-
-#### 📝 İstem
-
-```
-Berrak mavi bir gökyüzü altında, açık hava toprak kortta tenis oynayan genç bir kadının dikey, tam boy çekimi. Servis atışının tam ortasında yakalanmış; sağ kolu başının üzerinde yükseğe uzanarak sarı bir tenis topunu bırakıyor, sol eli ise omzunun gerisinde vintage ahşap bir tenis raketi tutuyor. Üzerinde beyaz pileli tenis eteği, kısa kollu beyaz polo yaka tişört, beyaz bilek çorabı ve beyaz spor ayakkabılar var. Koyu renk saçları at kuyruğu yapılmış ve kırmızı siperlikli beyaz bir şapka takıyor. Görsel, 1970'ler-80'ler Japonya'sına ait Showa döneminden taranmış bir film fotoğrafını andıran belirgin bir retro estetiğe sahip; sıcak renk tonları, hafif gren, yumuşak odak ve kenarlar boyunca ışık sızıntıları ya da çiziklerle karakterize ediliyor. Arka planda yeşil tel örgü bir çit, ağaçlar ve bir elektrik direği yer alıyor.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Sosyal Medya Gönderisi - Retro Japon Tenis Kızı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Kaynak:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Yayınlandı:** 2 Kasım 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6375,7 +6398,7 @@ Oranlar, gerçek insan anatomisi yerine klasik LEGO minifigür ölçeğine uygun
 
 <div align="center">
 
-### 🎯 17982 burada gösterilmeyen daha fazla istem
+### 🎯 17983 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6438,6 +6461,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-08T03:10:40.472Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-08T17:22:10.766Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **18102** |
+| 📝 Total de prompts | **18103** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **domingo, 8 de noviembre de 2026, 3:10:01 UTC** |
+| 🔄 Última actualización | **domingo, 8 de noviembre de 2026, 17:21:42 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Adorable traje de enfermera de cuadros vichy en amarillo pastel y blanco, vestid
 
 ---
 
-### No. 21: Publicación en redes sociales - Ilustración con crayones pastel de GPT Image 2
+### No. 21: Publicación en redes sociales - Póster Editorial Anime a partir de una Foto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt detallado para gpt-image-2 que transforma una foto de referencia en un póster editorial premium inspirado en el anime, con instrucciones específicas de composición y estilo.
+
+#### 📝 Prompt
+
+```
+Transforma la fotografía de referencia en un póster editorial premium y estilizado con inspiración anime, conservando exactamente los rasgos faciales, el peinado, la pose, las gafas de sol, los pendientes de perlas y la chaqueta acolchada roja de la protagonista.
+
+Crea una espectacular composición vertical de dos paneles:
+
+Panel superior: Retrato fotorrealista de la mujer sobre un cielo azul despejado, con la cálida luz del atardecer (golden hour), el viento natural moviendo su cabello, gafas de sol con cristales de tono naranja vibrante, textura de piel realista y fotografía cinematográfica.
+
+Panel inferior: Reimagina a la misma mujer como una ilustración de altísimo detalle que fusiona el estilo anime con el cómic. Conserva su identidad facial, expresión, peinado, atuendo, accesorios y pose. Aplica una iluminación de contorno naranja dramática, un trazo fino y expresivo, colores intensos y un sombreado propio de las mejores novelas gráficas.
+
+Diseño del póster:
+
+* Fondo gris carbón oscuro con detalles en naranja vibrante.
+* Tipografía grande, gruesa y en cursiva con el texto “URBAN GLOW”.
+* Subtítulo más pequeño: “CITY VIBES IN COLOR”.
+* Gráficos naranjas diagonales dinámicos y elementos geométricos.
+* Estética editorial moderna de streetwear.
+* Alto contraste, diseño de portada de revista premium.
+
+Importante: Mantén el rostro ilustrado lo más fiel posible a la fotografía original. No alteres la identidad de la persona, sus proporciones faciales ni sus rasgos distintivos. Ultradetallado, 4K, diseño de póster profesional, composición vertical 3:4.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Publicación en redes sociales - Póster Editorial Anime a partir de una Foto - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Publicación en redes sociales - Póster Editorial Anime a partir de una Foto - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Harry AI](https://x.com/Tech_Harry1)
+- **Fuente:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Publicado:** 7 de noviembre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Publicación en redes sociales - Ilustración con crayones pastel de GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Transforma la foto de referencia subida en una encantadora ilustración a mano a
 
 ---
 
-### No. 22: Publicación en redes sociales - Ilusión Pop-Out de GPT Image 2 en Cuaderno
+### No. 23: Publicación en redes sociales - Ilusión Pop-Out de GPT Image 2 en Cuaderno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Crea una escena fotorrealista y ultradetallada de una joven que parece emerger a
 
 ---
 
-### No. 23: Publicación en redes sociales - Confrontación estilo anime de Haaland
+### No. 24: Publicación en redes sociales - Confrontación estilo anime de Haaland
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Una ilustración dramática de estilo anime de Erling Haaland con la camiseta de
 
 ---
 
-### No. 24: Publicación en redes sociales - Prompt Editorial para Collage de Moda OOTD
+### No. 25: Publicación en redes sociales - Prompt Editorial para Collage de Moda OOTD
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Ultradetallado, diseño gráfico pulido, composición equilibrada, póster verti
 
 ---
 
-### No. 25: Publicación en redes sociales - Transferencia de estilo de ilustración de cuentos infantiles vintage
+### No. 26: Publicación en redes sociales - Transferencia de estilo de ilustración de cuentos infantiles vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Resultado final: Una ilustración tradicional de cuento infantil a página compl
 
 ---
 
-### No. 26: Publicación en redes sociales - Meme del cuello de jirafa de Sam Altman
+### No. 27: Publicación en redes sociales - Meme del cuello de jirafa de Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ Un prompt humorístico para generar una imagen de Sam Altman con un cuello exage
 
 ---
 
-### No. 27: Publicación en redes sociales - Prompt de Outfit para Cita Romántica de Otoño para GPT Image 2
+### No. 28: Publicación en redes sociales - Prompt de Outfit para Cita Romántica de Otoño para GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Moda romántica y tradicional para una cita de otoño, estilismo femenino y eleg
 
 ---
 
-### No. 28: Publicación en redes sociales - Retrato de fantasía cinematográfico con yo en miniatura
+### No. 29: Publicación en redes sociales - Retrato de fantasía cinematográfico con yo en miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ CÁMARA Y CALIDAD: Retrato ambiental de cuerpo entero, composición vertical, á
 
 ---
 
-### No. 29: Publicación en redes sociales - Estilo de garabatos en scrapbook multimedia
+### No. 30: Publicación en redes sociales - Estilo de garabatos en scrapbook multimedia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Detalles de alta calidad, iluminación natural, composición hermosa, formato ve
 
 ---
 
-### No. 30: Publicación en redes sociales - Retrato Retro de Cafetería Showa
+### No. 31: Publicación en redes sociales - Retrato Retro de Cafetería Showa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Una fotografía de estilo vintage de una joven sentada en una cafetería retro d
 
 ---
 
-### No. 31: Publicación en redes sociales - Foto Vintage de Mujer en el Campo
+### No. 32: Publicación en redes sociales - Foto Vintage de Mujer en el Campo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Una fotografía nostálgica de estilo vintage que muestra a una joven sentada en
 
 ---
 
-### No. 32: Publicación en redes sociales - Póster comparativo: fotografía vs. pintura al óleo con técnica de empaste
+### No. 33: Publicación en redes sociales - Póster comparativo: fotografía vs. pintura al óleo con técnica de empaste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Collages fotográficos, sujetos alterados, escenas sin relación, fotografías i
 
 ---
 
-### No. 33: Publicación en redes sociales - Póster de galería con marco dividido y texto poético
+### No. 34: Publicación en redes sociales - Póster de galería con marco dividido y texto poético
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Parte inferior: un fondo cálido de papel texturizado blanco roto. El sujeto pri
 
 ---
 
-### No. 34: Publicación en redes sociales - Retrato realista de paseo nocturno con atuendo específico
+### No. 35: Publicación en redes sociales - Retrato realista de paseo nocturno con atuendo específico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Ropa: un mono negro ajustado de manga larga y cuello alto completamente cerrado.
 
 ---
 
-### No. 35: Publicación en redes sociales - Prompt de Outfit para Cita Otoñal en Estilo Anime
+### No. 36: Publicación en redes sociales - Prompt de Outfit para Cita Otoñal en Estilo Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Hermosa ilustración anime, trazos delicados, colores suaves, texturas detallada
 
 ---
 
-### No. 36: Publicación en redes sociales - Prompt de Ilustración de Cuento Navideño Vintage
+### No. 37: Publicación en redes sociales - Prompt de Ilustración de Cuento Navideño Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ Relación de aspecto: 9:16 vertical.
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Publicación en redes sociales - Chica de Tenis Retro Japonesa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Genera un retrato nostálgico con estilo cinematográfico de una joven sirviendo en tenis, evocando una estética japonesa vintage.
-
-#### 📝 Prompt
-
-```
-Una toma vertical de cuerpo entero de una joven jugando al tenis en una pista de tierra batida al aire libre bajo un cielo azul despejado. La imagen la capta en pleno saque, con el brazo derecho extendido por encima de la cabeza soltando una pelota de tenis amarilla y la mano izquierda sujetando una raqueta de madera vintage por detrás del hombro. Lleva una falda de tenis blanca plisada, un polo blanco de manga corta, calcetines blancos hasta el tobillo y zapatillas deportivas blancas. Tiene el cabello oscuro recogido en una coleta y lleva una gorra blanca con la visera roja. La fotografía tiene una estética retro muy marcada que recuerda a una imagen analógica escaneada de la era Showa (Japón de los años 70 y 80), caracterizada por tonos cálidos, un ligero grano, un enfoque suave y filtraciones de luz o arañazos en los bordes. Al fondo se ven una valla metálica verde, árboles y un poste de tendido eléctrico.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Publicación en redes sociales - Chica de Tenis Retro Japonesa - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Fuente:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Publicado:** 2 de noviembre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6365,7 +6388,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 prompts más no mostrados aquí
+### 🎯 17983 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6428,6 +6451,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-08T03:10:01.781Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-08T17:21:42.446Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **18102** |
+| 📝 プロンプト総数 | **18103** |
 | ⭐ おすすめ | **6** |
-| 🔄 最終更新 | **2026年11月8日日曜日 3:09:34 UTC** |
+| 🔄 最終更新 | **2026年11月8日日曜日 17:21:22 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ GPT Image 2 向けに設計された、銀灰色の髪とクールなブルー�
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - GPT Image 2 パステルクレヨン風イラスト
+### No. 21: ソーシャルメディア投稿 - 写真からアニメ風エディトリアルポスターを作成
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+gpt-image-2 に、参照写真をプレミアムなアニメ風エディトリアルポスターに変換させるための詳細なプロンプトです。具体的な構図やスタイルの指示が含まれています。
+
+#### 📝 プロンプト
+
+```
+参考写真を、被写体の顔立ち、ヘアスタイル、ポーズ、サングラス、パールピアス、赤いパファージャケットを正確に保ちながら、上質でスタイリッシュなアニメ風エディトリアルポスターへと変換してください。
+
+目を奪う 2 パネル構成の縦型レイアウトを作成します。
+
+上部パネル：澄んだ青空を背景にした女性のフォトリアリスティックなポートレート。ゴールデンアワーの温かな日差し、髪をなびかせる自然な風、鮮やかなオレンジ色のサングラス、リアルな肌の質感、シネマティックな写真表現。
+
+下部パネル：同一の女性を、高精細なアニメとコミックブックが融合したイラストとして再構築。顔の特徴、表情、ヘアスタイル、服装、アクセサリー、ポーズはそのまま維持してください。ドラマチックなオレンジのリムライト、感情豊かな繊細な線画、深みのある色彩、そして上質なグラフィックノベル風の陰影を用います。
+
+ポスターデザイン：
+
+* ダークチャコールの背景に、鮮やかなオレンジのアクセント。
+* 「URBAN GLOW」と書かれた大きく太いイタリック体（斜体）のタイポグラフィ。
+* 小さめのサブタイトル「CITY VIBES IN COLOR」。
+* 躍動感のある斜めのオレンジグラフィックとジオメトリックな要素。
+* モダンなストリートウェアのエディトリアル的 aesthetic（美的世界観）。
+* ハイコントラストで、高級雑誌の表紙のようなデザイン。
+
+重要：イラスト化された顔は、元の参考写真と限りなく一致させてください。人物のアイデンティティ、顔の比率、際立った特徴を変更しないでください。超精細、4K、プロフェッショナルなポスターデザイン、縦横比 3:4 の縦型構図。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="ソーシャルメディア投稿 - 写真からアニメ風エディトリアルポスターを作成 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="ソーシャルメディア投稿 - 写真からアニメ風エディトリアルポスターを作成 - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Harry AI](https://x.com/Tech_Harry1)
+- **ソース:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **公開日:** 2026年11月7日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: ソーシャルメディア投稿 - GPT Image 2 パステルクレヨン風イラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ GPT Image 2 向けに設計された、銀灰色の髪とクールなブルー�
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - GPT Image 2 ノートポップアウト錯視
+### No. 23: ソーシャルメディア投稿 - GPT Image 2 ノートポップアウト錯視
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ GPT Image 2 向けに設計された、銀灰色の髪とクールなブルー�
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - ハーランド アニメ風対決
+### No. 24: ソーシャルメディア投稿 - ハーランド アニメ風対決
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Manchester City のユニフォームを着た Erling Haaland が、両手で髪
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - OOTD ファッションコラージュ エディトリアルプロンプト
+### No. 25: ソーシャルメディア投稿 - OOTD ファッションコラージュ エディトリアルプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2189,7 +2245,7 @@ Manchester City のユニフォームを着た Erling Haaland が、両手で髪
 
 ---
 
-### No. 25: ソーシャルメディア投稿 - ヴィンテージ絵本イラストレーション スタイル転送
+### No. 26: ソーシャルメディア投稿 - ヴィンテージ絵本イラストレーション スタイル転送
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2240,7 +2296,7 @@ Manchester City のユニフォームを着た Erling Haaland が、両手で髪
 
 ---
 
-### No. 26: ソーシャルメディア投稿 - Sam Altman キリンの首 ミーム
+### No. 27: ソーシャルメディア投稿 - Sam Altman キリンの首 ミーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2330,7 @@ gpt-image-2 を使用して、キリンのように極端に長い首を持つ S
 
 ---
 
-### No. 27: ソーシャルメディア投稿 - GPT Image 2 向け：秋のロマンチックなデート服プロンプト
+### No. 28: ソーシャルメディア投稿 - GPT Image 2 向け：秋のロマンチックなデート服プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2321,7 +2377,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 28: ソーシャルメディア投稿 - ミニチュアセルフを携えたシネマティック・ファンタジーポートレート
+### No. 29: ソーシャルメディア投稿 - ミニチュアセルフを携えたシネマティック・ファンタジーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2420,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - ミックスメディアスクラップブック・落書き風スタイル
+### No. 30: ソーシャルメディア投稿 - ミックスメディアスクラップブック・落書き風スタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2413,7 +2469,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 30: ソーシャルメディア投稿 - レトロ昭和カフェのポートレート
+### No. 31: ソーシャルメディア投稿 - レトロ昭和カフェのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2446,7 +2502,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 31: ソーシャルメディア投稿 - 野原に立つ女性のヴィンテージ写真
+### No. 32: ソーシャルメディア投稿 - 野原に立つ女性のヴィンテージ写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2479,7 +2535,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 32: ソーシャルメディア投稿 - 写真とインパスト油絵の比較ポスター
+### No. 33: ソーシャルメディア投稿 - 写真とインパスト油絵の比較ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2551,7 +2607,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 33: ソーシャルメディア投稿 - 詩的なテキストを添えた分割フレームのギャラリーポスター
+### No. 34: ソーシャルメディア投稿 - 詩的なテキストを添えた分割フレームのギャラリーポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2606,7 +2662,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 34: ソーシャルメディア投稿 - 特定衣装を着用したリアルな夜の散歩道のポートレート
+### No. 35: ソーシャルメディア投稿 - 特定衣装を着用したリアルな夜の散歩道のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2641,7 +2697,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 35: ソーシャルメディア投稿 - アニメ風秋のデート服プロンプト
+### No. 36: ソーシャルメディア投稿 - アニメ風秋のデート服プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2686,7 +2742,7 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 
 ---
 
-### No. 36: ソーシャルメディア投稿 - ヴィンテージ クリスマス絵本風イラストのプロンプト
+### No. 37: ソーシャルメディア投稿 - ヴィンテージ クリスマス絵本風イラストのプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2732,39 +2788,6 @@ GPT Image 2 を使用して、キャメルコートとチェック柄スカー�
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: ソーシャルメディア投稿 - レトロな日本のテニスガール
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-レトロな日本風美学を喚起する、テニスのサーブポーズをとる若い女性のノスタルジックなフィルム調ポートレートを生成します。
-
-#### 📝 プロンプト
-
-```
-青空の下、屋外のクレーコートでテニスをする若い女性の全身を縦構図で捉えたショット。サーブの瞬間を切り取っており、右腕を頭上に高く伸ばして黄色いテニスボールを放ち、左手にはヴィンテージの木製テニスラケットを肩の後ろに引いている。白いプリーツのテニススカート、白の半袖ポロシャツ、白のクルーソックス、白のスニーカーを着用。黒髪はポニーテールにまとめ、赤いつばの白いキャップをかぶっている。昭和時代（1970〜80 年代の日本）のフィルム写真をスキャンしたような、はっきりとしたレトロな雰囲気が漂う一枚。温かみのある色調、わずかな粒状感、ソフトフォーカス、そして縁に沿った光漏れや傷が特徴的だ。背景には緑色の金網フェンス、木々、電柱が写り込んでいる。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="ソーシャルメディア投稿 - レトロな日本のテニスガール - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **ソース:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **公開日:** 2026年11月2日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6389,7 +6412,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 さらに多くのプロンプトがあります
+### 🎯 17983 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6452,6 +6475,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-11-08T03:09:34.553Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-11-08T17:21:22.024Z</sub>
 
 </div>

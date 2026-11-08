@@ -139,9 +139,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **18102** |
+| 📝 총 프롬프트 수 | **18103** |
 | ⭐ 추천 | **6** |
-| 🔄 마지막 업데이트 | **2026년 11월 8일 일요일 AM 3시 9분 39초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 8일 일요일 PM 5시 21분 26초 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ GPT Image 2를 위해 설계된, 은회색 머리와 차가운 블루그레이 �
 
 ---
 
-### No. 21: 소셜 미디어 게시물 - GPT Image 2 파스텔 크레용 일러스트
+### No. 21: 소셜 미디어 게시물 - 사진에서 만드는 애니메이션 에디토리얼 포스터
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+참고 사진을 특정 구도와 스타일링 지침에 따라 프리미엄 애니메이션풍 에디토리얼 포스터로 변환하기 위한 gpt-image-2용 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참고 사진의 인물이 가진 정확한 이목구비, 헤어스타일, 포즈, 선글라스, 진주 귀걸이, 레드 퍼퍼 재킷을 그대로 유지하면서, 프리미엄 스타일의 애니메이션 감성 에디토리얼 포스터로 변환해 주세요.
+
+눈부시게 아름다운 2 단 세로 구성으로 제작합니다:
+
+상단 패널: 맑은 파란 하늘을 배경으로 한 여성의 포토 리얼리스틱 초상화, 따뜻한 골든 아워 햇살, 머리카락을 자연스럽게 스치는 바람, 생동감 넘치는 오렌지 틴트 선글라스, 사실적인 피부 질감, 시네마틱 사진 연출.
+
+하단 패널: 동일한 여성을 고도로 정교한 애니메이션과 코믹북이 결합된 일러스트로 재해석합니다. 얼굴 특징, 표정, 헤어스타일, 의상, 액세서리, 포즈를 그대로 살려주세요. 강렬한 오렌지 림 라이팅, 표현력豊かな 섬세한 라인워크, 풍부한 색감, 프리미엄 그래픽 노블 스타일의 음영을 적용합니다.
+
+포스터 디자인:
+
+* 비비드한 오렌지 포인트가 더해진 다크 차콜 배경.
+* “URBAN GLOW” 라는 문구가 적힌 크고 굵은 이탤릭 타이포그래피.
+* 작은 서브타이틀: “CITY VIBES IN COLOR”.
+* 역동적인 대각선 오렌지 그래픽 및 기하학적 요소.
+* 모던 스트릿웨어 에디토리얼 감성.
+* 높은 대비감, 프리미엄 매거진 커버 디자인.
+
+중요: 일러스트 속 얼굴이 원본 사진과 최대한 일치하도록 유지해 주세요. 인물의 정체성, 얼굴 비율, 고유한 특징을 임의로 변경하지 마세요. 초정밀 디테일, 4K, 프로페셔널 포스터 디자인, 세로 3:4 비율 구성.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="소셜 미디어 게시물 - 사진에서 만드는 애니메이션 에디토리얼 포스터 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="소셜 미디어 게시물 - 사진에서 만드는 애니메이션 에디토리얼 포스터 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Harry AI](https://x.com/Tech_Harry1)
+- **출처:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **게시일:** 2026년 11월 7일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: 소셜 미디어 게시물 - GPT Image 2 파스텔 크레용 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ GPT Image 2를 위해 설계된, 은회색 머리와 차가운 블루그레이 �
 
 ---
 
-### No. 22: 소셜 미디어 게시물 - GPT Image 2 노트 팝아웃 착시
+### No. 23: 소셜 미디어 게시물 - GPT Image 2 노트 팝아웃 착시
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ GPT Image 2를 위해 설계된, 은회색 머리와 차가운 블루그레이 �
 
 ---
 
-### No. 23: 소셜 미디어 게시물 - 홀란드 애니메이션 대결
+### No. 24: 소셜 미디어 게시물 - 홀란드 애니메이션 대결
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Manchester City 유니폼을 입은 Erling Haaland 가 두 손으로 머리를 �
 
 ---
 
-### No. 24: 소셜 미디어 게시물 - OOTD 패션 콜라주 에디토리얼 프롬프트
+### No. 25: 소셜 미디어 게시물 - OOTD 패션 콜라주 에디토리얼 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Manchester City 유니폼을 입은 Erling Haaland 가 두 손으로 머리를 �
 
 ---
 
-### No. 25: 소셜 미디어 게시물 - 빈티지 그림책 일러스트 스타일 변환
+### No. 26: 소셜 미디어 게시물 - 빈티지 그림책 일러스트 스타일 변환
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Manchester City 유니폼을 입은 Erling Haaland 가 두 손으로 머리를 �
 
 ---
 
-### No. 26: 소셜 미디어 게시물 - 샘 알트만 기린 목 밈
+### No. 27: 소셜 미디어 게시물 - 샘 알트만 기린 목 밈
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ gpt-image-2 를 사용하여 기린처럼 과장되게 긴 목을 가진 샘 알
 
 ---
 
-### No. 27: 소셜 미디어 게시물 - GPT Image 2용 가을 로맨틱 데이트 코디 프롬프트
+### No. 28: 소셜 미디어 게시물 - GPT Image 2용 가을 로맨틱 데이트 코디 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 28: 소셜 미디어 게시물 - 축소판 자아와 함께하는 시네마틱 판타지 인물 사진
+### No. 29: 소셜 미디어 게시물 - 축소판 자아와 함께하는 시네마틱 판타지 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 29: 소셜 미디어 게시물 - 혼합 매체 스크랩북 두들 스타일
+### No. 30: 소셜 미디어 게시물 - 혼합 매체 스크랩북 두들 스타일
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 30: 소셜 미디어 게시물 - 레트로 쇼와 카페 초상화
+### No. 31: 소셜 미디어 게시물 - 레트로 쇼와 카페 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 31: 소셜 미디어 게시물 - 초원에 있는 여성의 빈티지 사진
+### No. 32: 소셜 미디어 게시물 - 초원에 있는 여성의 빈티지 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 32: 소셜 미디어 게시물 - 사진 vs 임파스토 유화 비교 포스터
+### No. 33: 소셜 미디어 게시물 - 사진 vs 임파스토 유화 비교 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 33: 소셜 미디어 게시물 - 시적 텍스트가 포함된 분할 프레임 갤러리 포스터
+### No. 34: 소셜 미디어 게시물 - 시적 텍스트가 포함된 분할 프레임 갤러리 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 34: 소셜 미디어 게시물 - 특정 의상을 입은 현실적인 저녁 산책로 초상화
+### No. 35: 소셜 미디어 게시물 - 특정 의상을 입은 현실적인 저녁 산책로 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 35: 소셜 미디어 게시물 - 애니메이션 가을 데이트 복장 프롬프트
+### No. 36: 소셜 미디어 게시물 - 애니메이션 가을 데이트 복장 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 
 ---
 
-### No. 36: 소셜 미디어 게시물 - 빈티지 크리스마스 동화책 일러스트 프롬프트
+### No. 37: 소셜 미디어 게시물 - 빈티지 크리스마스 동화책 일러스트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ GPT Image 2를 사용하여 카멜 코트와 체크무늬 스커트를 입은 �
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: 소셜 미디어 게시물 - 레트로 일본 테니스 소녀
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-비디오 게임 스타일의 복고풍 초상화를 생성하며, 젊은 여성이 테니스 서브를 하는 모습을 담아 일본 빈티지 미학을 연상시킵니다.
-
-#### 📝 프롬프트
-
-```
-맑은 파란 하늘 아래 야외 클레이 코트에서 테니스를 치는 젊은 여성의 전신이 담긴 세로 사진입니다. 서브 동작 중간 순간이 포착되어, 오른팔을 머리 위로 높이 뻗어 노란색 테니스공을 놓는 자세이고 왼손으로는 빈티지한 나무 테니스 라켓을 어깨 뒤로 젖혀 쥐고 있습니다. 흰색 플리츠 테니스 스커트, 흰색 반소매 폴로셔츠, 흰색 크루 삭스, 흰색 스니커즈를 착용하고 있습니다. 짙은 색 머리카락은 포니테일로 묶었고, 챙이 빨간색인 흰색 캡모자를 쓰고 있습니다. 이 이미지는 뚜렷한 레트로 감성을 자아내며, 1970~80년대 일본 쇼와 시대의 필름 사진을 스캔한 듯한 느낌을 줍니다. 따뜻한 색감, 약간의 그레인, 부드러운 초점, 가장자리를 따라 나타나는 빛 번짐이나 스크래치가 특징입니다. 배경에는 녹색 철망 펜스와 나무, 전봇대가 보입니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="소셜 미디어 게시물 - 레트로 일본 테니스 소녀 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **출처:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **게시일:** 2026년 11월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6366,7 +6389,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 17983 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6429,6 +6452,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-08T03:09:39.860Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-08T17:21:26.455Z</sub>
 
 </div>

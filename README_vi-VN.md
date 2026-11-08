@@ -139,9 +139,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **18102** |
+| 📝 Tổng số câu lệnh | **18103** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 03:09:50 UTC Chủ Nhật, 8 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 17:21:34 UTC Chủ Nhật, 8 tháng 11, 2026** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Bộ đồ y tá caro vàng pastel và trắng dễ thương, váy ngọt ngào 
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - Minh họa sáp màu pastel GPT Image 2
+### No. 21: Bài đăng trên mạng xã hội - Poster Editorial Anime từ Ảnh
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Prompt chi tiết cho gpt-image-2 để biến ảnh tham chiếu thành poster editorial phong cách anime cao cấp với hướng dẫn cụ thể về bố cục và tạo hình.
+
+#### 📝 Câu lệnh
+
+```
+Biến bức ảnh tham chiếu thành một poster editorial phong cách anime cao cấp, mang đậm tính nghệ thuật, đồng thời giữ nguyên chính xác đường nét khuôn mặt, kiểu tóc, dáng pose, kính râm, khuyên tai ngọc trai và chiếc áo phao màu đỏ của nhân vật.
+
+Tạo nên một bố cục dọc hai phần (two-panel) đầy ấn tượng:
+
+Phần trên: Chân dung chân thực như ảnh chụp của người phụ nữ trên nền trời xanh trong vắt, ánh nắng vàng ấm áp của giờ vàng (golden hour), gió tự nhiên thổi bay mái tóc, cặp kính râm sắc cam rực rỡ, chất liệu da chân thực, mang đậm phong cách nhiếp ảnh điện ảnh.
+
+Phần dưới: Tái hiện lại chính người phụ nữ ấy dưới dạng một bản vẽ minh họa kết hợp giữa anime và truyện tranh với độ chi tiết cực cao. Giữ nguyên nhận diện khuôn mặt, biểu cảm, kiểu tóc, trang phục, phụ kiện và dáng pose. Sử dụng hiệu ứng viền sáng (rim lighting) màu cam kịch tính, những nét vẽ thanh mảnh đầy cảm xúc, màu sắc phong phú cùng kỹ thuật đổ bóng chuẩn đồ họa tiểu thuyết cao cấp.
+
+Thiết kế Poster:
+
+* Nền xám than tối điểm xuyết các chi tiết nhấn màu cam rực rỡ.
+* Dòng chữ “URBAN GLOW” in nghiêng, cỡ lớn và đậm nét.
+* Phụ đề nhỏ hơn: “CITY VIBES IN COLOR”.
+* Các mảng đồ họa màu cam chéo động lực học cùng những khối hình học.
+* Thẩm mỹ editorial streetwear hiện đại.
+* Độ tương phản cao, thiết kế bìa tạp chí cao cấp.
+
+Lưu ý quan trọng: Khuôn mặt trong bản vẽ phải bám sát với ảnh gốc. Tuyệt đối không thay đổi nhận diện, tỷ lệ khuôn mặt hay những đặc điểm riêng biệt của nhân vật. Siêu chi tiết, 4K, thiết kế poster chuyên nghiệp, bố cục dọc tỷ lệ 3:4.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Bài đăng trên mạng xã hội - Poster Editorial Anime từ Ảnh - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Bài đăng trên mạng xã hội - Poster Editorial Anime từ Ảnh - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Harry AI](https://x.com/Tech_Harry1)
+- **Nguồn:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Đã xuất bản:** 7 tháng 11, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - Minh họa sáp màu pastel GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Biến bức ảnh tham khảo đã tải lên thành một bức tranh minh h�
 
 ---
 
-### No. 22: Bài đăng trên mạng xã hội - Ảo giác Pop-Out trên Sổ tay với GPT Image 2
+### No. 23: Bài đăng trên mạng xã hội - Ảo giác Pop-Out trên Sổ tay với GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Tạo một khung cảnh chân thực như ảnh chụp với độ chi tiết c
 
 ---
 
-### No. 23: Bài đăng trên mạng xã hội - Cuộc đối đầu phong cách anime của Haaland
+### No. 24: Bài đăng trên mạng xã hội - Cuộc đối đầu phong cách anime của Haaland
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Một bức tranh minh họa phong cách anime đầy kịch tính khắc họa 
 
 ---
 
-### No. 24: Bài đăng trên mạng xã hội - Prompt Bộ Sưu Tập Thời Trang OOTD Phong Cách Tạp Chí
+### No. 25: Bài đăng trên mạng xã hội - Prompt Bộ Sưu Tập Thời Trang OOTD Phong Cách Tạp Chí
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Siêu chi tiết, thiết kế đồ họa trau chuốt, bố cục cân đối,
 
 ---
 
-### No. 25: Bài đăng trên mạng xã hội - Chuyển Đổi Phong Cách Minh Họa Sách Truyện Cổ Tích Vintage
+### No. 26: Bài đăng trên mạng xã hội - Chuyển Đổi Phong Cách Minh Họa Sách Truyện Cổ Tích Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Thành phẩm cuối cùng: Một bức minh họa truyện thiếu nhi truyền
 
 ---
 
-### No. 26: Bài đăng trên mạng xã hội - Meme Cổ Hươu Cao Cổ của Sam Altman
+### No. 27: Bài đăng trên mạng xã hội - Meme Cổ Hươu Cao Cổ của Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ Prompt hài hước để tạo hình ảnh Sam Altman với chiếc cổ dài q
 
 ---
 
-### No. 27: Bài đăng trên mạng xã hội - Prompt Trang Phục Hẹn Lãng Mạn Mùa Thu Cho GPT Image 2
+### No. 28: Bài đăng trên mạng xã hội - Prompt Trang Phục Hẹn Lãng Mạn Mùa Thu Cho GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Phong cách hẹn hò mùa thu lãng mạn mang hơi hướng cổ điển, vẻ
 
 ---
 
-### No. 28: Bài đăng trên mạng xã hội - Chân dung kỳ ảo điện ảnh với phiên bản thu nhỏ của chính mình
+### No. 29: Bài đăng trên mạng xã hội - Chân dung kỳ ảo điện ảnh với phiên bản thu nhỏ của chính mình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ GÓC MÁY VÀ CHẤT LƯỢNG: Chân dung toàn thân kết hợp bối cảnh, 
 
 ---
 
-### No. 29: Bài đăng trên mạng xã hội - Phong cách Doodle Scrapbook Đa Phương Tiện
+### No. 30: Bài đăng trên mạng xã hội - Phong cách Doodle Scrapbook Đa Phương Tiện
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Chi tiết chất lượng cao, ánh sáng tự nhiên, bố cục tuyệt đẹ
 
 ---
 
-### No. 30: Bài đăng trên mạng xã hội - Chân dung quán cà phê phong cách Showa hoài cổ
+### No. 31: Bài đăng trên mạng xã hội - Chân dung quán cà phê phong cách Showa hoài cổ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Một bức ảnh mang phong cách vintage chụp người phụ nữ trẻ đan
 
 ---
 
-### No. 31: Bài đăng trên mạng xã hội - Ảnh Vintage Của Phụ Nữ Trên Cánh Đồng
+### No. 32: Bài đăng trên mạng xã hội - Ảnh Vintage Của Phụ Nữ Trên Cánh Đồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Một bức ảnh mang phong cách vintage hoài cổ chụp một cô gái tr�
 
 ---
 
-### No. 32: Bài đăng trên mạng xã hội - Áp Phích So Sánh Nhiếp Ảnh Và Tranh Sơn Dầu Kỹ Thuật Impasto
+### No. 33: Bài đăng trên mạng xã hội - Áp Phích So Sánh Nhiếp Ảnh Và Tranh Sơn Dầu Kỹ Thuật Impasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Tĩnh lặng, tối giản, tinh tế và mang đậm chất editorial. Kiến t
 
 ---
 
-### No. 33: Bài đăng trên mạng xã hội - Poster Gallery Khung Chia Đôi với Văn Bản Thơ
+### No. 34: Bài đăng trên mạng xã hội - Poster Gallery Khung Chia Đôi với Văn Bản Thơ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Phần dưới: nền giấy vân texture màu trắng ngà ấm áp. Chủ th�
 
 ---
 
-### No. 34: Bài đăng trên mạng xã hội - Ảnh Chân Dung Dạo Phố Buổi Tối Siêu Thực Với Trang Phục Cụ Thể
+### No. 35: Bài đăng trên mạng xã hội - Ảnh Chân Dung Dạo Phố Buổi Tối Siêu Thực Với Trang Phục Cụ Thể
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Trang phục: bộ jumpsuit đen ôm sát, dài tay, cổ cao kín đáo. Mặc 
 
 ---
 
-### No. 35: Bài đăng trên mạng xã hội - Prompt Trang Phục Hẹn Hò Mùa Thu Anime
+### No. 36: Bài đăng trên mạng xã hội - Prompt Trang Phục Hẹn Hò Mùa Thu Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Tranh minh họa anime tuyệt đẹp, nét vẽ thanh mảnh, màu sắc dịu 
 
 ---
 
-### No. 36: Bài đăng trên mạng xã hội - Câu lệnh tạo minh họa sách truyện Giáng sinh phong cách cổ điển
+### No. 37: Bài đăng trên mạng xã hội - Câu lệnh tạo minh họa sách truyện Giáng sinh phong cách cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ Tỷ lệ khung hình: 9:16 dọc.
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Bài đăng trên mạng xã hội - Cô Gái Tennis Phong Cách Retro Nhật Bản
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Tạo ra chân dung phong cách phim hoài cổ của một cô gái trẻ đang giao bóng tennis, gợi lên thẩm mỹ Nhật Bản cổ điển.
-
-#### 📝 Câu lệnh
-
-```
-Bức ảnh dọc chụp toàn thân một cô gái trẻ đang chơi tennis trên sân đất nện ngoài trời dưới bầu trời xanh trong vắt. Khoảnh khắc được ghi lại ngay giữa cú giao bóng: cánh tay phải vươn cao quá đầu vừa thả quả bóng tennis màu vàng, còn tay trái đưa chiếc vợt gỗ cổ điển ra phía sau vai. Cô mặc chân váy tennis trắng xếp ly, áo polo ngắn tay màu trắng, tất cổ ngắn và giày thể thao đều màu trắng. Mái tóc đen buộc kiểu đuôi ngựa, đầu đội chiếc mũ lưỡi trai trắng có vành đỏ. Bức ảnh mang đậm phong cách hoài cổ, trông như một tấm phim được scan từ thời kỳ Showa (Nhật Bản những năm 1970 – 1980), nổi bật với tông màu ấm, nhiễu hạt nhẹ, tiêu điểm mềm mại cùng những vệt sáng lóa hoặc vết xước nơi viền ảnh. Ở hậu cảnh là hàng rào mắt cáo màu xanh lá, cây cối và một cột điện.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cô Gái Tennis Phong Cách Retro Nhật Bản - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Nguồn:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Đã xuất bản:** 2 tháng 11, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6365,7 +6388,7 @@ Chi tiết trang phục in trên mỗi phần thân.
 
 <div align="center">
 
-### 🎯 17982 câu lệnh khác không hiển thị ở đây
+### 🎯 17983 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6428,6 +6451,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-08T03:09:50.724Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-08T17:21:34.613Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **18102** |
+| 📝 提示词总数 | **18103** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年11月8日星期日 UTC 03:09:22** |
+| 🔄 最后更新 | **2026年11月8日星期日 UTC 17:21:13** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 21: 社交媒体帖子 - GPT Image 2 蜡笔粉彩插画
+### No. 21: 社交媒体帖子 - 从照片生成动漫风编辑海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+为 gpt-image-2 提供的详细提示词，可将参考照片转化为具有特定构图和风格化指令的高端动漫风编辑海报。
+
+#### 📝 提示词
+
+```
+将参考照片转化为一张高端、风格化的动漫风时尚海报，同时精准保留人物的面部特征、发型、姿势、太阳镜、珍珠耳环以及红色羽绒服。
+
+打造惊艳的双联垂直构图：
+
+上幅画面：以湛蓝天空为背景的女性超写实肖像，沐浴在温暖的黄金时刻阳光下，微风自然吹拂发丝，佩戴亮橙色镜片太阳镜，皮肤纹理真实细腻，呈现电影级摄影质感。
+
+下幅画面：将同一位女性重新演绎为细节丰富的“动漫+美漫”风格插画。完整保留她的面部特征、表情、发型、穿搭、配饰及姿势。运用极具张力的橙色轮廓光、富有表现力的精细线条、浓郁的色彩以及高级图像小说级别的阴影处理。
+
+海报设计：
+
+* 深炭灰色背景搭配活力橙色点缀。
+* 醒目的大号粗斜体文字“URBAN GLOW”。
+* 较小的副标题：“CITY VIBES IN COLOR”。
+* 动感的对角线橙色图形与几何元素。
+* 现代街头潮流大片美学。
+* 高对比度，高端杂志封面级设计。
+
+重要提示：插画中的面部需与原照片高度一致。切勿改变人物身份、面部比例或标志性特征。超精细画质，4K 分辨率，专业海报设计，3:4 垂直构图。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="社交媒体帖子 - 从照片生成动漫风编辑海报 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="社交媒体帖子 - 从照片生成动漫风编辑海报 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Harry AI](https://x.com/Tech_Harry1)
+- **来源:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **发布时间:** 2026年11月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: 社交媒体帖子 - GPT Image 2 蜡笔粉彩插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 22: 社交媒体帖子 - GPT Image 2 笔记本弹出式视觉错觉
+### No. 23: 社交媒体帖子 - GPT Image 2 笔记本弹出式视觉错觉
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 23: 社交媒体帖子 - 哈兰德动漫风格对决
+### No. 24: 社交媒体帖子 - 哈兰德动漫风格对决
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 24: 社交媒体帖子 - OOTD 时尚拼贴编辑风提示词
+### No. 25: 社交媒体帖子 - OOTD 时尚拼贴编辑风提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 25: 社交媒体帖子 - 复古绘本插画风格转换
+### No. 26: 社交媒体帖子 - 复古绘本插画风格转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 26: 社交媒体帖子 - Sam Altman 长颈鹿脖子梗图
+### No. 27: 社交媒体帖子 - Sam Altman 长颈鹿脖子梗图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 27: 社交媒体帖子 - GPT Image 2 秋季浪漫约会穿搭提示词
+### No. 28: 社交媒体帖子 - GPT Image 2 秋季浪漫约会穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 28: 社交媒体帖子 - 带有微缩自我的电影感奇幻肖像
+### No. 29: 社交媒体帖子 - 带有微缩自我的电影感奇幻肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 29: 社交媒体帖子 - 混合媒介剪贴簿涂鸦风格
+### No. 30: 社交媒体帖子 - 混合媒介剪贴簿涂鸦风格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 30: 社交媒体帖子 - 复古昭和咖啡馆人像
+### No. 31: 社交媒体帖子 - 复古昭和咖啡馆人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 31: 社交媒体帖子 - 田野中女性的复古照片
+### No. 32: 社交媒体帖子 - 田野中女性的复古照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 32: 社交媒体帖子 - 摄影与厚涂油画对比海报
+### No. 33: 社交媒体帖子 - 摄影与厚涂油画对比海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 33: 社交媒体帖子 - 带诗意文字的分帧画廊海报
+### No. 34: 社交媒体帖子 - 带诗意文字的分帧画廊海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 34: 社交媒体帖子 - 特定着装下的写实傍晚散步人像
+### No. 35: 社交媒体帖子 - 特定着装下的写实傍晚散步人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 35: 社交媒体帖子 - 动漫秋日约会穿搭提示词
+### No. 36: 社交媒体帖子 - 动漫秋日约会穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 36: 社交媒体帖子 - 复古圣诞绘本插画提示词
+### No. 37: 社交媒体帖子 - 复古圣诞绘本插画提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ by {argument name="author" default="Steve Jobs"}
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: 社交媒体帖子 - 复古日系网球少女
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一张充满怀旧感的胶片风格肖像，描绘一位正在发球的年轻女子，展现复古日式美学。
-
-#### 📝 提示词
-
-```
-一张竖版全身照，画面中一位年轻女子正在晴朗蓝天下的室外红土网球场上打网球。她正处于发球的瞬间：右臂高高举过头顶，刚刚抛出一颗黄色网球；左手则将一把复古木质网球拍向后引至肩后。她身穿白色百褶网球裙、白色短袖 Polo 衫，搭配白色中筒袜和白色运动鞋。深色头发扎成马尾，头戴一顶红色帽檐的白色棒球帽。整张图片带有鲜明的复古美学风格，宛如一张扫描自日本昭和时代（20 世纪 70 至 80 年代）的胶片照片，呈现出温暖的色调、轻微的颗粒感、柔和的对焦，以及边缘处的漏光或划痕效果。背景中可见一道绿色铁丝网围栏、树木和一根电线杆。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="社交媒体帖子 - 复古日系网球少女 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **来源:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **发布时间:** 2026年11月2日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6364,7 +6387,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17982 更多提示词未在此显示
+### 🎯 17983 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6427,6 +6450,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-08T03:09:22.166Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-08T17:21:13.435Z</sub>
 
 </div>

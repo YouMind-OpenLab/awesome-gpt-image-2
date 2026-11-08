@@ -139,9 +139,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **18102** |
+| 📝 Total des prompts | **18103** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **dimanche 8 novembre 2026 à 03:10:18 UTC** |
+| 🔄 Dernière mise à jour | **dimanche 8 novembre 2026 à 17:21:54 UTC** |
 
 </div>
 
@@ -2014,7 +2014,63 @@ Tenue d'infirmière à carreaux vichy jaune pastel et blanc adorable, robe douce
 
 ---
 
-### No. 21: Publication sur les réseaux sociaux - Illustration au crayon pastel GPT Image 2
+### No. 21: Publication sur les réseaux sociaux - Affiche éditoriale anime à partir d'une photo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Un prompt détaillé pour gpt-image-2 afin de transformer une photo de référence en une affiche éditoriale premium inspirée de l'anime, avec des instructions spécifiques de composition et de style.
+
+#### 📝 Prompt
+
+```
+Transformez la photo de référence en une affiche éditoriale premium et stylisée d'inspiration anime, tout en préservant fidèlement les traits du visage, la coiffure, la pose, les lunettes de soleil, les boucles d'oreilles en perles et la doudoune rouge du sujet.
+
+Créez une saisissante composition verticale en deux panneaux :
+
+Panneau supérieur : Portrait photoréaliste de la femme sur fond de ciel bleu dégagé, baigné par la lumière dorée et chaleureuse de l'heure dorée (golden hour), avec un vent naturel soufflant dans ses cheveux, des lunettes de soleil aux verres teintés orange éclatants, une texture de peau réaliste et un rendu photographique cinématographique.
+
+Panneau inférieur : Réinventez cette même femme sous forme d'une illustration ultra-détaillée à la croisée de l'anime et de la bande dessinée. Conservez son identité faciale, son expression, sa coiffure, sa tenue, ses accessoires et sa pose. Utilisez un éclairage de contour (rim light) orange dramatique, un trait fin et expressif, des couleurs riches et un ombrage digne d'un roman graphique haut de gamme.
+
+Design de l'affiche :
+
+* Fond gris anthracite foncé rehaussé d'accents orange vibrants.
+* Grande typographie grasse et italique indiquant « URBAN GLOW ».
+* Sous-titre plus petit : « CITY VIBES IN COLOR ».
+* Éléments graphiques et géométriques orange dynamiques disposés en diagonale.
+* Esthétique éditoriale streetwear moderne.
+* Fort contraste, design de couverture de magazine premium.
+
+Important : Le visage illustré doit rester extrêmement fidèle à la photographie originale. Ne modifiez ni l'identité de la personne, ni les proportions de son visage, ni ses traits distinctifs. Ultra-détaillé, 4K, conception d'affiche professionnelle, composition verticale au format 3:4.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Publication sur les réseaux sociaux - Affiche éditoriale anime à partir d'une photo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Publication sur les réseaux sociaux - Affiche éditoriale anime à partir d'une photo - Image 2">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Harry AI](https://x.com/Tech_Harry1)
+- **Source:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
+- **Publié:** 7 novembre 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-2-prompts?id=37409)**
+
+---
+
+### No. 22: Publication sur les réseaux sociaux - Illustration au crayon pastel GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2053,7 +2109,7 @@ Transformez la photo de référence importée en une charmante illustration à l
 
 ---
 
-### No. 22: Publication sur les réseaux sociaux - Illusion Pop-Out GPT Image 2 sur Cahier
+### No. 23: Publication sur les réseaux sociaux - Illusion Pop-Out GPT Image 2 sur Cahier
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2086,7 +2142,7 @@ Créez une scène photoréaliste ultra-détaillée d'une jeune femme semblant é
 
 ---
 
-### No. 23: Publication sur les réseaux sociaux - Confrontation Anime de Haaland
+### No. 24: Publication sur les réseaux sociaux - Confrontation Anime de Haaland
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2175,7 @@ Une illustration dramatique de style anime représentant Erling Haaland portant 
 
 ---
 
-### No. 24: Publication sur les réseaux sociaux - Prompt Éditorial Collage Mode OOTD
+### No. 25: Publication sur les réseaux sociaux - Prompt Éditorial Collage Mode OOTD
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2188,7 +2244,7 @@ Ultra-détaillé, graphisme soigné, composition équilibrée, affiche verticale
 
 ---
 
-### No. 25: Publication sur les réseaux sociaux - Transfert de style d'illustration de livre pour enfants vintage
+### No. 26: Publication sur les réseaux sociaux - Transfert de style d'illustration de livre pour enfants vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2239,7 +2295,7 @@ Rendu final : Une illustration de conte pour enfants traditionnelle, riche en d�
 
 ---
 
-### No. 26: Publication sur les réseaux sociaux - Meme du Cou de Girafe de Sam Altman
+### No. 27: Publication sur les réseaux sociaux - Meme du Cou de Girafe de Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2273,7 +2329,7 @@ Un prompt humoristique pour générer une image de Sam Altman avec un cou exagé
 
 ---
 
-### No. 27: Publication sur les réseaux sociaux - Prompt de tenue pour rendez-vous romantique d'automne pour GPT Image 2
+### No. 28: Publication sur les réseaux sociaux - Prompt de tenue pour rendez-vous romantique d'automne pour GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2320,7 +2376,7 @@ Une tenue romantique et classique pour un rendez-vous automnal, un style fémini
 
 ---
 
-### No. 28: Publication sur les réseaux sociaux - Portrait cinématographique fantastique avec miniature de soi
+### No. 29: Publication sur les réseaux sociaux - Portrait cinématographique fantastique avec miniature de soi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2363,7 +2419,7 @@ CAMÉRA ET QUALITÉ : Portrait environnemental en pied, composition verticale, a
 
 ---
 
-### No. 29: Publication sur les réseaux sociaux - Style Doodle Scrapbook Multimédia
+### No. 30: Publication sur les réseaux sociaux - Style Doodle Scrapbook Multimédia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2468,7 @@ Détails de haute qualité, éclairage naturel, composition soignée, format ver
 
 ---
 
-### No. 30: Publication sur les réseaux sociaux - Portrait Rétro Café Showa
+### No. 31: Publication sur les réseaux sociaux - Portrait Rétro Café Showa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2445,7 +2501,7 @@ Une photographie au style vintage d'une jeune femme assise dans un café rétro 
 
 ---
 
-### No. 31: Publication sur les réseaux sociaux - Photo vintage d'une femme dans un champ
+### No. 32: Publication sur les réseaux sociaux - Photo vintage d'une femme dans un champ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2478,7 +2534,7 @@ Une photographie nostalgique au style vintage représentant une jeune femme assi
 
 ---
 
-### No. 32: Publication sur les réseaux sociaux - Affiche comparative : Photographie vs Peinture à l'huile en impasto
+### No. 33: Publication sur les réseaux sociaux - Affiche comparative : Photographie vs Peinture à l'huile en impasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +2606,7 @@ Les collages photographiques, les sujets altérés, les scènes sans rapport, le
 
 ---
 
-### No. 33: Publication sur les réseaux sociaux - Affiche de galerie à cadre divisé avec texte poétique
+### No. 34: Publication sur les réseaux sociaux - Affiche de galerie à cadre divisé avec texte poétique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2605,7 +2661,7 @@ Partie inférieure : un fond texturé rappelant un papier blanc cassé chaleureu
 
 ---
 
-### No. 34: Publication sur les réseaux sociaux - Portrait réaliste de promenade nocturne avec tenue spécifique
+### No. 35: Publication sur les réseaux sociaux - Portrait réaliste de promenade nocturne avec tenue spécifique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2696,7 @@ Tenue : une combinaison noire ajustée à manches longues avec un col haut enti�
 
 ---
 
-### No. 35: Publication sur les réseaux sociaux - Prompt Tenue Rendez-vous Automnal Anime
+### No. 36: Publication sur les réseaux sociaux - Prompt Tenue Rendez-vous Automnal Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2685,7 +2741,7 @@ Magnifique illustration anime, traits fins et délicats, couleurs douces, textur
 
 ---
 
-### No. 36: Publication sur les réseaux sociaux - Prompt d'illustration vintage de livre d'images de Noël
+### No. 37: Publication sur les réseaux sociaux - Prompt d'illustration vintage de livre d'images de Noël
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,39 +2787,6 @@ Format : 9:16 vertical.
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-2-prompts?id=37236)**
-
----
-
-### No. 37: Publication sur les réseaux sociaux - Joueuse de Tennis Japonaise Rétro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Génère un portrait nostalgique au style pellicule d'une jeune femme servant au tennis, évoquant une esthétique japonaise vintage.
-
-#### 📝 Prompt
-
-```
-Plan vertical en pied d'une jeune femme jouant au tennis sur un court en terre battue extérieur, sous un ciel bleu dégagé. Elle est saisie en plein service : le bras droit tendu haut au-dessus de la tête pour lâcher une balle de tennis jaune, tandis que sa main gauche ramène une raquette vintage en bois derrière son épaule. Elle porte une jupe de tennis blanche plissée, un polo blanc à manches courtes, des chaussettes blanches et des baskets blanches. Ses cheveux sombres sont attachés en queue-de-cheval et elle porte une casquette blanche à visière rouge. L'image dégage une esthétique résolument rétro, évoquant une photographie argentique numérisée de l'ère Showa (Japon des années 1970-80), caractérisée par des tons chauds, un léger grain, une mise au point douce ainsi que des fuites de lumière ou des rayures sur les bords. En arrière-plan, on distingue un grillage vert, des arbres et un poteau électrique.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691805962_3jc1z3_HWHY3aObAAAfyXR.jpg" width="600" alt="Publication sur les réseaux sociaux - Joueuse de Tennis Japonaise Rétro - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Source:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2117211751381180809#reversed-0)
-- **Publié:** 2 novembre 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/gpt-image-2-prompts?id=37245)**
 
 ---
 
@@ -6374,7 +6397,7 @@ Détails vestimentaires imprimés sur chaque torse.
 
 <div align="center">
 
-### 🎯 17982 prompts supplémentaires non affichés ici
+### 🎯 17983 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6437,6 +6460,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-08T03:10:18.593Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-08T17:21:54.194Z</sub>
 
 </div>
