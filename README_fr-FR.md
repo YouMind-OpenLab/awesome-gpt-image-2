@@ -139,9 +139,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **18103** |
+| 📝 Total des prompts | **18089** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **lundi 9 novembre 2026 à 03:31:49 UTC** |
+| 🔄 Dernière mise à jour | **lundi 9 novembre 2026 à 21:43:47 UTC** |
 
 </div>
 
@@ -6397,7 +6397,7 @@ Détails vestimentaires imprimés sur chaque torse.
 
 <div align="center">
 
-### 🎯 17983 prompts supplémentaires non affichés ici
+### 🎯 17969 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6460,6 +6460,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-09T03:31:49.094Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-09T21:43:47.646Z</sub>
 
 </div>

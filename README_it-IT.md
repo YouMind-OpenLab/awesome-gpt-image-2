@@ -139,9 +139,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **18103** |
+| 📝 Totale prompt | **18089** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **lunedì 9 novembre 2026 alle ore 03:31:54 UTC** |
+| 🔄 Ultimo aggiornamento | **lunedì 9 novembre 2026 alle ore 21:43:53 UTC** |
 
 </div>
 
@@ -6389,7 +6389,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17983 altri prompt non mostrati qui
+### 🎯 17969 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6452,6 +6452,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-09T03:31:54.645Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-09T21:43:53.036Z</sub>
 
 </div>

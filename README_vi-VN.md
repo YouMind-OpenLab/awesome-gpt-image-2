@@ -139,9 +139,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **18103** |
+| 📝 Tổng số câu lệnh | **18089** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 03:31:21 UTC Thứ Hai, 9 tháng 11, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 21:43:21 UTC Thứ Hai, 9 tháng 11, 2026** |
 
 </div>
 
@@ -6388,7 +6388,7 @@ Chi tiết trang phục in trên mỗi phần thân.
 
 <div align="center">
 
-### 🎯 17983 câu lệnh khác không hiển thị ở đây
+### 🎯 17969 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6451,6 +6451,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-09T03:31:21.431Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-09T21:43:21.462Z</sub>
 
 </div>

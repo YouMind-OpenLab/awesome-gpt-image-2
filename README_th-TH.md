@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **18103** |
+| 📝 คำสั่งทั้งหมด | **18089** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 9 พฤศจิกายน พ.ศ. 2569 เวลา 3 นาฬิกา 31 นาที 16 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 9 พฤศจิกายน พ.ศ. 2569 เวลา 21 นาฬิกา 43 นาที 16 วินาที UTC** |
 
 </div>
 
@@ -6390,7 +6390,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17983 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 17969 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6453,6 +6453,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-09T03:31:16.064Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-09T21:43:16.377Z</sub>
 
 </div>

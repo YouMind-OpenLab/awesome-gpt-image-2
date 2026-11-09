@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **18103** |
+| 📝 कुल प्रॉम्पट्स | **18089** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **सोमवार, 9 नवंबर 2026 को 3:31:27 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 9 नवंबर 2026 को 9:43:26 pm UTC बजे** |
 
 </div>
 
@@ -6408,7 +6408,7 @@ Sta
 
 <div align="center">
 
-### 🎯 17983 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 17969 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6471,6 +6471,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-09T03:31:27.098Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-09T21:43:26.447Z</sub>
 
 </div>
