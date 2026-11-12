@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **18095** |
+| 📝 Total Prompts | **18097** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Thursday, November 12, 2026 at 4:46:04 AM UTC** |
+| 🔄 Last Updated | **Thursday, November 12, 2026 at 7:16:59 PM UTC** |
 
 </div>
 
@@ -6197,7 +6197,7 @@ Negative: second person, drawn weapon, readable text, watermark, logo, anime, ca
 
 <div align="center">
 
-### 🎯 17975 more prompts not shown here
+### 🎯 17977 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6260,6 +6260,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-12T04:46:04.542Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-12T19:16:59.129Z</sub>
 
 </div>

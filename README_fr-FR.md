@@ -139,9 +139,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **18095** |
+| 📝 Total des prompts | **18097** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **jeudi 12 novembre 2026 à 04:47:06 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 12 novembre 2026 à 19:17:40 UTC** |
 
 </div>
 
@@ -6209,7 +6209,7 @@ Négatif : deuxième personne, arme dégainée, texte lisible, filigrane, logo, 
 
 <div align="center">
 
-### 🎯 17975 prompts supplémentaires non affichés ici
+### 🎯 17977 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6272,6 +6272,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-12T04:47:06.978Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-12T19:17:40.094Z</sub>
 
 </div>
