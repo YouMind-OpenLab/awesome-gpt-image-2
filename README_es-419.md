@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **18097** |
+| 📝 Total de prompts | **18100** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **viernes, 13 de noviembre de 2026, 3:57:56 a.m. UTC** |
+| 🔄 Última actualización | **viernes, 13 de noviembre de 2026, 6:54:20 p.m. UTC** |
 
 </div>
 
@@ -1840,7 +1840,60 @@ Una toma cinematográfica vertical de cuerpo entero de una joven asiática de pi
 
 ---
 
-### No. 21: Publicación en redes sociales - Chica Anime Vestido de Olas Marinas
+### No. 21: Publicación en redes sociales - Café de fantasía en el desierto con hobbits y un mago
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Prompt para generar una escena de fantasía que presenta viajeros en un café del desierto bajo la Vía Láctea, mencionando específicamente GPT Image 2.
+
+#### 📝 Prompt
+
+```
+El desierto estrellado y el anillo secreto
+
+En una noche en la que la Vía Láctea ilumina el desierto,
+tres viajeros llegaron al Crash Cafe.
+
+Un viejo mago con túnica gris
+y dos jóvenes hobbits.
+
+Parecen estar en un largo viaje
+hacia una tierra lejana.
+
+Los viajeros se toman un respiro con un café caliente,
+pero el gato gerente parece preocupado por algo.
+
+En el pecho del joven, una cadena dorada brilla tenuemente,
+ocultando un misterioso secreto debajo de ella.
+
+Incluso para estos viajeros que cargan con el destino del mundo,
+esta noche fluye un momento de paz solo para ellos ⭐
+
+GPT Image2, 5k
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794555669323_my3wvu_HW69e_qbMAA8BIg.jpg" width="600" alt="Publicación en redes sociales - Café de fantasía en el desierto con hobbits y un mago - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [もしもし@Aiart](https://x.com/moshimoshi_ai)
+- **Fuente:** [Twitter Post](https://x.com/moshimoshi_ai/status/2120840865270894624)
+- **Publicado:** 12 de noviembre de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=37479)**
+
+---
+
+### No. 22: Publicación en redes sociales - Chica Anime Vestido de Olas Marinas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1879,7 +1932,7 @@ modelo de moda de anime adulto, alta costura hidrodinámica original inspirada e
 
 ---
 
-### No. 22: Publicación en redes sociales - Plantilla de ilustración de libros infantiles en acuarela y lápices de colores
+### No. 23: Publicación en redes sociales - Plantilla de ilustración de libros infantiles en acuarela y lápices de colores
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1939,7 +1992,7 @@ Sin estilo plano vectorial, sin renderizado 3D, sin degradados digitales suaves,
 
 ---
 
-### No. 23: Publicación en redes sociales - Póster editorial de anime a partir de una foto
+### No. 24: Publicación en redes sociales - Póster editorial de anime a partir de una foto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1995,7 +2048,7 @@ Importante: Mantén el rostro ilustrado lo más fiel posible a la fotografía or
 
 ---
 
-### No. 24: Publicación en redes sociales - Ilustración con Crayones Pastel GPT Image 2
+### No. 25: Publicación en redes sociales - Ilustración con Crayones Pastel GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2034,7 +2087,7 @@ Transforma la foto de referencia subida en una encantadora ilustración a mano a
 
 ---
 
-### No. 25: Publicación en redes sociales - Ilusión Pop-Out de GPT Image 2 en Cuaderno
+### No. 26: Publicación en redes sociales - Ilusión Pop-Out de GPT Image 2 en Cuaderno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2067,7 +2120,7 @@ Crea una escena fotorrealista ultradetallada de una joven que parece emerger a t
 
 ---
 
-### No. 26: Publicación en redes sociales - Confrontación Anime de Haaland
+### No. 27: Publicación en redes sociales - Confrontación Anime de Haaland
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2100,7 +2153,7 @@ Una ilustración dramática al estilo anime de Erling Haaland con la camiseta de
 
 ---
 
-### No. 27: Publicación en redes sociales - Prompt Editorial de Collage de Moda OOTD
+### No. 28: Publicación en redes sociales - Prompt Editorial de Collage de Moda OOTD
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2169,7 +2222,7 @@ Ultradetallado, diseño gráfico pulido, composición equilibrada, póster verti
 
 ---
 
-### No. 28: Publicación en redes sociales - Transferencia de estilo de ilustración de cuentos infantiles vintage
+### No. 29: Publicación en redes sociales - Transferencia de estilo de ilustración de cuentos infantiles vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2220,7 +2273,7 @@ Resultado final: Una ilustración tradicional de cuento infantil a cuadro comple
 
 ---
 
-### No. 29: Publicación en redes sociales - Meme de cuello de jirafa de Sam Altman
+### No. 30: Publicación en redes sociales - Meme de cuello de jirafa de Sam Altman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2254,7 +2307,7 @@ Un prompt humorístico para generar una imagen de Sam Altman con un cuello exage
 
 ---
 
-### No. 30: Publicación en redes sociales - Prompt de Outfit para Cita Romántica de Otoño con GPT Image 2
+### No. 31: Publicación en redes sociales - Prompt de Outfit para Cita Romántica de Otoño con GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2301,7 +2354,7 @@ Moda romántica y tradicional para una cita de otoño, estilo femenino y elegant
 
 ---
 
-### No. 31: Publicación en redes sociales - Retrato de fantasía cinematográfico con yo en miniatura
+### No. 32: Publicación en redes sociales - Retrato de fantasía cinematográfico con yo en miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2344,7 +2397,7 @@ CÁMARA Y CALIDAD: Retrato ambiental de cuerpo entero, composición vertical, á
 
 ---
 
-### No. 32: Publicación en redes sociales - Estilo Doodle de Scrapbook Multimedia
+### No. 33: Publicación en redes sociales - Estilo Doodle de Scrapbook Multimedia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2393,7 +2446,7 @@ Detalles de alta calidad, iluminación natural, composición hermosa, formato ve
 
 ---
 
-### No. 33: Publicación en redes sociales - Retrato Retro Showa Cafe
+### No. 34: Publicación en redes sociales - Retrato Retro Showa Cafe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2426,7 +2479,7 @@ Una fotografía de estilo vintage de una joven sentada en un café retro de la e
 
 ---
 
-### No. 34: Publicación en redes sociales - Foto vintage de mujer en un campo
+### No. 35: Publicación en redes sociales - Foto vintage de mujer en un campo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2459,45 +2512,23 @@ Una fotografía nostálgica de estilo vintage que muestra a una joven sentada en
 
 ---
 
-### No. 35: Publicación en redes sociales - Póster comparativo: fotografía vs. pintura al óleo impasto
+### No. 36: Infografía / Visual educativo - Hoja de Referencia del Personaje Lobo Antropomórfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Crea un póster comparativo premium que divide el lienzo horizontalmente. La mitad superior conserva la fotografía original tal cual, mientras que la mitad inferior reimagina el sujeto como una escultura de pintura al óleo impasto con texturas gruesas y detalles de espátula.
+Una hoja de referencia detallada para el diseño de personajes que presenta a una loba antropomórfica femenina y musculosa en múltiples poses, expresiones y vistas de su atuendo.
 
 #### 📝 Prompt
 
 ```
-Crea un póster comparativo premium en formato vertical 3:4 que contraste una fotografía con una pintura al óleo en técnica de empaste, utilizando la imagen subida.
-
-### DISTRIBUCIÓN
-Divide el lienzo en dos secciones horizontales exactamente iguales (50/50):
-- Arriba: La fotografía original.
-- Abajo: La interpretación artística como pintura al óleo en empaste.
-
-Ambas secciones deben conectarse directamente mediante un límite horizontal limpio, sin espacios vacíos, degradados ni superposiciones.
-
-### SECCIÓN SUPERIOR — FOTOGRAFÍA
-Conserva intactos la identidad, cantidad, pose, proporciones, silueta, detalles, composición, perspectiva, iluminación y colores naturales del sujeto original. Aplica únicamente una corrección de color premium muy sutil. No redibujes, distorsiones, dupliques, reubiques ni alteres al sujeto. Sin textos ni elementos decorativos.
-
-### SECCIÓN INFERIOR — INTERPRETACIÓN ARTÍSTICA
-Reimagina el mismo sujeto como un micropaisaje escultórico pintado al óleo con empaste. Utiliza capas gruesas de pintura, texturas logradas con espátula, formas artesanales, bordes en relieve y pinceladas expresivas.
-
-Mantén al sujeto reconocible, ubicado en el centro o ligeramente descentrado, rodeado por un amplio espacio negativo en blanco cálido. Incorpora una única franja de color inspirada en la fotografía original, transformándola en suelo, agua, un sendero o un elemento abstracto del paisaje.
-
-### COLORES Y TEXTURAS
-Extrae una paleta de colores limitada y armónica a partir de la fotografía original. Preserva el carácter cromático natural del sujeto, sumándole apenas un toque de brillo y luminosidad. Emplea texturas de pintura densas de forma selectiva, combinando detalles refinados en el sujeto con una delicada textura de papel mate.
-
-### TIPOGRAFÍA
-Agrega un título breve y elegante en inglés, junto con una pequeña línea de apoyo, dentro del espacio negativo de la sección inferior. Usa una tipografía fina y minimalista. Genera el texto basándote en el sujeto real o en la atmósfera de la imagen. Evita fechas inventadas, ubicaciones, logotipos, firmas y anotaciones innecesarias.
-
-### ESTÉTICA
-Sobria, minimalista, sofisticada y editorial. Logra una estética de publicación de arte coleccionable a través del espacio negativo, la profundidad escultórica, las texturas materiales y una composición equilibrada.
-
-### EVITAR
-Collages fotográficos, sujetos alterados, escenas ajenas a la imagen, fotografías ilustradas, barras de título adicionales, saturación visual, decoraciones excesivas, textos incorrectos, marcas de agua, estilos caricaturescos, colores neón, sobresaturación, tonos apagados, efectos 3D con aspecto plástico y CGI de baja calidad.
+Objetivo: Crear una hoja de referencia de personaje profesional para un lobo antropomórfico.
+Lienzo: Formato horizontal con un fondo limpio en tono blanco roto.
+Distribución: La sección izquierda muestra al personaje en una pose grande y dinámica. La sección central presenta tres vistas de cuerpo completo tipo turnaround (frente, perfil y espalda). La sección derecha contiene una columna vertical con tres primeros planos del rostro mostrando distintas expresiones, seguida de una fila con cinco muestras de color y dos pequeños acercamientos de detalle (almohadillas de las patas y textura del pelaje).
+Detalles del personaje: El personaje es una loba antropomórfica musculosa de pelaje gris corto, con marcas color canela más claro en el rostro y el vientre, y ojos azul brillante. Lleva un top corto beige, pantalones cargo marrones con cinturón utilitario, guantes sin dedos y botas de combate pesadas. Tiene un pañuelo rojo atado al cuello. Su cola es frondosa y termina en una punta blanca.
+Estilo visual: Estilo furry moderno con líneas definidas, coloreado cel-shading y sombras ambientales suaves. Ilustración digital de alta resolución.
+Restricciones: Mantener proporciones consistentes en todas las vistas. Sin texto ni etiquetas.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -2505,33 +2536,69 @@ Collages fotográficos, sujetos alterados, escenas ajenas a la imagen, fotograf�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793778235989_w1p5wq_HWLSDntbgAA_Gik.jpg" width="600" alt="Publicación en redes sociales - Póster comparativo: fotografía vs. pintura al óleo impasto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1794555677158_ss4euh_HW8KJkmXgAEc2t9.jpg" width="600" alt="Infografía / Visual educativo - Hoja de Referencia del Personaje Lobo Antropomórfico - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Syn 🇺🇸🧬](https://x.com/Synolytic)
+- **Fuente:** [Twitter Post](https://x.com/Synolytic/status/2120925753806336249#reversed-0)
+- **Publicado:** 12 de noviembre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=37481)**
+
+---
+
+### No. 37: Infografía / Visual educativo - Prompt para póster minimalista de electrodoméstico blanco
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descripción
+
+Un prompt para crear visuales informativos minimalistas con gran espacio negativo, tipografía limpia y texturas sutiles, aplicado específicamente a un póster de aniversario de un electrodoméstico de cocina blanco.
+
+#### 📝 Prompt
+
+```
+Genera una pieza visual informativa y minimalista sobre cualquier objeto temático: establece la primera impresión con un fondo limpio de gran superficie y alto brillo, conservando únicamente texturas sutiles similares al papel o a una niebla suave y superficial, para que la ligereza y el silencio se integren al sujeto. No satures por completo el foco visual; divide el contenido temático en una capa de información superior clara y un ancla física inferior: la sección superior emplea tipografía china vertical, esbelta y de aire académico para organizar el título principal, la información secundaria y las notas explicativas diminutas, con un espaciado entre letras amplio y una altura de línea contenida; el título principal centrado genera una pausa solemne, mientras que las fechas, notas y líneas de símbolos guían la lectura con un orden horizontal preciso. La sección inferior ubica una forma primaria concisa derivada de la transformación semántica del tema: volumen reducido, bordes limpios y detalles realistas sin caer en lo recargado, como una evidencia física silenciosa que aterriza en el espacio vacío. Mantén una amplia zona de respiro entre el sujeto y el texto, dejando que el espacio en blanco transmita una sensación premium, distancia y carácter ritual, en lugar de sugerir ausencia de contenido. Extrae los colores del material, la emoción y la semántica cultural del sujeto: el fondo ocupa la mayor área manteniéndose luminoso y nítido; el color del sujeto actúa como un soporte suave de baja saturación; el texto y las líneas estructurales conforman una capa de información oscura, definida pero no pesada; y los colores de acento aparecen de forma mínima en detalles clave o nodos visuales. En general, preserva una quietud nítida, alto brillo, bajo nivel de ruido, una escala cromática limpia y contraste suave, evitando la turbidez, los efectos de envejecimiento, los tonos ahumados y los grises amarillentos apagados. El resultado final debe asemejarse al anuncio de una exposición meticulosamente diseñado o a una pieza visual conmemorativa de producto: a primera vista se percibe el orden de lectura y el espacio en blanco; a segunda, la entidad del sujeto y la información diminuta, con una textura sobria, luminosa, natural y verosímil.
+
+——————
+Crea un póster para la exposición del 30.º aniversario de un pequeño electrodoméstico blanco, manteniendo el carácter fresco de un boletín informativo basado en espacios en blanco. Utiliza un fondo blanco marfil, texto en gris plateado nebuloso y un detalle en cian pálido para establecer una relación lumínica fría. La forma principal es un pequeño electrodoméstico de cocina blanco colocado discretamente en el centro inferior, con el título superior ampliado y centrado, y una línea horizontal con la fecha que funciona como pausa visual; ideal para la entrada de una exposición de marca y vistas previas en redes sociales. Relación de aspecto vertical 3:4.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794555670463_a61v67_HW7dZv2a8AAYf1_.jpg" width="600" alt="Infografía / Visual educativo - Prompt para póster minimalista de electrodoméstico blanco - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793778235728_owafqm_HWLSDnwaEAA9XHI.jpg" width="600" alt="Publicación en redes sociales - Póster comparativo: fotografía vs. pintura al óleo impasto - Image 2">
+<img src="https://cms-assets.youmind.com/media/1794555669198_fjmpko_HW7daNTa8AAKnM3.jpg" width="600" alt="Infografía / Visual educativo - Prompt para póster minimalista de electrodoméstico blanco - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793778235998_t3m7fu_HWLSDnuaIAAsMpE.jpg" width="600" alt="Publicación en redes sociales - Póster comparativo: fotografía vs. pintura al óleo impasto - Image 3">
+<img src="https://cms-assets.youmind.com/media/1794555670628_nqp671_HW7darQawAAUIWf.jpg" width="600" alt="Infografía / Visual educativo - Prompt para póster minimalista de electrodoméstico blanco - Image 3">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Sairah](https://x.com/Sairah_0)
-- **Fuente:** [Twitter Post](https://x.com/Sairah_0/status/2117485755153179000)
-- **Publicado:** 3 de noviembre de 2026
-- **Idiomas:** en
+- **Autor:** [小小东](https://x.com/xiaoxiaodong)
+- **Fuente:** [Twitter Post](https://x.com/xiaoxiaodong/status/2120876175656710416)
+- **Publicado:** 12 de noviembre de 2026
+- **Idiomas:** zh
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=37239)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=37480)**
 
 ---
 
-### No. 36: Infografía / Visual educativo - Infografía de Guía Personalizada de Quiromancia
+### No. 38: Infografía / Visual educativo - Infografía de Guía Personalizada de Quiromancia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2572,7 +2639,7 @@ Contenido del texto: Asegúrate de que todas las etiquetas en chino coincidan ex
 
 ---
 
-### No. 37: Infografía / Visual educativo - Díptico de Fotografía de Cola de Ballena e Ilustración a Tinta
+### No. 39: Infografía / Visual educativo - Díptico de Fotografía de Cola de Ballena e Ilustración a Tinta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2623,7 +2690,7 @@ Crea una composición vertical estilo díptico dividida en dos mitades bien dife
 
 ---
 
-### No. 38: Infografía / Visual educativo - Prompts para Transformar Fotos Realistas a Acuarelas
+### No. 40: Infografía / Visual educativo - Prompts para Transformar Fotos Realistas a Acuarelas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2664,7 +2731,7 @@ Crea una hermosa transformación de fotorrealista a acuarela usando la imagen de
 
 ---
 
-### No. 39: Infografía / Visual educativo - Comparación de longitud de prompts en GPT Image 2
+### No. 41: Infografía / Visual educativo - Comparación de longitud de prompts en GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2703,7 +2770,7 @@ Panel derecho: Etiquetado como "100 WORDS" en la parte inferior. La imagen es un
 
 ---
 
-### No. 40: Infografía / Visual educativo - Prompt de Infografía Dibujada a Mano para GPT Image 2
+### No. 42: Infografía / Visual educativo - Prompt de Infografía Dibujada a Mano para GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2739,7 +2806,7 @@ Tema: Póster educativo del ciclo del agua
 
 ---
 
-### No. 41: Infografía / Visual educativo - LP de viaje a Kiyomizu-dera con mascota de anime
+### No. 43: Infografía / Visual educativo - LP de viaje a Kiyomizu-dera con mascota de anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2782,7 +2849,7 @@ Contenido de texto: Conservar todo el texto en japonés exactamente como aparece
 
 ---
 
-### No. 42: Infografía / Visual educativo - Prompt de GPT Image 2: Díptico de Texturas Experimentales
+### No. 44: Infografía / Visual educativo - Prompt de GPT Image 2: Díptico de Texturas Experimentales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2851,7 +2918,7 @@ RESULTADO: Un póster vertical 3:4 en alta definición con mitades superior e in
 
 ---
 
-### No. 43: Infografía / Visual educativo - Hoja de Personaje Anime: Niña Llorando
+### No. 45: Infografía / Visual educativo - Hoja de Personaje Anime: Niña Llorando
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2884,7 +2951,7 @@ Una hoja de diseño de personaje de anime en alta resolución de una niña de 3 
 
 ---
 
-### No. 44: Infografía / Visual educativo - Hoja de Concepto de Personaje para Escenario Cibernético
+### No. 46: Infografía / Visual educativo - Hoja de Concepto de Personaje para Escenario Cibernético
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2933,7 +3000,7 @@ La estética general debe fusionar la tecnología cyberpunk con elementos de fan
 
 ---
 
-### No. 45: Infografía / Visual educativo - Comparación entre Estación de Tren Tranquila y Abandonada
+### No. 47: Infografía / Visual educativo - Comparación entre Estación de Tren Tranquila y Abandonada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2966,7 +3033,7 @@ Una comparación dividida en pantalla de dos escenas de estaciones de tren al at
 
 ---
 
-### No. 46: Infografía / Visual educativo - Haiku sobre una bodega de vino descuidada
+### No. 48: Infografía / Visual educativo - Haiku sobre una bodega de vino descuidada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3004,7 +3071,7 @@ toman el control del lugar
 
 ---
 
-### No. 47: Infografía / Visual educativo - Prompt para Hoja de Diseño de Personajes Anime
+### No. 49: Infografía / Visual educativo - Prompt para Hoja de Diseño de Personajes Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3067,7 +3134,7 @@ Estilo visual: Ilustración digital de alta calidad mezclada con estética de di
 
 ---
 
-### No. 48: Infografía / Visual educativo - Infografía de Punto Nemo
+### No. 50: Infografía / Visual educativo - Infografía de Punto Nemo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3116,7 +3183,7 @@ Estilo Visual: Diseño profesional de infografía. Utilice fuentes sans-serif cl
 
 ---
 
-### No. 49: Infografía / Visual educativo - Imagen térmica de una persona
+### No. 51: Infografía / Visual educativo - Imagen térmica de una persona
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3146,72 +3213,6 @@ Fotografía realista de imagen térmica de una persona de pie en un entorno inte
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=36263)**
-
----
-
-### No. 50: Infografía / Visual educativo - Diseño del Póster del Festival de Artes de Tsing Hua
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un póster promocional de doble panel para el Festival de Artes de la Universidad Tsing Hua 2025, que presenta ilustraciones florales coloridas en estilos vectorial nítido y enfoque suave.
-
-#### 📝 Prompt
-
-```
-Crea un póster de diseño gráfico dividido en pantalla para el '2025 Spring x Tsing Hua Arts Festival'. El lado izquierdo presenta un fondo blanco limpio con ilustraciones vibrantes y planas de estilo vectorial de flores, incluyendo una gran margarita, lirios rosados, hortensias azules y lilas moradas. El texto vertical en chino en el extremo izquierdo dice '2025 春之清華藝術節' junto con el texto en inglés 'Spring x Tsing Hua Arts Festival'. La parte inferior izquierda contiene cuatro categorías distintas de eventos: '音樂會暨大師班', '創作展覽', '藝術工作坊' y '研討論壇', cada una con fechas específicas (4/15-5/28) y pequeños códigos QR. El lado derecho muestra una versión de enfoque suave y onírica de la misma composición floral sobre un fondo cálido y brumoso de tono crema. La tipografía serif grande en la parte superior dice '2025 Spring x Tsing Hua Arts Festival', acompañada por el texto más pequeño 'ART CULTURE PEOPLE IN BLOOM'. La parte inferior derecha muestra las fechas '4.15 — 5.28' y el logotipo 'TSING HUA UNIVERSITY'.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791532581350_cuycy1_HUGq8Itb0AASE7_.jpg" width="600" alt="Infografía / Visual educativo - Diseño del Póster del Festival de Artes de Tsing Hua - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [小小东](https://x.com/xiaoxiaodong)
-- **Fuente:** [Twitter Post](https://x.com/xiaoxiaodong/status/2108154573127045545#reversed-0)
-- **Publicado:** 8 de octubre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=36171)**
-
----
-
-### No. 51: Infografía / Visual educativo - Banner de Desarrollo de Juegos en Japonés
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Este prompt genera un banner promocional para un proyecto de desarrollo de juegos que presenta múltiples diseños de monstruos generados por IA, junto con texto explicativo en japonés sobre cómo convertir artefactos comunes de la IA generativa en personajes enemigos.
-
-#### 📝 Prompt
-
-```
-Una imagen horizontal tipo banner con fondo beige claro. En el lado izquierdo, hay texto en japonés en colores morado y amarillo: '制作記録 #2 敵キャラ編' (Registro de Producción #2 Edición Personajes Enemigos), seguido de un texto grande en negrita '生成AIの「あるある」がモンスターに！' (¡Los "clásicos" de la IA generativa se convierten en monstruos!), y debajo un texto más pequeño 'ジェネコの冒険 ～ノイズの大迷宮～ 敵キャラ制作の2日間' (La Aventura de Geneko ~ El Gran Laberinto del Ruido ~ Dos Días de Creación de Personajes Enemigos). A la derecha del texto, hay dos pequeños personajes estilo chibi: una chica con cabello castaño, gafas y uniforme escolar sosteniendo un libro abierto, y una criatura azul similar a un gato con orejas rosadas leyendo por encima de su hombro. El resto de la imagen está lleno de un collage de varios diseños coloridos de monstruos organizados en filas. La fila superior incluye una esfera verde brillante con ojos, una bestia peluda azul musculosa con ojos púrpuras brillantes, un robot insectoide morado con alas verdes y una figura robótica con múltiples extremidades. La sección central presenta una criatura roja similar a un escarabajo con señales de advertencia en su caparazón, un personaje mago con un sombrero puntiagudo y túnica de colores arcoíris sosteniendo un bastón, una criatura blanca similar a una polilla con patrones de ojos azules en sus alas, un híbrido negro de araña y tanque con luces rojas, y una forma abstracta rosa que parece un rostro o símbolo. La fila inferior muestra una criatura verde similar a un goblin con ojos amarillos brillantes, un monstruo marrón similar a una tortuga con púas, una figura humanoide pálida con rasgos faciales en blanco, un personaje muñeca con rostro dividido (mitad rosa/mitad gris) sosteniendo un cuchillo, y un monstruo morado amorfo con ojos enfurecidos.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791013857616_l2v0on_HTZm4AraEAAeKLJ.jpg" width="600" alt="Infografía / Visual educativo - Banner de Desarrollo de Juegos en Japonés - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Ryu](https://x.com/dragonboy765)
-- **Fuente:** [Twitter Post](https://x.com/dragonboy765/status/2105998118160629884#reversed-0)
-- **Publicado:** 2 de octubre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=35865)**
 
 ---
 
@@ -4643,59 +4644,7 @@ Estilo Visual: Ilustración digital limpia, colores vibrantes para el primer pan
 
 ---
 
-### No. 87: Cómic / Guion gráfico - Infografía de Manga: Ingeniería de Prompts con IA
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Una página de manga estilizada que ilustra el concepto de ingeniería de prompts para la generación de imágenes con IA, destacando un personaje kitsune y el desglose de elementos visuales.
-
-#### 📝 Prompt
-
-```
-Una infografía vertical estilo manga, altamente detallada, con un fondo similar al pergamino. El diseño se divide en tres secciones principales: un área de ilustración superior, un desglose diagramático central y una conclusión inferior con predominio de texto.
-
-Sección Superior:
-- Una gran e etérea ilustración de una mujer con cabello blanco largo y orejas de zorro (una kitsune) de pie sobre la cima de una montaña al atardecer. Lleva túnicas blancas fluidas.
-- Debajo de ella, un hombre anciano con cabello negro largo recogido hacia atrás, vistiendo túnicas tradicionales chinas azul oscuro, está sentado con las piernas cruzadas sosteniendo un pincel de caligrafía, mirando hacia arriba con expresión reflexiva.
-- A su derecha, un hombre más joven con túnicas grises está arrodillado, dibujando a la kitsune en papel.
-- Alrededor de esta escena hay bloques de texto en japonés explicando el concepto de 'Prompt' (プロンプト).
-- En el lado izquierdo, hay cuatro pequeños retratos cuadrados de personajes etiquetados con descripciones como 'Mujer Hermosa', 'Bailarina', etc., mostrando variaciones de personajes femeninos.
-- Un gran texto vertical en japonés a la derecha dice 'Introducción a los Prompts'.
-
-Sección Central:
-- Un diagrama de flujo horizontal titulado 'Verbalizar características para componer una imagen'.
-- Muestra una secuencia de seis pequeñas imágenes cuadradas conectadas por signos de más (+), que llevan a un signo de igual (=) y una imagen de resultado final.
-- La secuencia incluye: 1. Cabello plateado largo, 2. Ojos azules, 3. Ropa blanca, 4. Atardecer en la montaña, 5. Pose mirando hacia atrás, 6. Contraluz suave.
-- El resultado final es la imagen completa de la kitsune de la sección superior.
-
-Sección Inferior:
-- Un titular grande y audaz en estilo de tinta roja y negra en japonés: "Listar cientos de palabras pierde un trazo" (百語を並べて一画を失う).
-- Alrededor del titular hay trozos de papel rasgados con notas manuscritas que enumeran efectos negativos del exceso de prompting, tales como 'resolución 8K', 'calidad ultra alta', 'composición compleja', 'iluminación antinatural', 'iluminación cinematográfica', 'gran escala', 'máxima calidad'.
-- En la parte muy inferior, una oración conclusiva dentro de un cuadro afirma que las palabras son herramientas, pero demasiadas oscurecen la esencia del trazo único.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790495309102_68is3h_HTJm7e_bwAAhXD5.jpg" width="600" alt="Cómic / Guion gráfico - Infografía de Manga: Ingeniería de Prompts con IA - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [レティシア・ノエル](https://x.com/N7S6P1)
-- **Fuente:** [Twitter Post](https://x.com/N7S6P1/status/2103857155845783883#reversed-0)
-- **Publicado:** 26 de septiembre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=35529)**
-
----
-
-### No. 88: Marketing de producto - Prompt de outfit para cita en cafetería clásica
+### No. 87: Marketing de producto - Prompt de outfit para cita en cafetería clásica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4745,7 +4694,7 @@ Un estilo sofisticado, femenino y atemporal para esta temporada.
 
 ---
 
-### No. 89: Marketing de producto - Prompt de fotografía de moda ultra realista
+### No. 88: Marketing de producto - Prompt de fotografía de moda ultra realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4778,7 +4727,7 @@ Fotografía de moda ultra realista de cuerpo completo de una hermosa mujer joven
 
 ---
 
-### No. 90: Marketing de producto - Retrato elegante de moda en blanco con sombrero fedora
+### No. 89: Marketing de producto - Retrato elegante de moda en blanco con sombrero fedora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4811,7 +4760,7 @@ Un retrato en primer plano y alta resolución de una mujer con cabello largo, os
 
 ---
 
-### No. 91: Marketing de producto - Retrato Futurista de Vestido en Ciudad GPT Image
+### No. 90: Marketing de producto - Retrato Futurista de Vestido en Ciudad GPT Image
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4848,7 +4797,7 @@ Estilo fotográfico: Fotografía hiperrealista de acción real, iluminación cin
 
 ---
 
-### No. 92: Marketing de producto - Prompt para hoja de contactos hiperrealista
+### No. 91: Marketing de producto - Prompt para hoja de contactos hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4887,7 +4836,7 @@ Alterna composiciones de cuerpo completo a 35 mm con retratos íntimos a 85 mm. 
 
 ---
 
-### No. 93: Marketing de producto - Mochila enrollable de lona encerada verde oliva
+### No. 92: Marketing de producto - Mochila enrollable de lona encerada verde oliva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4926,7 +4875,7 @@ Una fotografía de producto en alta resolución de una mochila tipo roll-top de 
 
 ---
 
-### No. 94: Marketing de producto - Prompt de Retrato de Moda en Cafetería Casual
+### No. 93: Marketing de producto - Prompt de Retrato de Moda en Cafetería Casual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4960,7 +4909,7 @@ Fondo: un café moderno y elegante con ventanales de vidrio con marco negro, lá
 
 ---
 
-### No. 95: Marketing de producto - Prompts Editoriales Pop Art para GPT Image 2
+### No. 94: Marketing de producto - Prompts Editoriales Pop Art para GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5009,7 +4958,7 @@ Fotografía editorial de alta costura, retrato de estudio surrealista. Una mujer
 
 ---
 
-### No. 96: Marketing de producto - Retrato 3D de Chica Juguete de Diseñador
+### No. 95: Marketing de producto - Retrato 3D de Chica Juguete de Diseñador
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5060,7 +5009,7 @@ Retrato en primer plano cuadrado 1:1 de una figura coleccionable 3D estilo desig
 
 ---
 
-### No. 97: Marketing de producto - Seis Portadas de Revistas
+### No. 96: Marketing de producto - Seis Portadas de Revistas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5103,7 +5052,7 @@ Cada portada debe incluir tipografía japonesa auténtica, titulares y pequeños
 
 ---
 
-### No. 98: Marketing de producto - El Pingüino Suica en Akihabara
+### No. 97: Marketing de producto - El Pingüino Suica en Akihabara
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5136,7 +5085,7 @@ Una ilustración vibrante al estilo pop art de la mascota Suica Penguin parada e
 
 ---
 
-### No. 99: Marketing de producto - Prompts de Moda Surrealista y Fantasía para GPT Image 2
+### No. 98: Marketing de producto - Prompts de Moda Surrealista y Fantasía para GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5177,7 +5126,7 @@ Crea una escena de fantasía caprichosa y fotorrealista de una joven elegante qu
 
 ---
 
-### No. 100: Marketing de producto - Retrato Cinematográfico con Iluminación Dramática
+### No. 99: Marketing de producto - Retrato Cinematográfico con Iluminación Dramática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5214,7 +5163,7 @@ Prompt negativo: imagen borrosa, baja resolución, piel de plástico, retoque ex
 
 ---
 
-### No. 101: Marketing de producto - Prompt de Disfraz de Chica Zombie para Halloween
+### No. 100: Marketing de producto - Prompt de Disfraz de Chica Zombie para Halloween
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5260,7 +5209,7 @@ Vista de cuerpo completo donde se aprecia claramente el diseño rasgado. Un rost
 
 ---
 
-### No. 102: Marketing de producto - Diseño de Póster Comercial de Té Oriental
+### No. 101: Marketing de producto - Diseño de Póster Comercial de Té Oriental
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5319,7 +5268,7 @@ Sin personas, vestimentas antiguas, escenas reales de salones de té, paisajes a
 
 ---
 
-### No. 103: Marketing de producto - Póster de Refracción por Contorno de Agua Mineral
+### No. 102: Marketing de producto - Póster de Refracción por Contorno de Agua Mineral
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5377,7 +5326,7 @@ Usa una luz cenital suave y una luz de contorno trasera izquierda para lograr qu
 
 ---
 
-### No. 104: Marketing de producto - Póster de Proyección de Luz de Lámpara
+### No. 103: Marketing de producto - Póster de Proyección de Luz de Lámpara
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5435,7 +5384,7 @@ Aplica una textura de fotografía nocturna de interiores, serena y sutil. Materi
 
 ---
 
-### No. 105: Imagen principal de e-commerce - Retrato realista de paseo nocturno con atuendo específico
+### No. 104: Imagen principal de e-commerce - Retrato realista de paseo nocturno con atuendo específico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5470,7 +5419,7 @@ Ropa: un enterizo negro ajustado de manga larga y cuello alto completamente cerr
 
 ---
 
-### No. 106: Imagen principal de e-commerce - Prompt de Outfit de Cita Otoñal Anime
+### No. 105: Imagen principal de e-commerce - Prompt de Outfit de Cita Otoñal Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5515,7 +5464,7 @@ Hermosa ilustración anime, trazos delicados, colores suaves, texturas detallada
 
 ---
 
-### No. 107: Imagen principal de e-commerce - Prompt de atuendo retro en rojo y negro
+### No. 106: Imagen principal de e-commerce - Prompt de atuendo retro en rojo y negro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5561,7 +5510,7 @@ Sin adornos adicionales.
 
 ---
 
-### No. 108: Imagen principal de e-commerce - Prompt de Outfit para Estilo de Otoño
+### No. 107: Imagen principal de e-commerce - Prompt de Outfit para Estilo de Otoño
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5600,7 +5549,7 @@ pantalón corto adorable de cuadros vichy rojo y negro, chaleco de punto negro, 
 
 ---
 
-### No. 109: Imagen principal de e-commerce - Conjunto Elegante en Tonos Monocromáticos para Otoño
+### No. 108: Imagen principal de e-commerce - Conjunto Elegante en Tonos Monocromáticos para Otoño
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5639,7 +5588,7 @@ Linda falda ajustada de cuadros vichy negros, suéter de punto negro, botas beig
 
 ---
 
-### No. 110: Imagen principal de e-commerce - Prompt de Outfit de Sudadera con Capucha de Oso Bonito para GPT Image 2
+### No. 109: Imagen principal de e-commerce - Prompt de Outfit de Sudadera con Capucha de Oso Bonito para GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5686,7 +5635,7 @@ Sin decoraciones adicionales.
 
 ---
 
-### No. 111: Imagen principal de e-commerce - Prompt de Estilo Urbano Otoñal
+### No. 110: Imagen principal de e-commerce - Prompt de Estilo Urbano Otoñal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5725,7 +5674,7 @@ Un prompt para generar una chica adorable con pantalones cortos a cuadros marron
 
 ---
 
-### No. 112: Imagen principal de e-commerce - Prompt de Foto de Producto con Personaje Inexpresivo
+### No. 111: Imagen principal de e-commerce - Prompt de Foto de Producto con Personaje Inexpresivo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5808,7 +5757,7 @@ Solo un texto pequeño "YouMind" en la esquina inferior derecha, sin otro texto.
 
 ---
 
-### No. 113: Imagen principal de e-commerce - Prompt de conjunto con suéter de crochet verde menta
+### No. 112: Imagen principal de e-commerce - Prompt de conjunto con suéter de crochet verde menta
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5857,7 +5806,7 @@ Sin decoraciones adicionales.
 
 ---
 
-### No. 114: Imagen principal de e-commerce - GPT Image: Conjunto Casual Francés
+### No. 113: Imagen principal de e-commerce - GPT Image: Conjunto Casual Francés
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5904,7 +5853,7 @@ Sin decoraciones adicionales.
 
 ---
 
-### No. 115: Imagen principal de e-commerce - Prompt de GPT Image para Botella de Perfume
+### No. 114: Imagen principal de e-commerce - Prompt de GPT Image para Botella de Perfume
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5937,7 +5886,7 @@ Una botella de perfume gigante, redondeada y de vidrio transparente verde claro,
 
 ---
 
-### No. 116: Imagen principal de e-commerce - Frascos de Meal Prep Fotorrealistas con Lista de Ingredientes
+### No. 115: Imagen principal de e-commerce - Frascos de Meal Prep Fotorrealistas con Lista de Ingredientes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5988,7 +5937,7 @@ Composición vertical, proporciones realistas, presentación limpia y apetitosa,
 
 ---
 
-### No. 117: Imagen principal de e-commerce - Tecla de teclado mecánico negro mate B.AI
+### No. 116: Imagen principal de e-commerce - Tecla de teclado mecánico negro mate B.AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6021,7 +5970,7 @@ Una toma de estudio en primer plano y desde un ángulo elevado de una única tec
 
 ---
 
-### No. 118: Imagen principal de e-commerce - Transformación de Minifiguras LEGO
+### No. 117: Imagen principal de e-commerce - Transformación de Minifiguras LEGO
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6109,7 +6058,7 @@ Sta
 
 ---
 
-### No. 119: Activo de juego - Robot de Halloween en un gimnasio de Tokio
+### No. 118: Activo de juego - Robot de Halloween en un gimnasio de Tokio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6144,7 +6093,7 @@ En primer plano, dos policías con uniformes azul oscuro, chalecos tácticos y c
 
 ---
 
-### No. 120: Activo de juego - Espadachina cinematográfica en un mercado nocturno
+### No. 119: Activo de juego - Espadachina cinematográfica en un mercado nocturno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6193,13 +6142,60 @@ Negativo: segunda persona, arma desenvainada, texto legible, marca de agua, logo
 
 ---
 
+### No. 120: Activo de juego - Hoja de Recursos de Textura y Flores de Cerezo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para generar una cuadrícula categorizada de flores de cerezo en acuarela, patrones de cielo, texturas de papel y superposiciones de sombras para proyectos de diseño.
+
+#### 📝 Prompt
+
+```
+Genera una hoja de recursos completa sobre un fondo blanco puro, organizada en siete secciones numeradas distintas con encabezados en gris tenue. El estilo debe ser arte digital de acuarela y texturas en alta resolución.
+
+Sección 01 (arriba a la izquierda): Cuatro variaciones de ramas de flores de cerezo rosadas etiquetadas de 'branch_01.png' a 'branch_04.png'. Deben ser ilustraciones delicadas en acuarela con tallos marrón oscuro y pétalos rosa suave.
+
+Sección 02 (arriba a la derecha): Una colección de aproximadamente 30 pétalos sueltos de flor de cerezo esparcidos al azar, etiquetada como 'petals_transparent PNG'. Incluye algunas flores completas en la parte inferior derecha de este grupo.
+
+Sección 03 (centro a la izquierda): Cinco mosaicos cuadrados con texturas de cielo azul etiquetados de 'sky_01.png' a 'sky_05.png'. Deben mostrar nubes blancas sobre un fondo azul con distintos niveles de patrones de puntos de semitono o efectos de ruido pixelado.
+
+Sección 04 (centro a la derecha): Doce pequeñas muestras cuadradas de textura dispuestas en dos filas de seis. Las etiquetas incluyen 'dither_01-03', 'ink_red_01-02', 'ink_black_01-02', 'grunge_01-02' y 'grain_01-03'. Los elementos visuales deben abarcar desde patrones de tramado en blanco y negro hasta salpicaduras de tinta roja y grano de papel beige.
+
+Sección 05 (abajo a la izquierda): Cuatro tiras rectangulares verticales con texturas de papel etiquetadas de 'paper_01.png' a 'paper_04.png'. Los colores deben ser crema, gris claro, carbón oscuro y blanco roto, mostrando detalles fibrosos.
+
+Sección 06 (abajo al centro): Tres imágenes de sombras proyectadas sobre una superficie. Un cuadrado grande que muestre las sombras de una rama frondosa ('shadow_branch.png'), un cuadrado más pequeño con la sombra de follaje denso ('shadow_leaf_01.png') y una tira vertical delgada con una sombra lineal ('line_01.png').
+
+Sección 07 (abajo a la derecha): Seis máscaras de degradado en escala de grises etiquetadas como 'mask_diagonal.png', 'mask_soft_01.png', 'mask_soft_02.png' y 'gradient_fade.png'. Deben presentar transiciones suaves de negro a blanco en diversas formas (cortes diagonales, manchas difusas, desvanecimientos lineales).
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793173380003_3zpmpc_HVsUF1EacAAH0UU.jpg" width="600" alt="Activo de juego - Hoja de Recursos de Textura y Flores de Cerezo - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [泠雨](https://x.com/caelyreth)
+- **Fuente:** [Twitter Post](https://x.com/caelyreth/status/2115307417965879706#reversed-0)
+- **Publicado:** 28 de octubre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=37010)**
+
+---
+
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 17977 prompts más no mostrados aquí
+### 🎯 17980 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6262,6 +6258,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-13T03:57:56.989Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-13T18:54:20.979Z</sub>
 
 </div>
