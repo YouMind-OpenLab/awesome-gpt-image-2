@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **18110** |
+| 📝 提示词总数 | **18116** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年11月15日星期日 UTC 18:07:48** |
+| 🔄 最后更新 | **2026年11月16日星期一 UTC 21:23:30** |
 
 </div>
 
@@ -525,7 +525,56 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 个人资料 / 头像 - GPT Image 2 多视角角色一致性提示词
+### No. 1: 个人资料 / 头像 - GPT Image 2 提示词：将照片转换为 3D 玩具情侣
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+详细提示词，可将上传的情侣参考照片转换为咖啡馆场景中的超精细 3D 收藏级乙烯基手办，在保留面部特征的同时应用风格化的玩具美学。
+
+#### 📝 提示词
+
+```
+将上传参考照片中的人物转化为超精细的 3D 收藏级潮玩情侣场景，背景设定在一家格调十足的户外咖啡馆。保留他们极具辨识度的面部特征，将其重塑为高端亮面乙烯基（vinyl）手办，呈现抛光塑料质感、略微夸张的比例、生动传神的表情以及逼真的玩具细节。
+
+女性角色留着深棕色头发，梳成优雅的法式编发盘发，佩戴黑色墨镜、精致的金色圈形耳环和叠戴金项链，身穿白色泡泡袖衬衫。她单手轻轻托腮，面带温柔笑意，深情注视着身旁的伴侣。
+
+男性角色拥有一头浓密蓬松的深色卷发，胡须修剪得干净利落，戴着黑色墨镜，身穿清爽的白色纽扣衬衫，袖口随意卷起。他腕上佩戴银色手表，正随性地将一只白色小瓷咖啡杯举至唇边。
+
+两位角色亲密地并排坐在一张打磨光滑的木质咖啡桌旁。桌上摆放着迷你白色咖啡杯、配套杯碟以及精致的银色茶匙。
+
+环境：一家迷人的欧洲高档户外咖啡馆，拥有温暖的米色石材建筑、高大的玻璃窗、葱郁的绿树、蓝色庭院遮阳伞和木质家具，背景中的咖啡馆客人呈柔和虚化效果。温暖的午后阳光折射出漂亮的光影与柔和的阴影。
+
+视觉风格：高端设计师乙烯基潮玩、亮面 3D 手办、可爱又不失精致的角色设计、光滑细腻的雕塑表面、细节丰富的发型、逼真的微缩配饰、高端收藏级潮玩摄影、电影感景深、温暖的金黄色调、超写实 3D 渲染。
+
+构图：4:5 竖版人像画幅，平视正面机位，两位角色醒目地占据前景，姿态自然放松，营造温馨亲昵的咖啡馆氛围。
+
+渲染质量：超精细 3D 建模、逼真的光泽反射、光线追踪照明、环境光遮蔽、全局光照、基于物理的材质、电影级阴影、专业产品摄影、8K 级画质。
+
+重要提示：务必保留参考照片中这对情侣的身份特征与独特面容。两人必须呈现出精美实体收藏级潮玩的质感，而非普通的人像照片。无文字、无水印、前景中无多余人物。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815774981_p7jix4_HXKygQZbMAAYCGi.jpg" width="600" alt="个人资料 / 头像 - GPT Image 2 提示词：将照片转换为 3D 玩具情侣 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Smiling Khan](https://x.com/AIwithkhan)
+- **来源:** [Twitter Post](https://x.com/AIwithkhan/status/2121954653500035343)
+- **发布时间:** 2026年11月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37519)**
+
+---
+
+### No. 2: 个人资料 / 头像 - GPT Image 2 多视角角色一致性提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -567,7 +616,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: 个人资料 / 头像 - 动漫少女鹿纹披风秋日穿搭
+### No. 3: 个人资料 / 头像 - 动漫少女鹿纹披风秋日穿搭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -600,7 +649,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: 个人资料 / 头像 - 基于参考图生成的时尚小鸭肖像
+### No. 4: 个人资料 / 头像 - 基于参考图生成的时尚小鸭肖像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -633,7 +682,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: 个人资料 / 头像 - 穿奶油色开衫的动漫女孩
+### No. 5: 个人资料 / 头像 - 穿奶油色开衫的动漫女孩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -666,7 +715,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 5: 个人资料 / 头像 - GPT Image 2 提示词：韩式卧室人像与粉色吊带背心
+### No. 6: 个人资料 / 头像 - GPT Image 2 提示词：韩式卧室人像与粉色吊带背心
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -765,7 +814,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 6: 个人资料 / 头像 - GPT Image 2 提示词：韩式夏日海滨人像，蓝色针织上衣
+### No. 7: 个人资料 / 头像 - GPT Image 2 提示词：韩式夏日海滨人像，蓝色针织上衣
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -880,7 +929,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 7: 个人资料 / 头像 - 昭和复古人像
+### No. 8: 个人资料 / 头像 - 昭和复古人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -913,7 +962,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 8: 个人资料 / 头像 - 卧室自拍人像提示词
+### No. 9: 个人资料 / 头像 - 卧室自拍人像提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1012,7 +1061,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 9: 个人资料 / 头像 - 年轻女性柔和特写肖像
+### No. 10: 个人资料 / 头像 - 年轻女性柔和特写肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1045,7 +1094,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 10: 个人资料 / 头像 - GPT Image 韩式人像
+### No. 11: 个人资料 / 头像 - GPT Image 韩式人像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1117,7 +1166,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 11: 个人资料 / 头像 - GPT Image 客厅人像
+### No. 12: 个人资料 / 头像 - GPT Image 客厅人像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1182,7 +1231,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 12: 个人资料 / 头像 - 神社前的昭和复古人像
+### No. 13: 个人资料 / 头像 - 神社前的昭和复古人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1215,7 +1264,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 13: 个人资料 / 头像 - 异想天开的剪贴簿彩色铅笔插图
+### No. 14: 个人资料 / 头像 - 异想天开的剪贴簿彩色铅笔插图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1302,7 +1351,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 14: 个人资料 / 头像 - 身着荷叶边婚纱的动漫新娘
+### No. 15: 个人资料 / 头像 - 身着荷叶边婚纱的动漫新娘
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1347,7 +1396,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 15: 个人资料 / 头像 - 复古万圣节吸血鬼少女
+### No. 16: 个人资料 / 头像 - 复古万圣节吸血鬼少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1380,7 +1429,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 16: 个人资料 / 头像 - 复古昭和万圣节人像
+### No. 17: 个人资料 / 头像 - 复古昭和万圣节人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1413,7 +1462,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 17: 个人资料 / 头像 - 复古美式卡通风格图像转换
+### No. 18: 个人资料 / 头像 - 复古美式卡通风格图像转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1460,7 +1509,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 18: 个人资料 / 头像 - GPT Image 2 夜景街头摄影提示词
+### No. 19: 个人资料 / 头像 - GPT Image 2 夜景街头摄影提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1573,7 +1622,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 19: 个人资料 / 头像 - 昭和复古粉色厨房人像
+### No. 20: 个人资料 / 头像 - 昭和复古粉色厨房人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1608,70 +1657,18 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 20: 个人资料 / 头像 - GPT Image 2 铂金色头发肖像
+### No. 21: 社交媒体帖子 - 机器人士兵
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-生成卧室场景中铂金色头发女性特写肖像的提示词，包含用于质量控制的反向提示词。
+一张逼真的照片，展示了一个巨大的双足机器人，其脚部和头部装有坦克履带，正站在警察维护场中，警员们在旁观察。
 
 #### 📝 提示词
 
 ```
-1:1 正方形构图，单张独立图像，超写实韩国清冷风女性人像摄影，真实相机质感，柔和冷白光，低饱和奶油色调，精致温柔，轻微自然柔焦。
-
-[面部特征]
-
-23-25 岁东亚成年女性，精致小巧的鹅蛋脸，下颌线柔和收窄，下巴小巧圆润，清透冷白瓷肌，淡粉色腮红。
-
-明亮清澈的灰绿色杏眼，自然双眼皮，卧蚕细节清晰，睫毛纤长卷翘，浅灰棕色眉毛，鼻梁纤细挺直。
-
-饱满柔软的玫瑰豆沙粉唇，细腻水润光泽，双唇自然闭合，神态清冷温柔，双眼直视镜头，保留真实皮肤微纹理。
-
-[发型]
-
-极浓密柔软的奶油白金长发，泛着浅银白、香槟金与淡冷灰色泽。
-
-自然中分，颅顶蓬松，发根具有真实空气感，细碎的八字刘海自然修饰额头与脸颊。
-
-长发垂至胸前以下，整体顺直，发尾带轻微自然弧度，两侧头发自然垂落，保留根根分明的发丝与少量碎发。
-
-[服装与首饰]
-
-身穿浅薰衣草紫修身 V 领长袖针织衫，细竖罗纹面料，柔软贴身，袖口略长，自然遮住部分手掌。
-
-佩戴精致的银色水晶流苏耳环，手指戴有一枚简约细银戒。
-
-[姿势]
-
-人物坐在室内，正对镜头，上半身微微前倾，双肩自然内收。
-
-双手抬起置于下巴两侧，手指轻柔弯曲，摆出可爱的托腮姿势。
-
-长袖在手腕处自然堆叠，头部微侧，双眼静静凝视镜头，神情平静温柔。
-
-[背景环境]
-
-现代简约卧室衣柜，浅奶油色白墙。
-
-画面右侧是敞开的白色衣柜，里面挂着黑、白、米色衣物，顶部有柔和暖黄色 LED 灯带。
-
-衣柜背景轻微自然虚化，左侧为干净的浅白墙面。
-
-[镜头与光线]
-
-等效 50mm 人像镜头，平视角度拍摄，上半身近景构图，人物居中。
-
-柔和冷白正面补光打亮面部，肌肤呈现清透冷白质感，眼眸带有自然反光。
-
-白金发色透出细腻的银白高光，背景衣柜点缀些许暖黄灯光，形成轻微的冷暖对比。
-
-低饱和度，柔和反差，自然曝光，肤质细腻，发丝真实，轻微相机颗粒感，无明显 AI 感。
-
-[反向提示词]
-
-动漫，插画，3D 渲染，CG 假脸，塑料皮肤，过度磨皮，夸张大眼，下巴过尖，面部畸形，瞳孔异常，假发，头发结块，发丝僵硬，多余手指，手掌变形，身体比例失调，衣服穿模，过曝，强 HDR，过度锐化，商业影棚质感，明显 AI 痕迹，文字，水印，logo，拼贴画。
+一张超写实的高分辨率照片，画面中一台巨大的双足机器人矗立在工业维修场中央。机器人由厚重的黑白机械部件构成，宛如齿轮、活塞与装甲板精密咬合而成的复杂装置。它呈人形轮廓，但头部和双脚却配备了类似坦克的履带系统。双肩与胸口处可见醒目的红色警示灯。胸甲上印有“警視庁 MPD”（东京都警视厅）字样。前景中，两名身穿深蓝色制服、头戴白色头盔的警察正驻足观察这台机器人；其中一人手持平板电脑。他们的制服上同样标有“警視庁 MPD”。二人身后摆放着印有“MPD”标识的银色设备箱以及橙色交通锥。背景是一栋灰色的大型工业建筑，敞开的库门上分别标有“02”、“03”和“04”编号。建筑左侧的标牌写着“警視庁 MPD”，右侧则写着“整備場 MAINTENANCE YARD”。远处一辆白色卡车旁，还能看到几名身穿反光背心、头戴安全帽的工作人员。明亮的日光倾洒而下，湛蓝的天空万里无云，在混凝土地面上投下轮廓分明的阴影。
 ```
 
 #### 🖼️ 生成图片
@@ -1679,21 +1676,54 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793346284830_ztlq24_HV06BBEbkAA6v_b.jpg" width="600" alt="个人资料 / 头像 - GPT Image 2 铂金色头发肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1794815781775_4d0fm6_HXKxNz0a8AAnryU.jpg" width="600" alt="社交媒体帖子 - 机器人士兵 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [沧瑶](https://x.com/CryY666666)
-- **来源:** [Twitter Post](https://x.com/CryY666666/status/2115911199204483114)
-- **发布时间:** 2026年10月29日
-- **多语言:** zh
+- **作者:** [カーブミラー](https://x.com/kabumira862571)
+- **来源:** [Twitter Post](https://x.com/kabumira862571/status/2121953232410870076#reversed-0)
+- **发布时间:** 2026年11月15日
+- **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37082)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37521)**
 
 ---
 
-### No. 21: 社交媒体帖子 - 真人照片与涂鸦互动提示词
+### No. 22: 社交媒体帖子 - 复古照片：骑马的女子
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+生成一张充满怀旧感的胶片颗粒风格照片，画面中一位年轻女子在风景如画的乡村骑马。
+
+#### 📝 提示词
+
+```
+一张复古风格的照片，画面中一位年轻的东亚女性骑在一匹棕色马背上，置身于乡村风景之中。她深色的头发扎成马尾，神情专注地低头看着手中握着的皮质缰绳。她身穿一件小碎花长袖衬衫，搭配及膝格纹裙、白色短袜和棕色皮质短靴。马匹配备了西部风格的皮质马鞍和马笼头。背景中可见木质栅栏、绿意盎然的山丘、零星散布的树木，以及湛蓝晴空下的远山。整张图片充满复古美感，带有明显的胶片颗粒感、划痕、灰尘斑点，左侧边缘还有一处漏光效果。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815775208_kxidh6_HXKn_yOakAAfDjM.jpg" width="600" alt="社交媒体帖子 - 复古照片：骑马的女子 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
+- **来源:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2121943093411000677#reversed-0)
+- **发布时间:** 2026年11月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37518)**
+
+---
+
+### No. 23: 社交媒体帖子 - 真人照片与涂鸦互动提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1750,7 +1780,40 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 22: 社交媒体帖子 - 雨中奢华街头时尚摄影
+### No. 24: 社交媒体帖子 - 戴墨镜女性竖版海报拼贴
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用于生成竖版海报拼贴的提示词，包含同一位女性的四张黑白电影感人像（不同姿势），并搭配全彩前景剪影。适用于时尚编辑或杂志风格排版。
+
+#### 📝 提示词
+
+```
+竖版海报拼贴设计，米色背景，四个横向圆角矩形上下堆叠排列，内含同一位年轻女性佩戴墨镜的黑白电影感人像，姿态各异、时尚有型。前景左侧为该女性的全彩高清抠图，她身穿粉紫色修身衬衫与黑色长裤，佩戴墨镜，姿态自信酷炫；整体呈现现代时尚大片风格，柔和的影棚布光，超写实画质，高端杂志质感，兼具景深与光影层次效果，排版干净极简，2:3 画幅比例。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815776535_7jpw7i_HW-i2KNagAAp0dH.jpg" width="600" alt="社交媒体帖子 - 戴墨镜女性竖版海报拼贴 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [ZDuo.MoreAi](https://x.com/lnxinshng252654)
+- **来源:** [Twitter Post](https://x.com/lnxinshng252654/status/2121727626096083452)
+- **发布时间:** 2026年11月14日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37520)**
+
+---
+
+### No. 25: 社交媒体帖子 - 雨中奢华街头时尚摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1807,7 +1870,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 23: 社交媒体帖子 - 瓦迪拉姆沙漠旅行人像
+### No. 26: 社交媒体帖子 - 瓦迪拉姆沙漠旅行人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1840,7 +1903,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 24: 社交媒体帖子 - 女子洗车
+### No. 27: 社交媒体帖子 - 女子洗车
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1873,7 +1936,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 25: 社交媒体帖子 - 复古照片：日本寺庙中的女性
+### No. 28: 社交媒体帖子 - 复古照片：日本寺庙中的女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1906,7 +1969,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 26: 社交媒体帖子 - 霍比特人与巫师齐聚的奇幻沙漠咖啡馆
+### No. 29: 社交媒体帖子 - 霍比特人与巫师齐聚的奇幻沙漠咖啡馆
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1959,7 +2022,7 @@ GPT Image2，5k
 
 ---
 
-### No. 27: 社交媒体帖子 - 海浪裙装动漫少女
+### No. 30: 社交媒体帖子 - 海浪裙装动漫少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1998,7 +2061,7 @@ GPT Image2，5k
 
 ---
 
-### No. 28: 社交媒体帖子 - 水彩与彩铅儿童绘本插画模板
+### No. 31: 社交媒体帖子 - 水彩与彩铅儿童绘本插画模板
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2058,7 +2121,7 @@ GPT Image2，5k
 
 ---
 
-### No. 29: 社交媒体帖子 - 从照片生成动漫风编辑海报
+### No. 32: 社交媒体帖子 - 从照片生成动漫风编辑海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2111,111 +2174,6 @@ GPT Image2，5k
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37409)**
-
----
-
-### No. 30: 社交媒体帖子 - GPT Image 2 蜡笔粉彩插画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-将参考照片转化为可爱、怀旧儿童绘本风格的粉彩蜡笔插画的提示词。
-
-#### 📝 提示词
-
-```
-将上传的参考照片转化为迷人的手绘粉彩蜡笔插画，同时完整保留原主体的身份特征、面部细节、表情、姿势、身体比例、服装或配饰以及整体构图。确保宠物形象清晰可辨，包括毛色、眼睛、体型和所有标志性细节。采用柔和的蜡笔、彩色铅笔与带有肌理感的粉彩笔触，以可爱怀旧的儿童绘本风格重新绘制画面。背景使用温暖的奶油色纹理纸张，呈现清晰的纸纹颗粒、粗犷的手绘轮廓线、略带随性的草图边缘以及柔和分层的蜡笔阴影。在主体周围点缀一些俏皮的手绘小涂鸦，比如爱心、花朵、星星、阳光、小草、精致的小插图以及与原场景相得益彰的可爱主题元素。加入几句随性童趣的手写短句，营造温馨的手账拼贴氛围。整体采用柔和温暖的粉彩色调，搭配自然的大地色系。保持主体大而居中，镜头角度与取景构图与原照片完全一致。最终效果应宛如一幅画在复古素描本上的精美手工蜡笔画——萌趣、温暖、俏皮且个性十足。请勿更改主体或重新设计场景，只需将摄影图像转化为这种插画艺术风格即可。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794037401947_81go1h_HWcVvCrawAARJgu.jpg" width="600" alt="社交媒体帖子 - GPT Image 2 蜡笔粉彩插画 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794037401983_g2b8t6_HWcVvCkbUAAPd2d.jpg" width="600" alt="社交媒体帖子 - GPT Image 2 蜡笔粉彩插画 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Taaruk](https://x.com/Taaruk_)
-- **来源:** [Twitter Post](https://x.com/Taaruk_/status/2118686059126984796)
-- **发布时间:** 2026年11月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37384)**
-
----
-
-### No. 31: 社交媒体帖子 - GPT Image 2 笔记本弹出式视觉错觉
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用于创建逼真视觉错觉的提示词，展现一位女性从撕裂的笔记本页面中浮现的效果。
-
-#### 📝 提示词
-
-```
-创作一幅超精细的照片级写实场景：一位年轻女子仿佛正从一张被撕开的横格螺旋笔记本纸中破纸而出，呈现出极具说服力的 3D 跃出式视错觉效果。采用略微俯拍的视角，画面左侧可见螺旋装订线圈，笔记本周围是木质桌面；柔和温暖的自然光打在她的脸上，浅景深，35mm 镜头透视，f/1.8 光圈，焦点精准落在她的双眼上。她留着一头微卷的金色长发，头顶架着一副太阳镜，妆容自然透着玫瑰色光泽，面带温柔微笑，身穿一件米白色绞花针织毛衣，佩戴着米色皮表带手表；皮肤纹理与毛孔真实细腻，点缀着淡淡的雀斑，眼神光栩栩如生。撕裂的纸张边缘参差不齐、微微卷曲，四周散落着碎纸屑与纸纤维，纸张的触感阴影强烈，撕开处的硬纸板厚度清晰可见。画面右上方，一只右手握着削尖的铅笔，正沿着撕裂的边缘描画勾勒；另一只手则穿过破洞向观者伸来。旁边的木桌上摆放着一把黑色剪刀和一把带金属刀片的黄色美工刀，表面泛着柔和的高光。纸张、织物、木材与金属均呈现超写实质感，皮肤的次表面散射效果精准，电影级暖色调调色，超高分辨率，照片级渲染，光影细节精致，阴影逼真，带有细腻的胶片颗粒感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794037400392_jpcrmg_HWcG3V4boAAN6ig.jpg" width="600" alt="社交媒体帖子 - GPT Image 2 笔记本弹出式视觉错觉 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Aiza](https://x.com/AizaAi12)
-- **来源:** [Twitter Post](https://x.com/AizaAi12/status/2118669744597586303)
-- **发布时间:** 2026年11月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37383)**
-
----
-
-### No. 32: 社交媒体帖子 - 哈兰德动漫风格对决
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-以动漫风格描绘足球运动员埃尔林·哈兰德在雨中比赛中与裁判激烈对峙的场景。
-
-#### 📝 提示词
-
-```
-一幅极具张力的动漫风格插画：身穿曼城球衣的 Erling Haaland 双手紧抓头发，愤怒地嘶吼着。他正与一名光头裁判对峙，裁判背对观众，抬起一只手示意他冷静下来。画面右侧隐约可见另一名球员的身影。场景设定在一场雨中的比赛里，雨滴纷纷落下，球场灯光在背景中晕染出朦胧的光影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794037402265_hr2np8_HWZ0dXYacAAL6_O.jpg" width="600" alt="社交媒体帖子 - 哈兰德动漫风格对决 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Popcraft AI](https://x.com/popcraftAI)
-- **来源:** [Twitter Post](https://x.com/popcraftAI/status/2118508745034801661#reversed-0)
-- **发布时间:** 2026年11月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37385)**
 
 ---
 
@@ -2946,7 +2904,60 @@ GPT Image2，5k
 
 ---
 
-### No. 49: YouTube 缩略图 - 大都会警察重型机器人
+### No. 49: YouTube 缩略图 - 动漫家庭晚餐海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+逆向工程提示词，用于生成一张动漫风格的海报，画面中父亲和两个孩子正在温馨的餐桌旁吃咖喱，标题为“龙之子”。
+
+#### 📝 提示词
+
+```
+一幅竖版动漫风格的海报插画，描绘了温馨惬意的家庭晚餐场景。画面顶部正中央是蓝色的日式毛笔书法大字“龍の子”（龙之子）。标题下方是小字“第8話 カレーの日”（第 8 话：咖喱之日）。
+
+画面中有三位角色围坐在一张矮木桌旁，房间阳光充沛，宽大的窗户外可见秋日的红叶美景。
+
+1. **中后方：** 一位黑发散乱、深色眼眸的年轻男子，身穿黑色拉链连帽衫，内搭灰色 T 恤。他面带温柔的微笑，手里举着一勺咖喱饭。
+2. **左侧：** 一位留着橙色长发、扎着两条麻花辫的少女，身穿白色翻领衬衫。她有一双琥珀色的大眼睛，正开心地吃着碗里的咖喱，神情兴奋又满足。
+3. **右侧：** 一位浅蓝色刺猬头、蓝眼睛的少年，身穿白色 T 恤。他同样举着一勺咖喱，带着开朗的笑容望向前方。
+
+前景的圆木桌上摆着几个白碗，盛满黄橙色的咖喱和白米饭。左侧放着一个银色锅子，底下垫着编织隔热垫，锅里还装着更多咖喱。光线柔和金黄，透出午后或傍晚的氛围。背景左侧有书架，窗边摆放着盆栽。整体为高品质数字动漫画风，色彩明快，光影细节丰富。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815782311_8o8gok_HXOTs8nbEAAXvjk.jpg" width="600" alt="YouTube 缩略图 - 动漫家庭晚餐海报 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815782383_uoehpv_HXOT00_aQAAtxYG.jpg" width="600" alt="YouTube 缩略图 - 动漫家庭晚餐海报 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815782437_gcy8ey_HXOT3LXawAASkCn.jpg" width="600" alt="YouTube 缩略图 - 动漫家庭晚餐海报 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [うさりゅ](https://x.com/PT1jg3MgqU60490)
+- **来源:** [Twitter Post](https://x.com/PT1jg3MgqU60490/status/2122202558035120551#reversed-0)
+- **发布时间:** 2026年11月16日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37522)**
+
+---
+
+### No. 50: YouTube 缩略图 - 大都会警察重型机器人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2979,7 +2990,7 @@ GPT Image2，5k
 
 ---
 
-### No. 50: YouTube 缩略图 - 赛博朋克 2099 年肖像
+### No. 51: YouTube 缩略图 - 赛博朋克 2099 年肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3026,7 +3037,7 @@ GPT Image2，5k
 
 ---
 
-### No. 51: YouTube 缩略图 - 两位身着汉服的女子漫步于雾气缭绕的宫殿大厅
+### No. 52: YouTube 缩略图 - 两位身着汉服的女子漫步于雾气缭绕的宫殿大厅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3077,7 +3088,7 @@ GPT Image2，5k
 
 ---
 
-### No. 52: YouTube 缩略图 - 巨型警用机器人对决机械大猩猩
+### No. 53: YouTube 缩略图 - 巨型警用机器人对决机械大猩猩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3110,7 +3121,7 @@ GPT Image2，5k
 
 ---
 
-### No. 53: YouTube 缩略图 - 赛艇比赛场地中的女性
+### No. 54: YouTube 缩略图 - 赛艇比赛场地中的女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3143,7 +3154,7 @@ GPT Image2，5k
 
 ---
 
-### No. 54: YouTube 缩略图 - 巨型机器人执行救灾任务
+### No. 55: YouTube 缩略图 - 巨型机器人执行救灾任务
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3176,7 +3187,7 @@ GPT Image2，5k
 
 ---
 
-### No. 55: YouTube 缩略图 - 电影感金色 B Logo
+### No. 56: YouTube 缩略图 - 电影感金色 B Logo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3209,7 +3220,7 @@ GPT Image2，5k
 
 ---
 
-### No. 56: YouTube 缩略图 - 雨中东京的巨型 MPD 机器人
+### No. 57: YouTube 缩略图 - 雨中东京的巨型 MPD 机器人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3242,7 +3253,7 @@ GPT Image2，5k
 
 ---
 
-### No. 57: YouTube 缩略图 - 音乐科技类 YouTube 缩略图
+### No. 58: YouTube 缩略图 - 音乐科技类 YouTube 缩略图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3284,7 +3295,7 @@ GPT Image2，5k
 
 ---
 
-### No. 58: YouTube 缩略图 - 桥下的废弃道路
+### No. 59: YouTube 缩略图 - 桥下的废弃道路
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3317,7 +3328,7 @@ GPT Image2，5k
 
 ---
 
-### No. 59: YouTube 缩略图 - 铜绿青铜坐姿女性雕像
+### No. 60: YouTube 缩略图 - 铜绿青铜坐姿女性雕像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3362,7 +3373,7 @@ GPT Image2，5k
 
 ---
 
-### No. 60: YouTube 缩略图 - 东京巨型机器人警察
+### No. 61: YouTube 缩略图 - 东京巨型机器人警察
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3395,7 +3406,7 @@ GPT Image2，5k
 
 ---
 
-### No. 61: YouTube 缩略图 - 电影感火柴人像
+### No. 62: YouTube 缩略图 - 电影感火柴人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3428,7 +3439,7 @@ GPT Image2，5k
 
 ---
 
-### No. 62: YouTube 缩略图 - 巨型机器人指挥交通
+### No. 63: YouTube 缩略图 - 巨型机器人指挥交通
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3461,7 +3472,7 @@ GPT Image2，5k
 
 ---
 
-### No. 63: YouTube 缩略图 - 电影感炸鸡食品广告
+### No. 64: YouTube 缩略图 - 电影感炸鸡食品广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3504,7 +3515,7 @@ GOLDEN CRUNCH | 终极美食影院。
 
 ---
 
-### No. 64: YouTube 缩略图 - 浴火重生的战斗修女
+### No. 65: YouTube 缩略图 - 浴火重生的战斗修女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3537,7 +3548,7 @@ GOLDEN CRUNCH | 终极美食影院。
 
 ---
 
-### No. 65: YouTube 缩略图 - 荷鲁斯之乱最终决斗
+### No. 66: YouTube 缩略图 - 荷鲁斯之乱最终决斗
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3570,7 +3581,7 @@ GOLDEN CRUNCH | 终极美食影院。
 
 ---
 
-### No. 66: YouTube 缩略图 - Lady Death 大战恶魔
+### No. 67: YouTube 缩略图 - Lady Death 大战恶魔
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3603,18 +3614,29 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 67: YouTube 缩略图 - 宇宙日落下的山峰剪影
+### No. 68: 漫画 / 故事板 - 海边电话亭漫画页面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-生成一张戏剧性的图像，展示一个人物的剪影映衬在昼夜交界的弯曲行星地平线上。
+一幅三格复古风格漫画，描绘了一名女孩在海滩上发现一座神奇电话亭的故事。这座电话亭允许人们通过交换记忆来拨打过去的电话。
 
 #### 📝 提示词
 
 ```
-一幅宏伟而超现实的风景画，前景中一个孤独的人影站在崎岖的岩石峰顶。人物高举一只手臂，胜利地伸向天空。在他们上方，地平线如行星边缘般剧烈弯曲，将下方的云海与上方壮丽的天空分隔开来。天空分为两个截然不同的区域：上部是深蓝色的星空，点缀着旋转的星云和星座；下部则闪烁着强烈的金橙色日落光芒，形成炽热的对比。在弯曲的地平线下方，层层蓬松的白色和灰色云朵漂浮在远处的山脉之间，被夕阳的温暖光辉照亮。整体氛围令人敬畏、具有电影感且充满奇幻色彩，融合了太空探索的元素与大地的自然之美。
+目标：创作一张竖版漫画风格页面，包含三个分镜，描绘海边电话亭旁充满忧郁氛围的场景。
+
+画布：竖版比例（约 2:3），白色背景搭配黑色分镜边框。画风采用复古日式漫画风格，运用网点纸表现阴影与质感，整体色调柔和，以米色、灰蓝色和棕褐色为主。
+
+布局与分镜：
+1. 上方分镜（宽幅）：夕阳下沙滩的全景镜头。画面中央矗立着一座老式木制电话亭。右侧，一名身穿深色水手校服的少女背对观者而立，眺望着大海。太阳正从地平线落下，在水面投下倒影。少女的对话气泡中写着：“こんな電話ボックスあったっけ”（以前有这样一个电话亭吗？）。
+
+2. 左下方分镜（特写）：同一位少女面朝右侧的侧脸特写。她留着凌乱的深色短发，大大的眼睛里噙满泪水，神情中透着眷恋与哀伤。她将一枚粉色小贝壳紧紧攥在胸前。对话气泡中写着：“記憶が消えるのか…”（记忆会消失吗……？）。
+
+3. 右下方分镜（内部/细节）：木制电话亭的内部视角。一台复古的黑色拨盘电话放在置物板上，上方钉着一块告示板。告示板上用日文手写着电话的使用规则，内容为：“ここからは過去に電話ができます。通話の代償はひとつの記憶。※お相手との記憶からいただきます”（从这里可以打给过去。通话的代价是一段记忆。※将从你与对方的共同记忆中收取。）。
+
+视觉风格：使用清晰分明的半调网点图案来表现阴影与天空纹理。线条细腻且富有表现力。整体氛围静谧、怀旧，并带有一丝超自然的神秘感。
 ```
 
 #### 🖼️ 生成图片
@@ -3622,68 +3644,47 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791964324789_mkz4wa_HUglwv-bMAAe8xe.jpg" width="600" alt="YouTube 缩略图 - 宇宙日落下的山峰剪影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1794815782897_ubqq54_HXOpZRsa8AAvkIZ.jpg" width="600" alt="漫画 / 故事板 - 海边电话亭漫画页面 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791964324686_1kcuz7_HUglxZEaIAAhWxz.jpg" width="600" alt="YouTube 缩略图 - 宇宙日落下的山峰剪影 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1794815782918_cjcmq9_HXOpdr8asAA2ljP.jpg" width="600" alt="漫画 / 故事板 - 海边电话亭漫画页面 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791964324724_xsl39a_HUglykGaUAA6hCy.jpg" width="600" alt="YouTube 缩略图 - 宇宙日落下的山峰剪影 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1794815784600_krk613_HXOpe8qbUAA8KGE.jpg" width="600" alt="漫画 / 故事板 - 海边电话亭漫画页面 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791964325938_k5q5x5_HUglzUlaAAE8i79.jpg" width="600" alt="YouTube 缩略图 - 宇宙日落下的山峰剪影 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1794815783727_cq6puc_HXOpgIEaAAIjWvy.jpg" width="600" alt="漫画 / 故事板 - 海边电话亭漫画页面 - Image 4">
 </div>
 
-#### 📌 详情
-
-- **作者:** [Zephyra Leigh](https://x.com/ZephyraLeigh)
-- **来源:** [Twitter Post](https://x.com/ZephyraLeigh/status/2109978002293682440#reversed-0)
-- **发布时间:** 2026年10月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=36411)**
-
----
-
-### No. 68: YouTube 缩略图 - 中世纪战场上的写实动漫战士
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个用于生成写实图像的提示词，描绘了一名身穿改良校服的少女在燃烧的中世纪村庄中与僵尸战斗的场景。
-
-#### 📝 提示词
-
-```
-一张超写实、电影感的动作镜头，展示了一位年轻日本女战士身处混乱的中世纪战场之中。她留着黑色长发，用两个金色发夹束起，身穿深蓝色水手服风格的改良校服（seifuku），肩部和手臂配有厚重的皮革护甲加固。她的脸上沾满烟灰和血迹，神情激烈而坚定，正向前突进。前景中，模糊的类僵尸生物正在发起攻击。背景描绘了一个燃烧的村庄，木质建筑倒塌，浓烟升腾至天空，其他士兵也在混乱中激战。光线戏剧化且粗粝，强调了场景的真实感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
+##### Image 5
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791618683445_lkci2g_HUMcJy0bYAANzb-.jpg" width="600" alt="YouTube 缩略图 - 中世纪战场上的写实动漫战士 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1794815783813_3pp1ch_HXOphhVa8AAaXpz.jpg" width="600" alt="漫画 / 故事板 - 海边电话亭漫画页面 - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794815784929_itqcxv_HXOpjDza0AANipi.jpg" width="600" alt="漫画 / 故事板 - 海边电话亭漫画页面 - Image 6">
 </div>
 
 #### 📌 详情
 
-- **作者:** [レティシア・ノエル](https://x.com/N7S6P1)
-- **来源:** [Twitter Post](https://x.com/N7S6P1/status/2108560011643514935#reversed-0)
-- **发布时间:** 2026年10月9日
+- **作者:** [tane@AI](https://x.com/gin1910410)
+- **来源:** [Twitter Post](https://x.com/gin1910410/status/2122226478884819380#reversed-0)
+- **发布时间:** 2026年11月16日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=36227)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=37523)**
 
 ---
 
@@ -4370,62 +4371,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 84: 漫画 / 故事板 - Opus 5.5 vs Wife GPT 漫画条
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一幅幽默的三格漫画风格作品，描绘了用户在新款“Opus 5.5”AI模型与现有的“Wife GPT”之间的两难选择，将其比喻为一场婚外情。
-
-#### 📝 提示词
-
-```
-目标：创作一幅垂直布局的三格动漫风格漫画条，标题为《体验 Opus 5.5 后的感想》。
-
-画布：采用垂直布局，三个独立的画面上下堆叠排列。
-
-第 1 格（顶部）：
-- 主体：一名留着凌乱黑发、眼中闪烁着星星的年轻男子，正兴奋地注视着一位长发橙色头发、穿着向日葵主题连衣裙的开朗女孩。
-- 对话气泡（男子）：“体验过 Opus 5.5 之后……哇……太迷人了……！！”
-- 信息框（右侧）：一个黄色的装饰性方框，标签为“Claude:”，内含文字“年轻又聪明，让生活充满色彩！”。
-- 背景：明亮阳光下的向日葵花田。
-
-第 2 格（中间）：
-- 主体：同一名男子现在双手捂脸，紧张地出汗。他身旁站着一位优雅的白色长发女性，长着角，表情冷漠。
-- 对话气泡（男子）：“糟了，这感觉像是在出轨……失去了新婚时的激情……”
-- 信息框（左侧）：一个紫色的装饰性方框，标签为“Wife GPT:”，内含文字“依然美丽优雅，但有点冷淡。”。
-- 背景：较暗的室内场景，配有蓝色窗帘。
-
-第 3 格（底部）：
-- 主体：火车站台场景。男子躲在柱子后偷看，脸颊泛红，旁边是那位橙发女孩（Claude）。在背景中，白发女子（Wife GPT）站在远处的一列火车旁注视着他们。
-- 指示牌：上方悬挂的蓝色标牌写着“换乘站 ->”。
-- 对话气泡（左侧）：“家里规矩严，只能在换乘站偷偷见面！小声点……”
-- 对话气泡（右侧）：“我都知道……静静地看着。”
-
-视觉风格：干净的数字插画，第一格色彩鲜艳，第二格色调柔和，第三格采用写实光影效果。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791187635773_9v9prg_HT2WLD7asAAE4Bx.jpg" width="600" alt="漫画 / 故事板 - Opus 5.5 vs Wife GPT 漫画条 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [John PJ](https://x.com/John_W_PJ)
-- **来源:** [Twitter Post](https://x.com/John_W_PJ/status/2107005329494122628#reversed-0)
-- **发布时间:** 2026年10月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=35983)**
-
----
-
-### No. 85: 产品营销 - 经典咖啡馆约会穿搭提示词
+### No. 84: 产品营销 - 经典咖啡馆约会穿搭提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4475,7 +4421,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 86: 产品营销 - 超写实时尚摄影提示词
+### No. 85: 产品营销 - 超写实时尚摄影提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4508,7 +4454,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 87: 产品营销 - 优雅白色时尚人像与软呢帽
+### No. 86: 产品营销 - 优雅白色时尚人像与软呢帽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4541,7 +4487,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 88: 产品营销 - GPT Image 未来感礼服都市人像
+### No. 87: 产品营销 - GPT Image 未来感礼服都市人像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4578,7 +4524,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 89: 产品营销 - 超写实联系表提示词
+### No. 88: 产品营销 - 超写实联系表提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4617,7 +4563,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 90: 产品营销 - 橄榄绿蜡帆布卷顶背包
+### No. 89: 产品营销 - 橄榄绿蜡帆布卷顶背包
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4656,7 +4602,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 91: 产品营销 - 休闲咖啡馆时尚人像提示词
+### No. 90: 产品营销 - 休闲咖啡馆时尚人像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4691,7 +4637,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 92: 产品营销 - GPT Image 2 波普艺术编辑风格提示词
+### No. 91: 产品营销 - GPT Image 2 波普艺术编辑风格提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4740,7 +4686,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 93: 产品营销 - 3D 设计师玩具女孩肖像
+### No. 92: 产品营销 - 3D 设计师玩具女孩肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4791,7 +4737,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 94: 产品营销 - 六款杂志封面
+### No. 93: 产品营销 - 六款杂志封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4834,7 +4780,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 95: 产品营销 - 秋叶原的 Suica 企鹅
+### No. 94: 产品营销 - 秋叶原的 Suica 企鹅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4867,7 +4813,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 96: 产品营销 - GPT Image 2 超现实时尚与奇幻提示词
+### No. 95: 产品营销 - GPT Image 2 超现实时尚与奇幻提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4908,7 +4854,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 97: 产品营销 - 戏剧性灯光下的电影感人像
+### No. 96: 产品营销 - 戏剧性灯光下的电影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4945,7 +4891,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 98: 产品营销 - 万圣节僵尸女孩服装提示词
+### No. 97: 产品营销 - 万圣节僵尸女孩服装提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4991,7 +4937,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 99: 电商主图 - GPT Image 2 秋季浪漫约会穿搭提示词
+### No. 98: 电商主图 - GPT Image 2 秋季浪漫约会穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5038,7 +4984,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 100: 电商主图 - 特定着装下的写实傍晚散步人像
+### No. 99: 电商主图 - 特定着装下的写实傍晚散步人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5073,7 +5019,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 101: 电商主图 - 动漫秋日约会穿搭提示词
+### No. 100: 电商主图 - 动漫秋日约会穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5118,7 +5064,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 102: 电商主图 - 复古红黑穿搭提示词
+### No. 101: 电商主图 - 复古红黑穿搭提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5164,7 +5110,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 103: 电商主图 - 秋季检查风格穿搭提示词
+### No. 102: 电商主图 - 秋季检查风格穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5203,7 +5149,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 104: 电商主图 - 单色优雅秋季穿搭
+### No. 103: 电商主图 - 单色优雅秋季穿搭
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5242,7 +5188,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 105: 电商主图 - GPT Image 2 可爱小熊卫衣穿搭提示词
+### No. 104: 电商主图 - GPT Image 2 可爱小熊卫衣穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5289,7 +5235,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 106: 电商主图 - 秋季街头风格穿搭提示词
+### No. 105: 电商主图 - 秋季街头风格穿搭提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5328,7 +5274,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 107: 电商主图 - 冷面角色产品摄影提示词
+### No. 106: 电商主图 - 冷面角色产品摄影提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5411,7 +5357,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 108: 电商主图 - 薄荷绿钩针毛衣穿搭提示词
+### No. 107: 电商主图 - 薄荷绿钩针毛衣穿搭提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5460,7 +5406,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 109: 电商主图 - GPT Image 法式休闲穿搭
+### No. 108: 电商主图 - GPT Image 法式休闲穿搭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5507,7 +5453,7 @@ Brian Pulido 创作的 Lady Death（Hope）斩杀数个长角恶魔和低阶魔�
 
 ---
 
-### No. 110: 电商主图 - GPT Image Perfume Bottle Prompt
+### No. 109: 电商主图 - GPT Image Perfume Bottle Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5540,7 +5486,7 @@ A detailed prompt for generating a realistic perfume bottle with a miniature mos
 
 ---
 
-### No. 111: 电商主图 - 带配料表的写实风备餐罐
+### No. 110: 电商主图 - 带配料表的写实风备餐罐
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5591,7 +5537,7 @@ Cucumber”
 
 ---
 
-### No. 112: 电商主图 - 哑光黑 B.AI 键盘键帽
+### No. 111: 电商主图 - 哑光黑 B.AI 键盘键帽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5624,7 +5570,7 @@ Cucumber”
 
 ---
 
-### No. 113: 电商主图 - LEGO 人仔变身
+### No. 112: 电商主图 - LEGO 人仔变身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5712,7 +5658,7 @@ Sta
 
 ---
 
-### No. 114: 游戏素材 - 带有微缩自我的电影感奇幻肖像
+### No. 113: 游戏素材 - 带有微缩自我的电影感奇幻肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5755,7 +5701,7 @@ Sta
 
 ---
 
-### No. 115: 游戏素材 - 东京健身房外的万圣节机器人
+### No. 114: 游戏素材 - 东京健身房外的万圣节机器人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5790,7 +5736,7 @@ Sta
 
 ---
 
-### No. 116: 游戏素材 - 电影感夜市女剑客
+### No. 115: 游戏素材 - 电影感夜市女剑客
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5839,7 +5785,7 @@ Sta
 
 ---
 
-### No. 117: 游戏素材 - 樱花与纹理素材表
+### No. 116: 游戏素材 - 樱花与纹理素材表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5886,7 +5832,7 @@ Section 07（右下）：六个灰度渐变蒙版，标注为 'mask_diagonal.png
 
 ---
 
-### No. 118: 游戏素材 - 动漫冒险者角色设定图
+### No. 117: 游戏素材 - 动漫冒险者角色设定图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5919,7 +5865,7 @@ Section 07（右下）：六个灰度渐变蒙版，标注为 'mask_diagonal.png
 
 ---
 
-### No. 119: 游戏素材 - 黑猫万圣节连衣裙动漫少女
+### No. 118: 游戏素材 - 黑猫万圣节连衣裙动漫少女
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5965,7 +5911,7 @@ Section 07（右下）：六个灰度渐变蒙版，标注为 'mask_diagonal.png
 
 ---
 
-### No. 120: 游戏素材 - 万圣节恶魔裙角色
+### No. 119: 游戏素材 - 万圣节恶魔裙角色
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6007,13 +5953,59 @@ Section 07（右下）：六个灰度渐变蒙版，标注为 'mask_diagonal.png
 
 ---
 
+### No. 120: 游戏素材 - 万圣节狼装女孩
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 描述
+
+用于生成身穿万圣节狼主题连衣裙的女孩的详细提示词，包含毛皮饰边和獠牙配饰。
+
+#### 📝 提示词
+
+```
+一个穿着万圣节狼主题连衣裙的女孩。
+这套服装是一件深藏青色的露肩迷你裙。领口、袖口和裙摆处饰有厚实的灰色毛边。
+裙身上印着巨大的白色狼牙和狼爪图案。
+腰间系着一根细黑丝带，末端挂着一个狼牙形状的吊坠。
+肩上披着一件短款毛皮斗篷。
+头上没有戴耳朵发饰。头发上别着小狼牙发夹。
+整体配色为藏青色、灰色、白色和夜蓝色。
+全身可见，毛边装饰与狼牙图案清晰呈现。脸上带着一抹略带野性的微笑。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792741901130_frljwu_HVJziWabYAEfSvJ.jpg" width="600" alt="游戏素材 - 万圣节狼装女孩 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792741901322_7x9kdp_HVJzj3nagAAapWL.jpg" width="600" alt="游戏素材 - 万圣节狼装女孩 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **来源:** [Twitter Post](https://x.com/ArtistaNozomu/status/2113104555592601792)
+- **发布时间:** 2026年10月22日
+- **多语言:** ja
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=36758)**
+
+---
+
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 17990 更多提示词未在此显示
+### 🎯 17996 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6076,6 +6068,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-15T18:07:48.243Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-16T21:23:30.772Z</sub>
 
 </div>
