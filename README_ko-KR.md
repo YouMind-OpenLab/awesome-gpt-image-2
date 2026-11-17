@@ -139,9 +139,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **18116** |
+| 📝 총 프롬프트 수 | **18120** |
 | ⭐ 추천 | **6** |
-| 🔄 마지막 업데이트 | **2026년 11월 17일 화요일 AM 5시 36분 8초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 17일 화요일 PM 8시 11분 28초 UTC** |
 
 </div>
 
@@ -525,7 +525,47 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### No. 1: 프로필 / 아바타 - GPT Image 2 프롬프트: 사진을 3D 토이 커플로 변환하기
+### No. 1: 프로필 / 아바타 - GPT Image 2용 겨울 스크랩북 콜라주 초상화 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+보라색 머리에 편안한 스트리트웨어를 입고 버블티를 든 여성 캐릭터의 초현실적인 겨울 스크랩북 콜라주 초상화를 생성하기 위한 GPT Image 2 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참고 이미지에 등장하는 동일한 젊은 성인 여성 캐릭터의 초현실적인 전신 겨울 스크랩북 콜라주 초상화를 제작해 주세요. 턱선까지 내려오는 시그니처 선명한 바이올렛 퍼플 일자 단발머리와 자연스러운 앞머리, 맑은 도자기 피부, 코와 뺨에 자연스럽게 흩어진 주근깨, 헤이즐/연한 갈색 아몬드형 눈망울, 섬세한 이목구비, 촉촉하고 윤기 나는 입술, 그리고 슬림한 체형을 그대로 살려야 합니다.
+
+캐릭터는 골판지 상자 위에 옆으로 걸터앉아 편안하고 아늑한 자세를 취하고 있습니다. 왼손에는 휘핑크림을 듬뿍 올린 핑크색 딸기 아이스 버블티를 들고 있고, 오른팔로는 미소 짓는 귀여운 딸기 인형을 꼭 안고 있습니다. 옷차림은 따뜻한 크림색 니트 터틀넥 스웨터 위에, 알록달록한 플라워, 깅엄체크, 폴카닷, 딸기 패턴 패치워크로 장식된 오버사이즈 연청 데님 재킷을 걸쳤습니다. 여기에 같은 소재의 와이드 레그 패치워크 데님 팬츠와 두꺼운 화이트 플랫폼 스니커즈를 매치해 포근한 겨울 스트릿 패션 룩을 완성합니다.
+
+골판지 상자에는 하트 모양과 함께 손글씨로 "{argument name="box text" default="FRAGILE"}" 라는 문구가 적혀 있습니다. 배경은 구겨진 파란색 스크랩북 종이로 구성되며, 찢어진 노트 페이지, 손글씨 단어 "{argument name="background words" default="Winter", "Slow", "dream", and "Sweet"}", 레드 깅엄체크 마스킹 테이프, 클립, 딸기 스티커, 흰색 눈꽃 낙서, 그리고 빨간 니트 모자와 목도리를 두른 귀여운 눈사람으로 장식되어 있습니다. 마지막으로 손글씨 메시지 "{argument name="message" default="Stay Cozy"}" 를 추가해 주세요.
+
+부드럽게 퍼지는 겨울 스튜디오 조명, 차분한 파스텔 블루 톤, 따뜻하고 아늑한 디테일, 사실적인 피부 질감, 섬세하게 표현된 보랏빛 머리카락 결, 니트 원단의 짜임 텍스처, 영화 같은 심도, 은은한 그림자, 포토 리얼리스틱 퀄리티, 초정밀 8K 해상도를 적용하여 프리미엄 겨울 코티지코어 Y2K 스크랩북 패션 에디토리얼 느낌으로 연출해 주세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902292939_goxzzg_HXTQ8TVbkAEHSUJ.jpg" width="600" alt="프로필 / 아바타 - GPT Image 2용 겨울 스크랩북 콜라주 초상화 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **출처:** [Twitter Post](https://x.com/Wareenaa/status/2122551075098284096)
+- **게시일:** 2026년 11월 17일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37534)**
+
+---
+
+### No. 2: 프로필 / 아바타 - GPT Image 2 프롬프트: 사진을 3D 토이 커플로 변환하기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -574,7 +614,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 ---
 
-### No. 2: 프로필 / 아바타 - GPT Image 2 멀티뷰 캐릭터 일관성 프롬프트
+### No. 3: 프로필 / 아바타 - GPT Image 2 멀티뷰 캐릭터 일관성 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -616,7 +656,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 3: 프로필 / 아바타 - 사슴 망토를 입은 가을 복장의 애니메이션 소녀
+### No. 4: 프로필 / 아바타 - 사슴 망토를 입은 가을 복장의 애니메이션 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -649,7 +689,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 4: 프로필 / 아바타 - 참고 이미지 기반 스타일리시한 오리 새끼 초상화
+### No. 5: 프로필 / 아바타 - 참고 이미지 기반 스타일리시한 오리 새끼 초상화
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -682,7 +722,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 5: 프로필 / 아바타 - 크림색 가디건을 입은 애니메이션 소녀
+### No. 6: 프로필 / 아바타 - 크림색 가디건을 입은 애니메이션 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -715,7 +755,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 6: 프로필 / 아바타 - GPT Image 2 프롬프트: 핑크 캐미솔을 입은 한국 스타일 침실 초상화
+### No. 7: 프로필 / 아바타 - GPT Image 2 프롬프트: 핑크 캐미솔을 입은 한국 스타일 침실 초상화
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -814,7 +854,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 7: 프로필 / 아바타 - GPT Image 2 프롬프트: 파란색 니트 상의를 입은 한국 스타일 여름 해변 초상화
+### No. 8: 프로필 / 아바타 - GPT Image 2 프롬프트: 파란색 니트 상의를 입은 한국 스타일 여름 해변 초상화
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -929,7 +969,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 8: 프로필 / 아바타 - 쇼와 레트로 초상화
+### No. 9: 프로필 / 아바타 - 쇼와 레트로 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -962,7 +1002,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 9: 프로필 / 아바타 - 침실 셀피 초상화 프롬프트
+### No. 10: 프로필 / 아바타 - 침실 셀피 초상화 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1061,7 +1101,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 10: 프로필 / 아바타 - 젊은 여성의 부드러운 클로즈업 초상화
+### No. 11: 프로필 / 아바타 - 젊은 여성의 부드러운 클로즈업 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1094,7 +1134,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 11: 프로필 / 아바타 - GPT Image 한국 스타일 초상화
+### No. 12: 프로필 / 아바타 - GPT Image 한국 스타일 초상화
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1166,7 +1206,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 12: 프로필 / 아바타 - GPT Image 거실 인물 사진
+### No. 13: 프로필 / 아바타 - GPT Image 거실 인물 사진
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1231,7 +1271,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 13: 프로필 / 아바타 - 신사에서 촬영한 쇼와 레트로 스타일 초상화
+### No. 14: 프로필 / 아바타 - 신사에서 촬영한 쇼와 레트로 스타일 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1264,7 +1304,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 14: 프로필 / 아바타 - 기발한 스크랩북 색연필 일러스트
+### No. 15: 프로필 / 아바타 - 기발한 스크랩북 색연필 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1391,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 15: 프로필 / 아바타 - 프릴 웨딩 드레스를 입은 애니메이션 신부
+### No. 16: 프로필 / 아바타 - 프릴 웨딩 드레스를 입은 애니메이션 신부
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1396,7 +1436,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 16: 프로필 / 아바타 - 레트로 할로윈 뱀파이어 소녀
+### No. 17: 프로필 / 아바타 - 레트로 할로윈 뱀파이어 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1429,7 +1469,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 17: 프로필 / 아바타 - 레트로 쇼와 할로윈 초상화
+### No. 18: 프로필 / 아바타 - 레트로 쇼와 할로윈 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1462,7 +1502,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 18: 프로필 / 아바타 - 레트로 미국 만화 스타일 이미지 변환
+### No. 19: 프로필 / 아바타 - 레트로 미국 만화 스타일 이미지 변환
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1509,7 +1549,7 @@ GPT Image 2를 사용하여 얼굴, 의상 및 포즈 깊이 맵의 참조 이�
 
 ---
 
-### No. 19: 프로필 / 아바타 - GPT Image 2 야간 거리 사진 프롬프트
+### No. 20: 프로필 / 아바타 - GPT Image 2 야간 거리 사진 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1622,20 +1662,98 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 20: 프로필 / 아바타 - 쇼와 레트로 핑크 주방 초상화
+### No. 21: 소셜 미디어 게시물 - 한국풍 패션 인물 사진 프롬프트
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 설명
 
-레드 징거무 원피스를 입은 소녀가 빈티지한 핑크색 주방에 있는, 향수를 불러일으키는 1980년대 스타일의 초상화를 생성합니다.
+현대적인 아파트 배경에서 특정 조명과 의상 디테일을 갖춘 동아시아 여성의 사실적이고 하이패션한 인물 사진을 생성하기 위한 상세 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-향수 어린 쇼와 레트로 감성의 세로 3:4 인물 사진으로, 빈티지한 핑크색 주방 한가운데에 서 있는 젊은 동아시아 여성의 모습을 담고 있습니다. 앞머리가 있는 짧은 흑발에 얇은 빨간 머리띠를 두르고 있으며, 무표정하면서도 살짝 우울해 보이는 얼굴로 카메라를 정면으로 응시하고 있습니다. 스파게티 스트랩이 달린 빨간색과 흰색 깅엄(체크) 패턴의 선드레스를 입고 있으며, 스퀘어 넥라인을 따라 흰색 레이스 장식이 둘러져 있고 스커트 부분에는 흰색 레이스 디테일이 가로로 두 단 겹쳐져 있습니다. 드레스 길이는 종아리 중간까지 내려옵니다. 흰색 발목 양말을 신고 있으며, 베이지색과 붉은 갈색 타일이 번갈아 깔린 체크무늬 바닥 위에 서 있습니다.
+【전체 스타일】
 
-배경은 빛바랜 핑크색 캐비닛이 주를 이루는, 어딘가 어수선하면서도 따뜻한 톤의 주방입니다. 왼쪽에는 크림색 주전자와 꽃무늬 냄비가 놓인 빈티지 스토브가 있고, 그 위로는 빨간 체크무늬 천과 장식용 접시가 걸려 있습니다. 오른쪽 카운터 위에는 흰색 받침대 위에 놓인 딸기 쇼트케이크와 빨간 사과가 가득 담긴 유리 볼이 자리하고 있습니다. 핑크색 테두리의 거울에는 방 안의 일부가 비치고 있습니다. 조명은 1980년대 실내 플래시 촬영 특유의 부드럽고 확산된 느낌으로, 약간 색이 바랜 듯한 거친 필름 질감을 만들어내며 짙은 향수를 자아냅니다.
+3:4 세로 비율, 단일 독립 프레임, 초현실적인 한국 스타일 성인 여성 하이패션 인물 사진, 시크하고 우아한 성숙한 분위기, 현대식 고층 아파트의 통유리 창, 크림 화이트와 쿨 그레이 톤, 부드러운 자연 채광, 실제 카메라 촬영 질감.
+
+【얼굴 특징】
+
+23 세에서 25 세 사이의 아름다운 동양인 성인 여성, 섬세하고 작은 타원형 얼굴, 부드럽고 매끄러운 턱선, 작고 둥근 턱, 맑고 투명한 백옥 피부, 은은한 로즈 핑크 블러셔.
+
+다크 그레이 브라운 아몬드 눈매, 자연스러운 쌍꺼풀, 길게 말린 속눈썹, 연한 핑크 브라운 아이섀도, 살짝 올라간 부드러운 아이라인.
+
+가늘고 곧은 콧대, 작고 자연스러운 코끝, 부드럽고 도톰한 로즈 빈티지 핑크 입술에 자연스러운 촉촉한 광택.
+
+고개를 살짝 옆으로 돌린 자세, 화면 왼쪽 창밖을 바라보는 시선, 차분하고 시크하며 우아한 표정, 실제 피부의 미세한 질감 유지.
+
+【헤어스타일 - 핵심】
+
+풍성하고 볼륨감 있는 다크 블랙티 컬러 허리 기장 롱헤어, 자연스러운 딥 초콜릿 브라운 윤기.
+
+자연스럽게 볼륨감이 살아있는 정수리, 사이드 파트 헤어스타일, 이마 앞으로 자연스럽게 내려온 몇 가닥의 얇은 잔머리.
+
+양쪽 긴 머리카락은 부드럽고 느슨한 큰 웨이브를 이루며, 일부는 가슴 위로 흘러내리고 나머지는 등을 따라 자연스럽게 늘어짐.
+
+실제 한 올 한 올의 머리카락 결, 자연스러운 볼륨감과 부드러운 딥 브라운 하이라이트 유지.
+
+【의상 및 액세서리】
+
+크림 화이트, 라이트 아이보리 실크 새틴 얇은 스트랩 롱 드레스 착용.
+
+얇은 스트랩, 네크라인은 부드럽게 떨어지는 내추럴 드레이프 카울넥 디자인으로 가슴 부분에 은은한 실크 주름 형성.
+
+스커트 라인은 슬림하지만 자연스럽게 떨어지며, 허리는 살짝 들어가고 밑단은 무릎 아래까지 이어짐.
+
+실크 원단의 부드러운 진주빛 화이트 광택, 자연스러운 드레이프와 사실적인 미세 주름.
+
+작은 화이트 진주 귀걸이, 극도로 얇은 실버 클라비클 체인, 정교한 실버 팔찌 착용.
+
+【포즈 - 핵심】
+
+인물은 고층 아파트의 대형 통유리 창 옆에 서 있으며, 몸은 카메라를 향해 약 30~45 도 정도 돌아선 자세.
+
+허리를 살짝 옆으로 틀고, 상체는 자연스럽게 곧게 편 상태, 어깨의 힘을 뺀 편안한 포즈.
+
+화면 왼쪽 팔은 자연스럽게 바깥쪽으로 뻗어 손바닥을 가로 창틀 위에 가볍게 얹고 손가락은 쭉 편 모습.
+
+다른 한 손은 자연스럽게 구부려 허리와 복부 근처에 가볍게 올려둠.
+
+고개는 화면 왼쪽으로 돌리고 턱은 살짝 당긴 채, 시선은 창밖 멀리 있는 도시 건물들을 향함.
+
+긴 머리카락은 어깨와 등을 따라 자연스럽게 흘러내리며, 전체적인 자세는 우아하고 편안하여 현실에서 창가에 기대 쉬는 듯한 느낌 연출.
+
+【배경 환경】
+
+현대식 고층 아파트 실내, 넓은 면적의 통유리 창, 다크 그레이 메탈 창틀, 라이트 그레이 화이트 벽면.
+
+창밖으로는 빽빽하게 늘어선 현대식 도심 고층 주거 건물과 유리 구조물.
+
+화면 왼쪽에는 가까운 거리에 있는 라이트 그레이 화이트 주거 건물이 보이며, 창문, 발코니, 건축 구조가 선명함.
+
+화면 오른쪽 먼 곳에는 그레이 블루 안개 속에 솟은 고층 빌딩 스카이라인이 펼쳐져 있으며, 도시 풍경은 자연스러운 공간적 깊이감을 지님.
+
+창가에는 밝은 색 커튼이 걸려 있고, 전체적인 인테리어는 깔끔하고 차분하며 미니멀함.
+
+【렌즈 및 조명】
+
+3:4 세로 비율, 35-50mm 인물용 렌즈 상당, 눈높이 앵글, 인물은 프레임 중앙에서 약간 오른쪽에 위치.
+
+미디엄 숏 구도로 머리, 상체, 손, 허벅지 부근까지의 드레스를 담아냄.
+
+화면 왼쪽 대형 창문을 통해 부드러운 흐린 날의 자연광이 들어와 인물의 얼굴, 어깨, 쇄골, 실크 롱 드레스를 고르게 비춤.
+
+피부는 자연스럽게 쿨 화이트 톤으로 표현되며 부드러운 그림자 유지.
+
+딥 블랙티 컬러 롱헤어에는 섬세하고 자연스러운 반사광이 나타나고, 크림 화이트 실크 드레스는 부드러운 실버 화이트 하이라이트와 사실적인 원단 주름을 보여줌.
+
+창밖 건물들은 안개의 영향을 약간 받아 저대비 쿨 그레이 톤으로 보이지만, 여전히 선명한 건물 구조를 유지.
+
+전체적으로 저채도 크림 화이트와 라이트 그레이 블루 톤 사용, 부드럽고 자연스러운 노출, 약간의 광학적 소프트 포커스 효과, 실제 사진의 피사계 심도와 섬세한 카메라 그레인 유지.
+
+【네거티브 프롬프트】
+
+애니메이션, 일러스트, 3D 렌더링, CG 합성 얼굴, 플라스틱 피부, 과도한 보정(스무딩), 과장된 인플루언서 외모, 비정상적으로 큰 눈, 지나치게 뾰족한 턱, 어색한 이목구비 배치, 가발, 엉킨 머리카락, 부자연스럽게 뻣뻣한 컬, 여분의 손가락, 변형된 손바닥, 어깨 탈구, 비정상적인 신체 비율, 플라스틱처럼 보이는 실크 원단, 옷 겹침 오류(클리핑), 창틀 원근법 오류, 건축 구조 왜곡, 도시 배경의 과도한 블러, 심각한 과노출, 강한 HDR, 과도한 샤픈, 티 나는 AI 느낌, 텍스트, 워터마크, LOGO, 콜라주.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -1643,21 +1761,60 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793432468175_lyk3b7_HV369IobQAAJCuL.jpg" width="600" alt="프로필 / 아바타 - 쇼와 레트로 핑크 주방 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1794902291801_h6bdio_HXTuTKrbcAMtRaR.jpg" width="600" alt="소셜 미디어 게시물 - 한국풍 패션 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **출처:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2116123333469073536#reversed-0)
-- **게시일:** 2026년 10월 30일
-- **언어:** en
+- **작성자:** [沧瑶](https://x.com/CryY666666)
+- **출처:** [Twitter Post](https://x.com/CryY666666/status/2122583417875521552)
+- **게시일:** 2026년 11월 17일
+- **언어:** zh
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37118)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37533)**
 
 ---
 
-### No. 21: 소셜 미디어 게시물 - 로봇 경찰 부대
+### No. 22: 소셜 미디어 게시물 - 천사와 악마와 함께 쇼핑하는 여성
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+신발 가게 세일 근처에서 구매 여부를 놓고 논쟁을 벌이는 미니 천사와 악마 버전의 자신과 함께 스마트폰을 확인하는 여성의 사실적인 사진.
+
+#### 📝 프롬프트
+
+```
+쇼핑몰에 서서 복잡한 표정으로 스마트폰을 내려다보고 있는 젊은 아시아 여성의 미디엄 샷, 실사 같은 사진. 머리카락은 짙은 색으로, 헝클어진 하이 번 스타일로 묶었으며 그 위에 뿔테 선글라스가 얹혀 있다. 올리브 그린 컬러의 리브드 카디건을 단추 끝까지 잠그고 입었고, 와이드한 브라운 레더 벨트를 매치한 브라운 코듀로이 팬츠를 착용했다. 목에는 초록색 하트 펜던트가 달린 골드 체인 네크리스를 걸고 있으며, 브라운 크로스백이 허리춤에 걸쳐져 있다.
+
+오른쪽 어깨(보는 사람 기준 왼쪽) 위에는 그녀의 미니 '악마' 버전이 앉아 있다. 블랙 탱크톱과 광택이 나는 블랙 레더 팬츠, 레드 플랫폼 슈즈를 신고 작은 붉은 뿔과 박쥐 날개, 악마 꼬리를 달고 있다. 이 미니 악마는 그녀의 귀에 무언가를 속삭이고 있다.
+
+왼쪽(보는 사람 기준 오른쪽)에는 그녀의 미니 '천사' 버전이 공중에 떠 있다. 하늘하늘한 화이트 드레스와 커다란 흰 깃털 날개를 두르고 빛나는 황금빛 헤일로를 쓰고 있다. 천사는 걱정스러운 표정을 지으며 매장 쇼윈도를 가리키고 있다.
+
+배경은 밝은 조명이 켜진 쇼핑몰 풍경이 블러 처리되어 있다. 보는 사람 기준 오른쪽에는 신발 매장 쇼윈도가 있고, 그 안의 화이트 받침대 위에는 윤기가 흐르는 레드 하이힐 두 켤레가 놓여 있다. 쇼윈도에는 "70% OFF"라고 적힌 커다란 레드 사인이 걸려 있다. 좌측 상단 배경에는 "BLACK FRIDAY"라고 쓰인 블랙 사인과 "SALE"이라고 적힌 세로형 레드 배너가 보인다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902293086_59o58e_HXQ_RmvXYAArEnu.jpg" width="600" alt="소셜 미디어 게시물 - 천사와 악마와 함께 쇼핑하는 여성 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [medsinform](https://x.com/meds76_)
+- **출처:** [Twitter Post](https://x.com/meds76_/status/2122391218101367207#reversed-0)
+- **게시일:** 2026년 11월 16일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37535)**
+
+---
+
+### No. 23: 소셜 미디어 게시물 - 로봇 경찰 부대
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1690,7 +1847,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 22: 소셜 미디어 게시물 - 레트로 사진: 말 타는 여성
+### No. 24: 소셜 미디어 게시물 - 레트로 사진: 말 타는 여성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1723,7 +1880,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 23: 소셜 미디어 게시물 - Doodle Interaction Prompt를 활용한 Real Photo
+### No. 25: 소셜 미디어 게시물 - Doodle Interaction Prompt를 활용한 Real Photo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1780,7 +1937,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 24: 소셜 미디어 게시물 - 선글라스를 쓴 여성의 세로형 포스터 콜라주
+### No. 26: 소셜 미디어 게시물 - 선글라스를 쓴 여성의 세로형 포스터 콜라주
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1813,7 +1970,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 25: 소셜 미디어 게시물 - 비 오는 날 럭셔리 스트릿 패션 사진
+### No. 27: 소셜 미디어 게시물 - 비 오는 날 럭셔리 스트릿 패션 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1870,7 +2027,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 26: 소셜 미디어 게시물 - 와디 럼 사막 여행 인물 사진
+### No. 28: 소셜 미디어 게시물 - 와디 럼 사막 여행 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1903,7 +2060,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 27: 소셜 미디어 게시물 - 차를 씻는 여성
+### No. 29: 소셜 미디어 게시물 - 차를 씻는 여성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1936,7 +2093,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 28: 소셜 미디어 게시물 - 빈티지 사진: 일본 사원의 여성
+### No. 30: 소셜 미디어 게시물 - 빈티지 사진: 일본 사원의 여성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1969,7 +2126,7 @@ iPhone 플래시 촬영 스타일의 야간 거리 초상화 프롬프트로, �
 
 ---
 
-### No. 29: 소셜 미디어 게시물 - 호빗과 마법사가 있는 판타지 사막 카페
+### No. 31: 소셜 미디어 게시물 - 호빗과 마법사가 있는 판타지 사막 카페
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2022,7 +2179,7 @@ GPT Image2, 5k
 
 ---
 
-### No. 30: 소셜 미디어 게시물 - 마린 웨이브 드레스 애니메이션 소녀
+### No. 32: 소셜 미디어 게시물 - 마린 웨이브 드레스 애니메이션 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2061,7 +2218,7 @@ GPT Image2, 5k
 
 ---
 
-### No. 31: 소셜 미디어 게시물 - 수채화 및 색연필 아동용 그림책 일러스트 템플릿
+### No. 33: 소셜 미디어 게시물 - 수채화 및 색연필 아동용 그림책 일러스트 템플릿
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2121,63 +2278,7 @@ GPT Image를 사용하여 수채화 및 색연필 스타일의 아동용 그림�
 
 ---
 
-### No. 32: 소셜 미디어 게시물 - 사진에서 만드는 애니메이션 에디토리얼 포스터
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-참고 사진을 특정 구도와 스타일링 지침에 따라 프리미엄 애니메이션풍 에디토리얼 포스터로 변환하기 위한 gpt-image-2용 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-참고 사진의 인물이 가진 정확한 이목구비, 헤어스타일, 포즈, 선글라스, 진주 귀걸이, 레드 퍼퍼 재킷을 그대로 유지하면서, 프리미엄 스타일의 애니메이션 감성 에디토리얼 포스터로 변환해 주세요.
-
-눈부시게 아름다운 2 단 세로 구성으로 제작합니다:
-
-상단 패널: 맑은 파란 하늘을 배경으로 한 여성의 포토 리얼리스틱 초상화, 따뜻한 골든 아워 햇살, 머리카락을 자연스럽게 스치는 바람, 생동감 넘치는 오렌지 틴트 선글라스, 사실적인 피부 질감, 시네마틱 사진 연출.
-
-하단 패널: 동일한 여성을 고도로 정교한 애니메이션과 코믹북이 결합된 일러스트로 재해석합니다. 얼굴 특징, 표정, 헤어스타일, 의상, 액세서리, 포즈를 그대로 살려주세요. 강렬한 오렌지 림 라이팅, 표현력豊かな 섬세한 라인워크, 풍부한 색감, 프리미엄 그래픽 노블 스타일의 음영을 적용합니다.
-
-포스터 디자인:
-
-* 비비드한 오렌지 포인트가 더해진 다크 차콜 배경.
-* “URBAN GLOW” 라는 문구가 적힌 크고 굵은 이탤릭 타이포그래피.
-* 작은 서브타이틀: “CITY VIBES IN COLOR”.
-* 역동적인 대각선 오렌지 그래픽 및 기하학적 요소.
-* 모던 스트릿웨어 에디토리얼 감성.
-* 높은 대비감, 프리미엄 매거진 커버 디자인.
-
-중요: 일러스트 속 얼굴이 원본 사진과 최대한 일치하도록 유지해 주세요. 인물의 정체성, 얼굴 비율, 고유한 특징을 임의로 변경하지 마세요. 초정밀 디테일, 4K, 프로페셔널 포스터 디자인, 세로 3:4 비율 구성.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="소셜 미디어 게시물 - 사진에서 만드는 애니메이션 에디토리얼 포스터 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="소셜 미디어 게시물 - 사진에서 만드는 애니메이션 에디토리얼 포스터 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Harry AI](https://x.com/Tech_Harry1)
-- **출처:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
-- **게시일:** 2026년 11월 7일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37409)**
-
----
-
-### No. 33: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 미니멀리즘 미학 프롬프트
+### No. 34: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 미니멀리즘 미학 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2234,7 +2335,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 34: 인포그래픽 / 교육용 시각 자료 - 의인화 늑대 캐릭터 레퍼런스 시트
+### No. 35: 인포그래픽 / 교육용 시각 자료 - 의인화 늑대 캐릭터 레퍼런스 시트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2272,7 +2373,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 35: 인포그래픽 / 교육용 시각 자료 - 미니멀한 흰색 가전제품 포스터 프롬프트
+### No. 36: 인포그래픽 / 교육용 시각 자료 - 미니멀한 흰색 가전제품 포스터 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2320,7 +2421,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 36: 인포그래픽 / 교육용 시각 자료 - 개인 맞춤형 손금 해설 인포그래픽
+### No. 37: 인포그래픽 / 교육용 시각 자료 - 개인 맞춤형 손금 해설 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2361,7 +2462,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 37: 인포그래픽 / 교육용 시각 자료 - 고래 꼬리 사진 & 잉크 일러스트레이션 디프티치
+### No. 38: 인포그래픽 / 교육용 시각 자료 - 고래 꼬리 사진 & 잉크 일러스트레이션 디프티치
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2412,7 +2513,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 38: 인포그래픽 / 교육용 시각 자료 - 사실적 사진에서 수채화로 변환하는 프롬프트
+### No. 39: 인포그래픽 / 교육용 시각 자료 - 사실적 사진에서 수채화로 변환하는 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2453,7 +2554,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 39: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 프롬프트 길이 비교
+### No. 40: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 프롬프트 길이 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2492,7 +2593,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 40: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 손그림 스타일 인포그래픽 프롬프트
+### No. 41: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 손그림 스타일 인포그래픽 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2528,7 +2629,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 41: 인포그래픽 / 교육용 시각 자료 - 애니메이션 마스코트와 함께하는 기요미즈데라 여행 LP
+### No. 42: 인포그래픽 / 교육용 시각 자료 - 애니메이션 마스코트와 함께하는 기요미즈데라 여행 LP
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2571,7 +2672,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 42: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 프롬프트: 실험적 텍스처 디프티크
+### No. 43: 인포그래픽 / 교육용 시각 자료 - GPT Image 2 프롬프트: 실험적 텍스처 디프티크
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2741,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 43: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 시트: 우는 소녀
+### No. 44: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 시트: 우는 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2673,7 +2774,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 44: 인포그래픽 / 교육용 시각 자료 - 사이버 스테이지 캐릭터 컨셉 시트
+### No. 45: 인포그래픽 / 교육용 시각 자료 - 사이버 스테이지 캐릭터 컨셉 시트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2722,7 +2823,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 45: 인포그래픽 / 교육용 시각 자료 - 조용한 기차역 vs 버려진 기차역 비교
+### No. 46: 인포그래픽 / 교육용 시각 자료 - 조용한 기차역 vs 버려진 기차역 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2755,7 +2856,7 @@ GPT Image 2 를 사용하여 넉넉한 여백과 전통적인 수묵화 및 수�
 
 ---
 
-### No. 46: 인포그래픽 / 교육용 시각 자료 - 방치된 와인 저장고를 주제로 한 하이쿠
+### No. 47: 인포그래픽 / 교육용 시각 자료 - 방치된 와인 저장고를 주제로 한 하이쿠
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2792,7 +2893,7 @@ GPT Image 2 Low로 생성된, 방치된 와인 저장고 속 쥐를 묘사한 �
 
 ---
 
-### No. 47: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트
+### No. 48: 인포그래픽 / 교육용 시각 자료 - 애니메이션 캐릭터 디자인 시트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2855,7 +2956,7 @@ GPT Image 2 Low로 생성된, 방치된 와인 저장고 속 쥐를 묘사한 �
 
 ---
 
-### No. 48: 인포그래픽 / 교육용 시각 자료 - 포인트 네모 인포그래픽
+### No. 49: 인포그래픽 / 교육용 시각 자료 - 포인트 네모 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2904,7 +3005,7 @@ GPT Image 2 Low로 생성된, 방치된 와인 저장고 속 쥐를 묘사한 �
 
 ---
 
-### No. 49: YouTube 썸네일 - 애니메이션 가족 저녁 식사 포스터
+### No. 50: YouTube 썸네일 - 애니메이션 가족 저녁 식사 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2957,7 +3058,7 @@ GPT Image 2 Low로 생성된, 방치된 와인 저장고 속 쥐를 묘사한 �
 
 ---
 
-### No. 50: YouTube 썸네일 - 메트로폴리탄 경찰 중형 로봇
+### No. 51: YouTube 썸네일 - 메트로폴리탄 경찰 중형 로봇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2990,7 +3091,7 @@ GPT Image 2 Low로 생성된, 방치된 와인 저장고 속 쥐를 묘사한 �
 
 ---
 
-### No. 51: YouTube 썸네일 - 사이버펑크 2099년 초상화
+### No. 52: YouTube 썸네일 - 사이버펑크 2099년 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3037,7 +3138,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 52: YouTube 썸네일 - 안개 낀 궁전 홀을 거니는 한복 입은 두 여성
+### No. 53: YouTube 썸네일 - 안개 낀 궁전 홀을 거니는 한복 입은 두 여성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3088,7 +3189,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 53: YouTube 썸네일 - 거대 경찰 로봇 vs 기계 고릴라
+### No. 54: YouTube 썸네일 - 거대 경찰 로봇 vs 기계 고릴라
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3121,7 +3222,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 54: YouTube 썸네일 - 보트 경주장의 여성
+### No. 55: YouTube 썸네일 - 보트 경주장의 여성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3154,7 +3255,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 55: YouTube 썸네일 - 재난 구호 물자를 운반하는 초대형 로봇
+### No. 56: YouTube 썸네일 - 재난 구호 물자를 운반하는 초대형 로봇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3187,7 +3288,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 56: YouTube 썸네일 - 시네마틱 골든 B 로고
+### No. 57: YouTube 썸네일 - 시네마틱 골든 B 로고
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3220,7 +3321,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 57: YouTube 썸네일 - 비 오는 도쿄의 초대형 MPD 로봇
+### No. 58: YouTube 썸네일 - 비 오는 도쿄의 초대형 MPD 로봇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3253,7 +3354,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 58: YouTube 썸네일 - 음악 기술 YouTube 썸네일
+### No. 59: YouTube 썸네일 - 음악 기술 YouTube 썸네일
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3295,7 +3396,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 59: YouTube 썸네일 - 다리 아래 버려진 도로
+### No. 60: YouTube 썸네일 - 다리 아래 버려진 도로
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3328,7 +3429,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 60: YouTube 썸네일 - 녹슨 청동 앉은 여성 조각상
+### No. 61: YouTube 썸네일 - 녹슨 청동 앉은 여성 조각상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3373,7 +3474,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 61: YouTube 썸네일 - 도쿄의 거대 로봇 경찰관
+### No. 62: YouTube 썸네일 - 도쿄의 거대 로봇 경찰관
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3406,7 +3507,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 62: YouTube 썸네일 - 시네마틱 성냥 인물 사진
+### No. 63: YouTube 썸네일 - 시네마틱 성냥 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3439,7 +3540,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 63: YouTube 썸네일 - 거대 로봇의 교통 통제
+### No. 64: YouTube 썸네일 - 거대 로봇의 교통 통제
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3472,7 +3573,7 @@ GPT Image 2를 사용하여 미래형 사이버펑크 도시 속 남성의 초�
 
 ---
 
-### No. 64: YouTube 썸네일 - 시네마틱 치킨 식품 광고
+### No. 65: YouTube 썸네일 - 시네마틱 치킨 식품 광고
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3515,7 +3616,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 65: YouTube 썸네일 - 상처 입은 배틀 시스터의 부활
+### No. 66: YouTube 썸네일 - 상처 입은 배틀 시스터의 부활
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3548,7 +3649,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 66: YouTube 썸네일 - 호루스 헤레시 최종 결투
+### No. 67: YouTube 썸네일 - 호루스 헤레시 최종 결투
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3581,7 +3682,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 67: YouTube 썸네일 - 악마와 싸우는 레이디 데스
+### No. 68: YouTube 썸네일 - 악마와 싸우는 레이디 데스
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3614,7 +3715,68 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 68: 만화 / 스토리보드 - 해변의 전화 부스 만화 페이지
+### No. 69: 만화 / 스토리보드 - 레트로 만화 코믹: 옥상의 소년과 컵 머리 인물
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+옥상에서 낚시를 하던 소년이 커피잔 머리를 가진 인물을 만나는 따뜻하고 초현실적인 레트로 만화 코믹 스트립입니다.
+
+#### 📝 프롬프트
+
+```
+레트로한 손그림 감성으로 세로형 멀티 패널 만화 스타일의 코믹 스트립을 생성해 주세요. 아트 스타일은 굵은 검은색 윤곽선, 차분한 톤의 색상(청록색 하늘, 테라코타 지붕, 크림색 배경), 그리고 점 눈으로 표현된 단순한 캐릭터 디자인을 특징으로 해야 합니다.
+
+**레이아웃:**
+- **패널 1 (왼쪽 상단):** 한 소년이 옥상에 서서 하늘로 뻗어 있는 사다리를 올려다보고 있습니다. 세로 일본어 텍스트: "どこかに 行ける気がした".
+- **패널 2 (오른쪽 상단):** 소년이 검은 고양이 옆에 앉아 구름 사이를 헤엄치는 커다란 흰 물고기를 바라보고 있습니다. 세로 일본어 텍스트: "屋根の上で 魚が泳いでいた".
+- **패널 3 (왼쪽 중앙):** 어두운 구멍이 뚫린 붉은 기와지붕의 모습입니다. 구멍 안 어둠 속에서 두 개의 작은 하얀 눈이 밖을 엿보고 있습니다. 세로 일본어 텍스트: "中から 誰かが見ていた".
+- **패널 4 (오른쪽 중앙):** 소년이 구멍 옆에 앉아 낚싯대를 잡고 있고, 낚싯줄은 구멍 아래로 내려가 있습니다. 근처에는 양동이가 놓여 있습니다. 세로 일본어 텍스트: "釣り糸を垂らすと 穴が開いた".
+- **패널 5 (왼쪽 하단 - 위):** 한 캐릭터가 구멍에서 나옵니다. 이 캐릭터는 김이 모락모락 피어오르는 흰 커피잔을 머리로 하고 있으며, 검은 몸을 입고 있습니다. 소년은 놀란 표정입니다. 세로 일본어 텍스트: "君もここに 住むといいよ".
+- **패널 6 (오른쪽 하단 - 위):** 컵 머리 캐릭터와 소년이 옥상에서 서로 마주 보고 앉아 있습니다. 세로 일본어 텍스트: "出てきたのは カップの人だった".
+- **패널 7 (왼쪽 하단 - 아래):** 두 캐릭터가 기와지붕 위에 등을 대고 편안하게 누워 있습니다. 배경의 굴뚝 위에는 새 한 마리가 앉아 있습니다. 세로 일본어 텍스트: "そうして二人は 星になるまで 何も しなかった".
+- **패널 8 (오른쪽 하단 - 아래):** 밤 풍경입니다. 별과 초승달이 떠 있는 짙은 남색/검은색 하늘입니다. 컵 머리 캐릭터와 소년이 나란히 앉아 밤하늘을 바라보고 있습니다. 세로 일본어 텍스트: "屋根の上は 夜になると 宇宙になる".
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902297020_8c7i66_HXTUuoMbMAA08K2.jpg" width="600" alt="만화 / 스토리보드 - 레트로 만화 코믹: 옥상의 소년과 컵 머리 인물 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902296674_819wb2_HXTU1j7bQAAvcW3.jpg" width="600" alt="만화 / 스토리보드 - 레트로 만화 코믹: 옥상의 소년과 컵 머리 인물 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902296661_2p1s0d_HXTU4sFbUAEk5Et.jpg" width="600" alt="만화 / 스토리보드 - 레트로 만화 코믹: 옥상의 소년과 컵 머리 인물 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902297681_w6kiw1_HXTVAf_bYAAqY7c.jpg" width="600" alt="만화 / 스토리보드 - 레트로 만화 코믹: 옥상의 소년과 컵 머리 인물 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [シオナイ](https://x.com/sion41754400)
+- **출처:** [Twitter Post](https://x.com/sion41754400/status/2122561347292647754#reversed-0)
+- **게시일:** 2026년 11월 17일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=37536)**
+
+---
+
+### No. 70: 만화 / 스토리보드 - 해변의 전화 부스 만화 페이지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3688,7 +3850,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 69: 만화 / 스토리보드 - 빈티지 그림책 일러스트 스타일 변환
+### No. 71: 만화 / 스토리보드 - 빈티지 그림책 일러스트 스타일 변환
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3739,7 +3901,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 70: 만화 / 스토리보드 - 전설 무기 획득 장면
+### No. 72: 만화 / 스토리보드 - 전설 무기 획득 장면
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3804,7 +3966,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 71: 만화 / 스토리보드 - 할로윈 낫 소녀
+### No. 73: 만화 / 스토리보드 - 할로윈 낫 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3837,7 +3999,7 @@ GOLDEN CRUNCH | 궁극의 푸드 시네마.
 
 ---
 
-### No. 72: 만화 / 스토리보드 - 할로윈 밴디지 코르셋 드레스 프롬프트
+### No. 74: 만화 / 스토리보드 - 할로윈 밴디지 코르셋 드레스 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3879,7 +4041,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 73: 만화 / 스토리보드 - 할로윈 버섯 공주 프롬프트
+### No. 75: 만화 / 스토리보드 - 할로윈 버섯 공주 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3928,7 +4090,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 74: 만화 / 스토리보드 - 할로윈 귀신 드레스 애니메이션 스타일
+### No. 76: 만화 / 스토리보드 - 할로윈 귀신 드레스 애니메이션 스타일
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3970,7 +4132,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 75: 만화 / 스토리보드 - GPT Image 2용 코믹 소환 의식 프롬프트
+### No. 77: 만화 / 스토리보드 - GPT Image 2용 코믹 소환 의식 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4027,7 +4189,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 76: 만화 / 스토리보드 - 반 AI 수사 반응 Part 1
+### No. 78: 만화 / 스토리보드 - 반 AI 수사 반응 Part 1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4060,7 +4222,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 77: 만화 / 스토리보드 - 유머러스한 수배 전단 캐릭터 프롬프트
+### No. 79: 만화 / 스토리보드 - 유머러스한 수배 전단 캐릭터 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4110,7 +4272,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 78: 만화 / 스토리보드 - 야구를 던지는 애니메이션 소녀
+### No. 80: 만화 / 스토리보드 - 야구를 던지는 애니메이션 소녀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4143,7 +4305,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 79: 만화 / 스토리보드 - 세련된 남성과 볼링 장비 프롬프트
+### No. 81: 만화 / 스토리보드 - 세련된 남성과 볼링 장비 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4180,7 +4342,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 80: 만화 / 스토리보드 - 무선 도어벨 카메라 설명서 프롬프트
+### No. 82: 만화 / 스토리보드 - 무선 도어벨 카메라 설명서 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4217,7 +4379,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 81: 만화 / 스토리보드 - 귀여운 펭귄 소녀 4컷 만화
+### No. 83: 만화 / 스토리보드 - 귀여운 펭귄 소녀 4컷 만화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4273,7 +4435,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 82: 만화 / 스토리보드 - 노란 풍선을 터뜨리는 미친 까마귀
+### No. 84: 만화 / 스토리보드 - 노란 풍선을 터뜨리는 미친 까마귀
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4306,72 +4468,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 83: 만화 / 스토리보드 - 네오 나이브 스타일 캐릭터 격투 일러스트 프롬프트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 설명
-
-어색하고 우스꽝스럽게 싸우는 캐릭터를 네오 나이브/아웃사이더 아트 스타일로 묘사하는 상세한 이미지 생성 프롬프트입니다. 생성 모델이 GPT-image2임을 명시합니다.
-
-#### 📝 프롬프트
-
-```
-[캐릭터 A]와 [캐릭터 B], 네오 나이브 회화 × 아웃사이더 아트 × 원시적 인물화 × 아동 드로잉 스타일의 캐릭터 변형.
-
-두 캐릭터는 소수의 불규칙한 기하학적 색상 블록으로 구성되어 있으며, 가장 강한 식별 요소만 유지합니다: 주조색, 머리 실루엣, 헤어스타일 또는 귀, 눈, 대표 의상 색상 블록, 시그니처 액세서리.
-
-두 캐릭터는 치열하지만 코믹하게 싸우고 있으며, 몸이 밀착되고 얽혀 있습니다. 캐릭터에 따라 얼굴 잡기, 머리 밀기, 껴안기, 당기기, 때리기, 제압하기, 서로 덮치기 등의 행동을 무작위로 디자인하세요; 손 접촉은 명확하고, 사지가 교차하며, 무게중심이 불안정하여 싸움의 관계가 즉시 파악됩니다.
-
-아동적이고 부정확한 인체 해부학: 가느다란 몸통, 뻣뻣하고 곧은 팔다리, 부정확한 비율, 기울어진 머리, 과장된 손과 발, 잘못된 원근법. 얼굴 특징은 몇 개의 거친 색상 블록으로 압축되며, 표정은 분노, 충격, 이를 악물기, 비명, 억울함 등으로 부조리한 코미디 느낌을 지닙니다.
-
-거칠고 불투명한 물감의 평면 채색, 드라이 브러시 자국, 닳은 가장자리, 고르지 않은 칠, 흔들리는 손그림 윤곽선, 부분적인 언더페인팅 노출; 몸과 의상은 평면 색상 블록으로 직접 표현됩니다.
-
-따뜻한 회백색 또는 오프화이트 종이 배경, 넓은 여백. 두 캐릭터는 중앙에 위치하여 서로 얽혀 컴팩트한 행동 덩어리를 형성하며, 그림은 캐릭터 간의 관계 표현에 초점을 맞춥니다.
-
-비전문가가 기억에서 빠르게 그려낸 싸움 순간처럼: 원시적, 어설프, 직관적, 부조리, 귀엽습니다.
-
-세로 형식, 오른쪽 하단 모서리에 매우 작은 "voxcat" 서명.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273285788_8qsj86_HT2dLYNasAAenuW.jpg" width="600" alt="만화 / 스토리보드 - 네오 나이브 스타일 캐릭터 격투 일러스트 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273285931_qgnw72_HT2dLbRaQAAd2WG.jpg" width="600" alt="만화 / 스토리보드 - 네오 나이브 스타일 캐릭터 격투 일러스트 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273284611_zu5lwn_HT2dLbRbwAApKQX.jpg" width="600" alt="만화 / 스토리보드 - 네오 나이브 스타일 캐릭터 격투 일러스트 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273285592_lgbge4_HT2dLYNbkAEE1PS.jpg" width="600" alt="만화 / 스토리보드 - 네오 나이브 스타일 캐릭터 격투 일러스트 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [VoxCat](https://x.com/VoxcatAI)
-- **출처:** [Twitter Post](https://x.com/VoxcatAI/status/2107021472493666555)
-- **게시일:** 2026년 10월 5일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=36029)**
-
----
-
-### No. 84: 제품 마케팅 - 클래식 카페 데이트 룩 프롬프트
+### No. 85: 제품 마케팅 - 클래식 카페 데이트 룩 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4421,7 +4518,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 85: 제품 마케팅 - 초현실적 패션 사진 프롬프트
+### No. 86: 제품 마케팅 - 초현실적 패션 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4454,7 +4551,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 86: 제품 마케팅 - 페도라를 쓴 우아한 흰색 패션 초상화
+### No. 87: 제품 마케팅 - 페도라를 쓴 우아한 흰색 패션 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4487,7 +4584,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 87: 제품 마케팅 - GPT Image 미래지향적 드레스 도시 초상
+### No. 88: 제품 마케팅 - GPT Image 미래지향적 드레스 도시 초상
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4528,7 +4625,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 88: 제품 마케팅 - 초현실적 컨택트 시트 프롬프트
+### No. 89: 제품 마케팅 - 초현실적 컨택트 시트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4567,7 +4664,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 89: 제품 마케팅 - 올리브 그린 왁스 캔버스 롤탑 백팩
+### No. 90: 제품 마케팅 - 올리브 그린 왁스 캔버스 롤탑 백팩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4606,7 +4703,7 @@ ChatGPT Image 2를 사용하여 할로윈 테마의 밴디지 코르셋 드레�
 
 ---
 
-### No. 90: 제품 마케팅 - 캐주얼 카페 패션 포트레이트 프롬프트
+### No. 91: 제품 마케팅 - 캐주얼 카페 패션 포트레이트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4640,7 +4737,7 @@ GPT Image 2에 적합한 카페 앞 캐주얼 스트리트웨어를 입은 여�
 
 ---
 
-### No. 91: 제품 마케팅 - GPT Image 2 팝 아트 에디토리얼 프롬프트
+### No. 92: 제품 마케팅 - GPT Image 2 팝 아트 에디토리얼 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4689,7 +4786,7 @@ GPT Image 2 를 활용한 하이패션 초현실주의 및 팝 아트 미학의 
 
 ---
 
-### No. 92: 제품 마케팅 - 3D 디자이너 토이 소녀 초상화
+### No. 93: 제품 마케팅 - 3D 디자이너 토이 소녀 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4740,7 +4837,7 @@ Pop Mart/C4D 스타일의 3D 디자이너 토이 소녀 초상화를 생성하�
 
 ---
 
-### No. 93: 제품 마케팅 - 여섯 개의 잡지 표지
+### No. 94: 제품 마케팅 - 여섯 개의 잡지 표지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4783,7 +4880,7 @@ Pop Mart/C4D 스타일의 3D 디자이너 토이 소녀 초상화를 생성하�
 
 ---
 
-### No. 94: 제품 마케팅 - 아키하바라의 스이카 펭귄
+### No. 95: 제품 마케팅 - 아키하바라의 스이카 펭귄
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4816,7 +4913,7 @@ Pop Mart/C4D 스타일의 3D 디자이너 토이 소녀 초상화를 생성하�
 
 ---
 
-### No. 95: 제품 마케팅 - GPT Image 2 초현실적 패션 및 판타지 프롬프트
+### No. 96: 제품 마케팅 - GPT Image 2 초현실적 패션 및 판타지 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4857,7 +4954,7 @@ GPT Image 2를 위한 두 가지 상세 프롬프트: 분홍색 대포가 등장
 
 ---
 
-### No. 96: 제품 마케팅 - 드라마틱한 조명을 활용한 시네마틱 초상화
+### No. 97: 제품 마케팅 - 드라마틱한 조명을 활용한 시네마틱 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4891,52 +4988,6 @@ GPT Image 2를 위한 두 가지 상세 프롬프트: 분홍색 대포가 등장
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=36841)**
-
----
-
-### No. 97: 제품 마케팅 - 할로윈 좀비 걸 의상 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-찢어진 오프숄더 미니 드레스와 붕대 리본을 착용한 귀여운 좀비 테마 소녀를 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-할로윈 좀비 스타일의 원피스를 입은 소녀.
-의상은 에크루 색상의 오프숄더 미니 드레스입니다. 어깨, 허리, 스커트 여러 곳에 의도적으로 찢어진 슬릿과 말린 원단 가장자리가 있습니다.
-찢어진 부분 사이로 안쪽의 연보라색 레이어가 살짝 보입니다.
-찢어진 테두리에는 얇은 검은색 스티치가 되어 있습니다.
-목에는 작은 밴드 스타일 리본(깨끗한 상태)이 달려 있습니다.
-머리에는 모자를 쓰지 않았습니다.
-색상은 에크루, 연보라, 블랙, 나이트 인디고입니다. 먼지나 핏자국은 없습니다.
-찢어진 디테일이 선명하게 보이는 전신 샷. 살짝 곤란한 표정을 짓고 있는 귀여운 얼굴.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655534507_au5rni_HVFB_M2bIAEIVbs.jpg" width="600" alt="제품 마케팅 - 할로윈 좀비 걸 의상 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655534523_td99zd_HVFCA3UbAAE7XG4.jpg" width="600" alt="제품 마케팅 - 할로윈 좀비 걸 의상 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
-- **출처:** [Twitter Post](https://x.com/ArtistaNozomu/status/2112741916521431175)
-- **게시일:** 2026년 10월 21일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/gpt-image-2-prompts?id=36724)**
 
 ---
 
@@ -6007,7 +6058,7 @@ fur trim과 fang 액세서리가 포함된 Halloween wolf-themed dress를 입은
 
 <div align="center">
 
-### 🎯 17996 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 18000 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6070,6 +6121,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-17T05:36:08.254Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-17T20:11:28.165Z</sub>
 
 </div>

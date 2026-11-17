@@ -139,9 +139,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **18116** |
+| 📝 Toplam İstem | **18120** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **17 Kasım 2026 Salı 05:37:16 UTC** |
+| 🔄 Son Güncelleme | **17 Kasım 2026 Salı 20:12:22 UTC** |
 
 </div>
 
@@ -525,7 +525,47 @@ Düz bir evrimsel zaman çizelgesini, ayrıntılı organizma görselleri ve yap�
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Profil / Avatar - GPT Image 2 İstemi: Fotoğrafı 3D Oyuncak Çiftine Dönüştürme
+### No. 1: Profil / Avatar - GPT Image 2 için Kışlık Scrapbook Kolaj Portre İstemi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Mor saçlı, rahat sokak modası giyen ve boba içeceği tutan bir kadın karakterin hiper gerçekçi kışlık scrapbook kolaj portresini oluşturmak için GPT Image 2 kullanılan detaylı istem.
+
+#### 📝 İstem
+
+```
+Referans görseldeki aynı genç kadın karakterin hiper gerçekçi, tam boy kış temalı scrapbook kolaj portresini oluştur; imzası niteliğindeki canlı menekşe-mor renkli, çene hizasında düz kesim perçemli bob saç modelini, porselen gibi açık tenini, burnunun ve yanaklarının üzerindeki doğal çillerini, ela/açık kahverengi badem gözlerini, zarif yüz hatlarını, parlak dudaklarını ve ince fiziğini birebir koru.
+
+Karakter, bir karton kutunun üzerine rahat ve sıcacık bir duruşla yan oturmuş vaziyette; sol elinde üzeri krem şantiyle kaplı pembe buzlu çilekli boba içeceği tutarken sağ koluyla sevimli, gülümseyen bir çilek pelüş oyuncağına sarılıyor. Üzerinde renkli çiçekli, ekoseli, puantiyeli ve çilek desenli yamalardan oluşan bir patchwork süslemesi bulunan oversize açık renk yıkanmış denim ceketin altında, sıcak tutan krem rengi örgü balıkçı yaka bir kazak var. Uyumlu geniş paça patchwork denim pantolonu ve kalın tabanlı beyaz platform sneaker'ları, bu sıcacık kış sokak stili görünümünü tamamlıyor.
+
+Karton kutunun üzerinde el yazısıyla "{argument name="box text" default="FRAGILE"}" yazısı ve bir kalp figürü bulunuyor. Arka plan; buruşturulmuş mavi scrapbook kağıdından oluşuyor ve yırtılmış defter sayfaları, el yazısıyla yazılmış "{argument name="background words" default="Winter", "Slow", "dream", and "Sweet"}" kelimeleri, kırmızı ekoseli washi bant, ataşlar, çilek çıkartmaları, beyaz kar tanesi çizimleri ile kırmızı örgü bere ve atkı takan sevimli bir kardan adam figürüyle süslenmiş. El yazısıyla yazılmış bir "{argument name="message" default="Stay Cozy"}" mesajı ekle.
+
+Yumuşak, dağılmış kış stüdyo ışığı, soğuk pastel mavi tonlar, içinizi ısıtan detaylar, gerçekçi cilt dokusu, detaylı mor saç telleri, örgü kumaş dokuları, sinematik derinlik, hafif gölgeler, fotogerçekçi kalite, ultra detaylı 8K çözünürlük ve premium kış cottagecore Y2K scrapbook moda editoryali tarzını kullan.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902292939_goxzzg_HXTQ8TVbkAEHSUJ.jpg" width="600" alt="Profil / Avatar - GPT Image 2 için Kışlık Scrapbook Kolaj Portre İstemi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Kaynak:** [Twitter Post](https://x.com/Wareenaa/status/2122551075098284096)
+- **Yayınlandı:** 17 Kasım 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37534)**
+
+---
+
+### No. 2: Profil / Avatar - GPT Image 2 İstemi: Fotoğrafı 3D Oyuncak Çiftine Dönüştürme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -574,7 +614,7 @@ Render Kalitesi: Ultra detaylı 3D modelleme, gerçekçi parlak yansımalar, ı�
 
 ---
 
-### No. 2: Profil / Avatar - GPT Image 2 Çoklu Görünüm Karakter Tutarlılığı İstemi
+### No. 3: Profil / Avatar - GPT Image 2 Çoklu Görünüm Karakter Tutarlılığı İstemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -616,7 +656,7 @@ Lütfen başka bir görsel daha oluştur: Bir öncekine atıfta bulun: Aynı ki�
 
 ---
 
-### No. 3: Profil / Avatar - Geyik Pelerinli Sonbahar Kıyafetli Anime Kız
+### No. 4: Profil / Avatar - Geyik Pelerinli Sonbahar Kıyafetli Anime Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -649,7 +689,7 @@ Sarı dökülmüş ginkgo yapraklarıyla kaplı bir patikada duran, neşeli gen�
 
 ---
 
-### No. 4: Profil / Avatar - Referans Görselden Şık Ördek Yavrusu Portresi
+### No. 5: Profil / Avatar - Referans Görselden Şık Ördek Yavrusu Portresi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -682,7 +722,7 @@ Ekteki görseli temel alarak, son derece detaylı ve kendine has bir 3D tarzınd
 
 ---
 
-### No. 5: Profil / Avatar - Krem Rengi Hırkalı Anime Kız
+### No. 6: Profil / Avatar - Krem Rengi Hırkalı Anime Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -715,7 +755,7 @@ Yüksek çözünürlüklü, anime tarzında bir genç kadın portresi. Omuz hiza
 
 ---
 
-### No. 6: Profil / Avatar - GPT Image 2 İstemi: Pembe Askılı Kore Tarzı Yatak Odası Portresi
+### No. 7: Profil / Avatar - GPT Image 2 İstemi: Pembe Askılı Kore Tarzı Yatak Odası Portresi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -814,7 +854,7 @@ Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı yumuşatm
 
 ---
 
-### No. 7: Profil / Avatar - GPT Image 2 İstem: Mavi Örgü Üstle Kore Tarzı Yaz Plaj Portresi
+### No. 8: Profil / Avatar - GPT Image 2 İstem: Mavi Örgü Üstle Kore Tarzı Yaz Plaj Portresi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -929,7 +969,7 @@ Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı pürüzs�
 
 ---
 
-### No. 8: Profil / Avatar - Showa Dönemi Retro Portre
+### No. 9: Profil / Avatar - Showa Dönemi Retro Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -962,7 +1002,7 @@ Uzun koyu renk saçları ve düz kâkülleri olan, krem rengi triko kazak ve kah
 
 ---
 
-### No. 9: Profil / Avatar - Yatak Odası Selfie Portresi Promptu
+### No. 10: Profil / Avatar - Yatak Odası Selfie Portresi Promptu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1061,7 +1101,7 @@ Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı pürüzs�
 
 ---
 
-### No. 10: Profil / Avatar - Genç Kadının Yumuşak Odaklı Portresi
+### No. 11: Profil / Avatar - Genç Kadının Yumuşak Odaklı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1094,7 +1134,7 @@ Açık, pürüzsüz bir tene ve omuzlarına serbestçe dökülen uzun, düz koyu
 
 ---
 
-### No. 11: Profil / Avatar - GPT Image Kore Tarzı Portre
+### No. 12: Profil / Avatar - GPT Image Kore Tarzı Portre
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1166,7 +1206,7 @@ Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı pürüzs�
 
 ---
 
-### No. 12: Profil / Avatar - GPT Image Oturma Odası Portresi
+### No. 13: Profil / Avatar - GPT Image Oturma Odası Portresi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1231,7 +1271,7 @@ Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı pürüzs�
 
 ---
 
-### No. 13: Profil / Avatar - Türbe Önünde Showa Dönemi Retro Portresi
+### No. 14: Profil / Avatar - Türbe Önünde Showa Dönemi Retro Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1264,7 +1304,7 @@ Kısa, koyu renk bob kesim saçları ve kâkülleri olan genç bir Doğu Asyalı
 
 ---
 
-### No. 14: Profil / Avatar - Caprice Dolu Scrapbook Renkli Kalem İllüstrasyonu
+### No. 15: Profil / Avatar - Caprice Dolu Scrapbook Renkli Kalem İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1351,7 +1391,7 @@ Son derece detaylı, sevimli, iç açıcı, nostaljik, sanatsal, yumuşak vintag
 
 ---
 
-### No. 15: Profil / Avatar - Fırfırlı Gelinlik Giyen Anime Gelin
+### No. 16: Profil / Avatar - Fırfırlı Gelinlik Giyen Anime Gelin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1396,7 +1436,7 @@ Temiz beyaz bir arka plan önünde duran güzel bir gelini betimleyen, tam boy a
 
 ---
 
-### No. 16: Profil / Avatar - Retro Cadılar Bayramı Vampir Kız
+### No. 17: Profil / Avatar - Retro Cadılar Bayramı Vampir Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1429,7 +1469,7 @@ Kısa, dağınık koyu renk saçlı genç bir Asyalı kadının vintage çiçek 
 
 ---
 
-### No. 17: Profil / Avatar - Retro Showa Dönemi Cadılar Bayramı Portresi
+### No. 18: Profil / Avatar - Retro Showa Dönemi Cadılar Bayramı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1462,7 +1502,7 @@ Kısa koyu renk saçlı ve perçemli genç bir Asyalı kadının dikey, orta çe
 
 ---
 
-### No. 18: Profil / Avatar - Retro Amerikan Çizgi Film Tarzı Görsel Dönüşümü
+### No. 19: Profil / Avatar - Retro Amerikan Çizgi Film Tarzı Görsel Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1509,7 +1549,7 @@ Orijinal kompozisyonu, kadrajı, perspektifi ve kamera açısını tamamen aynı
 
 ---
 
-### No. 19: Profil / Avatar - GPT Image 2 Gece Sokak Fotoğrafçılığı İstemi
+### No. 20: Profil / Avatar - GPT Image 2 Gece Sokak Fotoğrafçılığı İstemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1622,20 +1662,98 @@ Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı pürüzs�
 
 ---
 
-### No. 20: Profil / Avatar - Showa Retro Pembe Mutfak Portresi
+### No. 21: Sosyal Medya Gönderisi - Kore Tarzı Moda Portresi İstem Yönergesi
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Açıklama
 
-Vintage pembe mutfakta kırmızı ekose elbise giyen bir kızın nostaljik 1980'ler tarzı portresini oluşturur.
+Modern bir apartman dairesinde, belirli ışıklandırma ve kıyafet detaylarıyla gerçekçi, yüksek moda portresi oluşturmak için kullanılan ayrıntılı istem yönergesi.
 
 #### 📝 İstem
 
 ```
-Nostaljik Showa dönemi retro estetiğine sahip, 3:4 oranında dikey bir portre fotoğraf; vintage pembe bir mutfağın tam ortasında duran genç bir Doğu Asyalı kadını gösteriyor. Kadının perçemli kısa koyu renk saçları var ve ince kırmızı bir saç bandı takıyor. İfadesi nötr ve hafif melankolik, doğrudan kameraya bakıyor. Üzerinde ince askılı, kırmızı-beyaz vichy (ekoseli) bir yazlık elbise bulunuyor; kare yaka hattı boyunca beyaz dantel bir süsleme ve eteğinde yatay olarak uzanan iki katmanlı beyaz dantel detayı yer alıyor. Elbisenin boyu baldırının ortasına kadar iniyor. Beyaz bilek çorapları giymiş olan kadın, bej ve kızıl-kahverengi karoların birbirini izlediği damalı bir zeminde duruyor.
+【Genel Stil】
 
-Arka planda, soluk pembe dolapların hâkim olduğu, eşyalarla dolu ve sıcak tonlu bir mutfak görülüyor. Sol tarafta krem rengi bir su ısıtıcısı ile çiçek desenli bir tencerenin bulunduğu vintage bir ocak var; hemen üzerinde ise kırmızı ekoseli bir bez ve dekoratif bir tablo asılı duruyor. Sağ taraftaki tezgâhın üzerinde, beyaz ayaklı bir servis tabağı içinde çilekli pasta ve kırmızı elmalarla dolu cam bir kase yer alıyor. Pembe çerçeveli bir ayna odanın bir kısmını yansıtıyor. Aydınlatma yumuşak ve dağınık; 1980'lerin iç mekân flaşlı fotoğraflarına özgü bu ışık, hafif solmuş renkleri ve yüksek nostalji hissi veren grenli bir film dokusu yaratıyor.
+3:4 dikey, tek bağımsız kare, ultra gerçekçi Kore tarzı yetişkin kadın high-fashion portre fotoğrafçılığı, cool ve zarif olgun bir aura, modern yüksek katlı apartman dairesi boydan boya penceresi, krem beyazı ve soğuk gri tonları, yumuşak doğal pencere ışığı, gerçek kamera fotoğraf dokusu.
+
+【Yüz Hatları】
+
+23-25 yaşlarında, güzel yetişkin bir Doğu Asyalı kadın; narin küçük oval yüz, yumuşak ve pürüzsüz çene hattı, küçük yuvarlak çene, berrak soğuk beyaz ten, hafif gül pembesi allık.
+
+Koyu gri-kahverengi badem gözler, doğal çift göz kapağı, uzun kıvrık kirpikler, açık pembe-kahverengi far, hafifçe yukarı doğru uzanan yumuşak eyeliner.
+
+İnce düz burun kemeri, küçük doğal burun ucu, yumuşak dolgun gül kurusu-bej pembesi dudaklar ve doğal nemli bir parlaklık.
+
+Baş hafifçe yana dönük, bakışlar ekranın sol tarafındaki pencereden dışarıya yönelmiş; ifade sakin, cool ve zarif, gerçek cilt mikro dokusu korunmuş.
+
+【Saç Modeli - Temel】
+
+Gür ve hacimli, koyu siyah çay renginde bel hizasına kadar uzanan uzun saçlar, doğal derin çikolata kahvesi ışıltısıyla.
+
+Doğal şekilde hacimli tepe kısmı, yandan ayrılmış saç modeli, alnın önünde doğal biçimde süzülen birkaç ince tutam saç.
+
+Her iki taraftaki uzun saçlarda yumuşak, gevşek büyük dalgalanmalar var; bir kısmı göğüs üzerine dökülüyor, kalan uzun saçlar ise sırt boyunca doğal şekilde aşağı iniyor.
+
+Gerçek bağımsız saç telleri, doğal hacim ve yumuşak derin kahverengi yansımalar korunmalı.
+
+【Kıyafet ve Aksesuarlar】
+
+Krem beyazı, açık fildişi rengi ipek saten ince askılı uzun elbise giyiyor.
+
+İnce askılar, yaka kısmı yumuşak doğal dökümlü bir drapaj (cowl neck) tasarımına sahip olup göğüs üzerinde hafif ipek kırışıklıkları oluşturuyor.
+
+Elbisenin kalıbı vücuda oturan ama doğal dökümlü, bel kısmı hafifçe daraltılmış, etek ucu dizlerin altına kadar uzanıyor.
+
+İpek kumaş yumuşak inci beyazı bir parlaklığa, doğal bir döküme ve gerçekçi ince kırışıklıklara sahip.
+
+Küçük beyaz inci küpeler, son derece ince gümüş klavikula kolye ve zarif bir gümüş bilezik takıyor.
+
+【Poz - Temel】
+
+Karakter, yüksek katlı bir apartman dairesindeki büyük boydan boya pencerenin yanında duruyor; vücudu kameraya doğru yaklaşık 30 ila 45 derece dönük.
+
+Bel hafifçe yana dönük, üst beden doğal bir şekilde dik, omuzlar rahat.
+
+Ekranın sol tarafındaki kol doğal biçimde dışarıya uzanıyor, avuç içi yatay pencere pervazına hafifçe yaslanmış, parmaklar serbest bırakılmış.
+
+Diğer el doğal bir şekilde bükülerek bel ve karın bölgesinin yanına hafifçe yerleştirilmiş.
+
+Baş ekranın sol tarafına dönük, çene hafifçe içeri çekilmiş, bakışlar pencerenin dışındaki uzak şehir binalarına yönelmiş.
+
+Uzun saçlar omuzlardan ve sırttan doğal bir şekilde aşağı dökülüyor; genel duruş zarif ve rahat, gerçek hayatta pencere kenarında dinlenme hissini veriyor.
+
+【Arka Plan Ortamı】
+
+Modern yüksek katlı apartman dairesi iç mekanı, geniş alanlı boydan boya cam pencereler, koyu gri metal pencere çerçeveleri, açık gri-beyaz duvarlar.
+
+Pencerenin dışında sıkışık modern kentsel yüksek katlı konut binaları ve cam yapılar bulunuyor.
+
+Ekranın sol tarafında, yakın mesafede açık gri-beyaz bir konut binası görülebiliyor; pencereleri, balkonları ve mimari yapısı net.
+
+Ekranın sağ tarafında, uzakta gri-mavi sis içindeki yüksek binaların silueti yer alıyor; şehir manzarası doğal bir mekansal derinliğe sahip.
+
+Pencere kenarında açık renkli perdeler bulunuyor; genel iç mekan temiz, sessiz ve sade.
+
+【Lens ve Işıklandırma】
+
+3:4 dikey, 35-50mm portre lense eşdeğer, göz hizasında çekim, karakter kadrajda merkezin hafif sağında konumlandırılmış.
+
+Orta plan kompozisyonu; baş, üst beden, eller ve elbisenin uyluk bölgesine kadar olan kısmı gösteriliyor.
+
+Yumuşak bulutlu doğal ışık, ekranın sol tarafındaki büyük pencereden içeri süzülerek karakterin yüzünü, omuzlarını, köprücük kemiklerini ve ipek uzun elbisesini eşit şekilde aydınlatıyor.
+
+Cilt doğal bir soğuk beyaz görünümde, yumuşak gölgeler korunmuş.
+
+Koyu siyah çay rengi uzun saçlar hassas doğal yansımalara sahip; krem beyazı ipek elbise yumuşak gümüş-beyaz vurgular ve gerçekçi kumaş kıvrımları sergiliyor.
+
+Pencerenin dışındaki binalar siste hafifçe kaybolmuş, düşük kontrastlı soğuk gri tonlar almış ancak yine de net bina yapılarını koruyor.
+
+Genel olarak düşük doygunluklu krem beyazı ve açık gri-mavi tonlar kullanılmalı; yumuşak doğal pozlama, hafif optik soft focus etkisi, gerçek fotoğrafçılık alan derinliği ve hassas kamera gren dokusu korunmalı.
+
+【Negatif Promptlar】
+
+Anime, illüstrasyon, 3D render, CG sahte yüz, plastik cilt, aşırı pürüzsüzleştirme, abartılı influencer yüzü, anormal derecede büyük gözler, aşırı sivri çene, orantısız yüz hatları, peruk, matlaşmış saç, sert bukleler, fazladan parmak, deforme olmuş avuç içi, omuz çıkığı, anormal vücut oranları, ipek kumaşın plastiğe dönüşmesi, kıyafet kesilme hataları, pencere çerçevesi perspektif hataları, mimari yapı deformasyonları, şehir arka planının aşırı bulanıklaştırılması, şiddetli aşırı pozlama, güçlü HDR, aşırı keskinleştirme, bariz yapay zeka hissi, metin, filigran, LOGO, kolaj.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1643,21 +1761,60 @@ Arka planda, soluk pembe dolapların hâkim olduğu, eşyalarla dolu ve sıcak t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793432468175_lyk3b7_HV369IobQAAJCuL.jpg" width="600" alt="Profil / Avatar - Showa Retro Pembe Mutfak Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1794902291801_h6bdio_HXTuTKrbcAMtRaR.jpg" width="600" alt="Sosyal Medya Gönderisi - Kore Tarzı Moda Portresi İstem Yönergesi - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [いがぐりメタボ](https://x.com/Kmsbdd0GXBOcrXQ)
-- **Kaynak:** [Twitter Post](https://x.com/Kmsbdd0GXBOcrXQ/status/2116123333469073536#reversed-0)
-- **Yayınlandı:** 30 Ekim 2026
-- **Diller:** en
+- **Yazar:** [沧瑶](https://x.com/CryY666666)
+- **Kaynak:** [Twitter Post](https://x.com/CryY666666/status/2122583417875521552)
+- **Yayınlandı:** 17 Kasım 2026
+- **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37118)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37533)**
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - Robot Polis Birimi
+### No. 22: Sosyal Medya Gönderisi - Melek ve Şeytan ile Alışveriş Yapan Kadın
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bir ayakkabı mağazası indirimi yakınında, alışveriş kararını tartışan minyatür melek ve şeytan versiyonlarıyla telefonunu kontrol eden bir kadının gerçekçi fotoğrafı.
+
+#### 📝 İstem
+
+```
+Bir alışveriş merkezinde ayakta duran, çelişkili bir ifadeyle akıllı telefonuna bakan genç Asyalı bir kadının fotogerçekçi orta çekim görüntüsü. Saçları dağınık bir topuz yapılmış koyu renk saçlı kadının başının üstünde kaplumbağa kabuğu desenli güneş gözlüğü duruyor. Üzerinde düğmeleri iliklenmiş zeytin yeşili çizgili bir hırka, geniş kahverengi deri kemerle tamamlanan kahverengi kadife pantolon ve yeşil kalp kolye uçlu altın zincir bir kolye var. Kalçasında ise kahverengi bir çapraz askılı çanta asılı duruyor.
+
+Sağ omzunda (izleyiciye göre solda) kendi minyatür "şeytan" versiyonu oturuyor: siyah bir atlet, parlak siyah deri pantolon, kırmızı platform ayakkabılar, küçük kırmızı boynuzlar ve şeytan kuyruğuyla birlikte yarasa kanatları takmış halde. Bu mini şeytan kulağına bir şeyler fısıldıyor.
+
+Solunda (izleyiciye göre sağda) ise kendi minyatür "melek" versiyonu havada süzülüyor: uçuşan beyaz bir elbise, büyük beyaz tüylü kanatlar ve parlayan altın rengi bir hale ile. Melek endişeli görünüyor ve vitrine doğru işaret ediyor.
+
+Arka planda parlak ışıklarla aydınlatılmış, bulanık bir alışveriş merkezi ortamı yer alıyor. İzleyicinin sağ tarafında, beyaz kaide üzerinde duran iki çift parlak kırmızı yüksek topuklu ayakkabının sergilendiği bir ayakkabı mağazası vitrini bulunuyor. Vitrindeki büyük kırmızı bir tabelada "70% OFF" yazıyor. Sol üst arka plandaki siyah bir tabelada "BLACK FRIDAY", dikey kırmızı bir afişte ise "SALE" yazısı okunuyor.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902293086_59o58e_HXQ_RmvXYAArEnu.jpg" width="600" alt="Sosyal Medya Gönderisi - Melek ve Şeytan ile Alışveriş Yapan Kadın - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [medsinform](https://x.com/meds76_)
+- **Kaynak:** [Twitter Post](https://x.com/meds76_/status/2122391218101367207#reversed-0)
+- **Yayınlandı:** 16 Kasım 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37535)**
+
+---
+
+### No. 23: Sosyal Medya Gönderisi - Robot Polis Birimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1690,7 +1847,7 @@ Bir endüstriyel bakım sahasının tam ortasında duran devasa, iki ayaklı bir
 
 ---
 
-### No. 22: Sosyal Medya Gönderisi - Retro Fotoğraf: At Üstünde Kadın
+### No. 24: Sosyal Medya Gönderisi - Retro Fotoğraf: At Üstünde Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1723,7 +1880,7 @@ Kırsal bir manzarada kahverengi bir atın üzerinde oturan genç bir Doğu Asya
 
 ---
 
-### No. 23: Sosyal Medya Gönderisi - Karalama Etkileşimli Gerçek Fotoğraf İstemi
+### No. 25: Sosyal Medya Gönderisi - Karalama Etkileşimli Gerçek Fotoğraf İstemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1780,7 +1937,7 @@ Metin yok, filigran yok, karmaşık arka plan yok, ekstra çizgi film karakteri 
 
 ---
 
-### No. 24: Sosyal Medya Gönderisi - Güneş Gözlüğü Takmış Kadın Dikey Poster Kolajı
+### No. 26: Sosyal Medya Gönderisi - Güneş Gözlüğü Takmış Kadın Dikey Poster Kolajı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1813,7 +1970,7 @@ Dikey poster kolaj tasarımı, bej arka plan, güneş gözlüğü takan aynı ge
 
 ---
 
-### No. 25: Sosyal Medya Gönderisi - Yağmurlu Lüks Sokak Modası Fotoğrafı
+### No. 27: Sosyal Medya Gönderisi - Yağmurlu Lüks Sokak Modası Fotoğrafı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1870,7 +2027,7 @@ Referans görselin genel kompozisyonunu, şemsiye yerleşimini, tam boy kadrajla
 
 ---
 
-### No. 26: Sosyal Medya Gönderisi - Wadi Rum Çölü Seyahat Portresi
+### No. 28: Sosyal Medya Gönderisi - Wadi Rum Çölü Seyahat Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1903,7 +2060,7 @@ Gün batımı sırasında Ürdün'ün Wadi Rum altın çölünde duran güzel ge
 
 ---
 
-### No. 27: Sosyal Medya Gönderisi - Araba Yıkayan Kadın
+### No. 29: Sosyal Medya Gönderisi - Araba Yıkayan Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1936,7 +2093,7 @@ Kısa siyah saçlı genç bir kadının, evin önündeki araba yolunda eski bir 
 
 ---
 
-### No. 28: Sosyal Medya Gönderisi - Vintage Fotoğraf: Japon Tapınağında Kadın
+### No. 30: Sosyal Medya Gönderisi - Vintage Fotoğraf: Japon Tapınağında Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1969,7 +2126,7 @@ Geleneksel bir Japon tapınağının önünde duran genç bir Doğu Asyalı kad�
 
 ---
 
-### No. 29: Sosyal Medya Gönderisi - Hobbitler ve Büyücü ile Fantastik Çöl Kafesi
+### No. 31: Sosyal Medya Gönderisi - Hobbitler ve Büyücü ile Fantastik Çöl Kafesi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2021,7 +2178,7 @@ GPT Image2, 5k
 
 ---
 
-### No. 30: Sosyal Medya Gönderisi - Deniz Dalgası Elbiseli Anime Kız
+### No. 32: Sosyal Medya Gönderisi - Deniz Dalgası Elbiseli Anime Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2060,7 +2217,7 @@ yetişkin anime moda modeli, Hollanda'dan ilham alan orijinal hidrodinamik coutu
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - Su Rengi ve Renkli Kalem Çocuk Kitabı İllüstrasyon Şablonu
+### No. 33: Sosyal Medya Gönderisi - Su Rengi ve Renkli Kalem Çocuk Kitabı İllüstrasyon Şablonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2120,63 +2277,7 @@ Vektör düz stil yok, 3D render yok, pürüzsüz dijital gradyanlar yok, parlak
 
 ---
 
-### No. 32: Sosyal Medya Gönderisi - Fotoğraftan Anime Editoryal Afişi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Referans fotoğrafı, belirli kompozisyon ve stil talimatlarıyla premium anime tarzı bir editoryal afişe dönüştürmek için gpt-image-2'ye yönelik detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Referans fotoğrafı; kişinin yüz hatlarını, saç stilini, pozunu, güneş gözlüğünü, inci küpelerini ve kırmızı şişme montunu birebir koruyarak premium, stilize edilmiş anime esintili bir editoryal postere dönüştür.
-
-Göz alıcı, iki panelli dikey bir kompozisyon oluştur:
-
-Üst Panel: Berrak mavi bir gökyüzü önünde kadının fotogerçekçi portresi, sıcak altın saat gün ışığı, saçlarının arasında esen doğal rüzgar, canlı turuncu camlı güneş gözlüğü, gerçekçi cilt dokusu, sinematik fotoğrafçılık.
-
-Alt Panel: Aynı kadını son derece detaylı bir anime-çizgi roman füzyonu illüstrasyon olarak yeniden hayal et. Yüz kimliğini, ifadesini, saç stilini, kıyafetini, aksesuarlarını ve pozunu birebir koru. Dramatik turuncu kenar aydınlatması (rim lighting), etkileyici ince çizgiler, zengin renkler ve premium grafik roman gölgelendirmesi kullan.
-
-Poster Tasarımı:
-
-* Canlı turuncu vurgulara sahip koyu antrasit arka plan.
-* “URBAN GLOW” yazan büyük, kalın ve italik tipografi.
-* Daha küçük alt başlık: “CITY VIBES IN COLOR”.
-* Dinamik çapraz turuncu grafikler ve geometrik öğeler.
-* Modern streetwear editoryal estetiği.
-* Yüksek kontrastlı, premium dergi kapağı tasarımı.
-
-Önemli: İllüstrasyondaki yüzün orijinal fotoğrafla birebir eşleşmesini sağla. Kişinin kimliğini, yüz oranlarını veya ayırt edici özelliklerini değiştirme. Ultra detaylı, 4K, profesyonel poster tasarımı, dikey 3:4 kompozisyon.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg" width="600" alt="Sosyal Medya Gönderisi - Fotoğraftan Anime Editoryal Afişi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794123630843_wfphu9_HWiQHqTboAAu6HP.jpg" width="600" alt="Sosyal Medya Gönderisi - Fotoğraftan Anime Editoryal Afişi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Harry AI](https://x.com/Tech_Harry1)
-- **Kaynak:** [Twitter Post](https://x.com/Tech_Harry1/status/2119102100592632084)
-- **Yayınlandı:** 7 Kasım 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37409)**
-
----
-
-### No. 33: İnfografik / Eğitici Görsel - GPT Image 2 Minimalist Estetik İstem
+### No. 34: İnfografik / Eğitici Görsel - GPT Image 2 Minimalist Estetik İstem
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2233,7 +2334,7 @@ Herhangi bir konu nesnesi etrafında, son derece dingin ve bol beyaz alanlı, ka
 
 ---
 
-### No. 34: İnfografik / Eğitici Görsel - Antropomorfik Kurt Karakter Referans Sayfası
+### No. 35: İnfografik / Eğitici Görsel - Antropomorfik Kurt Karakter Referans Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2271,7 +2372,7 @@ Kısıtlamalar: Tüm görünümlerde tutarlı oranlar sağlanmalıdır. Metin ve
 
 ---
 
-### No. 35: İnfografik / Eğitici Görsel - Minimalist Beyaz Mutfak Aleti Afiş İstemi
+### No. 36: İnfografik / Eğitici Görsel - Minimalist Beyaz Mutfak Aleti Afiş İstemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2319,7 +2420,7 @@ Taze ve ferah boşluklara sahip bilgi bülteni ruhunu sürdüren, 30. yıl dön�
 
 ---
 
-### No. 36: İnfografik / Eğitici Görsel - Kişiselleştirilmiş Fal Rehberi İnfografiği
+### No. 37: İnfografik / Eğitici Görsel - Kişiselleştirilmiş Fal Rehberi İnfografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2360,7 +2461,7 @@ Metin İçeriği: "手相解读" (El Falı Yorumu) ve "掌印图" (Avuç İzi G�
 
 ---
 
-### No. 37: İnfografik / Eğitici Görsel - Balina Kuyruğu Fotoğrafı ve Mürekkep İllüstrasyon Diptik
+### No. 38: İnfografik / Eğitici Görsel - Balina Kuyruğu Fotoğrafı ve Mürekkep İllüstrasyon Diptik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2411,7 +2512,7 @@ Metin İçeriği: "手相解读" (El Falı Yorumu) ve "掌印图" (Avuç İzi G�
 
 ---
 
-### No. 38: İnfografik / Eğitici Görsel - Fotogerçekçiden Sulu Boyaya Dönüşüm İstemleri
+### No. 39: İnfografik / Eğitici Görsel - Fotogerçekçiden Sulu Boyaya Dönüşüm İstemleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2452,7 +2553,7 @@ Referans görseli kullanarak fotogerçekçi bir sahneden suluboyaya uzanan muhte
 
 ---
 
-### No. 39: İnfografik / Eğitici Görsel - GPT Image 2 İstem Uzunluğu Karşılaştırması
+### No. 40: İnfografik / Eğitici Görsel - GPT Image 2 İstem Uzunluğu Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2491,7 +2592,7 @@ Sağ Panel: Alt kısımda "100 WORDS" etiketi yer alıyor. Görsel, açık bir k
 
 ---
 
-### No. 40: İnfografik / Eğitici Görsel - GPT Image 2 El Çizimi İnfografik Promptu
+### No. 41: İnfografik / Eğitici Görsel - GPT Image 2 El Çizimi İnfografik Promptu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2528,7 +2629,7 @@ Tema: Su Döngüsü Eğitim Posteri
 
 ---
 
-### No. 41: İnfografik / Eğitici Görsel - Anime Maskotu ile Kiyomizu-dera Seyahat LP
+### No. 42: İnfografik / Eğitici Görsel - Anime Maskotu ile Kiyomizu-dera Seyahat LP
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2571,7 +2672,7 @@ Metin içeriği: '見どころ', 'モデルコース', 'アクセス' gibi böl�
 
 ---
 
-### No. 42: İnfografik / Eğitici Görsel - GPT Image 2 İstem: Deneysel Doku Diptiği
+### No. 43: İnfografik / Eğitici Görsel - GPT Image 2 İstem: Deneysel Doku Diptiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2640,7 +2741,7 @@ Logo, filigran, ekstra görsel veya gereksiz dekoratif öğe bulunmamalıdır. O
 
 ---
 
-### No. 43: İnfografik / Eğitici Görsel - Anime Karakter Sayfası: Ağlayan Kız
+### No. 44: İnfografik / Eğitici Görsel - Anime Karakter Sayfası: Ağlayan Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2673,7 +2774,7 @@ Logo, filigran, ekstra görsel veya gereksiz dekoratif öğe bulunmamalıdır. O
 
 ---
 
-### No. 44: İnfografik / Eğitici Görsel - Cyber Stage Karakter Konsept Sayfası
+### No. 45: İnfografik / Eğitici Görsel - Cyber Stage Karakter Konsept Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2722,7 +2823,7 @@ Genel estetik; koyu maviler, morlar, gümüş tonları ve parlayan vurguların h
 
 ---
 
-### No. 45: İnfografik / Eğitici Görsel - Sessiz ve Terk Edilmiş Tren İstasyonu Karşılaştırması
+### No. 46: İnfografik / Eğitici Görsel - Sessiz ve Terk Edilmiş Tren İstasyonu Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2755,7 +2856,7 @@ Alacakaranlıkta iki tren istasyonu sahnesinin, ince dikey bir çizgiyle ayrılm
 
 ---
 
-### No. 46: İnfografik / Eğitici Görsel - İhmal Edilmiş Şarap Mahzeni Hakkında Haiku
+### No. 47: İnfografik / Eğitici Görsel - İhmal Edilmiş Şarap Mahzeni Hakkında Haiku
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2792,7 +2893,7 @@ mahzeni ele geçirmiş
 
 ---
 
-### No. 47: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem
+### No. 48: İnfografik / Eğitici Görsel - Anime Karakter Tasarım Sayfası İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2855,7 +2956,7 @@ Görsel Stil: Teknik şema estetiğiyle harmanlanmış yüksek kaliteli dijital 
 
 ---
 
-### No. 48: İnfografik / Eğitici Görsel - Point Nemo İnfografiği
+### No. 49: İnfografik / Eğitici Görsel - Point Nemo İnfografiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2904,7 +3005,7 @@ Görsel Stil: Profesyonel infografik tasarımı. Gövde metni için net sans-ser
 
 ---
 
-### No. 49: YouTube Küçük Resmi - Anime Aile Yemeği Afişi
+### No. 50: YouTube Küçük Resmi - Anime Aile Yemeği Afişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2957,7 +3058,7 @@ Sahnede, dışarıdaki sonbahar yapraklarını gösteren büyük pencerelere sah
 
 ---
 
-### No. 50: YouTube Küçük Resmi - Metropolitan Police Ağır Robotu
+### No. 51: YouTube Küçük Resmi - Metropolitan Police Ağır Robotu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2990,7 +3091,7 @@ Endüstriyel bir hangar alanında ayakta duran devasa, iki ayaklı ağır hizmet
 
 ---
 
-### No. 51: YouTube Küçük Resmi - Cyberpunk 2099 Yılı Portresi
+### No. 52: YouTube Küçük Resmi - Cyberpunk 2099 Yılı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3037,7 +3138,7 @@ GPT Image 2 için, fütüristik bir cyberpunk şehrinde bulunan bir erkeğin hip
 
 ---
 
-### No. 52: YouTube Küçük Resmi - Sisli Saray Salonunda Hanfu Giyen İki Kadın
+### No. 53: YouTube Küçük Resmi - Sisli Saray Salonunda Hanfu Giyen İki Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3088,7 +3189,7 @@ Gösterişli geleneksel Çin Hanfu elbiseleri giymiş iki kadının, loş ışı
 
 ---
 
-### No. 53: YouTube Küçük Resmi - Dev Polis Robotu vs Mekanik Goril
+### No. 54: YouTube Küçük Resmi - Dev Polis Robotu vs Mekanik Goril
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3121,7 +3222,7 @@ Bir Japon limanında dev bir polis robotunun devasa mekanik bir gorille savaşt�
 
 ---
 
-### No. 54: YouTube Küçük Resmi - Tekne Yarışı Alanında Bir Kadın
+### No. 55: YouTube Küçük Resmi - Tekne Yarışı Alanında Bir Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3154,7 +3255,7 @@ Bir tekne yarışı alanında ayakta duran güzel genç bir Japon kadının foto
 
 ---
 
-### No. 55: YouTube Küçük Resmi - Afet Yardımı Dağıtan Dev Robot
+### No. 56: YouTube Küçük Resmi - Afet Yardımı Dağıtan Dev Robot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3187,7 +3288,7 @@ Fotoğraf gerçekliğinde, açık hava kentsel bir meydanda duran devasa, iki ay
 
 ---
 
-### No. 56: YouTube Küçük Resmi - Sinematik Altın B Logosu
+### No. 57: YouTube Küçük Resmi - Sinematik Altın B Logosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3220,7 +3321,7 @@ Karanlık, yansıtıcı bir zemin üzerinde sırtı izleyiciye dönük şekilde 
 
 ---
 
-### No. 57: YouTube Küçük Resmi - Yağmurlu Tokyo'da Devasa MPD Robotu
+### No. 58: YouTube Küçük Resmi - Yağmurlu Tokyo'da Devasa MPD Robotu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3253,7 +3354,7 @@ Yağmurlu bir Tokyo sokağında yükselen, devasa, iki ayaklı bir polis robotu.
 
 ---
 
-### No. 58: YouTube Küçük Resmi - Müzik Teknolojisi YouTube Kapak Görselleri
+### No. 59: YouTube Küçük Resmi - Müzik Teknolojisi YouTube Kapak Görselleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3295,7 +3396,7 @@ Tüm küçük resimlerin; teknoloji ve müzik prodüksiyonu içeriklerinde sık�
 
 ---
 
-### No. 59: YouTube Küçük Resmi - Köprü Altında Terk Edilmiş Yol
+### No. 60: YouTube Küçük Resmi - Köprü Altında Terk Edilmiş Yol
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3328,7 +3429,7 @@ Gece vakti terk edilmiş bir yolun fotogerçekçi bir görselini oluştur. Sahne
 
 ---
 
-### No. 60: YouTube Küçük Resmi - Oturmuş Kadın Verdigris Bronz Heykeli
+### No. 61: YouTube Küçük Resmi - Oturmuş Kadın Verdigris Bronz Heykeli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3373,7 +3474,7 @@ Bir mezarlıkta oturan bir kadını tasvir eden, yıpranmış bronz heykelin fot
 
 ---
 
-### No. 61: YouTube Küçük Resmi - Tokyo'da Dev Robot Polis Memuru
+### No. 62: YouTube Küçük Resmi - Tokyo'da Dev Robot Polis Memuru
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3406,7 +3507,7 @@ Alacakaranlıkta hareketli bir Tokyo sokağının sinematik, fotogerçekçi geni
 
 ---
 
-### No. 62: YouTube Küçük Resmi - Sinematik Kibrit Çöpü Portresi
+### No. 63: YouTube Küçük Resmi - Sinematik Kibrit Çöpü Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3439,7 +3540,7 @@ Uzun, dağınık ve dalgalı koyu renk saçlara, kalın kaşlara, uzun kirpikler
 
 ---
 
-### No. 63: YouTube Küçük Resmi - Dev Robot Trafik Kontrolü
+### No. 64: YouTube Küçük Resmi - Dev Robot Trafik Kontrolü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3472,7 +3573,7 @@ Tokyo'da, yoğun bir kavşağın üzerinde yükselen devasa, iki ayaklı bir pol
 
 ---
 
-### No. 64: YouTube Küçük Resmi - Sinematik Çıtır Tavuk Reklamı
+### No. 65: YouTube Küçük Resmi - Sinematik Çıtır Tavuk Reklamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3515,7 +3616,7 @@ Doğal, etkileyici yüz hatlarına sahip, yumuşak dalgalı kumral saçlı, raha
 
 ---
 
-### No. 65: YouTube Küçük Resmi - Yaralı Bir Battle Sister'ın Yükselişi
+### No. 66: YouTube Küçük Resmi - Yaralı Bir Battle Sister'ın Yükselişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3548,7 +3649,7 @@ Kutsanmış zincirli kılıcı parçalanmış, kanıyor ve kuşatılmış durumd
 
 ---
 
-### No. 66: YouTube Küçük Resmi - Horus Heresy Final Düellosu
+### No. 67: YouTube Küçük Resmi - Horus Heresy Final Düellosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3581,7 +3682,7 @@ Horus Heresy'nin final düellosu. Yanan Terra'nın yörüngesindeki Vengeful Spi
 
 ---
 
-### No. 67: YouTube Küçük Resmi - Lady Death'in Şeytanlarla Savaşı
+### No. 68: YouTube Küçük Resmi - Lady Death'in Şeytanlarla Savaşı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3614,7 +3715,68 @@ Brian Pulido’nun Lady Death (Hope) karakteri, birkaç boynuzlu şeytanı ve da
 
 ---
 
-### No. 68: Çizgi Roman / Hikaye Taslağı - Sahil Telefon Kabini Manga Sayfası
+### No. 69: Çizgi Roman / Hikaye Taslağı - Retro Manga Çizgi Roman: Çatıda Çocuk ve Fincan Kafa
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Çatıda balık tutarken kafası kahve fincanı olan bir kişiyle tanışan bir çocuğu konu alan, yürek ısıtan ve sürrealist bir çizgi roman şeridi.
+
+#### 📝 İstem
+
+```
+Retro, el çizimi estetiğinde, dikey ve çok panelli bir manga tarzı çizgi roman şeridi oluştur. Çizim tarzında kalın siyah dış hatlar, soluk renkler (camgöbeği gökyüzü, pişmiş toprak rengi çatı, krem arka plan) ve nokta gözlerle tasarlanmış sade karakterler yer almalı.
+
+**Yerleşim:**
+- **Panel 1 (Sol Üst):** Bir çocuk çatıda durmuş, gökyüzüne doğru uzanan bir merdivene bakıyor. Dikey Japonca metin: "どこかに 行ける気がした".
+- **Panel 2 (Sağ Üst):** Çocuk, siyah bir kedinin yanında çatıda oturmuş, bulutların arasında yüzen büyük beyaz bir balığı izliyor. Dikey Japonca metin: "屋根の上で 魚が泳いでいた".
+- **Panel 3 (Orta Sol):** İçinde karanlık bir delik bulunan kırmızı kiremitli çatının görünümü. Delikteki karanlığın içinden iki küçük beyaz göz süzülüyor. Dikey Japonca metin: "中から 誰かが見ていた".
+- **Panel 4 (Orta Sağ):** Çocuk deliğin kenarında oturuyor; elindeki olta takımının misinası aşağıya, deliğin içine sarkıyor. Hemen yakınında bir kova duruyor. Dikey Japonca metin: "釣り糸を垂らすと 穴が開いた".
+- **Panel 5 (Alt Sol - Üst Kısım):** Deliğin içinden bir karakter beliriyor. Bu karakterin başı, üzerinden duman tüten beyaz bir kahve fincanından oluşuyor ve siyah bir beden giyiyor. Çocuk şaşkınlık içinde bakıyor. Dikey Japonca metin: "君もここに 住むといいよ".
+- **Panel 6 (Alt Sağ - Üst Kısım):** Fincan kafalı karakter ile çocuk çatıda karşılıklı oturuyor. Dikey Japonca metin: "出てきたのは カップの人だった".
+- **Panel 7 (Alt Sol - Alt Kısım):** İki karakter rahatlamış bir şekilde çatı kiremitlerinin üzerine sırtüstü uzanıyor. Arka planda bacanın üstünde bir kuş konmuş duruyor. Dikey Japonca metin: "そうして二人は 星になるまで 何も しなかった".
+- **Panel 8 (Alt Sağ - Alt Kısım):** Gece manzarası. Yıldızlarla ve hilal şeklinde bir ayla kaplı koyu mavi/siyah bir gökyüzü. Fincan kafalı karakter ile çocuk yan yana oturup gece gökyüzünü seyrediyor. Dikey Japonca metin: "屋根の上は 夜になると 宇宙になる".
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902297020_8c7i66_HXTUuoMbMAA08K2.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Retro Manga Çizgi Roman: Çatıda Çocuk ve Fincan Kafa - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902296674_819wb2_HXTU1j7bQAAvcW3.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Retro Manga Çizgi Roman: Çatıda Çocuk ve Fincan Kafa - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902296661_2p1s0d_HXTU4sFbUAEk5Et.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Retro Manga Çizgi Roman: Çatıda Çocuk ve Fincan Kafa - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902297681_w6kiw1_HXTVAf_bYAAqY7c.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Retro Manga Çizgi Roman: Çatıda Çocuk ve Fincan Kafa - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [シオナイ](https://x.com/sion41754400)
+- **Kaynak:** [Twitter Post](https://x.com/sion41754400/status/2122561347292647754#reversed-0)
+- **Yayınlandı:** 17 Kasım 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=37536)**
+
+---
+
+### No. 70: Çizgi Roman / Hikaye Taslağı - Sahil Telefon Kabini Manga Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3688,7 +3850,7 @@ Görsel Stil: Gölgeler ve gökyüzü dokuları için belirgin yarım ton (halft
 
 ---
 
-### No. 69: Çizgi Roman / Hikaye Taslağı - Vintage Resimli Kitap İllüstrasyon Stili Aktarımı
+### No. 71: Çizgi Roman / Hikaye Taslağı - Vintage Resimli Kitap İllüstrasyon Stili Aktarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3739,7 +3901,7 @@ Nihai Görünüm: Elle boyanmış vintage bir resimli kitap görünümünde, bol
 
 ---
 
-### No. 70: Çizgi Roman / Hikaye Taslağı - Efsanevi Silah Elde Etme Sahnesi
+### No. 72: Çizgi Roman / Hikaye Taslağı - Efsanevi Silah Elde Etme Sahnesi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3804,7 +3966,7 @@ Metin açıklamaları kullanma; karakterin ellerine ve efsanevi ekipmana odaklan
 
 ---
 
-### No. 71: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Tırpanlı Kız
+### No. 73: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Tırpanlı Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3837,7 +3999,7 @@ Uzun, dalgalı beyaz saçları uçlara doğru turkuaza dönen güzel bir genç k
 
 ---
 
-### No. 72: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Bandajlı Korse Elbise İstemi
+### No. 74: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Bandajlı Korse Elbise İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3879,7 +4041,7 @@ Bandaj korsenin net bir şekilde göründüğü, önden tam boy görünüm. Hafi
 
 ---
 
-### No. 73: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Mantar Prensesi İstemi
+### No. 75: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Mantar Prensesi İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3928,7 +4090,7 @@ Baştan ayakkabılara kadar kesilmemiş tam boy kompozisyon. Mantar şeklindeki 
 
 ---
 
-### No. 74: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Hayalet Elbisesi Anime Tarzı
+### No. 76: Çizgi Roman / Hikaye Taslağı - Cadılar Bayramı Hayalet Elbisesi Anime Tarzı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3970,7 +4132,7 @@ Fantastik anime tarzı, başı kesilmemiş tam boy kompozisyon.
 
 ---
 
-### No. 75: Çizgi Roman / Hikaye Taslağı - GPT Image 2 İçin Komik Çağırma Ritüeli İstemi
+### No. 77: Çizgi Roman / Hikaye Taslağı - GPT Image 2 İçin Komik Çağırma Ritüeli İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4027,7 +4189,7 @@ Ritüel performansını otantik ve görkemli hale getirin; beliren nesneyle yara
 
 ---
 
-### No. 76: Çizgi Roman / Hikaye Taslağı - Anti-Yapay Zeka Retoriğine Tepkiler Bölüm 1
+### No. 78: Çizgi Roman / Hikaye Taslağı - Anti-Yapay Zeka Retoriğine Tepkiler Bölüm 1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4060,7 +4222,7 @@ Sağlanan referans görseli kullanarak karakteri yeni bir pozda ve bağlamda yen
 
 ---
 
-### No. 77: Çizgi Roman / Hikaye Taslağı - Komik Aranan Poster Karakter İstemi
+### No. 79: Çizgi Roman / Hikaye Taslağı - Komik Aranan Poster Karakter İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4110,7 +4272,7 @@ Kompozisyon için boy ölçüm çizgilerinin önünde duran bir poz veya hafifç
 
 ---
 
-### No. 78: Çizgi Roman / Hikaye Taslağı - Beyzbol Atan Anime Kız
+### No. 80: Çizgi Roman / Hikaye Taslağı - Beyzbol Atan Anime Kız
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4143,7 +4305,7 @@ Dikey webtoon tarzı bir illüstrasyon; beyzbol atan bir kadın anime karakterin
 
 ---
 
-### No. 79: Çizgi Roman / Hikaye Taslağı - Şık Erkek Bowling Ekipmanı Promptu
+### No. 81: Çizgi Roman / Hikaye Taslağı - Şık Erkek Bowling Ekipmanı Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4180,7 +4342,7 @@ ve çok renkli bowling ayakkabılarına
 
 ---
 
-### No. 80: Çizgi Roman / Hikaye Taslağı - Kablosuz Kapı Zili Kamerası Talimatları İstem
+### No. 82: Çizgi Roman / Hikaye Taslağı - Kablosuz Kapı Zili Kamerası Talimatları İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4217,7 +4379,7 @@ eğer okunamayacak kadar küçük olmasalardı
 
 ---
 
-### No. 81: Çizgi Roman / Hikaye Taslağı - Sevimli Penguen Kız Çizgi Romanı
+### No. 83: Çizgi Roman / Hikaye Taslağı - Sevimli Penguen Kız Çizgi Romanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4273,7 +4435,7 @@ Panel 4: Kızın merakla çöp kutusunu kokladığı yan görünüm. Kutunun üz
 
 ---
 
-### No. 82: Çizgi Roman / Hikaye Taslağı - Sarı Balonu Patlatan Delikralı Karga
+### No. 84: Çizgi Roman / Hikaye Taslağı - Sarı Balonu Patlatan Delikralı Karga
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4306,72 +4468,7 @@ Hikaye kitabı tarzında, el çizimi ve capcanlı bir illüstrasyon, bir telefon
 
 ---
 
-### No. 83: Çizgi Roman / Hikaye Taslağı - Neo-Naif Tarzı Karakter Dövüşü İllüstrasyon İstemcisi
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Karakterlerin beceriksizce dövüştüğünü tasvir eden neo-naif/outsider art (dışlanmış sanat) tarzında görüntüler üretmek için detaylı bir istem. Üretim modelinin GPT-image2 olduğu açıkça belirtilmiştir.
-
-#### 📝 İstem
-
-```
-[Karakter A] ve [Karakter B], neo-naif resim × outsider art (dışlanmış sanat) × ilkel figüratif resim × çocuk çizim tarzı karakter çevirisi.
-
-İki karakter, az sayıda düzensiz geometrik renk bloklarından oluşur; yalnızca en güçlü kimlik işaretlerini korurlar: ana renk, baş silueti, saç modeli veya kulaklar, gözler, temsilci giysi renk blokları, imza aksesuarları.
-
-İkili yoğun ama komik bir şekilde dövüşüyor, vücutları birbirine yapışık ve iç içe geçmiş durumda. Karakterlere göre rastgele yüz kavrama, itme, sarılma, çekme, tokat atma, yere serme veya karşılıklı atlama gibi eylemler tasarlayın; el teması net, uzuvlar kesişiyor, ağırlık merkezi dengesiz, bu da dövüş ilişkisini anında okunabilir kılıyor.
-
-Çocuksu ve hatalı insan anatomisi: ince gövdeler, sert düz uzuvlar, hatalı oranlar, eğik kafalar, abartılı eller ve ayaklar, yanlış perspektif. Yüz özellikleri birkaç kaba renk bloğuna sıkıştırılmış, ifadeler öfkeli, şok olmuş, diş gösteren, çığlık atan veya kırgın, absürt bir komedi havası taşıyor.
-
-Kaba opak boya düz renklendirme, kuru fırça izleri, yıpranmış kenarlar, eşit olmayan dolgu, titrek elle çizilmiş konturlar, yer yer astar boyanın görünmesi; vücut ve giysiler doğrudan düz renk bloklarıyla temsil ediliyor.
-
-Sıcak gri-beyaz veya kırık beyaz kağıt arka planı, geniş boşluk alanları. İki karakter merkezde konumlanıyor, birbirine dolanarak kompakt bir eylem kütlesi oluşturuyor, resim karakterler arasındaki ilişkiyi ifade etmeye odaklanıyor.
-
-Eğitimsiz bir kişi tarafından hafızadan hızlıca çizilmiş bir dövüş anı gibi: ilkel, beceriksiz, doğrudan, absürt, sevimli.
-
-Dikey format, sağ alt köşede son derece küçük "voxcat" imzası.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273285788_8qsj86_HT2dLYNasAAenuW.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Neo-Naif Tarzı Karakter Dövüşü İllüstrasyon İstemcisi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273285931_qgnw72_HT2dLbRaQAAd2WG.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Neo-Naif Tarzı Karakter Dövüşü İllüstrasyon İstemcisi - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273284611_zu5lwn_HT2dLbRbwAApKQX.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Neo-Naif Tarzı Karakter Dövüşü İllüstrasyon İstemcisi - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791273285592_lgbge4_HT2dLYNbkAEE1PS.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Neo-Naif Tarzı Karakter Dövüşü İllüstrasyon İstemcisi - Image 4">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [VoxCat](https://x.com/VoxcatAI)
-- **Kaynak:** [Twitter Post](https://x.com/VoxcatAI/status/2107021472493666555)
-- **Yayınlandı:** 5 Ekim 2026
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=36029)**
-
----
-
-### No. 84: Ürün Pazarlaması - Klasik Kafe Randevu Kıyafeti Prompt
+### No. 85: Ürün Pazarlaması - Klasik Kafe Randevu Kıyafeti Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4421,7 +4518,7 @@ Sofistike, feminen ve zamansız sezon stili.
 
 ---
 
-### No. 85: Ürün Pazarlaması - Ultra Gerçekçi Moda Fotoğrafçılığı İstemi
+### No. 86: Ürün Pazarlaması - Ultra Gerçekçi Moda Fotoğrafçılığı İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4454,7 +4551,7 @@ Uzun, ipeksi siyah saçları, yüzünü yumuşak bir şekilde çerçeveleyen per
 
 ---
 
-### No. 86: Ürün Pazarlaması - Fedoralı Zarif Beyaz Moda Portresi
+### No. 87: Ürün Pazarlaması - Fedoralı Zarif Beyaz Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4487,7 +4584,7 @@ Uzun, koyu renk dalgalı saçlara ve sıcak kahverengi gözlere sahip bir kadın
 
 ---
 
-### No. 87: Ürün Pazarlaması - GPT Image: Fütüristik Elbise Giyen Şehir Portresi
+### No. 88: Ürün Pazarlaması - GPT Image: Fütüristik Elbise Giyen Şehir Portresi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4524,7 +4621,7 @@ Fotoğraf Stili: Hiper gerçekçi fotoğraf çekimi, sinematik aydınlatma, ger�
 
 ---
 
-### No. 88: Ürün Pazarlaması - Hiper Gerçekçi İletişim Sayfası İstemcisi
+### No. 89: Ürün Pazarlaması - Hiper Gerçekçi İletişim Sayfası İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4563,7 +4660,7 @@ Dokuz panelin her biri farklı bir pozu ve kamera perspektifini yakalıyor: elle
 
 ---
 
-### No. 89: Ürün Pazarlaması - Zeytin Yeşili Mumlu Kanvas Rulo Üstü Sırt Çantası
+### No. 90: Ürün Pazarlaması - Zeytin Yeşili Mumlu Kanvas Rulo Üstü Sırt Çantası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4602,7 +4699,7 @@ Koyu zeytin yeşili, mumlu kanvas rulo kapaklı (roll-top) bir sırt çantasın�
 
 ---
 
-### No. 90: Ürün Pazarlaması - Rahat Kafe Moda Portresi İstemi
+### No. 91: Ürün Pazarlaması - Rahat Kafe Moda Portresi İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4637,7 +4734,7 @@ Arka plan: Siyah çerçeveli cam pencereleri, sıcak tonlarda sarkıt lambaları
 
 ---
 
-### No. 91: Ürün Pazarlaması - GPT Image 2 Pop Art Editoryal Promptları
+### No. 92: Ürün Pazarlaması - GPT Image 2 Pop Art Editoryal Promptları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4686,7 +4783,7 @@ Yüksek moda editoryal fotoğrafçılık, sürrealist stüdyo portresi. Düz kra
 
 ---
 
-### No. 92: Ürün Pazarlaması - 3D Tasarımcı Oyuncak Kız Portresi
+### No. 93: Ürün Pazarlaması - 3D Tasarımcı Oyuncak Kız Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4737,7 +4834,7 @@ Kare 1:1 yakın çekim portre, koleksiyonluk 3D designer-toy kız figürü, üst
 
 ---
 
-### No. 93: Ürün Pazarlaması - Altı Dergi Kapağı
+### No. 94: Ürün Pazarlaması - Altı Dergi Kapağı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4780,7 +4877,7 @@ Her kapakta, gerçek dergilerde yer alan otantik Japon tipografisi, manşetler v
 
 ---
 
-### No. 94: Ürün Pazarlaması - Akihabara'da Suica Pengueni
+### No. 95: Ürün Pazarlaması - Akihabara'da Suica Pengueni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4813,7 +4910,7 @@ Suica Penguin maskotunun kalabalık bir Akihabara sokağının tam ortasında du
 
 ---
 
-### No. 95: Ürün Pazarlaması - GPT Image 2 için Sürreal Moda ve Fantastik İstemler
+### No. 96: Ürün Pazarlaması - GPT Image 2 için Sürreal Moda ve Fantastik İstemler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4854,7 +4951,7 @@ Pastel gökkuşağı renklerinde kat kat tül bir elbise, krem rengi bir korse v
 
 ---
 
-### No. 96: Ürün Pazarlaması - Dramatik Işıklandırma ile Sinematik Portre
+### No. 97: Ürün Pazarlaması - Dramatik Işıklandırma ile Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4888,52 +4985,6 @@ Negatif Prompt: bulanık görüntü, düşük çözünürlük, plastik cilt, aş
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=36841)**
-
----
-
-### No. 97: Ürün Pazarlaması - Cadılar Bayramı Zombi Kız Kıyafeti Promptu
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Açıklama
-
-Yırtık omuzlu mini elbise ve sargı kurdeleleri ile sevimli bir zombi temalı kız oluşturmak için prompt.
-
-#### 📝 İstem
-
-```
-Cadılar Bayramı zombi tarzı tek parça bir elbise giyen bir kız.
-Kostüm, ekru renginde omuzları açık bir mini elbise. Omuz, bel ve etek kısımlarında birkaç yerde kasıtlı olarak yırtılmış açıklıklar ve kıvrılmış kumaş kenarları bulunuyor.
-Yırtık kısımlardan alttaki açık mor katman görünüyor.
-Yırtık kenarlarda ince siyah dikişler var.
-Boyunda küçük, bandaj tarzı (temiz) bir kurdele.
-Başında şapka yok.
-Renkler ekru, açık mor, siyah ve gece laciverti. Kir veya kan lekesi yok.
-Yırtık tasarımın net bir şekilde görüldüğü tam boy görünüm. Hafifçe dertli görünen sevimli bir yüz ifadesi.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655534507_au5rni_HVFB_M2bIAEIVbs.jpg" width="600" alt="Ürün Pazarlaması - Cadılar Bayramı Zombi Kız Kıyafeti Promptu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1792655534523_td99zd_HVFCA3UbAAE7XG4.jpg" width="600" alt="Ürün Pazarlaması - Cadılar Bayramı Zombi Kız Kıyafeti Promptu - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
-- **Kaynak:** [Twitter Post](https://x.com/ArtistaNozomu/status/2112741916521431175)
-- **Yayınlandı:** 21 Ekim 2026
-- **Diller:** ja
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=36724)**
 
 ---
 
@@ -6015,7 +6066,7 @@ Tüm vücut, kürk detayları ve diş desenleriyle birlikte görünüyor. Hafif 
 
 <div align="center">
 
-### 🎯 17996 burada gösterilmeyen daha fazla istem
+### 🎯 18000 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6078,6 +6129,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-17T05:37:16.102Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-17T20:12:22.442Z</sub>
 
 </div>
