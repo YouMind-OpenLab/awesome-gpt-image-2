@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **18142** |
+| 📝 Gesamtanzahl Prompts | **18144** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Sonntag, 22. November 2026 um 03:55:36 UTC** |
+| 🔄 Zuletzt aktualisiert | **Sonntag, 22. November 2026 um 18:48:30 UTC** |
 
 </div>
 
@@ -525,7 +525,40 @@ Verwandelt eine flache evolutionäre Zeitleiste in eine realistische 3D-Steintre
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: Profil / Avatar - Königsblauer Pullover Porträt-Prompt
+### No. 1: Profil / Avatar - Fotorealistischer Prompt für ein Porträt mit roter Strickjacke für GPT Image 2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein detaillierter Prompt zur Erstellung eines fotorealistischen, kinematografischen Porträts einer Frau in einer roten Strickjacke und einem gestreiften Overall, optimiert für GPT Image 2.
+
+#### 📝 Prompt
+
+```
+Ein fotorealistisches, cineastisches Porträt einer schönen jungen Frau, die im Freien vor einer üppigen, dichten grünen Hecke steht. Sie hat glattes, schulterlanges dunkelbraunes Haar mit Mittelscheitel, ein natürliches Make-up und einen sanften, selbstbewussten Gesichtsausdruck. Sie trägt eine leuchtend rote Strickjacke über einem figurbetonten weißen ärmellosen Jumpsuit mit feinen vertikalen schwarzen Streifen. Ihre Arme sind locker verschränkt, was eine entspannte und elegante Pose ergibt. Sie blickt mit einem dezenten Lächeln leicht zur Seite. Weiches, natürliches Tageslicht, realistische Hautstruktur, detaillierte Stofftextur, professionelle Modefotografie, geringe Schärfentiefe, wunderschön unscharfes grünes Blattwerk, DSLR-Qualität, 4K-Auflösung. Natürliche Körperproportionen und realistische Gesichtsdetails beibehalten.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795334175889_o6uoeo_HXpy2PmaMAA7AvH.jpg" width="600" alt="Profil / Avatar - Fotorealistischer Prompt für ein Porträt mit roter Strickjacke für GPT Image 2 - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Rubi](https://x.com/AIwithRubii)
+- **Quelle:** [Twitter Post](https://x.com/AIwithRubii/status/2124136460114956664)
+- **Veröffentlicht:** 21. November 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37692)**
+
+---
+
+### No. 2: Profil / Avatar - Königsblauer Pullover Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -564,7 +597,7 @@ Erstelle zwei separate Bilder derselben schönen jungen Frau aus dem Referenzbil
 
 ---
 
-### No. 2: Profil / Avatar - Showa-Retro-Blumenkleid-Porträt
+### No. 3: Profil / Avatar - Showa-Retro-Blumenkleid-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -597,7 +630,7 @@ Ein fotorealistisches Porträt einer jungen Frau mit sanfter, nostalgischer Show
 
 ---
 
-### No. 3: Profil / Avatar - Marmor-Skulptur-Avatar-Prompt
+### No. 4: Profil / Avatar - Marmor-Skulptur-Avatar-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -630,7 +663,7 @@ Verwandle das hochgeladene Foto in einen hyperrealistischen Marmor-Skulptur-Avat
 
 ---
 
-### No. 4: Profil / Avatar - Königsblaues Abendkleid – Portrait-Prompt
+### No. 5: Profil / Avatar - Königsblaues Abendkleid – Portrait-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -663,7 +696,7 @@ Glamouröse Frau mit langen, gewellten dunkelbraunen Haaren und kräftigem roten
 
 ---
 
-### No. 5: Profil / Avatar - Elegantes Modeporträt einer ostasiatischen Frau
+### No. 6: Profil / Avatar - Elegantes Modeporträt einer ostasiatischen Frau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -702,7 +735,7 @@ Weiches Studiolicht, warme Goldtöne, High-End-Fashion-Ästhetik, scharfer Fokus
 
 ---
 
-### No. 6: Profil / Avatar - Sechsteiliges Porträt-Raster einer jungen Frau
+### No. 7: Profil / Avatar - Sechsteiliges Porträt-Raster einer jungen Frau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -742,7 +775,7 @@ Unten rechts: Sie blickt direkt in die Kamera mit einem sanften, dezenten Läche
 
 ---
 
-### No. 7: Profil / Avatar - GPT Image 2 Prompt für Nacht-Selfies
+### No. 8: Profil / Avatar - GPT Image 2 Prompt für Nacht-Selfies
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -775,7 +808,7 @@ Surreales Smartphone-Selfie, nachts aufgenommen, das wirkt, als wäre es mit ein
 
 ---
 
-### No. 8: Profil / Avatar - Showa-Retro-Porträt einer Frau im Blumenkleid
+### No. 9: Profil / Avatar - Showa-Retro-Porträt einer Frau im Blumenkleid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -812,7 +845,7 @@ Stil: Filmfotografie-Ästhetik – körnige Textur, gedämpfte Pastelltöne, ger
 
 ---
 
-### No. 9: Profil / Avatar - Winter Scrapbook Collage Portrait Prompt für GPT Image 2
+### No. 10: Profil / Avatar - Winter Scrapbook Collage Portrait Prompt für GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -852,7 +885,7 @@ Verwende weiches, diffuses Winter-Studiolicht, kühle Pastellblautöne, warme, g
 
 ---
 
-### No. 10: Profil / Avatar - GPT Image 2 Prompt: Foto in ein 3D-Spielzeugpaar verwandeln
+### No. 11: Profil / Avatar - GPT Image 2 Prompt: Foto in ein 3D-Spielzeugpaar verwandeln
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -901,7 +934,7 @@ Wichtig: Bewahre die Identität und die charakteristischen Gesichtszüge des Paa
 
 ---
 
-### No. 11: Profil / Avatar - GPT Image 2 Prompt für Multi-View-Charakterkonsistenz
+### No. 12: Profil / Avatar - GPT Image 2 Prompt für Multi-View-Charakterkonsistenz
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +976,7 @@ Bitte generiere ein weiteres Bild: Orientiere dich am vorherigen: dieselbe Perso
 
 ---
 
-### No. 12: Profil / Avatar - Anime-Mädchen im herbstlichen Outfit mit Hirsch-Umhang
+### No. 13: Profil / Avatar - Anime-Mädchen im herbstlichen Outfit mit Hirsch-Umhang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -976,7 +1009,7 @@ Eine Ganzkörperillustration im Anime-Stil einer fröhlichen jungen Frau, die au
 
 ---
 
-### No. 13: Profil / Avatar - Stilvolles Entenküken-Porträt aus Referenz
+### No. 14: Profil / Avatar - Stilvolles Entenküken-Porträt aus Referenz
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1009,7 +1042,7 @@ Erstelle ein wunderschönes Porträt eines Entenkükens auf Basis des angehängt
 
 ---
 
-### No. 14: Profil / Avatar - Anime-Mädchen im cremefarbenen Cardigan
+### No. 15: Profil / Avatar - Anime-Mädchen im cremefarbenen Cardigan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1042,7 +1075,7 @@ Ein hochauflösendes Porträt im Anime-Stil einer jungen Frau mit schulterlangem
 
 ---
 
-### No. 15: Profil / Avatar - GPT Image 2 Prompt: Koreanisches Schlafzimmer-Porträt mit rosa Trägertop
+### No. 16: Profil / Avatar - GPT Image 2 Prompt: Koreanisches Schlafzimmer-Porträt mit rosa Trägertop
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1141,7 +1174,7 @@ Anime, Illustration, 3D-Render, CG-Kunstgesicht, Plastikhaut, übermäßige Glä
 
 ---
 
-### No. 16: Profil / Avatar - GPT Image 2 Prompt: Koreanischer Sommer-Strandporträt-Stil mit blauem Stricktop
+### No. 17: Profil / Avatar - GPT Image 2 Prompt: Koreanischer Sommer-Strandporträt-Stil mit blauem Stricktop
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1256,7 +1289,7 @@ Anime, Illustration, 3D-Render, CG-Kunstgesicht, Plastikhaut, übermäßige Glä
 
 ---
 
-### No. 17: Profil / Avatar - Showa-Retro-Porträt
+### No. 18: Profil / Avatar - Showa-Retro-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1289,7 +1322,7 @@ Ein nostalgisches Porträt im Filmstil einer jungen Japanerin mit langen, dunkle
 
 ---
 
-### No. 18: Profil / Avatar - Schlafzimmer-Selfie-Porträt-Prompt
+### No. 19: Profil / Avatar - Schlafzimmer-Selfie-Porträt-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1388,7 +1421,7 @@ Anime, Illustration, 3D-Rendering, CG-Kunstgesicht, Plastikhaut, übermäßige G
 
 ---
 
-### No. 19: Profil / Avatar - Weiches Nahaufnahme-Porträt einer jungen Frau
+### No. 20: Profil / Avatar - Weiches Nahaufnahme-Porträt einer jungen Frau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1421,57 +1454,32 @@ Ein fotorealistisches Porträt einer jungen ostasiatischen Frau in Nahaufnahme. 
 
 ---
 
-### No. 20: Profil / Avatar - GPT Image: Porträt im koreanischen Stil
+### No. 21: Social-Media-Beitrag - Prompt für Vintage-Editorial-Fotografie-Poster
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Detaillierte Eingabeaufforderung zur Erstellung eines realistischen Porträts im koreanischen Stil einer jungen Frau in Innenräumen.
+Ein detaillierter Prompt für GPT Image 2, der ein hochgeladenes Referenzfoto in ein anspruchsvolles Vintage-Editorial-Poster verwandelt. Er erstellt ein vertikales Split-Layout mit dem Originalfoto oben und einer minimalistischen, geometrischen Illustration derselben Szene im Bauhaus-Stil unten, angereichert mit Elementen des Schweizer Grafikdesigns und Texturen von gealtertem Papier.
 
 #### 📝 Prompt
 
 ```
-[Gesamtstil]
-9:16 Hochformat, einzelne eigenständige Szene, ultrarealistisches koreanisches Lifestyle-Foto einer erwachsenen Frau in Innenräumen, kühle und sanfte, luftige Atmosphäre, entsättigte Cremepink- und kalte Blaugrautöne, weiches natürliches Fensterlicht, leichter Film-Weichzeichner-Effekt, Textur echter Kamerafotografie.
+Verwandle das hochgeladene Referenzfoto in ein anspruchsvolles Vintage-Editorial-Fotografieposter, das exakt der visuellen Ästhetik der bereitgestellten Beispiele folgt.
 
-[Gesichtszüge]
-Eine schöne ostasiatische Frau zwischen 23 und 25 Jahren, zartes kleines ovales Gesicht, weich geschwungene Kieferlinie, kleines rundliches Kinn, makellos helle, kaltweiße Porzellanhaut, zart pfirsichrosa Rouge.
-Strahlend klare, dunkelgrau-braune Mandelaugen, natürliche Lidfalte, dezentes Aegyo-sal (Fett unter den Augen), schlanke natürliche Wimpern, hell rosa-brauner Lidschatten, sanft nach oben gezogener Eyeliner.
-Schlanker gerader Nasenrücken, kleine Nasenspitze, weiche, volle, feuchte Lippen in Rosé-Bohnenpaste-Pink.
-Lippen natürlich geschlossen, Ausdruck sanft und kühl mit einer Spur von Lässigkeit, der Blick ruht ruhig direkt auf dem Objektiv, echte Hautmikrotextur bleibt erhalten.
+Erstelle eine vertikale Komposition im Split-Layout mit einem Seitenverhältnis von 2:3. Platziere das Originalfoto in der oberen Hälfte und bewahre dabei die ursprünglichen Farben, das Motiv, den Kamerawinkel, die Perspektive, den Bildausschnitt sowie alle Details. Gestalte in der unteren Hälfte exakt dieselbe Szene als minimalistische, geometrische 2D-Illustration im Vintage-Stil nach.
 
-[Haare]
-Dichtes, voluminöses, tiefschwarzes hüftlanges Haar, natürlicher Glanz in tiefem Schwarztee-Ton, am Oberkopf mit echtem luftigen Volumen.
-Natürlicher Mittelscheitel, auf der Stirn ein leichter, unregelmäßiger, achtförmig geteilter Pony, einige feine Härchen streichen sanft über Stirn und Wangen.
-Das lange Haar fällt natürlich über Schultern und Brust, insgesamt glatt, die Spitzen enden in lockeren großen Wellen, einzelne echte Haarsträhnen und natürliche Fülle bleiben erhalten.
+Nutze eine edle Editorial-Ästhetik, inspiriert vom Schweizer Grafikdesign und dem Bauhaus. Verwende eine gedeckte, erdige Farbpalette mit warmem Beige, Creme, Holzkohleschwarz, staubigem Grau, gedämpftem Blaugrau und dezenten Brauntönen. Reduziere Motive und Umgebung auf klare geometrische Formen, markante Silhouetten, kantige Strukturen und flächige Farbblöcke – ohne dabei die Komposition und die wiedererkennbaren Details der Originalszene zu verändern.
 
-[Kleidung & Schmuck]
-Trägt ein eng anliegendes kurzes Top in hellem Kirschblütenrosa mit dünnen Trägern, weicher Baumwollstoff, einfacher flacher Rundhalsausschnitt.
-Darüber eine cremeweiße, locker gestrickte Strickjacke, vorne natürlich offen, die Ärmel fallen locker auf die Oberarme und geben Schulter, Hals und Schlüsselbeine frei.
-Trägt kleine silberne Creolen und ein zartes, dünnes Silberarmband.
+Füge eine dezente Altpapier-Textur, feines Korn, abgenutzte Vintage-Druckeffekte und leicht verblasste Druckfarbe hinzu. Integriere filigrane grafische Elemente wie dünne Kreisbögen, vertikale und horizontale Hilfslinien, sich kreuzende Linien, gepunktete Linien, kleine quadratische Markierungen und minimale geometrische Raster rund um die illustrierte Szene.
 
-[Pose]
-Die Person sitzt am Schminktisch am Schlafzimmerfenster, der Körper leicht zur Kamera gedreht, die Schultern natürlich entspannt.
-Der Kopf sanft geneigt, das Kinn leicht eingezogen, der Blick direkt in die Kamera.
-Beide Hände natürlich auf Brusthöhe gehoben, eine Hand hält leicht das lange Haar vor der Schulter, die andere ordnet sanft die Haarspitzen.
-Haltung sanft und entspannt, Handstrukturen anatomisch korrekt, Bewegungen natürlich.
+Ergänze kleine redaktionelle Typografie in einer Schreibmaschinenschrift sowie ein nummeriertes Serienlabel für Fotografie in der oberen linken Ecke des illustrierten Bereichs. Füge eine kleine Sequenznummer in der unteren rechten Ecke und eine minimalistische Drei-Farben-Palette am unteren linken Rand hinzu.
 
-[Hintergrund & Umgebung]
-Modernes, schlichtes Schlafzimmer in Hellgrau-Weiß, großes helles Fenster auf der linken Bildseite, auf der Fensterbank steht ein Blumenstrauß aus hellrosa und cremeweißen Blüten.
-Auf der rechten Bildseite befindet sich ein weißer Schminktisch, darauf liegen Make-up-Pinsel, Kompaktpuder, Pflegeprodukte und etwas Kosmetik.
-Über dem Tisch hängt ein großer runder Spiegel, der schwach den Rücken der Person und das tiefschwarze lange Haar reflektiert.
-Der Hintergrund strahlt eine authentische Wohnatmosphäre aus, insgesamt sauber, weich und natürlich.
+Achte auf großzügigen Weißraum, präzise Ausrichtung, ausgewogene Proportionen und eine elegante Art Direction in Museumsqualität.
 
-[Objektiv & Licht]
-9:16 Hochformat, äquivalent zu einem 35-50 mm Objektiv, Aufnahme auf Augenhöhe, Person zentriert, Halbkörperkomposition vom Kopf bis zur Taille.
-Weiches, kaltweißes natürliches Fensterlicht fällt von der linken Bildseite ein, das Gesicht ist hell und klar, die Haut wirkt natürlich kaltweiß.
-Im Haar zeigen sich feine dunkelbraune Reflexionen, Fensterrahmen und heller Hintergrund sind leicht überstrahlt.
-Insgesamt kontrastarmes, kalt blaugraues Color Grading, weiche Schatten, leichtes Filmkorn und natürlicher optischer Weichzeichner-Effekt.
-Echte Hauttextur, feine Haarsträhnen, natürliche Stofffalten und echte räumliche Perspektive beibehalten; übermäßige Glättung und offensichtliche KI-Artefakte vermeiden.
+WICHTIG: Bewahre das Originalfoto im oberen Bereich unverändert und greife nicht in die Szene ein. Die untere Illustration muss exakt dasselbe Foto widerspiegeln – inklusive derselben Motive, Positionen, Perspektiven, Architektur, Objekte und Hintergründe. Füge keine neuen Elemente hinzu und verändere nicht die ursprüngliche Komposition.
 
-[Negative Prompts]
-Anime, Illustration, 3D-Rendering, CG-Kunstgesicht, Plastikhaut, übermäßige Glättung, übertriebenes Influencer-Gesicht, unnatürlich große Augen, zu spitzes Kinn, verschobene Gesichtsproportionen, Perücke, verfilztes Haar, deformierte Finger, zusätzliche Finger, falsche Handanatomie, unnatürliche Körperproportionen, Clipping-Fehler bei Kleidung, verzerrte Spiegelung im Spiegel, falsche Spiegelreflexion, verschmierte Kosmetik, starke Überbelichtung, starkes HDR, übermäßige Schärfung, kommerzielle Studiolichtsetzung, offensichtlicher KI-Look, Text, Wasserzeichen, LOGO, Collage.
+Gesamtästhetik: Vintage-Fotomagazin, Schweizer Editorial-Grafikdesign, minimalistische Architekturillustration, Retro-Art-Direction, anspruchsvolles Printdesign und zeitloses visuelles Storytelling. Hohe Auflösung, gestochen scharfe Details, vertikales Posterformat.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1479,21 +1487,27 @@ Anime, Illustration, 3D-Rendering, CG-Kunstgesicht, Plastikhaut, übermäßige G
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1793691804292_e0umrs_HWIbDg6aUAAKj3I.jpg" width="600" alt="Profil / Avatar - GPT Image: Porträt im koreanischen Stil - Image 1">
+<img src="https://cms-assets.youmind.com/media/1795334174419_hngi4t_HXs8od5aEAAG9dq.jpg" width="600" alt="Social-Media-Beitrag - Prompt für Vintage-Editorial-Fotografie-Poster - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1795334174453_59u3ko_HXs8od5bUAAWflI.jpg" width="600" alt="Social-Media-Beitrag - Prompt für Vintage-Editorial-Fotografie-Poster - Image 2">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [沧瑶](https://x.com/CryY666666)
-- **Quelle:** [Twitter Post](https://x.com/CryY666666/status/2117284530839232946)
-- **Veröffentlicht:** 2. November 2026
-- **Sprachen:** zh
+- **Autor:** [Taaruk](https://x.com/Taaruk_)
+- **Quelle:** [Twitter Post](https://x.com/Taaruk_/status/2124358326486269975)
+- **Veröffentlicht:** 22. November 2026
+- **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37243)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37691)**
 
 ---
 
-### No. 21: Social-Media-Beitrag - Raue Mitternacht: Cover eines Späti-Magazins
+### No. 22: Social-Media-Beitrag - Raue Mitternacht: Cover eines Späti-Magazins
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1549,7 +1563,7 @@ Vorgaben:
 
 ---
 
-### No. 22: Social-Media-Beitrag - Steampunk-Künstlerporträt
+### No. 23: Social-Media-Beitrag - Steampunk-Künstlerporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1582,7 +1596,7 @@ Ein äußerst detailliertes, cineastisches Steampunk-Porträt einer schönen Fra
 
 ---
 
-### No. 23: Social-Media-Beitrag - Strandmode-Porträt-Prompt
+### No. 24: Social-Media-Beitrag - Strandmode-Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1615,7 +1629,7 @@ Ultrarealistisches Ganzkörper-Modeporträt einer schönen jungen Frau, die anmu
 
 ---
 
-### No. 24: Social-Media-Beitrag - GPT Image 2 Prompt: Liegendes Gartenporträt
+### No. 25: Social-Media-Beitrag - GPT Image 2 Prompt: Liegendes Gartenporträt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1670,7 +1684,7 @@ Negative Prompts: Komplexer Story-Hintergrund, Figur beschäftigt sich mit Gegen
 
 ---
 
-### No. 25: Social-Media-Beitrag - GPT Image 2 Mode-Porträt-Prompt
+### No. 26: Social-Media-Beitrag - GPT Image 2 Mode-Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1711,7 +1725,7 @@ Negative Prompt: Cartoon, Anime, CGI, plastikhautartiger Look, unscharfes Gesich
 
 ---
 
-### No. 26: Social-Media-Beitrag - Gemütlicher Herbst-Lifestyle-Porträt-Prompt für GPT Image 2
+### No. 27: Social-Media-Beitrag - Gemütlicher Herbst-Lifestyle-Porträt-Prompt für GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1744,7 +1758,7 @@ Eine schöne junge Frau mit langem, natürlich gewelltem dunkelbraunem Haar, die
 
 ---
 
-### No. 27: Social-Media-Beitrag - GPT Image 2 Kerzenlicht-Porträt im Blumenkleid
+### No. 28: Social-Media-Beitrag - GPT Image 2 Kerzenlicht-Porträt im Blumenkleid
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1797,7 +1811,7 @@ Negativ: Unscharf, niedrige Qualität, verzerrtes Gesicht, unnatürliche Hände,
 
 ---
 
-### No. 28: Social-Media-Beitrag - Realistischer Wander-Porträt-Prompt für GPT Image 2
+### No. 29: Social-Media-Beitrag - Realistischer Wander-Porträt-Prompt für GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1841,7 +1855,7 @@ Negative Prompts: Selfie, Weitwinkel von oben, großer Kopf, rundes Gesicht, Ges
 
 ---
 
-### No. 29: Social-Media-Beitrag - Koreanischer Mode-Porträt-Prompt
+### No. 30: Social-Media-Beitrag - Koreanischer Mode-Porträt-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1954,7 +1968,7 @@ Anime, Illustration, 3D-Rendering, CG-Kunstgesicht, Plastikhaut, übermäßige G
 
 ---
 
-### No. 30: Social-Media-Beitrag - GPT Image 2 Realistischer Porträt-Prompt
+### No. 31: Social-Media-Beitrag - GPT Image 2 Realistischer Porträt-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1994,45 +2008,6 @@ Negative Prompts: Selfie, Weitwinkel-Draufsicht, großer Kopf, rundes Gesicht, s
 - **Sprachen:** zh
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37585)**
-
----
-
-### No. 31: Social-Media-Beitrag - Frau beim Einkaufen mit Engel und Teufel
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein realistisches Foto einer Frau, die ihr Handy prüft, während miniaturisierte Engel- und Teufel-Versionen ihrer selbst in der Nähe eines Schuhgeschäfts über einen Kauf diskutieren.
-
-#### 📝 Prompt
-
-```
-Eine fotorealistische Halbtotale einer jungen asiatischen Frau, die in einem Einkaufszentrum steht und mit zwiespältigem Gesichtsausdruck auf ihr Smartphone blickt. Sie hat dunkles Haar, das zu einem lockeren hohen Dutt gebunden ist, darüber ruht eine Schildpatt-Sonnenbrille. Sie trägt eine zugeknöpfte olivgrüne Rippenstrickjacke, eine braune Cordhose mit einem breiten braunen Ledergürtel sowie eine goldene Halskette mit einem grünen Herzanhänger. Eine braune Umhängetasche hängt an ihrer Hüfte.
-
-Auf ihrer rechten Schulter (vom Betrachter aus links) sitzt eine Miniatur-„Teufel“-Version von ihr selbst: Sie trägt ein schwarzes Tanktop, glänzende schwarze Lederhosen, rote Plateauschuhe, kleine rote Hörner sowie Fledermausflügel und einen Teufelsschwanz. Dieser Mini-Teufel flüstert ihr ins Ohr.
-
-Links neben ihr schwebend (vom Betrachter aus rechts) befindet sich eine Miniatur-„Engel“-Version von ihr selbst: Sie trägt ein fließendes weißes Kleid, große weiße Federflügel und einen leuchtenden goldenen Heiligenschein. Der Engel wirkt besorgt und deutet auf das Schaufenster.
-
-Der Hintergrund zeigt ein unscharfes Einkaufszentrum mit heller Beleuchtung. Auf der rechten Bildseite befindet sich das Schaufenster eines Schuhgeschäfts, in dem zwei Paar glänzende rote High Heels auf weißen Podesten stehen. Ein großes rotes Schild im Fenster trägt die Aufschrift „70% OFF“. Im linken oberen Hintergrund ist auf einem schwarzen Schild „BLACK FRIDAY“ zu lesen, und ein vertikales rotes Banner zeigt das Wort „SALE“.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794902293086_59o58e_HXQ_RmvXYAArEnu.jpg" width="600" alt="Social-Media-Beitrag - Frau beim Einkaufen mit Engel und Teufel - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [medsinform](https://x.com/meds76_)
-- **Quelle:** [Twitter Post](https://x.com/meds76_/status/2122391218101367207#reversed-0)
-- **Veröffentlicht:** 16. November 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37535)**
 
 ---
 
@@ -4372,7 +4347,46 @@ Eine skurrile, handgezeichnete Illustration im Stil eines Bilderbuchs zeigt eine
 
 ---
 
-### No. 86: Produktmarketing - Echtes Foto mit Doodle-Interaktions-Prompt
+### No. 86: Produktmarketing - Frau beim Einkaufen mit Engel und Teufel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein realistisches Foto einer Frau, die ihr Handy prüft, während miniaturisierte Engel- und Teufel-Versionen ihrer selbst in der Nähe eines Schuhgeschäfts über einen Kauf diskutieren.
+
+#### 📝 Prompt
+
+```
+Eine fotorealistische Halbtotale einer jungen asiatischen Frau, die in einem Einkaufszentrum steht und mit zwiespältigem Gesichtsausdruck auf ihr Smartphone blickt. Sie hat dunkles Haar, das zu einem lockeren hohen Dutt gebunden ist, darüber ruht eine Schildpatt-Sonnenbrille. Sie trägt eine zugeknöpfte olivgrüne Rippenstrickjacke, eine braune Cordhose mit einem breiten braunen Ledergürtel sowie eine goldene Halskette mit einem grünen Herzanhänger. Eine braune Umhängetasche hängt an ihrer Hüfte.
+
+Auf ihrer rechten Schulter (vom Betrachter aus links) sitzt eine Miniatur-„Teufel“-Version von ihr selbst: Sie trägt ein schwarzes Tanktop, glänzende schwarze Lederhosen, rote Plateauschuhe, kleine rote Hörner sowie Fledermausflügel und einen Teufelsschwanz. Dieser Mini-Teufel flüstert ihr ins Ohr.
+
+Links neben ihr schwebend (vom Betrachter aus rechts) befindet sich eine Miniatur-„Engel“-Version von ihr selbst: Sie trägt ein fließendes weißes Kleid, große weiße Federflügel und einen leuchtenden goldenen Heiligenschein. Der Engel wirkt besorgt und deutet auf das Schaufenster.
+
+Der Hintergrund zeigt ein unscharfes Einkaufszentrum mit heller Beleuchtung. Auf der rechten Bildseite befindet sich das Schaufenster eines Schuhgeschäfts, in dem zwei Paar glänzende rote High Heels auf weißen Podesten stehen. Ein großes rotes Schild im Fenster trägt die Aufschrift „70% OFF“. Im linken oberen Hintergrund ist auf einem schwarzen Schild „BLACK FRIDAY“ zu lesen, und ein vertikales rotes Banner zeigt das Wort „SALE“.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902293086_59o58e_HXQ_RmvXYAArEnu.jpg" width="600" alt="Produktmarketing - Frau beim Einkaufen mit Engel und Teufel - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [medsinform](https://x.com/meds76_)
+- **Quelle:** [Twitter Post](https://x.com/meds76_/status/2122391218101367207#reversed-0)
+- **Veröffentlicht:** 16. November 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37535)**
+
+---
+
+### No. 87: Produktmarketing - Echtes Foto mit Doodle-Interaktions-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4429,7 +4443,7 @@ Kein Text, keine Wasserzeichen, keine komplexen Hintergründe, keine zusätzlich
 
 ---
 
-### No. 87: Produktmarketing - Luxuriöses Straßenmode-Foto im Regen
+### No. 88: Produktmarketing - Luxuriöses Straßenmode-Foto im Regen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4486,7 +4500,7 @@ Behalte die Gesamtkomposition des Referenzbildes, die Platzierung des Schirms, d
 
 ---
 
-### No. 88: Produktmarketing - Wadi Rum Wüsten-Reiseporträt
+### No. 89: Produktmarketing - Wadi Rum Wüsten-Reiseporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4519,7 +4533,7 @@ Ein atemberaubendes, fotorealistisches Ganzkörper-Reiseporträt einer schönen 
 
 ---
 
-### No. 89: Produktmarketing - Meereswellen-Kleid Anime-Mädchen
+### No. 90: Produktmarketing - Meereswellen-Kleid Anime-Mädchen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4558,7 +4572,7 @@ Erwachsenes Anime-Modemodel, originäre hydrodynamische Couture inspiriert von d
 
 ---
 
-### No. 90: Produktmarketing - Klassisches Café-Dating-Outfit-Prompt
+### No. 91: Produktmarketing - Klassisches Café-Dating-Outfit-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4608,7 +4622,7 @@ Souveränes, feminines und zeitloses Styling für jede Saison.
 
 ---
 
-### No. 91: Produktmarketing - Prompt für ultra-realistische Modefotografie
+### No. 92: Produktmarketing - Prompt für ultra-realistische Modefotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4641,7 +4655,7 @@ Ultrarealistische Ganzkörper-Modefotografie einer schönen jungen Frau mit lang
 
 ---
 
-### No. 92: Produktmarketing - Elegantes weißes Modeporträt mit Fedora
+### No. 93: Produktmarketing - Elegantes weißes Modeporträt mit Fedora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4674,7 +4688,7 @@ Ein hochauflösendes Porträt einer Frau im Close-up mit langen, dunklen, gewell
 
 ---
 
-### No. 93: Produktmarketing - GPT Image Futuristisches Kleid Stadtporträt
+### No. 94: Produktmarketing - GPT Image Futuristisches Kleid Stadtporträt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4711,7 +4725,7 @@ Fotografiestil: Hyperrealistische Live-Action-Fotografie, cineastische Lichtsetz
 
 ---
 
-### No. 94: Produktmarketing - Hyperrealistischer Kontaktbogen-Prompt
+### No. 95: Produktmarketing - Hyperrealistischer Kontaktbogen-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4750,7 +4764,7 @@ Wechsle zwischen Ganzkörperaufnahmen mit 35 mm und intimen Porträts mit 85 mm 
 
 ---
 
-### No. 95: Produktmarketing - Rucksack mit Roll-Top aus olivgrünem Wachs-Canvas
+### No. 96: Produktmarketing - Rucksack mit Roll-Top aus olivgrünem Wachs-Canvas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4789,7 +4803,7 @@ Eine hochauflösende Produktfotografie eines dunkelolivgrünen Rolltop-Rucksacks
 
 ---
 
-### No. 96: Produktmarketing - Lässiges Café-Modeporträt-Prompt
+### No. 97: Produktmarketing - Lässiges Café-Modeporträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4823,7 +4837,7 @@ Hintergrund: elegantes, modernes Café mit Glasfenstern in schwarzen Rahmen, war
 
 ---
 
-### No. 97: Produktmarketing - GPT Image 2 Pop Art Editorial Prompts
+### No. 98: Produktmarketing - GPT Image 2 Pop Art Editorial Prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4872,7 +4886,7 @@ High-Fashion-Editorial-Fotografie, surrealistisches Studioporträt. Eine Frau st
 
 ---
 
-### No. 98: Produktmarketing - 3D Designer Toy Girl Portrait
+### No. 99: Produktmarketing - 3D Designer Toy Girl Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4923,7 +4937,7 @@ Quadratisches 1:1-Nahporträt eines sammelbaren 3D-Designer-Toy-Mädchens, hochw
 
 ---
 
-### No. 99: Produktmarketing - Sechs Magazin-Cover
+### No. 100: Produktmarketing - Sechs Magazin-Cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4966,7 +4980,7 @@ Jedes Cover muss authentische japanische Typografie, Schlagzeilen und kleine Tex
 
 ---
 
-### No. 100: E-Commerce-Hauptbild - Herbstlicher Romantischer Date-Outfit-Prompt für GPT Image 2
+### No. 101: E-Commerce-Hauptbild - Herbstlicher Romantischer Date-Outfit-Prompt für GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5013,7 +5027,7 @@ Romantischer, klassischer Herbst-Look für ein Date, elegantes feminines Styling
 
 ---
 
-### No. 101: E-Commerce-Hauptbild - Realistisches Abendporträt beim Spaziergang mit spezifischer Kleidung
+### No. 102: E-Commerce-Hauptbild - Realistisches Abendporträt beim Spaziergang mit spezifischer Kleidung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5048,7 +5062,7 @@ Kleidung: ein schwarzer, figurbetonter Jumpsuit mit langen Ärmeln und einem hoh
 
 ---
 
-### No. 102: E-Commerce-Hauptbild - Anime-Herbst-Date-Outfit-Prompt
+### No. 103: E-Commerce-Hauptbild - Anime-Herbst-Date-Outfit-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5093,7 +5107,7 @@ Wunderschöne Anime-Illustration, feine Linienführung, sanfte Farbgebung, detai
 
 ---
 
-### No. 103: E-Commerce-Hauptbild - Retro Outfit-Prompt in Rot und Schwarz
+### No. 104: E-Commerce-Hauptbild - Retro Outfit-Prompt in Rot und Schwarz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5139,7 +5153,7 @@ Ohne zusätzliche Dekorationen.
 
 ---
 
-### No. 104: E-Commerce-Hauptbild - Herbstlicher Check-Style-Outfit-Prompt
+### No. 105: E-Commerce-Hauptbild - Herbstlicher Check-Style-Outfit-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5178,7 +5192,7 @@ niedliche, rot-schwarz karierte kurze Hose, schwarze Strickweste, Jeansjacke, co
 
 ---
 
-### No. 105: E-Commerce-Hauptbild - Monochromes elegantes Herbst-Outfit
+### No. 106: E-Commerce-Hauptbild - Monochromes elegantes Herbst-Outfit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5217,7 +5231,7 @@ Niedlicher, schwarzer Karo-Bleistiftrock, schwarzer Strickpullover, beigefarbene
 
 ---
 
-### No. 106: E-Commerce-Hauptbild - GPT Image 2 Prompt für süßes Bären-Kapuzenpulli-Outfit
+### No. 107: E-Commerce-Hauptbild - GPT Image 2 Prompt für süßes Bären-Kapuzenpulli-Outfit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5264,7 +5278,7 @@ Keine zusätzlichen Dekorationen.
 
 ---
 
-### No. 107: E-Commerce-Hauptbild - Herbstlicher Straßenstil-Outfit-Prompt
+### No. 108: E-Commerce-Hauptbild - Herbstlicher Straßenstil-Outfit-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5303,7 +5317,7 @@ Ein Prompt zur Generierung eines niedlichen Mädchens in braunen Karo-Shorts, ei
 
 ---
 
-### No. 108: E-Commerce-Hauptbild - Deadpan-Charakter Produktfoto-Prompt
+### No. 109: E-Commerce-Hauptbild - Deadpan-Charakter Produktfoto-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5385,7 +5399,7 @@ Vertikale Ausrichtung.
 
 ---
 
-### No. 109: E-Commerce-Hauptbild - Mintgrüner Häkelpullover-Outfit-Prompt
+### No. 110: E-Commerce-Hauptbild - Mintgrüner Häkelpullover-Outfit-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5434,7 +5448,7 @@ Keine zusätzlichen Dekorationen.
 
 ---
 
-### No. 110: E-Commerce-Hauptbild - GPT Image Französischer Casual-Look
+### No. 111: E-Commerce-Hauptbild - GPT Image Französischer Casual-Look
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5481,7 +5495,7 @@ Keine zusätzlichen Dekorationen.
 
 ---
 
-### No. 111: E-Commerce-Hauptbild - GPT Image Parfümflaschen-Prompt
+### No. 112: E-Commerce-Hauptbild - GPT Image Parfümflaschen-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5514,7 +5528,7 @@ Eine riesige, abgerundete, hellgrüne transparente Glasparfümflasche, die ein M
 
 ---
 
-### No. 112: E-Commerce-Hauptbild - Fotorealistische Meal-Prep-Gläser mit Zutatenliste
+### No. 113: E-Commerce-Hauptbild - Fotorealistische Meal-Prep-Gläser mit Zutatenliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5565,7 +5579,7 @@ Vertikale Komposition, realistische Proportionen, saubere und appetitliche Präs
 
 ---
 
-### No. 113: E-Commerce-Hauptbild - Matte Schwarze B.AI Tastaturkappe
+### No. 114: E-Commerce-Hauptbild - Matte Schwarze B.AI Tastaturkappe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5598,7 +5612,7 @@ Eine Nahaufnahme aus der Vogelperspektive im Studio zeigt eine einzelne matte sc
 
 ---
 
-### No. 114: E-Commerce-Hauptbild - LEGO Minifigure Transformation
+### No. 115: E-Commerce-Hauptbild - LEGO Minifigure Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5686,7 +5700,7 @@ Sta
 
 ---
 
-### No. 115: Spiel-Asset - GTA VI Stil Ladebildschirm Poster Prompt
+### No. 116: Spiel-Asset - GTA VI Stil Ladebildschirm Poster Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5756,7 +5770,7 @@ Ultrahochdetailliert, 4K-Qualität, vertikale 3:4-Komposition.
 
 ---
 
-### No. 116: Spiel-Asset - Kinematografisches Fantasy-Porträt mit Miniatur-Selbst
+### No. 117: Spiel-Asset - Kinematografisches Fantasy-Porträt mit Miniatur-Selbst
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5799,7 +5813,7 @@ KAMERA UND QUALITÄT: Umweltporträt in Ganzkörperansicht, vertikale Kompositio
 
 ---
 
-### No. 117: Spiel-Asset - Anime-Braut im gerüschten Hochzeitskleid
+### No. 118: Spiel-Asset - Anime-Braut im gerüschten Hochzeitskleid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5844,7 +5858,7 @@ Eine Ganzkörperillustration im Anime-Stil einer wunderschönen Braut vor einem 
 
 ---
 
-### No. 118: Spiel-Asset - Halloween-Roboter in einer Turnhalle in Tokio
+### No. 119: Spiel-Asset - Halloween-Roboter in einer Turnhalle in Tokio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5879,7 +5893,7 @@ Im Vordergrund stehen zwei Polizeibeamte in dunkelblauen Uniformen, Einsatzweste
 
 ---
 
-### No. 119: Spiel-Asset - Retro-amerikanischer Cartoon-Stil: Bildtransformation
+### No. 120: Spiel-Asset - Retro-amerikanischer Cartoon-Stil: Bildtransformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5926,62 +5940,13 @@ Behalte die ursprüngliche Komposition, den Bildausschnitt, die Perspektive und 
 
 ---
 
-### No. 120: Spiel-Asset - Kinematografische Schwertkämpferin auf dem Nachtmarkt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt zur Generierung eines fotorealistischen, kinematografischen Bildes einer jungen Schwertkämpferin auf einem von Laternen beleuchteten Nachtmarkt, mit Fokus auf spezifische Komposition, Beleuchtung und Charakterdetails.
-
-#### 📝 Prompt
-
-```
-Ultrawide 2.2:1, fotorealistisch-cinematisch, junge Schwertkämpferin blickt über die Schulter zurück auf einem von Laternen erleuchteten Nachtmarkt, warmes Laternenlicht gegen kalte blaue Nacht. Eine Person.
-
-【Komposition】Dreiviertel-Rückenansicht, links der Mitte, Gesicht bei 41 % Breite, 38 % Höhe, 30 % Bildhöhe. Rechte 55 % Hintergrund: Laternenkugeln verlieren sich in der Unschärfe. Dunkler Schwertgriff bei 24 % Breite, tief und nicht erhoben. Kamera auf Schulterhöhe, Teleobjektiv, geringe Schärfentiefe (DOF).
-
-【Charakter】Junge Frau, ovales Gesicht, weiche Kieferlinie, spitzes Kinn, warmes Nachtlicht auf der Haut, satiner Schimmer. Dunkelbraune Augen, rauchiges Augen-Make-up, definierte Wimpern, gerade, kräftige Augenbrauen. Lippen gedecktes Dunkelrot, geschlossen, kein Lächeln. Ausdruck: ruhig, distanziert, still wachsam – wie eine erfahrene Schwertkämpferin, die ihre Umgebung mustert. Körper geht weg, Kopf dreht sich über die Schulter zurück, Augen treffen den Betrachter direkt mit klarem, tiefem Blick, Brauen waagerecht. Lose schwarze Strähnen fallen natürlich über Stirn und Wange, vom Wind bewegt, nicht feucht.
-
-【Haare/Kostüm】Sehr langes schwarzes Haar, halb zusammengebunden, halb offen, natürlich fließende Textur, Strähnen wehen sanft in der Nachtbrise, Ränder vom Laternenlicht golden gesäumt. Schlichte weiße Robe eines wandernden Schwertkämpfers, weite Ärmel, dunkle petrol-schwarze Kreuzkragen-Innenschicht, matter, fein gewebter Stoff, Weiß zu Blassgold erwärmt. Kein Schmuck, keine Stickereien – dezente Eleganz. Vom Schwert ist nur der schlichte dunkle Griff mit kurzer Kordelwicklung zu sehen.
-
-【Pose】Oberkörper zeigt in die Tiefe der Straße, Schultern im Dreiviertel-Rücken, Gewicht verlagert sich mitten im Schritt nach vorn. Nur Kopf und Hals drehen sich zurück, Kinn waagerecht, Gesicht trifft das Objektiv über die Schulter hinweg. Arme unauffällig, Schwert tief hinten. Drehung verläuft durchgehend über Wirbelsäule und Hals.
-
-【Umgebung】Nachtmarkt in der Altstadt: hölzerne Ladenfronten links gedimmt, unscharfes Schild oben in der Mitte, Reihen von Papierlaternen verlieren sich nach rechts in warmem orangefarbenem Bokeh. Die entfernte Straße und unten rechts tragen kühlen blaugrauen Schatten, nasser Steinglanz. Kein lesbarer Text. Keine weiteren Personen.
-
-【Beleuchtung】Sämtliches Licht stammt von den Laternen. Große Laternengruppe hinten rechts lässt warme Kugeln erstrahlen, säumt Haar und Schulter golden. Eine nähere Laterne wirft ein diagonales warmes Lichtfeld über linke Wange und Kiefer, der Rest des Gesichts liegt in kühlem blauem Schatten – Warm und Kalt teilen das Gesicht. Hintergrund links bernsteinbraun, rechts blaugraue Nacht. Farbpalette: Laternenbernstein #E8A04C, Nachtblau #33455C, Schattenbraun #241A14, Robenweiß #E9DCC8, Haarschwarz #14100E, Lippenrot #8E4A42, Haut-Highlight #D9A37E.
-
-【Rendering】Fotorealistisch-cinematisch, filmisch ohne Korn: Haut fein satinartig, Haar natürlich fließende Strähnen mit glänzenden Kanten, Stoff matt und schwer. Schärfe auf Augen und Gesichtssträhnen; Laternen und Straße lösen sich in vielschichtigem Bokeh auf, die Luft trägt einen zarten Nachtdunst.
-
-Negativ: zweite Person, gezogene Waffe, lesbarer Text, Wasserzeichen, Logo, Anime, Cartoon, übersättigt, plastikhafte Haut, zusätzliche Gliedmaßen, zentriert, Ganzkörper, scharf gestellter Hintergrund.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1793173367451_8jqv3c_HVsH00ubsAACrtk.jpg" width="600" alt="Spiel-Asset - Kinematografische Schwertkämpferin auf dem Nachtmarkt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [AI art gallery](https://x.com/sandmrk)
-- **Quelle:** [Twitter Post](https://x.com/sandmrk/status/2115317315579613660)
-- **Veröffentlicht:** 28. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=37005)**
-
----
-
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 18022 weitere Prompts hier nicht angezeigt
+### 🎯 18024 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6044,6 +6009,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-22T03:55:36.833Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-22T18:48:30.182Z</sub>
 
 </div>
