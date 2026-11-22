@@ -192,7 +192,7 @@ function generateGalleryCTA(categories: FilterCategory[], locale: string): strin
 
 ${t('galleryFeatures', locale)}
 
-| Feature | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
+| ${t('featureLabel', locale)} | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
 |---------|--------------|---------------------|
 | 🎨 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
 | 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
@@ -271,16 +271,16 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
     md += `#### 🖼️ ${t('generatedImages', locale)}\n\n`;
 
     prompt.sourceMedia.forEach((imageUrl, imgIndex) => {
-      md += `##### Image ${imgIndex + 1}\n\n`;
+      md += `##### ${t('imageLabel', locale)} ${imgIndex + 1}\n\n`;
       md += `<div align="center">\n`;
-      md += `<img src="${imageUrl}" width="${prompt.featured ? '700' : '600'}" alt="${prompt.title} - Image ${imgIndex + 1}">\n`;
+      md += `<img src="${imageUrl}" width="${prompt.featured ? '700' : '600'}" alt="${prompt.title} - ${t('imageLabel', locale)} ${imgIndex + 1}">\n`;
       md += `</div>\n\n`;
     });
   }
 
   md += `#### 📌 ${t('details', locale)}\n\n`;
   md += `- **${t('author', locale)}:** [${prompt.author.name}](${authorLink})\n`;
-  md += `- **${t('source', locale)}:** [Twitter Post](${prompt.sourceLink})\n`;
+  md += `- **${t('source', locale)}:** [${t('sourcePost', locale)}](${prompt.sourceLink})\n`;
   md += `- **${t('published', locale)}:** ${publishedDate}\n`;
   md += `- **${t('languages', locale)}:** ${prompt.language}\n\n`;
 
@@ -319,9 +319,9 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, local
     md += `## 📚 ${t('morePrompts', locale)}\n\n`;
     md += `<div align="center">\n\n`;
     md += `### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}\n\n`;
-    md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
+    md += `${t('readmeLimit', locale, { limit: String(MAX_REGULAR_PROMPTS_TO_DISPLAY) })}\n\n`;
     md += `**[${t('viewAll', locale)}](${buildPromptsUrl(locale)})**\n\n`;
-    md += `The gallery features:\n\n`;
+    md += `${t('galleryIncludes', locale)}\n\n`;
     md += `${t('galleryFeature1', locale)}\n\n`;
     md += `${t('galleryFeature2', locale)}\n\n`;
     md += `${t('galleryFeature3', locale)}\n\n`;
@@ -358,22 +358,21 @@ function generateStats(stats: { total: number; featured: number }, locale: strin
 }
 
 function generateTOC(locale: string): string {
-  // Generating anchors is tricky with i18n, but GitHub usually slugifies the headers.
-  // For now we assume English anchors or standard GitHub behavior.
-  // Ideally we should use the exact translation for the link text, and the slugified translation for the href.
-  // But simple manual mapping for now.
-  
+  // These headings have a single leading emoji followed by the translated title.
+  const anchor = (title: string) =>
+    '#-' + title.toLowerCase().replace(/[^\p{L}\p{M}\p{N}_ -]/gu, '').replace(/ /g, '-');
+
   return `## 📖 ${t('toc', locale)}
 
-- [🌐 ${t('viewInGallery', locale)}](#-view-in-web-gallery)
-- [🤔 ${t('whatIs', locale)}](#-what-is-gpt-image-2)
-- [📊 ${t('stats', locale)}](#-statistics)
-- [🔥 ${t('featuredPrompts', locale)}](#-featured-prompts)
-- [📋 ${t('allPrompts', locale)}](#-all-prompts)
-- [🤝 ${t('howToContribute', locale)}](#-how-to-contribute)
-- [📄 ${t('license', locale)}](#-license)
-- [🙏 ${t('acknowledgements', locale)}](#-acknowledgements)
-- [⭐ ${t('starHistory', locale)}](#-star-history)
+- [🌐 ${t('viewInGallery', locale)}](${anchor(t('viewInGallery', locale))})
+- [🤔 ${t('whatIs', locale)}](${anchor(t('whatIs', locale))})
+- [📊 ${t('stats', locale)}](${anchor(t('stats', locale))})
+- [🔥 ${t('featuredPrompts', locale)}](${anchor(t('featuredPrompts', locale))})
+- [📋 ${t('allPrompts', locale)}](${anchor(t('allPrompts', locale))})
+- [🤝 ${t('howToContribute', locale)}](${anchor(t('howToContribute', locale))})
+- [📄 ${t('license', locale)}](${anchor(t('license', locale))})
+- [🙏 ${t('acknowledgements', locale)}](${anchor(t('acknowledgements', locale))})
+- [⭐ ${t('starHistory', locale)}](${anchor(t('starHistory', locale))})
 
 ---
 
@@ -417,7 +416,7 @@ ${t('welcomeContributions', locale)}
 
 ### 🐛 ${t('githubIssue', locale)}
 
-1. Click [**${t('submitNewPrompt', locale)}**](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)
+1. ${t('openSubmission', locale, { link: `[**${t('submitNewPrompt', locale)}**](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)` })}
 2. ${t('fillForm', locale)}
 3. ${t('submitWait', locale)}
 4. ${t('approvedSync', locale)}

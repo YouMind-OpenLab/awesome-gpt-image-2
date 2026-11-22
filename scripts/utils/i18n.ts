@@ -1,4 +1,10 @@
 export interface Translation {
+  imageLabel: string;
+  featureLabel: string;
+  sourcePost: string;
+  galleryIncludes: string;
+  readmeLimit: string;
+  openSubmission: string;
   title: string;
   gemini3Promo: string;
   aiRecommendPromo: string;
@@ -93,6 +99,12 @@ export interface Translation {
 }
 
 const en: Translation = {
+  imageLabel: "Image",
+  featureLabel: "Feature",
+  sourcePost: "Twitter Post",
+  galleryIncludes: "The gallery features:",
+  readmeLimit: "Due to GitHub's content length limitations, we can only display the first {{limit}} regular prompts in this README.",
+  openSubmission: "Click {{link}}",
   title: 'Awesome GPT Image 2 Prompts',
   gemini3Promo: 'If you\'re interested in Gemini 3 prompts, feel free to check out our other repository with 50+ curated prompts: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
   aiRecommendPromo: 'Agent Skill to find the prompts you want with one click 👉 [gpt-image-2-prompts-recommend-skill](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-recommend-skill)',
@@ -182,6 +194,7 @@ const en: Translation = {
 };
 
 const zh: Translation = {
+  ...en,
   title: 'GPT Image 2 提示词大全',
   gemini3Promo: '如果您对 Gemini 3 提示词感兴趣，欢迎查看我们的另一个仓库，包含 50+ 精选提示词：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
   aiRecommendPromo: '配套 Agent Skill，一键找到你想要的提示词 👉 [gpt-image-2-prompts-recommend-skill](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-recommend-skill)',
@@ -271,6 +284,7 @@ const zh: Translation = {
 };
 
 const zhTW: Translation = {
+  ...en,
   ...zh,
   title: 'GPT Image 2 提示詞大全',
   gemini3Promo: '如果您對 Gemini 3 提示詞感興趣，歡迎查看我們的另一個倉庫，包含 50+ 精選提示詞：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
@@ -995,10 +1009,10 @@ const tr: Translation = {
   title: 'Harika GPT Image 2 İstemleri',
   gemini3Promo: 'Gemini 3 istemleriyle ilgileniyorsanız, 50+ seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts',
   aiRecommendPromo: 'Tek tıkla istediğiniz istemleri bulmak için Agent Skill 👉 [gpt-image-2-prompts-recommend-skill](https://github.com/YouMind-OpenLab/gpt-image-2-prompts-recommend-skill)',
-  seedancePromo: `🎬 Take it further with **Seedance 2** — pair GPT Image 2 stills with Seedance for jaw-dropping AI videos, 2000+ prompts to explore 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)`,
-  arenaPromo: `🚀 GPT Image 2 is OpenAI's next-gen image model (codename "duct-tape") — pixel-perfect text rendering, cross-image consistency, and commercial-ready illustration quality 👉 [Browse the gallery]({{arenaUrl}})`,
+  seedancePromo: "🎬 **Seedance 2** ile daha ileri gidin: GPT Image 2 görsellerini Seedance ile birleştirerek yapay zekâ videoları üretin. 2.000’den fazla istem için [Seedance 2 koleksiyonuna](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) göz atın.",
+  arenaPromo: "🚀 GPT Image 2 (kod adı “duct-tape”), OpenAI’nin yeni nesil görsel modelidir. Piksel hassasiyetinde yazı, görseller arası tutarlılık ve ticari kullanıma hazır illüstrasyonlar sunar. 👉 [Galeriye göz atın]({{arenaUrl}})",
   christmasPromo: '🎄 GPT Image 2 Noel Kartı İstemleri koleksiyonu oluşturduk. Denemek için [buraya 🔗]({{link}}) tıklayın 🎁',
-  subtitle: "OpenAI'nin GPT Image 2'si için yaratıcı istemler koleksiyonu",
+  subtitle: "OpenAI’nin GPT Image 2 modeli için seçilmiş yaratıcı istemler",
   copyright: "**Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=bug-report.yml) ve derhal kaldıralım.",
   viewInGallery: 'Web galerisinde görüntüle',
   browseGallery: '👉 YouMind GPT Image 2 Galerisine Göz Atın',
@@ -1007,7 +1021,7 @@ const tr: Translation = {
   search: 'Ara',
   languages: 'Diller',
   mobile: 'Mobil',
-  aiGenerate: 'AI Tek Tıkla Üretim',
+  aiGenerate: "Yapay zekâyla tek tıkta görsel üretimi",
   toc: 'İçindekiler',
   whatIs: 'GPT Image 2 nedir?',
   stats: 'İstatistikler',
@@ -1030,28 +1044,28 @@ const tr: Translation = {
   published: 'Yayınlandı',
   tryItNow: '👉 Şimdi dene →',
   morePrompts: 'Daha fazla istem mevcut',
-  morePromptsDesc: 'burada gösterilmeyen daha fazla istem',
+  morePromptsDesc: "istem daha bu README’de gösterilmiyor",
   viewAll: '👉 Tüm istemleri web galerimizde görüntüleyin',
   featured: 'Öne Çıkan',
-  whatIsIntro: `**GPT Image 2** (codename **"duct-tape"**) is OpenAI's next-generation image model. Community testing highlights a leap in these areas:`,
-  multimodalUnderstanding: `**Pixel-Perfect Text Rendering** — Native-quality text in Chinese, English, and Japanese, no typos or warped glyphs`,
-  highQualityGeneration: `**Cross-Image Consistency** — The same character, style, or IP stays identical across a series, down to the pixel`,
-  fastIteration: `**Commercial-Grade Illustration** — Illustration output is ready to ship without manual polish`,
-  diverseStyles: `**True Art Style Induction** — Creatively evokes the feeling of a style rather than merely approximating references`,
-  preciseControl: `**Storyboard & Product Series** — Ideal for storyboards, IP characters, and multi-panel product visuals`,
-  complexScenes: `**Multi-Language Design** — Social cards, banners, and posters with accurate multilingual typography in one shot`,
-  learnMore: `**Learn More:** See community testing in our [report summary](docs/FAQ.md)`,
+  whatIsIntro: "**GPT Image 2** (kod adı **“duct-tape”**), OpenAI’nin yeni nesil görsel modelidir. Topluluk testleri şu alanlarda önemli gelişmeler gösteriyor:",
+  multimodalUnderstanding: "**Piksel hassasiyetinde yazı** — Çince, İngilizce ve Japonca metinleri yazım hatası veya biçimi bozulmuş karakterler olmadan doğal biçimde işler.",
+  highQualityGeneration: "**Görseller arası tutarlılık** — Aynı karakteri, üslubu veya fikrî mülkiyete ait öğeleri bir görsel serisi boyunca piksel düzeyinde korur.",
+  fastIteration: "**Ticari kullanıma hazır illüstrasyon** — Çıktılar elle rötuş gerektirmeden yayımlanabilir.",
+  diverseStyles: "**Sanatsal üslubu yansıtma** — Referansları taklit etmekle yetinmeyip üslubun hissini yaratıcı biçimde yansıtır.",
+  preciseControl: "**Sahne ve ürün serileri** — Sahne taslakları, fikrî mülkiyete ait karakterler ve çok panelli ürün görselleri için uygundur.",
+  complexScenes: "**Çok dilli tasarım** — Sosyal medya kartları, afişler ve banner’lar için farklı dillerde doğru tipografiyi tek seferde oluşturur.",
+  learnMore: "**Daha fazla bilgi:** Topluluk testleri için [rapor özetine](docs/FAQ.md) bakın.",
   raycastIntegration: 'Raycast Entegrasyonu',
   raycastDescription: 'Bazı istemler [Raycast Snippets](https://raycast.com/help/snippets) sözdizimini kullanarak **dinamik argümanlar** destekler. 🚀 Raycast Friendly rozetini arayın!',
   example: 'Örnek:',
   raycastExample: 'A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"\nby {argument name="author" default="Steve Jobs"}',
   raycastUsage: 'Raycast\'te kullanıldığında, hızlı yinelemeler için argümanları dinamik olarak değiştirebilirsiniz!',
-  galleryFeature1: '✨ Güzel Masonry grid düzeni',
+  galleryFeature1: "✨ Farklı boyutlardaki görseller için mozaik düzen",
   galleryFeature2: '🔍 Tam metin arama ve filtreler',
   galleryFeature3: '🌍 17 dil desteği',
-  galleryFeature4: '📱 Mobil optimize deneyim',
+  galleryFeature4: "📱 Mobil cihazlara uygun tasarım",
   welcomeContributions: 'Katkıları memnuniyetle karşılıyoruz! İstemleri şu yollarla gönderebilirsiniz:',
-  githubIssue: 'GitHub Issue',
+  githubIssue: "GitHub üzerinden bildirim açma",
   submitNewPrompt: 'Yeni İstem Gönder',
   fillForm: 'Formu istem detayları ve görsel ile doldurun',
   submitWait: 'Gönderin ve ekip incelemesini bekleyin',
@@ -1069,15 +1083,21 @@ const tr: Translation = {
   githubReadme: 'GitHub README',
   youmindGallery: 'youmind.com Galerisi',
   linearList: 'Doğrusal liste',
-  masonryGrid: 'Güzel Masonry Grid',
+  masonryGrid: "Mozaik düzen",
   ctrlFOnly: 'Sadece Ctrl+F',
   fullTextSearch: 'Filtrelerle tam metin arama',
   basic: 'Temel',
-  fullyResponsive: 'Tamamen duyarlı',
-  aiOneClickGen: 'AI Tek Tıkla Üretim',
+  fullyResponsive: "Ekran boyutuna uyumlu",
+  aiOneClickGen: "Yapay zekâyla tek tıkta görsel üretimi",
   categories: 'Kategoriler',
-  categoryBrowsing: 'Kategori gezinmesi',
-  browseByCategory: 'Kategoriye göre gözat',
+  categoryBrowsing: "Kategoriye göre gezinme",
+  browseByCategory: "Kategorilere göz atın",
+  imageLabel: "Görsel",
+  featureLabel: "Özellik",
+  sourcePost: "Kaynak gönderi",
+  galleryIncludes: "Galeride şunları bulabilirsiniz:",
+  readmeLimit: "GitHub’ın içerik uzunluğu sınırı nedeniyle bu README’de yalnızca ilk {{limit}} normal istem gösteriliyor.",
+  openSubmission: "{{link}} bağlantısına tıklayın.",
 };
 
 const vi: Translation = {
