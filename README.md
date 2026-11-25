@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **18144** |
+| 📝 Total Prompts | **18145** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Wednesday, November 25, 2026 at 5:57:49 AM UTC** |
+| 🔄 Last Updated | **Wednesday, November 25, 2026 at 8:48:15 PM UTC** |
 
 </div>
 
@@ -1454,60 +1454,7 @@ A photorealistic close-up portrait of a young East Asian woman with fair, smooth
 
 ---
 
-### No. 21: Social Media Post - Vintage Editorial Photography Poster Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A detailed prompt for GPT Image 2 that transforms an uploaded reference photo into a sophisticated vintage editorial poster. It creates a vertical split layout with the original photo on top and a minimalist, geometric Bauhaus-inspired illustration of the same scene below, featuring Swiss graphic design elements and aged paper textures.
-
-#### 📝 Prompt
-
-```
-Transform the uploaded reference photograph into a sophisticated vintage editorial photography poster, following the exact visual aesthetic of the provided examples.
-
-Create a vertical 2:3 split-layout composition. Place the original photograph in the upper half, preserving its original colors, subject, camera angle, perspective, framing, and details. In the lower half, recreate the exact same scene as a minimalist, geometric, vintage-inspired 2D illustration.
-
-Use a refined Swiss graphic design and Bauhaus-inspired editorial aesthetic. Apply a muted, earthy color palette featuring warm beige, cream, charcoal black, dusty grey, muted blue-grey, and subtle brown tones. Simplify the subjects and surroundings into clean geometric shapes, bold silhouettes, angular forms, and flat color blocks while maintaining the original scene's composition and recognizable details.
-
-Add a subtle aged paper texture, fine grain, distressed vintage print effects, and slightly faded ink. Incorporate delicate graphic design elements such as thin circular arcs, vertical and horizontal alignment guides, intersecting lines, dotted lines, small square markers, and minimal geometric grids around the illustrated scene.
-
-Include small editorial typography in a typewriter-style font, with a numbered photographic series label in the upper-left corner of the illustrated section. Add a small sequence number in the bottom-right corner and a minimal three-color palette swatch along the lower-left edge.
-
-Maintain generous negative space, precise alignment, balanced proportions, and an elegant museum-quality art direction.
-
-IMPORTANT: Preserve the original photograph in the upper section without changing the scene. The lower illustration must represent the exact same photograph, including the same subjects, positions, perspective, architecture, objects, and background. Do not introduce new elements or change the original composition.
-
-Overall aesthetic: vintage photography journal, Swiss editorial graphic design, minimalist architectural illustration, retro art direction, sophisticated print design, and timeless visual storytelling. High resolution, crisp details, vertical poster format.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1795334174419_hngi4t_HXs8od5aEAAG9dq.jpg" width="600" alt="Social Media Post - Vintage Editorial Photography Poster Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1795334174453_59u3ko_HXs8od5bUAAWflI.jpg" width="600" alt="Social Media Post - Vintage Editorial Photography Poster Prompt - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Taaruk](https://x.com/Taaruk_)
-- **Source:** [Twitter Post](https://x.com/Taaruk_/status/2124358326486269975)
-- **Published:** November 22, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=37691)**
-
----
-
-### No. 22: Social Media Post - Gritty Midnight Convenience Store Magazine Cover
+### No. 21: Social Media Post - Gritty Midnight Convenience Store Magazine Cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1563,7 +1510,7 @@ Constraints:
 
 ---
 
-### No. 23: Social Media Post - Steampunk Artificer Portrait
+### No. 22: Social Media Post - Steampunk Artificer Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1596,7 +1543,7 @@ A highly detailed, cinematic steampunk portrait of a beautiful woman with dark h
 
 ---
 
-### No. 24: Social Media Post - Seaside Fashion Portrait Prompt
+### No. 23: Social Media Post - Seaside Fashion Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1629,7 +1576,7 @@ Ultra-realistic full-body fashion portrait of a beautiful young adult woman stan
 
 ---
 
-### No. 25: Social Media Post - GPT Image 2 Prompt: Reclining Garden Portrait
+### No. 24: Social Media Post - GPT Image 2 Prompt: Reclining Garden Portrait
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1684,7 +1631,7 @@ Negative prompts: Complex story background, character busy operating objects, cl
 
 ---
 
-### No. 26: Social Media Post - GPT Image 2 Fashion Portrait Prompt
+### No. 25: Social Media Post - GPT Image 2 Fashion Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1725,7 +1672,7 @@ Negative prompt: cartoon, anime, CGI, plastic skin, blurry face, distorted hands
 
 ---
 
-### No. 27: Social Media Post - Cozy Autumn Lifestyle Portrait Prompt for GPT Image 2
+### No. 26: Social Media Post - Cozy Autumn Lifestyle Portrait Prompt for GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1758,7 +1705,7 @@ A beautiful young woman with long, naturally wavy dark brown hair, wearing an ov
 
 ---
 
-### No. 28: Social Media Post - GPT Image 2 Candlelight Dress Portrait
+### No. 27: Social Media Post - GPT Image 2 Candlelight Dress Portrait
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1811,7 +1758,7 @@ Negative: Blurry, low quality, distorted face, unnatural hands, excessive exposu
 
 ---
 
-### No. 29: Social Media Post - Realistic Hiking Portrait Prompt for GPT Image 2
+### No. 28: Social Media Post - Realistic Hiking Portrait Prompt for GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1855,7 +1802,7 @@ Negative prompts: selfie, overhead wide angle, big head, round face, face sidewa
 
 ---
 
-### No. 30: Social Media Post - Hyper-realistic Korean Fashion Portrait Prompt for GPT Image 2
+### No. 29: Social Media Post - Hyper-realistic Korean Fashion Portrait Prompt for GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1969,7 +1916,7 @@ Anime, illustration, 3D render, CG fake face, plastic skin, excessive smoothing,
 
 ---
 
-### No. 31: Social Media Post - GPT Image 2 Realistic Portrait Prompt
+### No. 30: Social Media Post - GPT Image 2 Realistic Portrait Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2009,6 +1956,45 @@ Negative prompts: selfie, wide-angle overhead view, big head, round face, face t
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=37585)**
+
+---
+
+### No. 31: Social Media Post - Woman Shopping with Angel and Devil
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A realistic photo of a woman checking her phone while miniature angel and devil versions of herself debate a purchase near a shoe store sale.
+
+#### 📝 Prompt
+
+```
+A photorealistic medium shot of a young Asian woman standing in a shopping mall, looking down at her smartphone with a conflicted expression. She has dark hair styled in a messy high bun with tortoiseshell sunglasses resting on top. She wears an olive green ribbed cardigan buttoned up, brown corduroy pants with a wide brown leather belt, and a gold chain necklace with a green heart pendant. A brown crossbody bag hangs at her hip.
+
+On her right shoulder (viewer's left) sits a miniature 'devil' version of herself: wearing a black tank top, shiny black leather pants, red platform shoes, small red horns, and bat wings with a devil tail. This mini-devil is whispering into her ear.
+
+Floating to her left (viewer's right) is a miniature 'angel' version of herself: wearing a flowing white dress, large white feathered wings, and a glowing golden halo. The angel looks concerned and is gesturing towards the shop window.
+
+The background features a blurred mall setting with bright lights. To the viewer's right, there is a shoe store display window containing two pairs of glossy red high heels on white pedestals. A large red sign in the window reads "70% OFF". In the upper left background, a black sign reads "BLACK FRIDAY" and a vertical red banner reads "SALE".
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1794902293086_59o58e_HXQ_RmvXYAArEnu.jpg" width="600" alt="Social Media Post - Woman Shopping with Angel and Devil - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [medsinform](https://x.com/meds76_)
+- **Source:** [Twitter Post](https://x.com/meds76_/status/2122391218101367207#reversed-0)
+- **Published:** November 16, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=37535)**
 
 ---
 
@@ -4364,46 +4350,7 @@ A whimsical, hand-drawn illustration in a storybook style depicts a chaotic scen
 
 ---
 
-### No. 86: Product Marketing - Woman Shopping with Angel and Devil
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A realistic photo of a woman checking her phone while miniature angel and devil versions of herself debate a purchase near a shoe store sale.
-
-#### 📝 Prompt
-
-```
-A photorealistic medium shot of a young Asian woman standing in a shopping mall, looking down at her smartphone with a conflicted expression. She has dark hair styled in a messy high bun with tortoiseshell sunglasses resting on top. She wears an olive green ribbed cardigan buttoned up, brown corduroy pants with a wide brown leather belt, and a gold chain necklace with a green heart pendant. A brown crossbody bag hangs at her hip.
-
-On her right shoulder (viewer's left) sits a miniature 'devil' version of herself: wearing a black tank top, shiny black leather pants, red platform shoes, small red horns, and bat wings with a devil tail. This mini-devil is whispering into her ear.
-
-Floating to her left (viewer's right) is a miniature 'angel' version of herself: wearing a flowing white dress, large white feathered wings, and a glowing golden halo. The angel looks concerned and is gesturing towards the shop window.
-
-The background features a blurred mall setting with bright lights. To the viewer's right, there is a shoe store display window containing two pairs of glossy red high heels on white pedestals. A large red sign in the window reads "70% OFF". In the upper left background, a black sign reads "BLACK FRIDAY" and a vertical red banner reads "SALE".
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1794902293086_59o58e_HXQ_RmvXYAArEnu.jpg" width="600" alt="Product Marketing - Woman Shopping with Angel and Devil - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [medsinform](https://x.com/meds76_)
-- **Source:** [Twitter Post](https://x.com/meds76_/status/2122391218101367207#reversed-0)
-- **Published:** November 16, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=37535)**
-
----
-
-### No. 87: Product Marketing - Real Photo with Doodle Interaction Prompt
+### No. 86: Product Marketing - Real Photo with Doodle Interaction Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4460,7 +4407,7 @@ No text, no watermarks, no complex backgrounds, no extra cartoon characters.
 
 ---
 
-### No. 88: Product Marketing - Rainy Luxury Street Fashion Photo
+### No. 87: Product Marketing - Rainy Luxury Street Fashion Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4517,7 +4464,7 @@ Preserve the reference image's overall composition, umbrella placement, full-bod
 
 ---
 
-### No. 89: Product Marketing - Wadi Rum Desert Travel Portrait
+### No. 88: Product Marketing - Wadi Rum Desert Travel Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4550,7 +4497,7 @@ A stunning photorealistic full-body travel portrait of a beautiful young woman s
 
 ---
 
-### No. 90: Product Marketing - Marine Wave Dress Anime Girl
+### No. 89: Product Marketing - Marine Wave Dress Anime Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4589,7 +4536,7 @@ adult anime fashion model, original hydrodynamic couture inspired by the Netherl
 
 ---
 
-### No. 91: Product Marketing - Classic Cafe Date Outfit Prompt
+### No. 90: Product Marketing - Classic Cafe Date Outfit Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4639,7 +4586,7 @@ Sophisticated, feminine, timeless seasonal styling.
 
 ---
 
-### No. 92: Product Marketing - Ultra-realistic Fashion Photography Prompt
+### No. 91: Product Marketing - Ultra-realistic Fashion Photography Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4672,7 +4619,7 @@ Ultra-realistic full-body fashion photography of a beautiful young woman with lo
 
 ---
 
-### No. 93: Product Marketing - Elegant White Fashion Portrait with Fedora
+### No. 92: Product Marketing - Elegant White Fashion Portrait with Fedora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4705,7 +4652,7 @@ A high-resolution, close-up portrait of a woman with long, dark, wavy hair and w
 
 ---
 
-### No. 94: Product Marketing - GPT Image Futuristic Dress City Portrait
+### No. 93: Product Marketing - GPT Image Futuristic Dress City Portrait
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4742,7 +4689,7 @@ Photography Style: Hyper-realistic live-action photography, cinematic lighting, 
 
 ---
 
-### No. 95: Product Marketing - Hyper-realistic Contact Sheet Prompt
+### No. 94: Product Marketing - Hyper-realistic Contact Sheet Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4781,7 +4728,7 @@ Alternate 35mm full-body compositions with intimate 85mm portraits. Authentic sk
 
 ---
 
-### No. 96: Product Marketing - Olive Green Waxed Canvas Roll-Top Backpack
+### No. 95: Product Marketing - Olive Green Waxed Canvas Roll-Top Backpack
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4820,7 +4767,7 @@ A high-resolution product photograph of a dark olive green waxed canvas roll-top
 
 ---
 
-### No. 97: Product Marketing - Casual Café Fashion Portrait Prompt
+### No. 96: Product Marketing - Casual Café Fashion Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4854,7 +4801,7 @@ Background: elegant modern café with black-framed glass windows, warm pendant l
 
 ---
 
-### No. 98: Product Marketing - GPT Image 2 Pop Art Editorial Prompts
+### No. 97: Product Marketing - GPT Image 2 Pop Art Editorial Prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4903,7 +4850,7 @@ High-fashion editorial photography, surrealist studio portrait. A  woman  standi
 
 ---
 
-### No. 99: Product Marketing - 3D Designer Toy Girl Portrait
+### No. 98: Product Marketing - 3D Designer Toy Girl Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4954,7 +4901,7 @@ Square 1:1 close-up portrait of a collectible 3D designer-toy girl, high-end Pop
 
 ---
 
-### No. 100: Product Marketing - Six Magazine Covers
+### No. 99: Product Marketing - Six Magazine Covers
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4997,7 +4944,7 @@ Each cover must include authentic Japanese typography, headlines, and small text
 
 ---
 
-### No. 101: E-commerce Main Image - Autumn Romantic Date Outfit Prompt for GPT Image 2
+### No. 100: E-commerce Main Image - Autumn Romantic Date Outfit Prompt for GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5044,7 +4991,7 @@ Romantic traditional autumn date fashion, elegant feminine styling, refined laye
 
 ---
 
-### No. 102: E-commerce Main Image - Realistic Evening Promenade Photo
+### No. 101: E-commerce Main Image - Realistic Evening Promenade Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5079,7 +5026,7 @@ Clothing: a black fitted jumpsuit with long sleeves and a high, fully covered ne
 
 ---
 
-### No. 103: E-commerce Main Image - ChatGPT Image 2 Autumn Date Outfit
+### No. 102: E-commerce Main Image - ChatGPT Image 2 Autumn Date Outfit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5124,7 +5071,7 @@ Beautiful anime illustration, delicate linework, soft coloring, detailed fabric 
 
 ---
 
-### No. 104: E-commerce Main Image - Retro Red and Black Outfit Prompt
+### No. 103: E-commerce Main Image - Retro Red and Black Outfit Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5170,7 +5117,7 @@ No extra decorations.
 
 ---
 
-### No. 105: E-commerce Main Image - Autumn Check Style Outfit Prompt
+### No. 104: E-commerce Main Image - Autumn Check Style Outfit Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5209,7 +5156,7 @@ cute, red and black gingham short pants, black knit vest, denim jacket, cool aut
 
 ---
 
-### No. 106: E-commerce Main Image - Monochrome Elegant Autumn Outfit
+### No. 105: E-commerce Main Image - Monochrome Elegant Autumn Outfit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5248,7 +5195,7 @@ Cute, black gingham tight skirt, black knit sweater, beige boots, monochrome ele
 
 ---
 
-### No. 107: E-commerce Main Image - Mint Bear Hoodie Outfit Prompt
+### No. 106: E-commerce Main Image - Mint Bear Hoodie Outfit Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5294,7 +5241,7 @@ No extra decorations.
 
 ---
 
-### No. 108: E-commerce Main Image - Brown Gingham Street Style Prompt
+### No. 107: E-commerce Main Image - Brown Gingham Street Style Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5333,7 +5280,7 @@ A prompt for creating a casual autumn street style image with brown gingham shor
 
 ---
 
-### No. 109: E-commerce Main Image - Deadpan Character Product Photo Prompt
+### No. 108: E-commerce Main Image - Deadpan Character Product Photo Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5416,7 +5363,7 @@ Only extremely small "voxcat" signature in bottom right, no other text.
 
 ---
 
-### No. 110: E-commerce Main Image - Mint Green Crochet Sweater Outfit Prompt
+### No. 109: E-commerce Main Image - Mint Green Crochet Sweater Outfit Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5465,7 +5412,7 @@ No extra decorations.
 
 ---
 
-### No. 111: E-commerce Main Image - Autumn Paris Casual Outfit Prompt for GPT Image 2
+### No. 110: E-commerce Main Image - Autumn Paris Casual Outfit Prompt for GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5512,7 +5459,7 @@ No extra decorations.
 
 ---
 
-### No. 112: E-commerce Main Image - GPT Image Perfume Bottle Prompt
+### No. 111: E-commerce Main Image - GPT Image Perfume Bottle Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5545,7 +5492,7 @@ A giant, rounded, light green transparent glass perfume bottle, containing a min
 
 ---
 
-### No. 113: E-commerce Main Image - Photorealistic Meal Prep Jars Food Photography
+### No. 112: E-commerce Main Image - Photorealistic Meal Prep Jars Food Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5595,7 +5542,7 @@ Vertical composition, realistic proportions, clean and appetizing presentation, 
 
 ---
 
-### No. 114: E-commerce Main Image - Matte Black B.AI Keyboard Keycap
+### No. 113: E-commerce Main Image - Matte Black B.AI Keyboard Keycap
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5628,7 +5575,7 @@ A high-angle, close-up studio shot of a single matte black mechanical keyboard k
 
 ---
 
-### No. 115: E-commerce Main Image - LEGO Minifigure Transformation
+### No. 114: E-commerce Main Image - LEGO Minifigure Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5716,7 +5663,7 @@ Sta
 
 ---
 
-### No. 116: Game Asset - GTA VI Style Loading Screen Poster Prompt
+### No. 115: Game Asset - GTA VI Style Loading Screen Poster Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5786,7 +5733,7 @@ Ultra-detailed, 4K quality, vertical 3:4 composition.
 
 ---
 
-### No. 117: Game Asset - Cinematic Fantasy Portrait with Miniature Self
+### No. 116: Game Asset - Cinematic Fantasy Portrait with Miniature Self
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5829,7 +5776,7 @@ CAMERA AND QUALITY: Full-body environmental portrait, vertical composition, slig
 
 ---
 
-### No. 118: Game Asset - Anime Bride in Ruffled Wedding Gown
+### No. 117: Game Asset - Anime Bride in Ruffled Wedding Gown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5874,7 +5821,7 @@ A full-body anime-style illustration of a beautiful bride standing against a cle
 
 ---
 
-### No. 119: Game Asset - Halloween Robot at Tokyo Gym
+### No. 118: Game Asset - Halloween Robot at Tokyo Gym
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5909,7 +5856,7 @@ In the foreground, two police officers wearing dark blue uniforms, tactical vest
 
 ---
 
-### No. 120: Game Asset - Retro American Cartoon Style Image Transformation
+### No. 119: Game Asset - Retro American Cartoon Style Image Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5956,13 +5903,62 @@ Keep the original composition, framing, perspective, and camera angle exactly th
 
 ---
 
+### No. 120: Game Asset - Cinematic Night Market Swordswoman
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A detailed prompt for generating a photorealistic cinematic image of a young swordswoman in a lantern-lit night market, focusing on specific composition, lighting, and character details.
+
+#### 📝 Prompt
+
+```
+Ultrawide 2.2:1, photorealistic cinematic, young swordswoman turning back over shoulder in lantern-lit night market, warm lantern glow vs cold blue night. One subject.
+
+【Composition】Three-quarter back view, left of center, face at 41% width, 38% height, 30% frame height. Right 55% background: lantern orbs receding into blur. Dark sword hilt at 24% width, low unraised. Camera shoulder height, telephoto, shallow DOF.
+
+【Character】Young woman, oval face, soft jaw, pointed chin, warm night light on skin, satin sheen. Dark brown eyes, smoky eyeshadow, defined lashes, straight strong brows. Lips muted dark red, closed, no smile. Expression: calm, aloof, quietly alert — like a skilled swordswoman assessing her surroundings. Body walking away, head turns back over shoulder, eyes meet viewer directly with clear deep gaze, brows level. Loose black strands naturally fall across forehead and cheek, wind-swept, not damp.
+
+【Hair/Costume】Very long black hair, half tied back half loose, natural flowing texture, strands blowing gently in night breeze, edges rimmed gold by lantern light. Plain white wandering swordsman's robe, wide sleeves, dark teal-black cross-collar inner layer, matte fine-woven cloth, white warmed to pale gold. No jewelry, no embroidery — understated elegance. Sword shows only plain dark hilt, short cord wrap.
+
+【Pose】Torso faces away toward street depth, shoulders three-quarter back, weight shifting forward mid-step. Only head and neck rotate back, chin level, face meets lens across shoulder. Arms unemphasized, sword low behind. Turn continuous through spine and neck.
+
+【Environment】Old-town night market: wooden shopfronts dim left, blurred signboard top center, strings of paper lanterns receding right into warm orange bokeh. Far street and lower right carry cold blue-grey shadow, wet stone sheen. No readable text. No other people.
+
+【Lighting】All light from lanterns. Large lantern group behind right blooms warm orbs, rims hair and shoulder gold. Nearer lantern throws diagonal warm patch across left cheek and jaw, rest of face in cool blue shadow — warm and cold divide face. Background left amber-brown, right blue-grey night. Palette: lantern amber #E8A04C, night blue #33455C, shadow brown #241A14, robe white #E9DCC8, hair black #14100E, lip red #8E4A42, skin highlight #D9A37E.
+
+【Rendering】Photorealistic cinematic, filmic grain-free: skin fine satin, hair natural flowing strands with specular edges, cloth matte weighty. Sharpness on eyes and face strands; lanterns and street dissolve into layered bokeh, air carries faint night haze.
+
+Negative: second person, drawn weapon, readable text, watermark, logo, anime, cartoon, oversaturated, plastic skin, extra limbs, centered, full-body, focused background.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793173367451_8jqv3c_HVsH00ubsAACrtk.jpg" width="600" alt="Game Asset - Cinematic Night Market Swordswoman - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [AI art gallery](https://x.com/sandmrk)
+- **Source:** [Twitter Post](https://x.com/sandmrk/status/2115317315579613660)
+- **Published:** October 28, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=37005)**
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 18024 more prompts not shown here
+### 🎯 18025 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6025,6 +6021,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T05:57:49.711Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T20:48:15.780Z</sub>
 
 </div>
